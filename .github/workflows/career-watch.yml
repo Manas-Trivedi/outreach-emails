@@ -1,0 +1,61 @@
+name: career-watch
+
+# Monitors career pages in career_pages.csv and opens a GitHub issue when new
+# postings appear. Runs every 6 hours; also runnable manually.
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write   # commit updated career_state.json
+  issues: write     # open alert issues
+
+jobs:
+  watch:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install deps
+        run: pip install requests
+
+      - name: Run career watcher
+        env:
+          # Optional email alert — set these as repo secrets to enable.
+          SMTP_HOST: ${{ secrets.SMTP_HOST }}
+          SMTP_PORT: ${{ secrets.SMTP_PORT }}
+          SMTP_USER: ${{ secrets.SMTP_USER }}
+          SMTP_PASS: ${{ secrets.SMTP_PASS }}
+          ALERT_TO: ${{ secrets.ALERT_TO }}
+        run: python career_watch.py
+
+      - name: Open issue on new entries
+        if: success()
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          if [ -s career_alerts.md ]; then
+            title="🔔 New career-page postings — $(date -u +%Y-%m-%d\ %H:%M\ UTC)"
+            gh issue create --title "$title" --body-file career_alerts.md --label career-alert || \
+              gh issue create --title "$title" --body-file career_alerts.md
+          else
+            echo "No new entries — no issue created."
+          fi
+
+      - name: Commit updated state
+        run: |
+          git config user.name "career-watch[bot]"
+          git config user.email "actions@github.com"
+          git add career_state.json career_alerts.log 2>/dev/null || true
+          if ! git diff --cached --quiet; then
+            git commit -m "career-watch: update state [skip ci]"
+            git push
+          else
+            echo "No state changes to commit."
+          fi

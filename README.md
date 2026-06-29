@@ -37,3 +37,23 @@ Generates `Dubai_Internship_Outreach.xlsx` with 4 sheets:
 2. Priority Dubai Companies (High only)
 3. Named HR Contacts
 4. Email Template
+
+## Career-page alert system
+
+Monitors company career pages and alerts when **new postings** appear.
+
+- `career_pages.csv` — pages to watch (`Company, URL, Notes`)
+- `career_watch.py` — fetches each page, extracts job-like entries, diffs vs `career_state.json`, writes new entries to `career_alerts.md` / `career_alerts.log`
+- `.github/workflows/career-watch.yml` — runs every 6h, opens a GitHub **issue** on new entries, commits updated state
+
+```bash
+pip install requests
+python career_watch.py          # first run seeds state silently
+```
+
+Optional email alerts: set repo secrets `SMTP_HOST`, `SMTP_PORT`, `SMTP_USER`, `SMTP_PASS`, `ALERT_TO`.
+
+**Known limits**
+- Static fetch only — JS-rendered/SPA career pages (e.g. Argusoft, SmartSense) return 0 entries; needs a headless browser (Playwright) to upgrade.
+- Heuristic role-keyword matching; per-page state means stable noise won't re-alert.
+- Add/maintain URLs in `career_pages.csv`.
