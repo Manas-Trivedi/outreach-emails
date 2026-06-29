@@ -4,7 +4,7 @@
     "count": 0,
     "entries": [],
     "entry_only": true,
-    "last_checked": "2026-06-29T12:07:11",
+    "last_checked": "2026-06-29T12:14:51",
     "location": "Chandigarh"
   },
   "https://careers.argusoft.com/": {
@@ -12,7 +12,7 @@
     "count": 0,
     "entries": [],
     "entry_only": false,
-    "last_checked": "2026-06-29T12:07:11",
+    "last_checked": "2026-06-29T12:14:51",
     "location": "Gandhinagar"
   },
   "https://careers.coforge.com/": {
@@ -20,7 +20,7 @@
     "count": 0,
     "entries": [],
     "entry_only": true,
-    "last_checked": "2026-06-29T12:07:11",
+    "last_checked": "2026-06-29T12:14:51",
     "location": "India"
   },
   "https://careers.cognizant.com/global-en/jobs/": {
@@ -37,7 +37,7 @@
       "T24 Business Analyst"
     ],
     "entry_only": true,
-    "last_checked": "2026-06-29T12:07:11",
+    "last_checked": "2026-06-29T12:14:51",
     "location": "India"
   },
   "https://careers.cognizant.com/india-en/jobs/": {
@@ -54,7 +54,7 @@
       "T24 Business Analyst"
     ],
     "entry_only": true,
-    "last_checked": "2026-06-29T12:07:11",
+    "last_checked": "2026-06-29T12:14:51",
     "location": "India"
   },
   "https://careers.drcsystems.com/": {
@@ -75,8 +75,16 @@
       "Sr. Executive – Sales"
     ],
     "entry_only": false,
-    "last_checked": "2026-06-29T12:07:11",
+    "last_checked": "2026-06-29T12:14:51",
     "location": "Gandhinagar"
+  },
+  "https://careers.makemytrip.com/": {
+    "company": "MakeMyTrip",
+    "count": 0,
+    "entries": [],
+    "entry_only": false,
+    "last_checked": "2026-06-29T12:14:51",
+    "location": "Gurugram"
   },
   "https://careers.mphasis.com/home/hot-jobs/location-search/india.html": {
     "company": "Mphasis",
@@ -87,7 +95,7 @@
       "Kaushik Ghosh, Business Analyst"
     ],
     "entry_only": true,
-    "last_checked": "2026-06-29T12:07:11",
+    "last_checked": "2026-06-29T12:14:51",
     "location": "India"
   },
   "https://careers.persistent.com/": {
@@ -95,8 +103,16 @@
     "count": 0,
     "entries": [],
     "entry_only": true,
-    "last_checked": "2026-06-29T12:07:11",
+    "last_checked": "2026-06-29T12:14:51",
     "location": "India"
+  },
+  "https://careers.swiggy.com/": {
+    "company": "Swiggy",
+    "count": 0,
+    "entries": [],
+    "entry_only": false,
+    "last_checked": "2026-06-29T12:14:51",
+    "location": "Bengaluru"
   },
   "https://careers.techmahindra.com/": {
     "company": "Tech Mahindra",
@@ -110,7 +126,7 @@
       "Tech Lead"
     ],
     "entry_only": true,
-    "last_checked": "2026-06-29T12:07:11",
+    "last_checked": "2026-06-29T12:14:51",
     "location": "India"
   },
   "https://careers.wipro.com/careers-home/jobs": {
@@ -120,7 +136,7 @@
       "Cookie Consent Manager"
     ],
     "entry_only": true,
-    "last_checked": "2026-06-29T12:07:11",
+    "last_checked": "2026-06-29T12:14:51",
     "location": "India"
   },
   "https://careers.zohocorp.com/jobs/Careers": {
@@ -128,8 +144,16 @@
     "count": 0,
     "entries": [],
     "entry_only": true,
-    "last_checked": "2026-06-29T12:07:11",
+    "last_checked": "2026-06-29T12:14:51",
     "location": "India"
+  },
+  "https://darwinbox.com/careers": {
+    "company": "Darwinbox",
+    "count": 0,
+    "entries": [],
+    "entry_only": false,
+    "last_checked": "2026-06-29T12:14:51",
+    "location": "Hyderabad"
   },
   "https://giftgujarat.in/company-job-openings": {
     "company": "GIFT City (aggregator)",
@@ -138,8 +162,28 @@
       "Developer Services"
     ],
     "entry_only": false,
-    "last_checked": "2026-06-29T12:07:11",
+    "last_checked": "2026-06-29T12:14:51",
     "location": "Gandhinagar"
+  },
+  "https://groww.in/careers": {
+    "company": "Groww",
+    "count": 1,
+    "entries": [
+      "Careers at Groww - Job Openings & Vacancy"
+    ],
+    "entry_only": false,
+    "last_checked": "2026-06-29T12:14:51",
+    "location": "Bengaluru"
+  },
+  "https://paytm.com/careers": {
+    "company": "Paytm",
+    "count": 1,
+    "entries": [
+      "Apply for Field Sales Executive Job"
+    ],
+    "entry_only": false,
+    "last_checked": "2026-06-29T12:14:51",
+    "location": "Noida"
   },
   "https://www.accenture.com/in-en/careers/jobsearch?fl=Bengaluru": {
     "company": "Accenture",
@@ -151,7 +195,7 @@
       "Recruiting and Hiring Privacy Statement"
     ],
     "entry_only": true,
-    "last_checked": "2026-06-29T12:07:11",
+    "last_checked": "2026-06-29T12:14:51",
     "location": "Bengaluru"
   },
   "https://www.accenture.com/in-en/careers/jobsearch?fl=Gurugram": {
@@ -164,7 +208,7 @@
       "Recruiting and Hiring Privacy Statement"
     ],
     "entry_only": true,
-    "last_checked": "2026-06-29T12:07:11",
+    "last_checked": "2026-06-29T12:14:51",
     "location": "Gurugram"
   },
   "https://www.accenture.com/in-en/careers/jobsearch?fl=Hyderabad": {
@@ -177,7 +221,7 @@
       "Recruiting and Hiring Privacy Statement"
     ],
     "entry_only": true,
-    "last_checked": "2026-06-29T12:07:11",
+    "last_checked": "2026-06-29T12:14:51",
     "location": "Hyderabad"
   },
   "https://www.accenture.com/in-en/careers/jobsearch?fl=Pune": {
@@ -190,7 +234,7 @@
       "Recruiting and Hiring Privacy Statement"
     ],
     "entry_only": true,
-    "last_checked": "2026-06-29T12:07:11",
+    "last_checked": "2026-06-29T12:14:51",
     "location": "Pune"
   },
   "https://www.accenture.com/in-en/careers/life-at-accenture/entry-level": {
@@ -203,7 +247,7 @@
       "Recruiting and Hiring Privacy Statement"
     ],
     "entry_only": true,
-    "last_checked": "2026-06-29T12:07:11",
+    "last_checked": "2026-06-29T12:14:51",
     "location": "India"
   },
   "https://www.avenuesai.com/career-opportunities": {
@@ -232,7 +276,7 @@
       "product delivery. The Java Technical Lead will facilitate requirement analyses, conduct peer reviews and provide feedback."
     ],
     "entry_only": false,
-    "last_checked": "2026-06-29T12:07:11",
+    "last_checked": "2026-06-29T12:14:51",
     "location": "Gandhinagar"
   },
   "https://www.brainvire.com/freshers/": {
@@ -246,7 +290,7 @@
       "Your Future Starts Here: Join Our Team as an MBA Fresher and Make Your Mark"
     ],
     "entry_only": true,
-    "last_checked": "2026-06-29T12:07:11",
+    "last_checked": "2026-06-29T12:14:51",
     "location": "Ahmedabad"
   },
   "https://www.capgemini.com/in-en/careers/career-paths/students-and-graduates/": {
@@ -258,7 +302,7 @@
       "Student and graduate opportunities with our brands"
     ],
     "entry_only": true,
-    "last_checked": "2026-06-29T12:07:11",
+    "last_checked": "2026-06-29T12:14:51",
     "location": "India"
   },
   "https://www.capgemini.com/in-en/careers/join-capgemini/job-search/": {
@@ -269,8 +313,16 @@
       "Executive committee"
     ],
     "entry_only": true,
-    "last_checked": "2026-06-29T12:07:11",
+    "last_checked": "2026-06-29T12:14:51",
     "location": "India"
+  },
+  "https://www.delhivery.com/careers": {
+    "company": "Delhivery",
+    "count": 0,
+    "entries": [],
+    "entry_only": false,
+    "last_checked": "2026-06-29T12:14:51",
+    "location": "Gurugram"
   },
   "https://www.devitpl.com/careers/": {
     "company": "Dev Information Technology",
@@ -305,7 +357,7 @@
       "Technical Support Executive"
     ],
     "entry_only": false,
-    "last_checked": "2026-06-29T12:07:11",
+    "last_checked": "2026-06-29T12:14:51",
     "location": "Gandhinagar"
   },
   "https://www.hcltech.com/careers/jobs": {
@@ -317,7 +369,7 @@
       "Google Tag Manager is a tag management system for conversion tracking, site analytics, remarketing, and more."
     ],
     "entry_only": true,
-    "last_checked": "2026-06-29T12:07:11",
+    "last_checked": "2026-06-29T12:14:51",
     "location": "India"
   },
   "https://www.ibm.com/in-en/careers/career-opportunities": {
@@ -337,7 +389,7 @@
       "Total intern learning hours last year"
     ],
     "entry_only": true,
-    "last_checked": "2026-06-29T12:07:11",
+    "last_checked": "2026-06-29T12:14:51",
     "location": "India"
   },
   "https://www.ibm.com/in-en/careers/search": {
@@ -345,7 +397,7 @@
     "count": 0,
     "entries": [],
     "entry_only": true,
-    "last_checked": "2026-06-29T12:07:11",
+    "last_checked": "2026-06-29T12:14:51",
     "location": "India"
   },
   "https://www.infosys.com/careers/graduates.html": {
@@ -368,8 +420,34 @@
       "Project Manager UI/UX"
     ],
     "entry_only": false,
-    "last_checked": "2026-06-29T12:07:11",
+    "last_checked": "2026-06-29T12:14:51",
     "location": "Ahmedabad"
+  },
+  "https://www.peoplebox.ai/careers": {
+    "company": "Peoplebox",
+    "count": 1,
+    "entries": [
+      "Candidate Engagement Tools for High Volume Hiring in 2026"
+    ],
+    "entry_only": false,
+    "last_checked": "2026-06-29T12:14:51",
+    "location": "Bengaluru"
+  },
+  "https://www.policybazaar.com/careers/": {
+    "company": "PolicyBazaar",
+    "count": 7,
+    "entries": [
+      "Apply for other jobs",
+      "Associate Sales Consultant",
+      "Associate Service Consultant",
+      "Currently hiring for",
+      "Don't see a Job Opening which interests you?",
+      "Relationship Manager",
+      "builds lasting relationships that lead to success"
+    ],
+    "entry_only": false,
+    "last_checked": "2026-06-29T12:14:51",
+    "location": "Gurugram"
   },
   "https://www.silvertouch.com/career/": {
     "company": "Silver Touch Technologies",
@@ -393,7 +471,7 @@
       "Sales Executive, Ahmedabad, India"
     ],
     "entry_only": false,
-    "last_checked": "2026-06-29T12:07:11",
+    "last_checked": "2026-06-29T12:14:51",
     "location": "Gandhinagar"
   },
   "https://www.simform.com/careers/": {
@@ -417,7 +495,7 @@
       "You can work from home when required, with approval from your manager, offering flexibility in your work routine."
     ],
     "entry_only": false,
-    "last_checked": "2026-06-29T12:07:11",
+    "last_checked": "2026-06-29T12:14:51",
     "location": "Ahmedabad"
   },
   "https://www.smartsensesolutions.com/career": {
@@ -425,7 +503,7 @@
     "count": 0,
     "entries": [],
     "entry_only": false,
-    "last_checked": "2026-06-29T12:07:11",
+    "last_checked": "2026-06-29T12:14:51",
     "location": "Gandhinagar"
   },
   "https://www.tatvasoft.com/career": {
@@ -441,7 +519,7 @@
       "Software Testing & QA"
     ],
     "entry_only": false,
-    "last_checked": "2026-06-29T12:07:11",
+    "last_checked": "2026-06-29T12:14:51",
     "location": "Ahmedabad"
   },
   "https://www.tisindia.com/careers/": {
@@ -453,7 +531,7 @@
       "Woocommerce Developer"
     ],
     "entry_only": false,
-    "last_checked": "2026-06-29T12:07:11",
+    "last_checked": "2026-06-29T12:14:51",
     "location": "Gandhinagar"
   },
   "https://www.yudiz.com/join-our-team/": {
@@ -511,5 +589,23 @@
     "entry_only": false,
     "last_checked": "2026-06-29T12:07:11",
     "location": "Ahmedabad"
+  },
+  "https://www.zenskar.com/careers": {
+    "company": "Zenskar",
+    "count": 0,
+    "entries": [],
+    "entry_only": false,
+    "last_checked": "2026-06-29T12:14:51",
+    "location": "Bengaluru"
+  },
+  "https://www.zomato.com/careers": {
+    "company": "Zomato",
+    "count": 1,
+    "entries": [
+      "Careers - Hiring at Eternal"
+    ],
+    "entry_only": false,
+    "last_checked": "2026-06-29T12:14:51",
+    "location": "Gurugram"
   }
 }
