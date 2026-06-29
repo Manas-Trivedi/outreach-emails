@@ -1,19 +1,10 @@
 {
   "https://career.infosys.com/joblist": {
     "company": "Infosys",
-    "count": 8,
-    "entries": [
-      ".net developer",
-      "Adobe Workfront, Marketo consultant",
-      "Documentum D2 engineer",
-      "IBM Filenet developer",
-      "Java Fullstack (Angular) Developer",
-      "Newgen engineer",
-      "React Native developer",
-      "React Native system engineer"
-    ],
+    "count": 0,
+    "entries": [],
     "entry_only": true,
-    "last_checked": "2026-06-29T06:29:28",
+    "last_checked": "2026-06-29T12:07:11",
     "location": "Chandigarh"
   },
   "https://careers.argusoft.com/": {
@@ -21,8 +12,16 @@
     "count": 0,
     "entries": [],
     "entry_only": false,
-    "last_checked": "2026-06-29T06:29:28",
+    "last_checked": "2026-06-29T12:07:11",
     "location": "Gandhinagar"
+  },
+  "https://careers.coforge.com/": {
+    "company": "Coforge",
+    "count": 0,
+    "entries": [],
+    "entry_only": true,
+    "last_checked": "2026-06-29T12:07:11",
+    "location": "India"
   },
   "https://careers.cognizant.com/global-en/jobs/": {
     "company": "Cognizant",
@@ -38,7 +37,24 @@
       "T24 Business Analyst"
     ],
     "entry_only": true,
-    "last_checked": "2026-06-29T06:29:28",
+    "last_checked": "2026-06-29T12:07:11",
+    "location": "India"
+  },
+  "https://careers.cognizant.com/india-en/jobs/": {
+    "company": "Cognizant",
+    "count": 8,
+    "entries": [
+      "Cloud Architect",
+      "Executive",
+      "Infra. Architect",
+      "Oracle Cloud Principal Financial Functional Architect – 00069391091",
+      "Pitch Analyst (Indonesian Market)",
+      "Project Manager",
+      "Sr. Business Analyst",
+      "T24 Business Analyst"
+    ],
+    "entry_only": true,
+    "last_checked": "2026-06-29T12:07:11",
     "location": "India"
   },
   "https://careers.drcsystems.com/": {
@@ -59,8 +75,43 @@
       "Sr. Executive – Sales"
     ],
     "entry_only": false,
-    "last_checked": "2026-06-29T06:29:28",
+    "last_checked": "2026-06-29T12:07:11",
     "location": "Gandhinagar"
+  },
+  "https://careers.mphasis.com/home/hot-jobs/location-search/india.html": {
+    "company": "Mphasis",
+    "count": 3,
+    "entries": [
+      "Explore opportunities on our careers page to apply.",
+      "Jeni Arun, Software Developer",
+      "Kaushik Ghosh, Business Analyst"
+    ],
+    "entry_only": true,
+    "last_checked": "2026-06-29T12:07:11",
+    "location": "India"
+  },
+  "https://careers.persistent.com/": {
+    "company": "Persistent Systems",
+    "count": 0,
+    "entries": [],
+    "entry_only": true,
+    "last_checked": "2026-06-29T12:07:11",
+    "location": "India"
+  },
+  "https://careers.techmahindra.com/": {
+    "company": "Tech Mahindra",
+    "count": 6,
+    "entries": [
+      "Apply/Shortlist",
+      "GitHub Enterprise Admin / Developer Metrics Analyst",
+      "Lead Ontologist",
+      "Project Lead",
+      "Sr. Software Engineer",
+      "Tech Lead"
+    ],
+    "entry_only": true,
+    "last_checked": "2026-06-29T12:07:11",
+    "location": "India"
   },
   "https://careers.wipro.com/careers-home/jobs": {
     "company": "Wipro",
@@ -69,7 +120,15 @@
       "Cookie Consent Manager"
     ],
     "entry_only": true,
-    "last_checked": "2026-06-29T06:29:28",
+    "last_checked": "2026-06-29T12:07:11",
+    "location": "India"
+  },
+  "https://careers.zohocorp.com/jobs/Careers": {
+    "company": "Zoho",
+    "count": 0,
+    "entries": [],
+    "entry_only": true,
+    "last_checked": "2026-06-29T12:07:11",
     "location": "India"
   },
   "https://giftgujarat.in/company-job-openings": {
@@ -79,153 +138,72 @@
       "Developer Services"
     ],
     "entry_only": false,
-    "last_checked": "2026-06-29T06:29:28",
+    "last_checked": "2026-06-29T12:07:11",
     "location": "Gandhinagar"
   },
   "https://www.accenture.com/in-en/careers/jobsearch?fl=Bengaluru": {
     "company": "Accenture",
-    "count": 24,
+    "count": 4,
     "entries": [
-      "Apply",
       "Apply filter",
-      "Client Account Leadership Senior Manager",
-      "Enterprise AI Value Strategy Manager",
-      "Hiring journey",
-      "IMU - AI & Data Manager",
-      "IMU - Strategy – IMT- Senior Manager",
-      "IMU CAL Senior Manager",
-      "IMU Sales Capture Associate Director",
-      "IMU Sales Capture Senior Manager",
-      "IMU-Brand and Marketing Strategist Senior Manager",
-      "IMU-CAL-CMT-Senior Manager",
-      "IMU-SONG Strategy Consultant",
-      "IMU-SONG Strategy Manager",
-      "Industry Analyst Recognition",
-      "Recruiting and Hiring Privacy Statement",
-      "Sales Capture Associate Director",
-      "Sales Capture Senior Manager",
-      "Strategy Innovation Associate Director",
-      "Strategy Manager",
-      "Strategy Senior Manager",
-      "Strategy Team Lead/Consultant",
-      "Workplace Service Delivery Associate Manager",
-      "Workplace Service Delivery Associate Manager-Events"
-    ],
-    "entry_only": true,
-    "last_checked": "2026-06-29T06:29:28",
-    "location": "Bengaluru"
-  },
-  "https://www.accenture.com/in-en/careers/jobsearch?fl=Gurugram": {
-    "company": "Accenture",
-    "count": 24,
-    "entries": [
-      "Apply",
-      "Apply filter",
-      "Client Account Leadership Senior Manager",
-      "Enterprise AI Value Strategy Manager",
-      "Hiring journey",
-      "IMU - AI & Data Manager",
-      "IMU - Strategy – IMT- Senior Manager",
-      "IMU CAL Senior Manager",
-      "IMU Sales Capture Associate Director",
-      "IMU Sales Capture Senior Manager",
-      "IMU-Brand and Marketing Strategist Senior Manager",
-      "IMU-CAL-CMT-Senior Manager",
-      "IMU-SONG Strategy Consultant",
-      "IMU-SONG Strategy Manager",
-      "Industry Analyst Recognition",
-      "Recruiting and Hiring Privacy Statement",
-      "Sales Capture Associate Director",
-      "Sales Capture Senior Manager",
-      "Strategy Innovation Associate Director",
-      "Strategy Manager",
-      "Strategy Senior Manager",
-      "Strategy Team Lead/Consultant",
-      "Workplace Service Delivery Associate Manager",
-      "Workplace Service Delivery Associate Manager-Events"
-    ],
-    "entry_only": true,
-    "last_checked": "2026-06-29T06:29:28",
-    "location": "Gurugram"
-  },
-  "https://www.accenture.com/in-en/careers/jobsearch?fl=Hyderabad": {
-    "company": "Accenture",
-    "count": 24,
-    "entries": [
-      "Apply",
-      "Apply filter",
-      "Client Account Leadership Senior Manager",
-      "Enterprise AI Value Strategy Manager",
-      "Hiring journey",
-      "IMU - AI & Data Manager",
-      "IMU - Strategy – IMT- Senior Manager",
-      "IMU CAL Senior Manager",
-      "IMU Sales Capture Associate Director",
-      "IMU Sales Capture Senior Manager",
-      "IMU-Brand and Marketing Strategist Senior Manager",
-      "IMU-CAL-CMT-Senior Manager",
-      "IMU-SONG Strategy Consultant",
-      "IMU-SONG Strategy Manager",
-      "Industry Analyst Recognition",
-      "Recruiting and Hiring Privacy Statement",
-      "Sales Capture Associate Director",
-      "Sales Capture Senior Manager",
-      "Strategy Innovation Associate Director",
-      "Strategy Manager",
-      "Strategy Senior Manager",
-      "Strategy Team Lead/Consultant",
-      "Workplace Service Delivery Associate Manager",
-      "Workplace Service Delivery Associate Manager-Events"
-    ],
-    "entry_only": true,
-    "last_checked": "2026-06-29T06:29:28",
-    "location": "Hyderabad"
-  },
-  "https://www.accenture.com/in-en/careers/jobsearch?fl=Pune": {
-    "company": "Accenture",
-    "count": 24,
-    "entries": [
-      "Apply",
-      "Apply filter",
-      "Client Account Leadership Senior Manager",
-      "Enterprise AI Value Strategy Manager",
-      "Hiring journey",
-      "IMU - AI & Data Manager",
-      "IMU - Strategy – IMT- Senior Manager",
-      "IMU CAL Senior Manager",
-      "IMU Sales Capture Associate Director",
-      "IMU Sales Capture Senior Manager",
-      "IMU-Brand and Marketing Strategist Senior Manager",
-      "IMU-CAL-CMT-Senior Manager",
-      "IMU-SONG Strategy Consultant",
-      "IMU-SONG Strategy Manager",
-      "Industry Analyst Recognition",
-      "Recruiting and Hiring Privacy Statement",
-      "Sales Capture Associate Director",
-      "Sales Capture Senior Manager",
-      "Strategy Innovation Associate Director",
-      "Strategy Manager",
-      "Strategy Senior Manager",
-      "Strategy Team Lead/Consultant",
-      "Workplace Service Delivery Associate Manager",
-      "Workplace Service Delivery Associate Manager-Events"
-    ],
-    "entry_only": true,
-    "last_checked": "2026-06-29T06:29:28",
-    "location": "Pune"
-  },
-  "https://www.accenture.com/in-en/careers/life-at-accenture/entry-level": {
-    "company": "Accenture",
-    "count": 5,
-    "entries": [
-      "A Technology Development Analyst in action",
-      "Apply",
       "Hiring journey",
       "Industry Analyst Recognition",
       "Recruiting and Hiring Privacy Statement"
     ],
     "entry_only": true,
-    "last_checked": "2026-06-29T06:29:28",
+    "last_checked": "2026-06-29T12:07:11",
+    "location": "Bengaluru"
+  },
+  "https://www.accenture.com/in-en/careers/jobsearch?fl=Gurugram": {
+    "company": "Accenture",
+    "count": 4,
+    "entries": [
+      "Apply filter",
+      "Hiring journey",
+      "Industry Analyst Recognition",
+      "Recruiting and Hiring Privacy Statement"
+    ],
+    "entry_only": true,
+    "last_checked": "2026-06-29T12:07:11",
+    "location": "Gurugram"
+  },
+  "https://www.accenture.com/in-en/careers/jobsearch?fl=Hyderabad": {
+    "company": "Accenture",
+    "count": 4,
+    "entries": [
+      "Apply filter",
+      "Hiring journey",
+      "Industry Analyst Recognition",
+      "Recruiting and Hiring Privacy Statement"
+    ],
+    "entry_only": true,
+    "last_checked": "2026-06-29T12:07:11",
+    "location": "Hyderabad"
+  },
+  "https://www.accenture.com/in-en/careers/jobsearch?fl=Pune": {
+    "company": "Accenture",
+    "count": 4,
+    "entries": [
+      "Apply filter",
+      "Hiring journey",
+      "Industry Analyst Recognition",
+      "Recruiting and Hiring Privacy Statement"
+    ],
+    "entry_only": true,
+    "last_checked": "2026-06-29T12:07:11",
+    "location": "Pune"
+  },
+  "https://www.accenture.com/in-en/careers/life-at-accenture/entry-level": {
+    "company": "Accenture",
+    "count": 4,
+    "entries": [
+      "A Technology Development Analyst in action",
+      "Hiring journey",
+      "Industry Analyst Recognition",
+      "Recruiting and Hiring Privacy Statement"
+    ],
+    "entry_only": true,
+    "last_checked": "2026-06-29T12:07:11",
     "location": "India"
   },
   "https://www.avenuesai.com/career-opportunities": {
@@ -254,8 +232,22 @@
       "product delivery. The Java Technical Lead will facilitate requirement analyses, conduct peer reviews and provide feedback."
     ],
     "entry_only": false,
-    "last_checked": "2026-06-29T06:29:28",
+    "last_checked": "2026-06-29T12:07:11",
     "location": "Gandhinagar"
+  },
+  "https://www.brainvire.com/freshers/": {
+    "company": "Brainvire",
+    "count": 5,
+    "entries": [
+      "BUSINESS ANALYST team ( 20 ) - Ahmedabad & Mumbai",
+      "Graduate ( Computers/IT) + MBA ( 2022 or 2023 pass outs only )",
+      "If youâd like to apply for a FRESHER position at Brainvire, fill out the form.",
+      "Unlock your potential and jumpstart your career as a FRESHER to join our",
+      "Your Future Starts Here: Join Our Team as an MBA Fresher and Make Your Mark"
+    ],
+    "entry_only": true,
+    "last_checked": "2026-06-29T12:07:11",
+    "location": "Ahmedabad"
   },
   "https://www.capgemini.com/in-en/careers/career-paths/students-and-graduates/": {
     "company": "Capgemini",
@@ -266,7 +258,7 @@
       "Student and graduate opportunities with our brands"
     ],
     "entry_only": true,
-    "last_checked": "2026-06-29T11:50:42",
+    "last_checked": "2026-06-29T12:07:11",
     "location": "India"
   },
   "https://www.capgemini.com/in-en/careers/join-capgemini/job-search/": {
@@ -277,7 +269,7 @@
       "Executive committee"
     ],
     "entry_only": true,
-    "last_checked": "2026-06-29T11:50:42",
+    "last_checked": "2026-06-29T12:07:11",
     "location": "India"
   },
   "https://www.devitpl.com/careers/": {
@@ -313,7 +305,7 @@
       "Technical Support Executive"
     ],
     "entry_only": false,
-    "last_checked": "2026-06-29T06:29:28",
+    "last_checked": "2026-06-29T12:07:11",
     "location": "Gandhinagar"
   },
   "https://www.hcltech.com/careers/jobs": {
@@ -325,7 +317,7 @@
       "Google Tag Manager is a tag management system for conversion tracking, site analytics, remarketing, and more."
     ],
     "entry_only": true,
-    "last_checked": "2026-06-29T11:50:42",
+    "last_checked": "2026-06-29T12:07:11",
     "location": "India"
   },
   "https://www.ibm.com/in-en/careers/career-opportunities": {
@@ -345,7 +337,7 @@
       "Total intern learning hours last year"
     ],
     "entry_only": true,
-    "last_checked": "2026-06-29T11:50:42",
+    "last_checked": "2026-06-29T12:07:11",
     "location": "India"
   },
   "https://www.ibm.com/in-en/careers/search": {
@@ -353,7 +345,7 @@
     "count": 0,
     "entries": [],
     "entry_only": true,
-    "last_checked": "2026-06-29T11:50:42",
+    "last_checked": "2026-06-29T12:07:11",
     "location": "India"
   },
   "https://www.infosys.com/careers/graduates.html": {
@@ -363,6 +355,21 @@
     "entry_only": true,
     "last_checked": "2026-06-29T06:29:28",
     "location": "India"
+  },
+  "https://www.openxcell.com/company/career-and-culture/": {
+    "company": "OpenXcell",
+    "count": 6,
+    "entries": [
+      "DevOps",
+      "DevOps Automation",
+      "DevOps Consulting",
+      "Fresher",
+      "Looking for a meaningful career where teamwork shines? Join us! Apply now at",
+      "Project Manager UI/UX"
+    ],
+    "entry_only": false,
+    "last_checked": "2026-06-29T12:07:11",
+    "location": "Ahmedabad"
   },
   "https://www.silvertouch.com/career/": {
     "company": "Silver Touch Technologies",
@@ -386,16 +393,56 @@
       "Sales Executive, Ahmedabad, India"
     ],
     "entry_only": false,
-    "last_checked": "2026-06-29T06:29:28",
+    "last_checked": "2026-06-29T12:07:11",
     "location": "Gandhinagar"
+  },
+  "https://www.simform.com/careers/": {
+    "company": "Simform",
+    "count": 15,
+    "entries": [
+      "1. Apply for a job",
+      "Check Openings and Apply",
+      "Cloud and DevOps Engineering",
+      "DevOps Automation",
+      "Engineering Manager",
+      "Hiring process",
+      "Lead Engineer, Python",
+      "Lead Engineer, React Native",
+      "QA Engineering",
+      "Sr. Software Engineer, Java",
+      "Sr. Technical Project Manager",
+      "Team Manager, Data Engineering",
+      "Team Manager, DevOps",
+      "Team Manager, Front End",
+      "You can work from home when required, with approval from your manager, offering flexibility in your work routine."
+    ],
+    "entry_only": false,
+    "last_checked": "2026-06-29T12:07:11",
+    "location": "Ahmedabad"
   },
   "https://www.smartsensesolutions.com/career": {
     "company": "SmartSense Consulting Solutions",
     "count": 0,
     "entries": [],
     "entry_only": false,
-    "last_checked": "2026-06-29T06:29:28",
+    "last_checked": "2026-06-29T12:07:11",
     "location": "Gandhinagar"
+  },
+  "https://www.tatvasoft.com/career": {
+    "company": "TatvaSoft",
+    "count": 7,
+    "entries": [
+      "Apply for this job",
+      "Business Development Executive",
+      "Cloud & Devops",
+      "Find the open positions listed below and apply via email on",
+      "I am a fresher, can I apply for open positions?",
+      "Java Developer",
+      "Software Testing & QA"
+    ],
+    "entry_only": false,
+    "last_checked": "2026-06-29T12:07:11",
+    "location": "Ahmedabad"
   },
   "https://www.tisindia.com/careers/": {
     "company": "TIS India",
@@ -406,7 +453,63 @@
       "Woocommerce Developer"
     ],
     "entry_only": false,
-    "last_checked": "2026-06-29T11:50:42",
+    "last_checked": "2026-06-29T12:07:11",
     "location": "Gandhinagar"
+  },
+  "https://www.yudiz.com/join-our-team/": {
+    "company": "Yudiz Solutions",
+    "count": 47,
+    "entries": [
+      ".NET Developer",
+      "2D Web Game Developer",
+      "Android Developer",
+      "Angular Developer",
+      "Apply For Other",
+      "Business Analyst",
+      "Business Development Executive",
+      "Business Development Lead",
+      "CRE (Client Relationship Executive)",
+      "CRM (Customer Relationship Manager)",
+      "Data Research Analyst",
+      "DevOps",
+      "DevOps Engineer",
+      "Digital Marketing Executive",
+      "ETL Developer (SSIS)",
+      "Flutter Developer",
+      "Fresher",
+      "Frontend Developer",
+      "Graphic Designer",
+      "HR Recruiter",
+      "Hire DevOps Engineers",
+      "Hire Devops Engineers",
+      "Java Developer",
+      "JavaScript Developer",
+      "Laravel Developer",
+      "MERN Stack Developer",
+      "Magento Developer",
+      "Marketing Manager",
+      "Mean Stack Developer",
+      "NodeJS Developer",
+      "PHP Developer",
+      "Performance Marketing Executive",
+      "Project Manager",
+      "Python Developer",
+      "ReactJS Developer",
+      "SEO Executive",
+      "Shopify Developer",
+      "Social Media Executive",
+      "Solana Blockchain Developer",
+      "Trainee",
+      "UI/UX Designer",
+      "Unity3D Game Developer",
+      "Video Editor & Graphic Designer",
+      "Web Designer",
+      "WordPress Developer",
+      "Your Message to Hiring Manager",
+      "iOS Developer"
+    ],
+    "entry_only": false,
+    "last_checked": "2026-06-29T12:07:11",
+    "location": "Ahmedabad"
   }
 }
