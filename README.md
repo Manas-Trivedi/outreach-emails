@@ -53,7 +53,20 @@ python career_watch.py          # first run seeds state silently
 
 Optional email alerts: set repo secrets `SMTP_HOST`, `SMTP_PORT`, `SMTP_USER`, `SMTP_PASS`, `ALERT_TO`.
 
+**Coverage** — `career_pages.csv` columns: `Company, URL, Location, EntryLevel, Notes`
+- GIFT City / Gandhinagar SMEs (DRC, Infibeam/AvenuesAI, Silver Touch, Dev IT, eInfochips, TIS…)
+- Well-established MNCs across multiple locations: **Infosys, Accenture, Capgemini, IBM, TCS, Cognizant, Wipro, HCLTech** (Bengaluru, Hyderabad, Pune, Gurugram, Chandigarh, India-wide).
+
+**Entry-level (0 experience) focus**
+- Postings that look like fresher/graduate/trainee/intern/entry-level/0–1 yr are flagged with 🎓.
+- Rows with `EntryLevel=yes` only alert on entry-level postings (all MNC rows are set this way).
+
+**Rendering JS (SPA / MNC portals)**
+- Default static fetch can't read SPA portals (Infosys joblist, TCS iBegin, etc.).
+- The GitHub Action installs Playwright and runs with `RENDER=1` so JS pages render.
+- Locally: `pip install playwright && playwright install chromium`, then `RENDER=1 python career_watch.py`.
+
 **Known limits**
-- Static fetch only — JS-rendered/SPA career pages (e.g. Argusoft, SmartSense) return 0 entries; needs a headless browser (Playwright) to upgrade.
 - Heuristic role-keyword matching; per-page state means stable noise won't re-alert.
+- Some portals bot-block (HTTP 403) even with rendering; swap to their public job-search API or an aggregator URL if so.
 - Add/maintain URLs in `career_pages.csv`.

@@ -1,9 +1,67 @@
 {
+  "https://career.infosys.com/joblist": {
+    "company": "Infosys",
+    "count": 0,
+    "entries": [],
+    "entry_only": true,
+    "last_checked": "2026-06-29T11:50:42",
+    "location": "Chandigarh"
+  },
   "https://careers.argusoft.com/": {
     "company": "Argusoft",
     "count": 0,
     "entries": [],
-    "last_checked": "2026-06-29T11:42:10"
+    "entry_only": false,
+    "last_checked": "2026-06-29T11:50:42",
+    "location": "Gandhinagar"
+  },
+  "https://careers.cognizant.com/global-en/jobs/": {
+    "company": "Cognizant",
+    "count": 8,
+    "entries": [
+      "Cloud Architect",
+      "Executive",
+      "Infra. Architect",
+      "Oracle Cloud Principal Financial Functional Architect – 00069391091",
+      "Pitch Analyst (Indonesian Market)",
+      "Project Manager",
+      "Sr. Business Analyst",
+      "T24 Business Analyst"
+    ],
+    "entry_only": true,
+    "last_checked": "2026-06-29T11:50:42",
+    "location": "India"
+  },
+  "https://careers.drcsystems.com/": {
+    "company": "DRC Systems",
+    "count": 12,
+    "entries": [
+      "A fair hiring process and career advancement for all.",
+      "Any Graduate",
+      "Associate – AI/ML",
+      "Associate – Java",
+      "Associate – Open edX Developer",
+      "Business Development Executive",
+      "Business Development Executive – US Shift",
+      "Cloud and DevOps",
+      "Manager – SEO & Digital Growth",
+      "QA Engineering and Testing",
+      "Solution Architect",
+      "Sr. Executive – Sales"
+    ],
+    "entry_only": false,
+    "last_checked": "2026-06-29T11:50:42",
+    "location": "Gandhinagar"
+  },
+  "https://careers.wipro.com/careers-home/jobs": {
+    "company": "Wipro",
+    "count": 1,
+    "entries": [
+      "Cookie Consent Manager"
+    ],
+    "entry_only": true,
+    "last_checked": "2026-06-29T11:50:42",
+    "location": "India"
   },
   "https://giftgujarat.in/company-job-openings": {
     "company": "GIFT City (aggregator)",
@@ -11,7 +69,74 @@
     "entries": [
       "Developer Services"
     ],
-    "last_checked": "2026-06-29T11:42:10"
+    "entry_only": false,
+    "last_checked": "2026-06-29T11:50:42",
+    "location": "Gandhinagar"
+  },
+  "https://www.accenture.com/in-en/careers/jobsearch?fl=Bengaluru": {
+    "company": "Accenture",
+    "count": 4,
+    "entries": [
+      "Apply filter",
+      "Hiring journey",
+      "Industry Analyst Recognition",
+      "Recruiting and Hiring Privacy Statement"
+    ],
+    "entry_only": true,
+    "last_checked": "2026-06-29T11:50:42",
+    "location": "Bengaluru"
+  },
+  "https://www.accenture.com/in-en/careers/jobsearch?fl=Gurugram": {
+    "company": "Accenture",
+    "count": 4,
+    "entries": [
+      "Apply filter",
+      "Hiring journey",
+      "Industry Analyst Recognition",
+      "Recruiting and Hiring Privacy Statement"
+    ],
+    "entry_only": true,
+    "last_checked": "2026-06-29T11:50:42",
+    "location": "Gurugram"
+  },
+  "https://www.accenture.com/in-en/careers/jobsearch?fl=Hyderabad": {
+    "company": "Accenture",
+    "count": 4,
+    "entries": [
+      "Apply filter",
+      "Hiring journey",
+      "Industry Analyst Recognition",
+      "Recruiting and Hiring Privacy Statement"
+    ],
+    "entry_only": true,
+    "last_checked": "2026-06-29T11:50:42",
+    "location": "Hyderabad"
+  },
+  "https://www.accenture.com/in-en/careers/jobsearch?fl=Pune": {
+    "company": "Accenture",
+    "count": 4,
+    "entries": [
+      "Apply filter",
+      "Hiring journey",
+      "Industry Analyst Recognition",
+      "Recruiting and Hiring Privacy Statement"
+    ],
+    "entry_only": true,
+    "last_checked": "2026-06-29T11:50:42",
+    "location": "Pune"
+  },
+  "https://www.accenture.com/in-en/careers/life-at-accenture/entry-level": {
+    "company": "Accenture",
+    "count": 4,
+    "entries": [
+      "A Technology Development Analyst in action",
+      "Hiring journey",
+      "Industry Analyst Recognition",
+      "Recruiting and Hiring Privacy Statement"
+    ],
+    "entry_only": true,
+    "last_checked": "2026-06-29T11:50:42",
+    "location": "India"
   },
   "https://www.avenuesai.com/career-opportunities": {
     "company": "Infibeam AvenuesAI",
@@ -38,7 +163,32 @@
       "completed in a timely fashion and within budget. Project manager will plan and designate project",
       "product delivery. The Java Technical Lead will facilitate requirement analyses, conduct peer reviews and provide feedback."
     ],
-    "last_checked": "2026-06-29T11:42:10"
+    "entry_only": false,
+    "last_checked": "2026-06-29T11:50:42",
+    "location": "Gandhinagar"
+  },
+  "https://www.capgemini.com/in-en/careers/career-paths/students-and-graduates/": {
+    "company": "Capgemini",
+    "count": 3,
+    "entries": [
+      "Analyst recognition",
+      "Executive committee",
+      "Student and graduate opportunities with our brands"
+    ],
+    "entry_only": true,
+    "last_checked": "2026-06-29T11:50:42",
+    "location": "India"
+  },
+  "https://www.capgemini.com/in-en/careers/join-capgemini/job-search/": {
+    "company": "Capgemini",
+    "count": 2,
+    "entries": [
+      "Analyst recognition",
+      "Executive committee"
+    ],
+    "entry_only": true,
+    "last_checked": "2026-06-29T11:50:42",
+    "location": "India"
   },
   "https://www.devitpl.com/careers/": {
     "company": "Dev Information Technology",
@@ -72,7 +222,49 @@
       "Technical Project Manager (AI)",
       "Technical Support Executive"
     ],
-    "last_checked": "2026-06-29T11:42:10"
+    "entry_only": false,
+    "last_checked": "2026-06-29T11:50:42",
+    "location": "Gandhinagar"
+  },
+  "https://www.hcltech.com/careers/jobs": {
+    "company": "HCLTech",
+    "count": 3,
+    "entries": [
+      "Cookie Consent Manager",
+      "Google Tag Manager",
+      "Google Tag Manager is a tag management system for conversion tracking, site analytics, remarketing, and more."
+    ],
+    "entry_only": true,
+    "last_checked": "2026-06-29T11:50:42",
+    "location": "India"
+  },
+  "https://www.ibm.com/in-en/careers/career-opportunities": {
+    "company": "IBM",
+    "count": 11,
+    "entries": [
+      "5 things you need to know before you apply",
+      "A Day in the Office: Libby, AI Partner Technical Specialist",
+      "A Day in the Office: Mike, Lab Engineering Manager",
+      "A Day in the Office: Olivia, SAP Sales Consultant",
+      "Check the video and the tips in the tabs we prepared for you before you apply and make sure your application is successful.",
+      "Entry Level Consultant: The Secrets to Becoming a Successful Candidate",
+      "Entry-Level Developer: The Secrets to Becoming a Successful Candidate",
+      "IBM Internship Programs",
+      "This IBMer started as an intern and today advises global business leaders on ways to incorporate AI.",
+      "Tips before you apply to IBM",
+      "Total intern learning hours last year"
+    ],
+    "entry_only": true,
+    "last_checked": "2026-06-29T11:50:42",
+    "location": "India"
+  },
+  "https://www.ibm.com/in-en/careers/search": {
+    "company": "IBM",
+    "count": 0,
+    "entries": [],
+    "entry_only": true,
+    "last_checked": "2026-06-29T11:50:42",
+    "location": "India"
   },
   "https://www.silvertouch.com/career/": {
     "company": "Silver Touch Technologies",
@@ -95,13 +287,17 @@
       "Sales Executive",
       "Sales Executive, Ahmedabad, India"
     ],
-    "last_checked": "2026-06-29T11:42:10"
+    "entry_only": false,
+    "last_checked": "2026-06-29T11:50:42",
+    "location": "Gandhinagar"
   },
   "https://www.smartsensesolutions.com/career": {
     "company": "SmartSense Consulting Solutions",
     "count": 0,
     "entries": [],
-    "last_checked": "2026-06-29T11:42:10"
+    "entry_only": false,
+    "last_checked": "2026-06-29T11:50:42",
+    "location": "Gandhinagar"
   },
   "https://www.tisindia.com/careers/": {
     "company": "TIS India",
@@ -111,6 +307,8 @@
       "Salesforce Developer",
       "Woocommerce Developer"
     ],
-    "last_checked": "2026-06-29T11:42:10"
+    "entry_only": false,
+    "last_checked": "2026-06-29T11:50:42",
+    "location": "Gandhinagar"
   }
 }
