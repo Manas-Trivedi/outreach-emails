@@ -4,25 +4,23 @@
     "count": 0,
     "entries": [],
     "entry_only": true,
-    "last_checked": "2026-07-01T09:47:18",
+    "last_checked": "2026-07-01T14:47:48",
     "location": "India"
   },
   "https://career.infosys.com/joblist": {
     "company": "Infosys",
-    "count": 9,
+    "count": 7,
     "entries": [
-      ".Net+Angular Developer",
-      "AWS DevOps _ QLTY",
-      "Apigee Consultant",
-      "Azure DevOps Consultant _ QLTY",
-      "Executive - Facilities",
       "GPP Consultant",
-      "Java Senior Developer",
-      "Mendix Developer",
-      "Network Engineer"
+      "Information Security Lead Auditor",
+      "PEGA Automation Testing Analyst",
+      "Payment Consultant",
+      "Pega Testing Consultant Mid Level",
+      "Salesforce Testing Analyst",
+      "Salesforce Testing Consultant"
     ],
     "entry_only": true,
-    "last_checked": "2026-07-01T09:47:18",
+    "last_checked": "2026-07-01T14:47:48",
     "location": "Chandigarh"
   },
   "https://careers.argusoft.com/": {
@@ -30,7 +28,7 @@
     "count": 0,
     "entries": [],
     "entry_only": false,
-    "last_checked": "2026-07-01T09:47:18",
+    "last_checked": "2026-07-01T14:47:48",
     "location": "Gandhinagar"
   },
   "https://careers.coforge.com/": {
@@ -53,7 +51,7 @@
       "Sr. AI Architect"
     ],
     "entry_only": true,
-    "last_checked": "2026-07-01T09:47:18",
+    "last_checked": "2026-07-01T14:47:48",
     "location": "India"
   },
   "https://careers.cognizant.com/india-en/jobs/": {
@@ -68,7 +66,7 @@
       "Sr. AI Architect"
     ],
     "entry_only": true,
-    "last_checked": "2026-07-01T09:47:18",
+    "last_checked": "2026-07-01T14:47:48",
     "location": "India"
   },
   "https://careers.drcsystems.com/": {
@@ -89,7 +87,7 @@
       "Sr. Executive – Sales"
     ],
     "entry_only": false,
-    "last_checked": "2026-07-01T09:47:18",
+    "last_checked": "2026-07-01T14:47:48",
     "location": "Gandhinagar"
   },
   "https://careers.makemytrip.com/": {
@@ -109,7 +107,7 @@
       "Kaushik Ghosh, Business Analyst"
     ],
     "entry_only": true,
-    "last_checked": "2026-07-01T09:47:18",
+    "last_checked": "2026-07-01T14:47:48",
     "location": "India"
   },
   "https://careers.ntpc.co.in/": {
@@ -117,7 +115,7 @@
     "count": 0,
     "entries": [],
     "entry_only": true,
-    "last_checked": "2026-07-01T09:47:18",
+    "last_checked": "2026-07-01T14:47:48",
     "location": "India"
   },
   "https://careers.persistent.com/": {
@@ -139,25 +137,28 @@
       "Senior Area Sales Manager"
     ],
     "entry_only": false,
-    "last_checked": "2026-07-01T09:47:18",
+    "last_checked": "2026-07-01T14:47:48",
     "location": "Bengaluru"
   },
   "https://careers.techmahindra.com/": {
     "company": "Tech Mahindra",
-    "count": 9,
+    "count": 12,
     "entries": [
       "Apply",
       "Apply/Shortlist",
+      "Industrial Engineering Analytics Engineer (Manufacturing Systems & Modeling)",
+      "Open Text Business Analyst",
+      "Open Text Exstream Developer",
+      "Open Text Project Manager",
+      "Practice Specialist",
       "Project Lead",
-      "Project Manager",
-      "Snowflake Architect",
       "Sr. Software Engineer",
       "Tech Lead",
       "Tech Specialist",
       "Test Lead"
     ],
     "entry_only": true,
-    "last_checked": "2026-07-01T09:47:18",
+    "last_checked": "2026-07-01T14:47:48",
     "location": "India"
   },
   "https://careers.wipro.com/careers-home/jobs": {
@@ -167,7 +168,7 @@
       "Cookie Consent Manager"
     ],
     "entry_only": true,
-    "last_checked": "2026-07-01T09:47:18",
+    "last_checked": "2026-07-01T14:47:48",
     "location": "India"
   },
   "https://careers.zohocorp.com/jobs/Careers": {
@@ -178,7 +179,7 @@
       "Looking to apply for a job?"
     ],
     "entry_only": true,
-    "last_checked": "2026-07-01T09:47:18",
+    "last_checked": "2026-07-01T14:47:48",
     "location": "India"
   },
   "https://cris.org.in/loadpage?page=indexcareer": {
@@ -459,15 +460,18 @@
       "six vacancy of Project Assistant in FOIS Group at New Delhi."
     ],
     "entry_only": true,
-    "last_checked": "2026-07-01T09:47:18",
+    "last_checked": "2026-07-01T14:47:48",
     "location": "New Delhi"
   },
   "https://darwinbox.com/careers": {
     "company": "Darwinbox",
-    "count": 0,
-    "entries": [],
+    "count": 2,
+    "entries": [
+      "Associate Sales Director",
+      "Product Marketing Lead"
+    ],
     "entry_only": false,
-    "last_checked": "2026-07-01T09:47:18",
+    "last_checked": "2026-07-01T14:47:48",
     "location": "Hyderabad"
   },
   "https://gailonline.com/IND_CareerCurrentOpenings.html": {
@@ -475,7 +479,7 @@
     "count": 0,
     "entries": [],
     "entry_only": true,
-    "last_checked": "2026-07-01T09:47:18",
+    "last_checked": "2026-07-01T14:47:48",
     "location": "India"
   },
   "https://giftgujarat.in/company-job-openings": {
@@ -485,7 +489,7 @@
       "Developer Services"
     ],
     "entry_only": false,
-    "last_checked": "2026-07-01T09:47:18",
+    "last_checked": "2026-07-01T14:47:48",
     "location": "Gandhinagar"
   },
   "https://groww.in/careers": {
@@ -495,7 +499,7 @@
       "Careers at Groww - Job Openings & Vacancy"
     ],
     "entry_only": false,
-    "last_checked": "2026-07-01T09:47:18",
+    "last_checked": "2026-07-01T14:47:48",
     "location": "Bengaluru"
   },
   "https://hal-india.co.in/career": {
@@ -518,7 +522,7 @@
       "apply now apply now"
     ],
     "entry_only": false,
-    "last_checked": "2026-07-01T09:47:18",
+    "last_checked": "2026-07-01T14:47:48",
     "location": "Noida"
   },
   "https://iocl.com/latest-job-openings": {
@@ -529,7 +533,7 @@
       "Latest Job Opening"
     ],
     "entry_only": true,
-    "last_checked": "2026-07-01T09:47:18",
+    "last_checked": "2026-07-01T14:47:48",
     "location": "India"
   },
   "https://paytm.com/careers": {
@@ -539,7 +543,7 @@
       "Apply for Field Sales Executive Job"
     ],
     "entry_only": false,
-    "last_checked": "2026-07-01T09:47:18",
+    "last_checked": "2026-07-01T14:47:48",
     "location": "Noida"
   },
   "https://sharechat.com/careers": {
@@ -556,7 +560,7 @@
       "Talent Acquisition Manager - UK"
     ],
     "entry_only": false,
-    "last_checked": "2026-07-01T09:47:18",
+    "last_checked": "2026-07-01T14:47:48",
     "location": "Bengaluru"
   },
   "https://www.accenture.com/in-en/careers/jobsearch?fl=Bengaluru": {
@@ -590,7 +594,7 @@
       "Workplace Service Delivery Associate Manager-Events"
     ],
     "entry_only": true,
-    "last_checked": "2026-07-01T09:47:18",
+    "last_checked": "2026-07-01T14:47:48",
     "location": "Bengaluru"
   },
   "https://www.accenture.com/in-en/careers/jobsearch?fl=Gurugram": {
@@ -624,7 +628,7 @@
       "Workplace Service Delivery Associate Manager-Events"
     ],
     "entry_only": true,
-    "last_checked": "2026-07-01T09:47:18",
+    "last_checked": "2026-07-01T14:47:48",
     "location": "Gurugram"
   },
   "https://www.accenture.com/in-en/careers/jobsearch?fl=Hyderabad": {
@@ -658,7 +662,7 @@
       "Workplace Service Delivery Associate Manager-Events"
     ],
     "entry_only": true,
-    "last_checked": "2026-07-01T09:47:18",
+    "last_checked": "2026-07-01T14:47:48",
     "location": "Hyderabad"
   },
   "https://www.accenture.com/in-en/careers/jobsearch?fl=Pune": {
@@ -692,7 +696,7 @@
       "Workplace Service Delivery Associate Manager-Events"
     ],
     "entry_only": true,
-    "last_checked": "2026-07-01T09:47:18",
+    "last_checked": "2026-07-01T14:47:48",
     "location": "Pune"
   },
   "https://www.accenture.com/in-en/careers/life-at-accenture/entry-level": {
@@ -706,7 +710,7 @@
       "Recruiting and Hiring Privacy Statement"
     ],
     "entry_only": true,
-    "last_checked": "2026-07-01T09:47:18",
+    "last_checked": "2026-07-01T14:47:48",
     "location": "India"
   },
   "https://www.avenuesai.com/career-opportunities": {
@@ -735,7 +739,7 @@
       "product delivery. The Java Technical Lead will facilitate requirement analyses, conduct peer reviews and provide feedback."
     ],
     "entry_only": false,
-    "last_checked": "2026-07-01T09:47:18",
+    "last_checked": "2026-07-01T14:47:48",
     "location": "Gandhinagar"
   },
   "https://www.azilen.com/careers/": {
@@ -748,7 +752,7 @@
       "Software QA Services"
     ],
     "entry_only": false,
-    "last_checked": "2026-07-01T09:47:18",
+    "last_checked": "2026-07-01T14:47:48",
     "location": "Ahmedabad"
   },
   "https://www.bacancytechnology.com/careers": {
@@ -838,7 +842,7 @@
       "iOS Developer"
     ],
     "entry_only": false,
-    "last_checked": "2026-07-01T09:47:18",
+    "last_checked": "2026-07-01T14:47:48",
     "location": "Ahmedabad"
   },
   "https://www.brainvire.com/freshers/": {
@@ -852,7 +856,7 @@
       "Your Future Starts Here: Join Our Team as an MBA Fresher and Make Your Mark"
     ],
     "entry_only": true,
-    "last_checked": "2026-07-01T09:47:18",
+    "last_checked": "2026-07-01T14:47:48",
     "location": "Ahmedabad"
   },
   "https://www.capgemini.com/in-en/careers/career-paths/students-and-graduates/": {
@@ -880,10 +884,15 @@
   },
   "https://www.cars24.com/careers/": {
     "company": "Cars24",
-    "count": 0,
-    "entries": [],
+    "count": 4,
+    "entries": [
+      "Brand manager",
+      "Product Manager",
+      "Senior Graphic Designer",
+      "Senior UI/UX Designer"
+    ],
     "entry_only": false,
-    "last_checked": "2026-07-01T09:47:18",
+    "last_checked": "2026-07-01T14:47:48",
     "location": "Gurugram"
   },
   "https://www.delhivery.com/careers": {
@@ -893,7 +902,7 @@
       "Developer Documentation"
     ],
     "entry_only": false,
-    "last_checked": "2026-07-01T09:47:18",
+    "last_checked": "2026-07-01T14:47:48",
     "location": "Gurugram"
   },
   "https://www.devitpl.com/careers/": {
@@ -929,7 +938,7 @@
       "Technical Support Executive"
     ],
     "entry_only": false,
-    "last_checked": "2026-07-01T09:47:18",
+    "last_checked": "2026-07-01T14:47:48",
     "location": "Gandhinagar"
   },
   "https://www.hcltech.com/careers/jobs": {
@@ -977,7 +986,7 @@
     "count": 0,
     "entries": [],
     "entry_only": true,
-    "last_checked": "2026-07-01T09:47:18",
+    "last_checked": "2026-07-01T14:47:48",
     "location": "India"
   },
   "https://www.irctc.com/new-openings.php": {
@@ -996,7 +1005,7 @@
       "Requirement of Rajbhasa Consultant for IRCTC/NZ."
     ],
     "entry_only": false,
-    "last_checked": "2026-07-01T09:47:18",
+    "last_checked": "2026-07-01T14:47:48",
     "location": "New Delhi"
   },
   "https://www.isro.gov.in/Careers.html": {
@@ -1008,20 +1017,15 @@
       "Web Information Manager"
     ],
     "entry_only": true,
-    "last_checked": "2026-07-01T09:47:18",
+    "last_checked": "2026-07-01T14:47:48",
     "location": "India"
   },
   "https://www.keka.com/careers": {
     "company": "Keka HR",
-    "count": 4,
-    "entries": [
-      "Hiring & Onboarding",
-      "Hiring & Onboarding Create a great candidate experience before and after joining",
-      "Hiring Software",
-      "We are hiring !"
-    ],
+    "count": 0,
+    "entries": [],
     "entry_only": false,
-    "last_checked": "2026-07-01T09:47:18",
+    "last_checked": "2026-07-01T14:47:48",
     "location": "Hyderabad"
   },
   "https://www.ltm.com/india-careers": {
@@ -1029,7 +1033,7 @@
     "count": 0,
     "entries": [],
     "entry_only": true,
-    "last_checked": "2026-07-01T09:47:18",
+    "last_checked": "2026-07-01T14:47:48",
     "location": "India"
   },
   "https://www.meesho.io/jobs": {
@@ -1039,7 +1043,6 @@
       "AM/ Manager - Risk & Decision Science Financial Services Bangalore, Karnataka",
       "Architect - Android Tech Bangalore, Karnataka",
       "Assistant Manager - Business Finance Finance, Legal & PR Bangalore, Karnataka",
-      "Assistant Manager - Performance Marketing Commerce Platform Bangalore, Karnataka",
       "Assistant Manager – HR (HR Systems, Analytics & AI) HR & CREWS Bangalore, Karnataka",
       "Assistant Manager – Reporting and GL Finance, Legal & PR Bangalore, Karnataka",
       "Assistant Manager- Legal Finance, Legal & PR Bangalore, Karnataka",
@@ -1048,10 +1051,11 @@
       "Associate Director - Enterprise Sales- Meesho AI Services (MAS) AI Services Mumbai, Maharashtra",
       "Associate Director Financial Services Bangalore, Karnataka",
       "Associate Director — Industry Intelligence & Benchmarking Finance, Legal & PR Bangalore, Karnataka",
-      "Automation engineer (Warehouse Automation) Tech Bangalore, Karnataka"
+      "Automation engineer (Warehouse Automation) Tech Bangalore, Karnataka",
+      "Data Scientist III Tech Bangalore, Karnataka"
     ],
     "entry_only": false,
-    "last_checked": "2026-07-01T09:47:18",
+    "last_checked": "2026-07-01T14:47:48",
     "location": "Bengaluru"
   },
   "https://www.moengage.com/careers/": {
@@ -1063,7 +1067,7 @@
       "Product Manager - Campaigns, India"
     ],
     "entry_only": false,
-    "last_checked": "2026-07-01T09:47:18",
+    "last_checked": "2026-07-01T14:47:48",
     "location": "Bengaluru"
   },
   "https://www.openxcell.com/company/career-and-culture/": {
@@ -1078,7 +1082,7 @@
       "Project Manager UI/UX"
     ],
     "entry_only": false,
-    "last_checked": "2026-07-01T09:47:18",
+    "last_checked": "2026-07-01T14:47:48",
     "location": "Ahmedabad"
   },
   "https://www.peoplebox.ai/careers": {
@@ -1097,7 +1101,7 @@
       "Your AI hiring partner, from resume to offer"
     ],
     "entry_only": false,
-    "last_checked": "2026-07-01T09:47:18",
+    "last_checked": "2026-07-01T14:47:48",
     "location": "Bengaluru"
   },
   "https://www.policybazaar.com/careers/": {
@@ -1123,12 +1127,12 @@
       "ENT Specialist Near Me"
     ],
     "entry_only": false,
-    "last_checked": "2026-07-01T09:47:18",
+    "last_checked": "2026-07-01T14:47:48",
     "location": "Gurugram"
   },
   "https://www.railtel.in/en/careers": {
     "company": "RailTel",
-    "count": 211,
+    "count": 213,
     "entries": [
       "Addl. General Manager",
       "Asstt. General Manager",
@@ -1232,6 +1236,7 @@
       "Detailed Vacancy notice for Advisor/CO/RCIL",
       "Detailed Vacancy notice for Advisor/NR/RCIL",
       "Detailed Vacancy notice for Sr. Solution Architect and Solution Architect in Data Centre on Contract Basis.",
+      "Detailed Vacancy notice for ‘01 Post of Manager/Admin. ( E-2 level)",
       "Detailed Vacancy notice for ‘2 Posts of Jr Translator (E-0) Rajbhasha",
       "Detailed of Vacancy notice for Deputation/Re-employment on the post of GM(Fin)/Mumbai/WR",
       "Detailed of Vacancy notice for ‘Deputation/Re-employment on the post of Sr. DGM/AGM (SIGNALING)/Jhansi/ Delhi Territory/NR.",
@@ -1325,6 +1330,7 @@
       "Vacancy for Deputation in RailTel for Vigilance department",
       "Vacancy notice 1 post of Executive Director / GGM /GM (Tech)/ Western Region.",
       "Vacancy notice for \"Deputation for 3 posts of Sr. Manager/ Manager (O&M)/ Western Region/Mumbai",
+      "Vacancy notice for 01 Post of Manager/Admin. ( E-2 level)",
       "Vacancy notice for 3 Posts of Jr Translator ( E-0) Rajbhasha.",
       "Vacancy notice for Deputation for 2 posts of Manager/Dy Manager/Asst Manager (Tech)/ Banglore/ Southern Region",
       "Vacancy notice for Deputation/ Absorption for 1 post of Executive Director/GGM (Tech)/E-8/ Lucknow/ Northern Region.",
@@ -1343,7 +1349,7 @@
       "‘Detailed Vacancy notice for ‘Deputation’ on the post of Addl.GM/GM (Tech)/RCIL in Northern Region"
     ],
     "entry_only": true,
-    "last_checked": "2026-07-01T09:47:18",
+    "last_checked": "2026-07-01T14:47:48",
     "location": "New Delhi"
   },
   "https://www.silvertouch.com/career/": {
@@ -1368,7 +1374,7 @@
       "Sales Executive, Ahmedabad, India"
     ],
     "entry_only": false,
-    "last_checked": "2026-07-01T09:47:18",
+    "last_checked": "2026-07-01T14:47:48",
     "location": "Gandhinagar"
   },
   "https://www.simform.com/careers/": {
@@ -1392,7 +1398,7 @@
       "You can work from home when required, with approval from your manager, offering flexibility in your work routine."
     ],
     "entry_only": false,
-    "last_checked": "2026-07-01T09:47:18",
+    "last_checked": "2026-07-01T14:47:48",
     "location": "Ahmedabad"
   },
   "https://www.smartsensesolutions.com/career": {
@@ -1400,7 +1406,7 @@
     "count": 0,
     "entries": [],
     "entry_only": false,
-    "last_checked": "2026-07-01T09:47:18",
+    "last_checked": "2026-07-01T14:47:48",
     "location": "Gandhinagar"
   },
   "https://www.spinny.com/careers/": {
@@ -1412,7 +1418,7 @@
       "Priti Awasthi, Manager, HR & Talent Acquisition"
     ],
     "entry_only": false,
-    "last_checked": "2026-07-01T09:47:18",
+    "last_checked": "2026-07-01T14:47:48",
     "location": "Gurugram"
   },
   "https://www.tata.com/careers/jobs/joblisting": {
@@ -1422,7 +1428,7 @@
       "Apply"
     ],
     "entry_only": false,
-    "last_checked": "2026-07-01T09:47:18",
+    "last_checked": "2026-07-01T14:47:48",
     "location": "India"
   },
   "https://www.tataelxsi.com/careers": {
@@ -1430,7 +1436,7 @@
     "count": 0,
     "entries": [],
     "entry_only": false,
-    "last_checked": "2026-07-01T09:47:18",
+    "last_checked": "2026-07-01T14:47:48",
     "location": "Bengaluru"
   },
   "https://www.tatatechnologies.com/in/careers/": {
@@ -1442,7 +1448,7 @@
       "Get in touch today and discover how we can help you engineer a better world"
     ],
     "entry_only": false,
-    "last_checked": "2026-07-01T09:47:18",
+    "last_checked": "2026-07-01T14:47:48",
     "location": "Pune"
   },
   "https://www.tatvasoft.com/career": {
@@ -1478,7 +1484,7 @@
     "count": 0,
     "entries": [],
     "entry_only": false,
-    "last_checked": "2026-07-01T09:47:18",
+    "last_checked": "2026-07-01T14:47:48",
     "location": "Gurugram"
   },
   "https://www.yudiz.com/join-our-team/": {
