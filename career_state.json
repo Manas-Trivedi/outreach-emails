@@ -4,22 +4,22 @@
     "count": 0,
     "entries": [],
     "entry_only": true,
-    "last_checked": "2026-07-02T08:56:49",
+    "last_checked": "2026-07-02T14:00:59",
     "location": "India"
   },
   "https://career.infosys.com/joblist": {
     "company": "Infosys",
     "count": 6,
     "entries": [
-      "API Testing Consultant",
-      "C Sharp Testing Consultant",
-      "GenAI Testing Consultant/Architect",
-      "JAVA Lead",
-      "Java Selenium Lead- Mid Level",
-      "Oracle HCM (Payroll)_Testing Lead"
+      "AWS Developer",
+      "Azure Databricks Developer",
+      "Palantir Foundry Developer",
+      "Pyspark developer",
+      "SAP Consultant",
+      "Scala Developer"
     ],
     "entry_only": true,
-    "last_checked": "2026-07-02T08:56:49",
+    "last_checked": "2026-07-02T14:00:59",
     "location": "Chandigarh"
   },
   "https://careers.argusoft.com/": {
@@ -27,7 +27,7 @@
     "count": 0,
     "entries": [],
     "entry_only": false,
-    "last_checked": "2026-07-02T08:56:49",
+    "last_checked": "2026-07-02T14:00:59",
     "location": "Gandhinagar"
   },
   "https://careers.coforge.com/": {
@@ -51,7 +51,7 @@
       "Sr. Developer"
     ],
     "entry_only": true,
-    "last_checked": "2026-07-02T08:56:49",
+    "last_checked": "2026-07-02T14:00:59",
     "location": "India"
   },
   "https://careers.cognizant.com/india-en/jobs/": {
@@ -67,7 +67,7 @@
       "Sr. Developer"
     ],
     "entry_only": true,
-    "last_checked": "2026-07-02T08:56:49",
+    "last_checked": "2026-07-02T14:00:59",
     "location": "India"
   },
   "https://careers.drcsystems.com/": {
@@ -88,7 +88,7 @@
       "Sr. Executive – Sales"
     ],
     "entry_only": false,
-    "last_checked": "2026-07-02T08:56:49",
+    "last_checked": "2026-07-02T14:00:59",
     "location": "Gandhinagar"
   },
   "https://careers.makemytrip.com/": {
@@ -108,7 +108,7 @@
       "Kaushik Ghosh, Business Analyst"
     ],
     "entry_only": true,
-    "last_checked": "2026-07-02T08:56:49",
+    "last_checked": "2026-07-02T14:00:59",
     "location": "India"
   },
   "https://careers.ntpc.co.in/": {
@@ -116,7 +116,7 @@
     "count": 0,
     "entries": [],
     "entry_only": true,
-    "last_checked": "2026-07-02T08:56:49",
+    "last_checked": "2026-07-02T14:00:59",
     "location": "India"
   },
   "https://careers.persistent.com/": {
@@ -129,34 +129,33 @@
   },
   "https://careers.swiggy.com/": {
     "company": "Swiggy",
-    "count": 5,
+    "count": 6,
     "entries": [
       "Account Manager",
       "Associate Account manager",
       "Lead - Ad Operations",
       "Sales Manager I",
-      "Senior Area Sales Manager"
+      "Senior Area Sales Manager",
+      "Senior Program Manager"
     ],
     "entry_only": false,
-    "last_checked": "2026-07-02T08:56:49",
+    "last_checked": "2026-07-02T14:00:59",
     "location": "Bengaluru"
   },
   "https://careers.techmahindra.com/": {
     "company": "Tech Mahindra",
-    "count": 9,
+    "count": 7,
     "entries": [
       "Apply",
       "Apply/Shortlist",
-      "Network Engineer - L3 Support",
       "Sr Data Engineer - AWS Services + Python + SQL",
       "Sr. Data Analyst",
-      "Sr. Network Engineer",
       "Sr. Software Engineer",
       "Tech Lead",
       "Tech Specialist"
     ],
     "entry_only": true,
-    "last_checked": "2026-07-02T08:56:49",
+    "last_checked": "2026-07-02T14:00:59",
     "location": "India"
   },
   "https://careers.wipro.com/careers-home/jobs": {
@@ -166,7 +165,7 @@
       "Cookie Consent Manager"
     ],
     "entry_only": true,
-    "last_checked": "2026-07-02T08:56:49",
+    "last_checked": "2026-07-02T14:00:59",
     "location": "India"
   },
   "https://careers.zohocorp.com/jobs/Careers": {
@@ -177,7 +176,7 @@
       "Looking to apply for a job?"
     ],
     "entry_only": true,
-    "last_checked": "2026-07-02T08:56:49",
+    "last_checked": "2026-07-02T14:00:59",
     "location": "India"
   },
   "https://cris.org.in/loadpage?page=indexcareer": {
@@ -458,7 +457,7 @@
       "six vacancy of Project Assistant in FOIS Group at New Delhi."
     ],
     "entry_only": true,
-    "last_checked": "2026-07-02T08:56:49",
+    "last_checked": "2026-07-02T14:00:59",
     "location": "New Delhi"
   },
   "https://darwinbox.com/careers": {
@@ -466,7 +465,7 @@
     "count": 0,
     "entries": [],
     "entry_only": false,
-    "last_checked": "2026-07-01T19:56:24",
+    "last_checked": "2026-07-02T14:00:59",
     "location": "Hyderabad"
   },
   "https://gailonline.com/IND_CareerCurrentOpenings.html": {
@@ -474,7 +473,7 @@
     "count": 0,
     "entries": [],
     "entry_only": true,
-    "last_checked": "2026-07-02T08:56:49",
+    "last_checked": "2026-07-02T14:00:59",
     "location": "India"
   },
   "https://giftgujarat.in/company-job-openings": {
@@ -484,7 +483,7 @@
       "Developer Services"
     ],
     "entry_only": false,
-    "last_checked": "2026-07-02T08:56:49",
+    "last_checked": "2026-07-02T14:00:59",
     "location": "Gandhinagar"
   },
   "https://groww.in/careers": {
@@ -494,7 +493,7 @@
       "Careers at Groww - Job Openings & Vacancy"
     ],
     "entry_only": false,
-    "last_checked": "2026-07-02T08:56:49",
+    "last_checked": "2026-07-02T14:00:59",
     "location": "Bengaluru"
   },
   "https://hal-india.co.in/career": {
@@ -504,7 +503,7 @@
       "Web Manager"
     ],
     "entry_only": true,
-    "last_checked": "2026-07-01T03:55:13",
+    "last_checked": "2026-07-02T14:00:59",
     "location": "India"
   },
   "https://innovaccer.com/careers": {
@@ -517,7 +516,7 @@
       "apply now apply now"
     ],
     "entry_only": false,
-    "last_checked": "2026-07-02T08:56:49",
+    "last_checked": "2026-07-02T14:00:59",
     "location": "Noida"
   },
   "https://iocl.com/latest-job-openings": {
@@ -528,7 +527,7 @@
       "Latest Job Opening"
     ],
     "entry_only": true,
-    "last_checked": "2026-07-02T08:56:49",
+    "last_checked": "2026-07-02T14:00:59",
     "location": "India"
   },
   "https://paytm.com/careers": {
@@ -538,7 +537,7 @@
       "Apply for Field Sales Executive Job"
     ],
     "entry_only": false,
-    "last_checked": "2026-07-02T08:56:49",
+    "last_checked": "2026-07-02T14:00:59",
     "location": "Noida"
   },
   "https://sharechat.com/careers": {
@@ -555,119 +554,135 @@
       "Talent Acquisition Manager - UK"
     ],
     "entry_only": false,
-    "last_checked": "2026-07-02T08:56:49",
+    "last_checked": "2026-07-02T14:00:59",
     "location": "Bengaluru"
   },
   "https://www.accenture.com/in-en/careers/jobsearch?fl=Bengaluru": {
     "company": "Accenture",
-    "count": 19,
+    "count": 23,
     "entries": [
-      "AI / ML Engineer",
-      "AI/ML Computational Science Analyst",
       "Apply",
       "Apply filter",
-      "Custom Software Engineer",
-      "Custom Software Engineering Team Lead/Consultant",
-      "Customer Service Associate",
-      "Financial Plan & Analysis Specialist",
-      "Financial Planning & Analysis Team Lead/Consultant",
+      "Cloud Migration Engineer",
+      "DevOps",
+      "Enterprise Platform Advisory Team Lead/Consultant",
       "Hiring journey",
       "Industry Analyst Recognition",
-      "Packaged Application Development Senior Analyst",
+      "Infra Transformation Senior Analyst",
+      "Mgmt Consulting Analyst",
+      "Mgmt Consulting Manager",
+      "Mgmt Consulting Senior Manager",
+      "Mgmt Consulting Team Lead/Consultant",
+      "Procurement Operations Associate",
       "Recruiting and Hiring Privacy Statement",
-      "Security Architect",
-      "Security Delivery Lead",
-      "Security Managed Services Associate Manager",
-      "Security Managed Services Senior Analyst",
-      "Security Managed Services Senior Manager",
-      "Security Managed Services Team Lead/Consultant"
+      "S&C GN - MC - Industry X - Intelligent Asset Management - Analyst",
+      "S&C GN - TS&T – Digital Foundations - Cloud - AWS - Manager",
+      "S&C GN - TS&T – Digital Foundations - Cloud - Azure - Consultant",
+      "S&C GN - TS&T – Digital Foundations - Cloud - Azure - Senior Manager",
+      "S&C GN - TS&T – Digital Foundations - Cloud - GCP ARCH - Consultant",
+      "S&C GN - TS&T – Digital Foundations - Cloud - GCP ARCH - Senior Manager",
+      "S&C GN - TS&T – Digital Foundations - Cloud - Infrastructure - Manager",
+      "S&C GN - TS&T – Industry Techno & Strategy Architect - Banking - Manager",
+      "S&C GN - TS&T – Industry Techno & Strategy Architect - Telco - Consultant"
     ],
     "entry_only": true,
-    "last_checked": "2026-07-02T08:56:49",
+    "last_checked": "2026-07-02T14:00:59",
     "location": "Bengaluru"
   },
   "https://www.accenture.com/in-en/careers/jobsearch?fl=Gurugram": {
     "company": "Accenture",
-    "count": 19,
+    "count": 23,
     "entries": [
-      "AI / ML Engineer",
-      "AI/ML Computational Science Analyst",
       "Apply",
       "Apply filter",
-      "Custom Software Engineer",
-      "Custom Software Engineering Team Lead/Consultant",
-      "Customer Service Associate",
-      "Financial Plan & Analysis Specialist",
-      "Financial Planning & Analysis Team Lead/Consultant",
+      "Cloud Migration Engineer",
+      "DevOps",
+      "Enterprise Platform Advisory Team Lead/Consultant",
       "Hiring journey",
       "Industry Analyst Recognition",
-      "Packaged Application Development Senior Analyst",
+      "Infra Transformation Senior Analyst",
+      "Mgmt Consulting Analyst",
+      "Mgmt Consulting Manager",
+      "Mgmt Consulting Senior Manager",
+      "Mgmt Consulting Team Lead/Consultant",
+      "Procurement Operations Associate",
       "Recruiting and Hiring Privacy Statement",
-      "Security Architect",
-      "Security Delivery Lead",
-      "Security Managed Services Associate Manager",
-      "Security Managed Services Senior Analyst",
-      "Security Managed Services Senior Manager",
-      "Security Managed Services Team Lead/Consultant"
+      "S&C GN - MC - Industry X - Intelligent Asset Management - Analyst",
+      "S&C GN - TS&T – Digital Foundations - Cloud - AWS - Manager",
+      "S&C GN - TS&T – Digital Foundations - Cloud - Azure - Consultant",
+      "S&C GN - TS&T – Digital Foundations - Cloud - Azure - Senior Manager",
+      "S&C GN - TS&T – Digital Foundations - Cloud - GCP ARCH - Consultant",
+      "S&C GN - TS&T – Digital Foundations - Cloud - GCP ARCH - Senior Manager",
+      "S&C GN - TS&T – Digital Foundations - Cloud - Infrastructure - Manager",
+      "S&C GN - TS&T – Industry Techno & Strategy Architect - Banking - Manager",
+      "S&C GN - TS&T – Industry Techno & Strategy Architect - Telco - Consultant"
     ],
     "entry_only": true,
-    "last_checked": "2026-07-02T08:56:49",
+    "last_checked": "2026-07-02T14:00:59",
     "location": "Gurugram"
   },
   "https://www.accenture.com/in-en/careers/jobsearch?fl=Hyderabad": {
     "company": "Accenture",
-    "count": 19,
+    "count": 23,
     "entries": [
-      "AI / ML Engineer",
-      "AI/ML Computational Science Analyst",
       "Apply",
       "Apply filter",
-      "Custom Software Engineer",
-      "Custom Software Engineering Team Lead/Consultant",
-      "Customer Service Associate",
-      "Financial Plan & Analysis Specialist",
-      "Financial Planning & Analysis Team Lead/Consultant",
+      "Cloud Migration Engineer",
+      "DevOps",
+      "Enterprise Platform Advisory Team Lead/Consultant",
       "Hiring journey",
       "Industry Analyst Recognition",
-      "Packaged Application Development Senior Analyst",
+      "Infra Transformation Senior Analyst",
+      "Mgmt Consulting Analyst",
+      "Mgmt Consulting Manager",
+      "Mgmt Consulting Senior Manager",
+      "Mgmt Consulting Team Lead/Consultant",
+      "Procurement Operations Associate",
       "Recruiting and Hiring Privacy Statement",
-      "Security Architect",
-      "Security Delivery Lead",
-      "Security Managed Services Associate Manager",
-      "Security Managed Services Senior Analyst",
-      "Security Managed Services Senior Manager",
-      "Security Managed Services Team Lead/Consultant"
+      "S&C GN - MC - Industry X - Intelligent Asset Management - Analyst",
+      "S&C GN - TS&T – Digital Foundations - Cloud - AWS - Manager",
+      "S&C GN - TS&T – Digital Foundations - Cloud - Azure - Consultant",
+      "S&C GN - TS&T – Digital Foundations - Cloud - Azure - Senior Manager",
+      "S&C GN - TS&T – Digital Foundations - Cloud - GCP ARCH - Consultant",
+      "S&C GN - TS&T – Digital Foundations - Cloud - GCP ARCH - Senior Manager",
+      "S&C GN - TS&T – Digital Foundations - Cloud - Infrastructure - Manager",
+      "S&C GN - TS&T – Industry Techno & Strategy Architect - Banking - Manager",
+      "S&C GN - TS&T – Industry Techno & Strategy Architect - Telco - Consultant"
     ],
     "entry_only": true,
-    "last_checked": "2026-07-02T08:56:49",
+    "last_checked": "2026-07-02T14:00:59",
     "location": "Hyderabad"
   },
   "https://www.accenture.com/in-en/careers/jobsearch?fl=Pune": {
     "company": "Accenture",
-    "count": 19,
+    "count": 23,
     "entries": [
-      "AI / ML Engineer",
-      "AI/ML Computational Science Analyst",
       "Apply",
       "Apply filter",
-      "Custom Software Engineer",
-      "Custom Software Engineering Team Lead/Consultant",
-      "Customer Service Associate",
-      "Financial Plan & Analysis Specialist",
-      "Financial Planning & Analysis Team Lead/Consultant",
+      "Cloud Migration Engineer",
+      "DevOps",
+      "Enterprise Platform Advisory Team Lead/Consultant",
       "Hiring journey",
       "Industry Analyst Recognition",
-      "Packaged Application Development Senior Analyst",
+      "Infra Transformation Senior Analyst",
+      "Mgmt Consulting Analyst",
+      "Mgmt Consulting Manager",
+      "Mgmt Consulting Senior Manager",
+      "Mgmt Consulting Team Lead/Consultant",
+      "Procurement Operations Associate",
       "Recruiting and Hiring Privacy Statement",
-      "Security Architect",
-      "Security Delivery Lead",
-      "Security Managed Services Associate Manager",
-      "Security Managed Services Senior Analyst",
-      "Security Managed Services Senior Manager",
-      "Security Managed Services Team Lead/Consultant"
+      "S&C GN - MC - Industry X - Intelligent Asset Management - Analyst",
+      "S&C GN - TS&T – Digital Foundations - Cloud - AWS - Manager",
+      "S&C GN - TS&T – Digital Foundations - Cloud - Azure - Consultant",
+      "S&C GN - TS&T – Digital Foundations - Cloud - Azure - Senior Manager",
+      "S&C GN - TS&T – Digital Foundations - Cloud - GCP ARCH - Consultant",
+      "S&C GN - TS&T – Digital Foundations - Cloud - GCP ARCH - Senior Manager",
+      "S&C GN - TS&T – Digital Foundations - Cloud - Infrastructure - Manager",
+      "S&C GN - TS&T – Industry Techno & Strategy Architect - Banking - Manager",
+      "S&C GN - TS&T – Industry Techno & Strategy Architect - Telco - Consultant"
     ],
     "entry_only": true,
-    "last_checked": "2026-07-02T08:56:49",
+    "last_checked": "2026-07-02T14:00:59",
     "location": "Pune"
   },
   "https://www.accenture.com/in-en/careers/life-at-accenture/entry-level": {
@@ -681,7 +696,7 @@
       "Recruiting and Hiring Privacy Statement"
     ],
     "entry_only": true,
-    "last_checked": "2026-07-02T08:56:49",
+    "last_checked": "2026-07-02T14:00:59",
     "location": "India"
   },
   "https://www.avenuesai.com/career-opportunities": {
@@ -710,7 +725,7 @@
       "product delivery. The Java Technical Lead will facilitate requirement analyses, conduct peer reviews and provide feedback."
     ],
     "entry_only": false,
-    "last_checked": "2026-07-02T08:56:49",
+    "last_checked": "2026-07-02T14:00:59",
     "location": "Gandhinagar"
   },
   "https://www.azilen.com/careers/": {
@@ -723,7 +738,7 @@
       "Software QA Services"
     ],
     "entry_only": false,
-    "last_checked": "2026-07-02T08:56:49",
+    "last_checked": "2026-07-02T14:00:59",
     "location": "Ahmedabad"
   },
   "https://www.bacancytechnology.com/careers": {
@@ -813,7 +828,7 @@
       "iOS Developer"
     ],
     "entry_only": false,
-    "last_checked": "2026-07-02T08:56:49",
+    "last_checked": "2026-07-02T14:00:59",
     "location": "Ahmedabad"
   },
   "https://www.brainvire.com/freshers/": {
@@ -827,7 +842,7 @@
       "Your Future Starts Here: Join Our Team as an MBA Fresher and Make Your Mark"
     ],
     "entry_only": true,
-    "last_checked": "2026-07-02T08:56:49",
+    "last_checked": "2026-07-02T14:00:59",
     "location": "Ahmedabad"
   },
   "https://www.capgemini.com/in-en/careers/career-paths/students-and-graduates/": {
@@ -863,7 +878,7 @@
       "Senior UI/UX Designer"
     ],
     "entry_only": false,
-    "last_checked": "2026-07-02T08:56:49",
+    "last_checked": "2026-07-02T14:00:59",
     "location": "Gurugram"
   },
   "https://www.delhivery.com/careers": {
@@ -873,7 +888,7 @@
       "Developer Documentation"
     ],
     "entry_only": false,
-    "last_checked": "2026-07-02T08:56:49",
+    "last_checked": "2026-07-02T14:00:59",
     "location": "Gurugram"
   },
   "https://www.devitpl.com/careers/": {
@@ -909,7 +924,7 @@
       "Technical Support Executive"
     ],
     "entry_only": false,
-    "last_checked": "2026-07-02T08:56:49",
+    "last_checked": "2026-07-02T14:00:59",
     "location": "Gandhinagar"
   },
   "https://www.hcltech.com/careers/jobs": {
@@ -957,7 +972,7 @@
     "count": 0,
     "entries": [],
     "entry_only": true,
-    "last_checked": "2026-07-02T08:56:49",
+    "last_checked": "2026-07-02T14:00:59",
     "location": "India"
   },
   "https://www.irctc.com/new-openings.php": {
@@ -976,7 +991,7 @@
       "Requirement of Rajbhasa Consultant for IRCTC/NZ."
     ],
     "entry_only": false,
-    "last_checked": "2026-07-02T08:56:49",
+    "last_checked": "2026-07-02T14:00:59",
     "location": "New Delhi"
   },
   "https://www.isro.gov.in/Careers.html": {
@@ -988,7 +1003,7 @@
       "Web Information Manager"
     ],
     "entry_only": true,
-    "last_checked": "2026-07-02T08:56:49",
+    "last_checked": "2026-07-02T14:00:59",
     "location": "India"
   },
   "https://www.keka.com/careers": {
@@ -1001,7 +1016,7 @@
       "We are hiring !"
     ],
     "entry_only": false,
-    "last_checked": "2026-07-02T03:36:06",
+    "last_checked": "2026-07-02T14:00:59",
     "location": "Hyderabad"
   },
   "https://www.ltm.com/india-careers": {
@@ -1009,7 +1024,7 @@
     "count": 0,
     "entries": [],
     "entry_only": true,
-    "last_checked": "2026-07-02T08:56:49",
+    "last_checked": "2026-07-02T14:00:59",
     "location": "India"
   },
   "https://www.meesho.io/jobs": {
@@ -1031,7 +1046,7 @@
       "Data Scientist III Tech Bangalore, Karnataka"
     ],
     "entry_only": false,
-    "last_checked": "2026-07-02T08:56:49",
+    "last_checked": "2026-07-02T14:00:59",
     "location": "Bengaluru"
   },
   "https://www.moengage.com/careers/": {
@@ -1058,7 +1073,7 @@
       "Project Manager UI/UX"
     ],
     "entry_only": false,
-    "last_checked": "2026-07-02T08:56:49",
+    "last_checked": "2026-07-02T14:00:59",
     "location": "Ahmedabad"
   },
   "https://www.peoplebox.ai/careers": {
@@ -1077,7 +1092,7 @@
       "Your AI hiring partner, from resume to offer"
     ],
     "entry_only": false,
-    "last_checked": "2026-07-02T08:56:49",
+    "last_checked": "2026-07-02T14:00:59",
     "location": "Bengaluru"
   },
   "https://www.policybazaar.com/careers/": {
@@ -1103,7 +1118,7 @@
       "ENT Specialist Near Me"
     ],
     "entry_only": false,
-    "last_checked": "2026-07-02T08:56:49",
+    "last_checked": "2026-07-02T14:00:59",
     "location": "Gurugram"
   },
   "https://www.railtel.in/en/careers": {
@@ -1325,7 +1340,7 @@
       "‘Detailed Vacancy notice for ‘Deputation’ on the post of Addl.GM/GM (Tech)/RCIL in Northern Region"
     ],
     "entry_only": true,
-    "last_checked": "2026-07-02T08:56:49",
+    "last_checked": "2026-07-02T14:00:59",
     "location": "New Delhi"
   },
   "https://www.silvertouch.com/career/": {
@@ -1350,7 +1365,7 @@
       "Sales Executive, Ahmedabad, India"
     ],
     "entry_only": false,
-    "last_checked": "2026-07-02T08:56:49",
+    "last_checked": "2026-07-02T14:00:59",
     "location": "Gandhinagar"
   },
   "https://www.simform.com/careers/": {
@@ -1374,7 +1389,7 @@
       "You can work from home when required, with approval from your manager, offering flexibility in your work routine."
     ],
     "entry_only": false,
-    "last_checked": "2026-07-02T08:56:49",
+    "last_checked": "2026-07-02T14:00:59",
     "location": "Ahmedabad"
   },
   "https://www.smartsensesolutions.com/career": {
@@ -1382,7 +1397,7 @@
     "count": 0,
     "entries": [],
     "entry_only": false,
-    "last_checked": "2026-07-02T08:56:49",
+    "last_checked": "2026-07-02T14:00:59",
     "location": "Gandhinagar"
   },
   "https://www.spinny.com/careers/": {
@@ -1394,7 +1409,7 @@
       "Priti Awasthi, Manager, HR & Talent Acquisition"
     ],
     "entry_only": false,
-    "last_checked": "2026-07-02T08:56:49",
+    "last_checked": "2026-07-02T14:00:59",
     "location": "Gurugram"
   },
   "https://www.tata.com/careers/jobs/joblisting": {
@@ -1404,7 +1419,7 @@
       "Apply"
     ],
     "entry_only": false,
-    "last_checked": "2026-07-02T08:56:49",
+    "last_checked": "2026-07-02T14:00:59",
     "location": "India"
   },
   "https://www.tataelxsi.com/careers": {
@@ -1412,7 +1427,7 @@
     "count": 0,
     "entries": [],
     "entry_only": false,
-    "last_checked": "2026-07-02T08:56:49",
+    "last_checked": "2026-07-02T14:00:59",
     "location": "Bengaluru"
   },
   "https://www.tatatechnologies.com/in/careers/": {
@@ -1424,7 +1439,7 @@
       "Get in touch today and discover how we can help you engineer a better world"
     ],
     "entry_only": false,
-    "last_checked": "2026-07-02T08:56:49",
+    "last_checked": "2026-07-02T14:00:59",
     "location": "Pune"
   },
   "https://www.tatvasoft.com/career": {
@@ -1440,7 +1455,7 @@
       "Software Testing & QA"
     ],
     "entry_only": false,
-    "last_checked": "2026-07-02T08:56:49",
+    "last_checked": "2026-07-02T14:00:59",
     "location": "Ahmedabad"
   },
   "https://www.tisindia.com/careers/": {
@@ -1460,7 +1475,7 @@
     "count": 0,
     "entries": [],
     "entry_only": false,
-    "last_checked": "2026-07-02T08:56:49",
+    "last_checked": "2026-07-02T14:00:59",
     "location": "Gurugram"
   },
   "https://www.yudiz.com/join-our-team/": {
