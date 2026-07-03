@@ -27,6 +27,7 @@ Run:
 Optional email alert (set all five env vars):
     SMTP_HOST, SMTP_PORT, SMTP_USER, SMTP_PASS, ALERT_TO
 """
+import asyncio
 import csv
 import json
 import os
@@ -50,6 +51,7 @@ ALERTS_LOG = "career_alerts.log"
 UA = "Mozilla/5.0 (compatible; CareerWatch/1.0; internship-outreach)"
 TIMEOUT = 25
 RENDER = os.getenv("RENDER") == "1"
+CONCURRENCY = int(os.getenv("CONCURRENCY", "6"))
 
 ROLE_RE = re.compile(
     r"\b(engineer|developer|intern(ship)?|manager|designer|analyst|lead|architect|"
@@ -184,14 +186,59 @@ def fetch_static(url):
     return r.text
 
 
-def fetch_with_browser(browser, url):
-    """Render JS using a shared Playwright browser (one page per URL)."""
-    page = browser.new_page(user_agent=UA)
-    try:
-        page.goto(url, wait_until="networkidle", timeout=TIMEOUT * 1000)
-        return page.content()
-    finally:
-        page.close()
+def fetch_all_static(urls):
+    """Fetch URLs concurrently with threads (requests is thread-safe)."""
+    from concurrent.futures import ThreadPoolExecutor
+    results = {}
+
+    def one(u):
+        try:
+            return u, fetch_static(u)
+        except Exception as e:  # noqa: BLE001
+            return u, e
+
+    with ThreadPoolExecutor(max_workers=CONCURRENCY) as ex:
+        for u, res in ex.map(one, urls):
+            results[u] = res
+    return results
+
+
+async def _fetch_all_rendered(urls):
+    """Render URLs concurrently sharing one Playwright browser."""
+    from playwright.async_api import async_playwright
+    results = {}
+    sem = asyncio.Semaphore(CONCURRENCY)
+    async with async_playwright() as p:
+        browser = await p.chromium.launch()
+
+        async def one(u):
+            async with sem:
+                page = await browser.new_page(user_agent=UA)
+                try:
+                    await page.goto(u, wait_until="networkidle",
+                                    timeout=TIMEOUT * 1000)
+                    results[u] = await page.content()
+                except Exception as e:  # noqa: BLE001
+                    results[u] = e
+                finally:
+                    await page.close()
+
+        await asyncio.gather(*(one(u) for u in urls))
+        await browser.close()
+    return results
+
+
+def fetch_all(urls):
+    """Return {url: html or Exception}. Renders JS when RENDER=1."""
+    if RENDER:
+        try:
+            import playwright  # noqa: F401
+        except ImportError:
+            print("RENDER=1 but Playwright not installed; using static fetch.",
+                  file=sys.stderr)
+        else:
+            return asyncio.run(_fetch_all_rendered(urls))
+    return fetch_all_static(urls)
 
 
 def truthy(v):
@@ -219,16 +266,9 @@ def main():
     alerts = []   # (label, url, [entries])
     errors = []
 
-    # Shared browser for RENDER mode (one launch per run, not per page).
-    pw = browser = None
-    if RENDER:
-        try:
-            from playwright.sync_api import sync_playwright
-            pw = sync_playwright().start()
-            browser = pw.chromium.launch()
-        except ImportError:
-            print("RENDER=1 but Playwright not installed; using static fetch.",
-                  file=sys.stderr)
+    # Fetch every unique URL once, concurrently.
+    unique_urls = list(dict.fromkeys(row["URL"].strip() for row in pages))
+    htmls = fetch_all(unique_urls)
 
     for row in pages:
         company = row.get("Company", "").strip() or row["URL"]
@@ -237,12 +277,11 @@ def main():
         url = row["URL"].strip()
         entry_only = truthy(row.get("EntryLevel", ""))
 
-        try:
-            html = fetch_with_browser(browser, url) if browser else fetch_static(url)
-            entries = extract_entries(html)
-        except Exception as e:
-            errors.append((label, url, str(e)[:120]))
+        res = htmls.get(url)
+        if not isinstance(res, str):
+            errors.append((label, url, str(res)[:120] if res else "no result"))
             continue
+        entries = extract_entries(res)
 
         prev = set(state.get(url, {}).get("entries", []))
         first_run = url not in state
@@ -261,10 +300,6 @@ def main():
             "count": len(entries),
             "last_checked": now,
         }
-
-    if pw:
-        browser.close()
-        pw.stop()
 
     save_state(state)
 
