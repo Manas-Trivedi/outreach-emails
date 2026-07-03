@@ -209,14 +209,18 @@ async def _fetch_all_rendered(urls):
     results = {}
     sem = asyncio.Semaphore(CONCURRENCY)
     async with async_playwright() as p:
-        browser = await p.chromium.launch()
+        # --disable-http2 avoids ERR_HTTP2_PROTOCOL_ERROR on some corporate sites.
+        browser = await p.chromium.launch(args=["--disable-http2"])
 
         async def one(u):
             async with sem:
                 page = await browser.new_page(user_agent=UA)
                 try:
-                    await page.goto(u, wait_until="networkidle",
+                    # domcontentloaded + a short settle beats networkidle, which
+                    # never fires on SPAs with polling/analytics/websockets.
+                    await page.goto(u, wait_until="domcontentloaded",
                                     timeout=TIMEOUT * 1000)
+                    await page.wait_for_timeout(3500)  # let JS render listings
                     results[u] = await page.content()
                 except Exception as e:  # noqa: BLE001
                     results[u] = e
