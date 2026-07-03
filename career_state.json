@@ -1,11 +1,57 @@
 {
+  "https://aisingapore.org/careers/": {
+    "company": "AI Singapore",
+    "count": 9,
+    "entries": [
+      "AI Engineer",
+      "AI Governance Manager",
+      "AI Internship Programme (AIIP)",
+      "AI Student Developer Conference",
+      "Apply",
+      "LLM Application Developer Programme (LADP)",
+      "Programme Manager",
+      "Research Outreach Assistant Manager / Manager",
+      "Technical Program Manager"
+    ],
+    "entry_only": true,
+    "last_checked": "2026-07-03T04:13:21",
+    "location": "Singapore"
+  },
+  "https://aspireapp.com/careers": {
+    "company": "Aspire",
+    "count": 3,
+    "entries": [
+      "Associate QA Lead",
+      "Country Legal Manager",
+      "Pricing that fits your business For businesses with complex operations that need a relationship manager."
+    ],
+    "entry_only": true,
+    "last_checked": "2026-07-03T04:13:21",
+    "location": "Singapore"
+  },
   "https://bel-india.in/career/": {
     "company": "BEL",
     "count": 0,
     "entries": [],
     "entry_only": true,
-    "last_checked": "2026-07-03T02:58:57",
+    "last_checked": "2026-07-03T04:13:21",
     "location": "India"
+  },
+  "https://blinkit.com/careers": {
+    "company": "Blinkit",
+    "count": 0,
+    "entries": [],
+    "entry_only": true,
+    "last_checked": "2026-07-03T04:13:21",
+    "location": "Gurugram"
+  },
+  "https://cadence.wd1.myworkdayjobs.com/External_Careers": {
+    "company": "Cadence",
+    "count": 0,
+    "entries": [],
+    "entry_only": true,
+    "last_checked": "2026-07-03T04:13:21",
+    "location": "Noida"
   },
   "https://career.infosys.com/joblist": {
     "company": "Infosys",
@@ -19,16 +65,95 @@
       "Solution Architect - Infrastructure Consulting"
     ],
     "entry_only": true,
-    "last_checked": "2026-07-03T02:58:57",
+    "last_checked": "2026-07-03T04:13:21",
     "location": "Chandigarh"
+  },
+  "https://career.sea.com/": {
+    "company": "Sea Group",
+    "count": 7,
+    "entries": [
+      "Apply to Garena here",
+      "Apply to Monee here",
+      "Apply to Shopee here",
+      "Intern 1 Position",
+      "Intern 2 Positions",
+      "Labs Internship Program",
+      "Sea Global Management Associate Program"
+    ],
+    "entry_only": true,
+    "last_checked": "2026-07-03T04:13:21",
+    "location": "Singapore"
+  },
+  "https://careers.adobe.com/us/en/c/university-jobs": {
+    "company": "Adobe",
+    "count": 3,
+    "entries": [
+      "Adobe Developer",
+      "Experience Manager",
+      "Hiring Process"
+    ],
+    "entry_only": true,
+    "last_checked": "2026-07-03T04:13:21",
+    "location": "India"
+  },
+  "https://careers.amd.com/careers-home": {
+    "company": "AMD India",
+    "count": 14,
+    "entries": [
+      "Apply",
+      "DFx Methodology Architect",
+      "Developer Central",
+      "Formal Verification Engineer",
+      "GPU Performance Modeling & Optimization Engineer",
+      "Graduate Trainee - Product Development Engineer",
+      "Not ready to apply?",
+      "Principal Applied Research Scientist",
+      "Product Development Engineer",
+      "Recent Graduate",
+      "Senior Design Verification Engineer",
+      "Senior Firmware Engineer",
+      "Senior Manager of Media Relations",
+      "Senior Program Manager, New Product Introduction"
+    ],
+    "entry_only": true,
+    "last_checked": "2026-07-03T04:13:21",
+    "location": "Bengaluru"
+  },
+  "https://careers.analog.com/": {
+    "company": "Analog Devices",
+    "count": 1,
+    "entries": [
+      "Field Application Engineer Opportunities"
+    ],
+    "entry_only": true,
+    "last_checked": "2026-07-03T04:13:21",
+    "location": "Bengaluru"
+  },
+  "https://careers.arcesium.com/": {
+    "company": "Arcesium",
+    "count": 0,
+    "entries": [],
+    "entry_only": true,
+    "last_checked": "2026-07-03T04:13:21",
+    "location": "Bengaluru"
   },
   "https://careers.argusoft.com/": {
     "company": "Argusoft",
     "count": 0,
     "entries": [],
     "entry_only": false,
-    "last_checked": "2026-07-03T02:58:57",
+    "last_checked": "2026-07-03T04:13:21",
     "location": "Gandhinagar"
+  },
+  "https://careers.cardekho.com/": {
+    "company": "CarDekho",
+    "count": 1,
+    "entries": [
+      "We're always looking for great folks to join us on our mission. If you want to be a part of our story, apply today."
+    ],
+    "entry_only": true,
+    "last_checked": "2026-07-03T04:13:21",
+    "location": "Gurugram"
   },
   "https://careers.coforge.com/": {
     "company": "Coforge",
@@ -46,14 +171,14 @@
       "Data Test Lead- Onsite",
       "Executive",
       "Lead GCP DevOps Engineer – Marketplace Onboarding",
-      "One Trust Cybersecurity Architect - GRC",
       "Pega Developer",
+      "Senior Quality Engineer (Python, SQL)",
       "Senior System Engineer (Programmer Analyst)",
       "Strategy & Transformation Consultant, Insurance",
       "Validation Test Analyst (CSV/CSA)"
     ],
     "entry_only": true,
-    "last_checked": "2026-07-03T02:58:57",
+    "last_checked": "2026-07-03T04:13:21",
     "location": "India"
   },
   "https://careers.cognizant.com/india-en/jobs/": {
@@ -64,15 +189,25 @@
       "Data Test Lead- Onsite",
       "Executive",
       "Lead GCP DevOps Engineer – Marketplace Onboarding",
-      "One Trust Cybersecurity Architect - GRC",
       "Pega Developer",
+      "Senior Quality Engineer (Python, SQL)",
       "Senior System Engineer (Programmer Analyst)",
       "Strategy & Transformation Consultant, Insurance",
       "Validation Test Analyst (CSV/CSA)"
     ],
     "entry_only": true,
-    "last_checked": "2026-07-03T02:58:57",
+    "last_checked": "2026-07-03T04:13:21",
     "location": "India"
+  },
+  "https://careers.cred.club/": {
+    "company": "CRED",
+    "count": 1,
+    "entries": [
+      "opening"
+    ],
+    "entry_only": true,
+    "last_checked": "2026-07-03T04:13:21",
+    "location": "Bengaluru"
   },
   "https://careers.drcsystems.com/": {
     "company": "DRC Systems",
@@ -92,7 +227,7 @@
       "Sr. Executive – Sales"
     ],
     "entry_only": false,
-    "last_checked": "2026-07-03T02:58:57",
+    "last_checked": "2026-07-03T04:13:21",
     "location": "Gandhinagar"
   },
   "https://careers.makemytrip.com/": {
@@ -103,6 +238,60 @@
     "last_checked": "2026-06-29T12:26:12",
     "location": "Gurugram"
   },
+  "https://careers.micron.com/careers": {
+    "company": "Micron India",
+    "count": 24,
+    "entries": [
+      "Ability to lead and influence independently across Operations, Engineering, and Supply Chain teams",
+      "Director/Executive",
+      "ENGINEER, OMT HVM PROD OPS PLANNING TACTICAL CAPACITY Miaoli County, Miaoli County, Taiwan + 1 more Posted 25 days ago",
+      "ENGINEER, OMT HVM PROD OPS PLANNING TACTICAL CAPACITY Taichung City, Taichung City, Taiwan Posted 3 months ago",
+      "Effectively communicate, and influence recommendations and improvement proposals through dashboards and executive presentations",
+      "HIG-HBM ENGINEERING MANAGER - LAYOUT Tlaquepaque, Jalisco, Mexico Company Priority Posted 11 days ago",
+      "Industrial Engineer, US Front-End Expansion Planning Boise, Idaho, United States of America Posted a day ago",
+      "Intern",
+      "Manufacturing Industrial Engineer (MIE) – Advanced Analytics & AI Enablement Boise, Idaho, United States of America Posted a month ago",
+      "Process Integration Lead, APTD Boise, Idaho, United States of America Company Priority Posted 3 months ago",
+      "Product Quality Assurance Engineer Singapore, Singapore Posted 4 hours ago",
+      "Quality & Reliability Engineer (NAND) Batu Kawan, Pulau Pinang (Penang), Malaysia Posted 4 hours ago",
+      "R&D Thin Films Process Development Engineer Advanced DRAM Boise, Idaho, United States of America Company Priority Posted 3 months ago",
+      "SENIOR ANALOG/AMS VERIFICATION ENGINEER - HBM Tlaquepaque, Jalisco, Mexico Company Priority Posted 2 months ago",
+      "Senior ASIC Test Engineer Zhubei City, Hsinchu County, Taiwan + 1 more Posted 4 hours ago",
+      "Senior Engineer - Capacity Planning Manufacturing Engineer",
+      "Senior Engineer - Capacity Planning Manufacturing Engineer Boise, Idaho, United States of America Company Priority Posted a day ago",
+      "Senior Engineer - Dry Etch HVM Area Manufacturing Engineer Boise, Idaho, United States of America Posted a day ago",
+      "Senior Engineer, Technology Development Operations Planning Singapore, Singapore Posted 21 days ago",
+      "Senior Industrial Engineer – AI Enablement Boise, Idaho, United States of America Posted 13 days ago",
+      "Staff Design Verification Engineer, DRAM Boise, Idaho, United States of America Company Priority Posted 11 days ago",
+      "US Expansion Layout Engineer Boise, Idaho, United States of America Company Priority Posted a day ago",
+      "US Expansion Planning Engineer Boise, Idaho, United States of America Posted 24 days ago",
+      "US Expansion Planning Engineer Boise, Idaho, United States of America Posted 8 days ago"
+    ],
+    "entry_only": true,
+    "last_checked": "2026-07-03T04:13:21",
+    "location": "Hyderabad"
+  },
+  "https://careers.microsoft.com/students/us/en/search-results": {
+    "company": "Microsoft",
+    "count": 12,
+    "entries": [
+      "\"Learn more about the Neurodiversity Hiring Program\"",
+      "Developer & IT",
+      "Digital Sales Specialist - AI Business Solutions - AI workforce - Danish speaking",
+      "Digital Sales Specialist - AI Business Solutions - AI workforce - English speaking",
+      "Digital Sales Specialist - AI Business Solutions - AI workforce - German speaking",
+      "Hiring programs",
+      "Hiring tips",
+      "Internship programs",
+      "Learn more about the Neurodiversity Hiring Program",
+      "Microsoft Developer",
+      "https://apply.careers.microsoft.com/careers",
+      "https://careers.microsoft.com/v2/global/en/hiring-tips/student-interviewing"
+    ],
+    "entry_only": true,
+    "last_checked": "2026-07-03T04:13:21",
+    "location": "India"
+  },
   "https://careers.mphasis.com/home/hot-jobs/location-search/india.html": {
     "company": "Mphasis",
     "count": 3,
@@ -112,7 +301,7 @@
       "Kaushik Ghosh, Business Analyst"
     ],
     "entry_only": true,
-    "last_checked": "2026-07-03T02:58:57",
+    "last_checked": "2026-07-03T04:13:21",
     "location": "India"
   },
   "https://careers.ntpc.co.in/": {
@@ -120,7 +309,7 @@
     "count": 0,
     "entries": [],
     "entry_only": true,
-    "last_checked": "2026-07-03T02:58:57",
+    "last_checked": "2026-07-03T04:13:21",
     "location": "India"
   },
   "https://careers.persistent.com/": {
@@ -130,6 +319,85 @@
     "entry_only": true,
     "last_checked": "2026-06-29T12:26:12",
     "location": "India"
+  },
+  "https://careers.qualcomm.com/careers": {
+    "company": "Qualcomm",
+    "count": 32,
+    "entries": [
+      "1. Lead Designer",
+      "2. Design Lead",
+      "3. Senior Design Lead",
+      "4. Senior Designer",
+      "5. Physical Design Engineer",
+      "ASICS Design Engineer, Senior to Staff Hsinchu City, Hsinchu City, Taiwan ASICS Engineering Posted 2 days ago",
+      "CPU Architecture Performance Engineer, Senior to Staff Level Hsinchu City, Hsinchu City, Taiwan ASICS Engineering Posted 4 months ago",
+      "CPU Physical Design Engineer, Senior Noida, Uttar Pradesh, India Hardware Engineering Posted 15 days ago",
+      "CPU Physical Design Engineer, Senior to Senior Staff Level Hsinchu City, Hsinchu City, Taiwan ASICS Engineering Posted 4 months ago",
+      "CPU Server Physical Design Engineer Santa Clara, California, United States of America CPU Engineering Posted 3 months ago",
+      "Camera ISP/IQ tuning Engineer, Senior to Staff Taipei, Taipei City, Taiwan Software Applications Engineering Posted 4 months ago",
+      "DC Char ATE Test Engineer, up to Sr. Hsinchu City, Hsinchu City, Taiwan Hardware Engineering Posted 4 hours ago",
+      "DFT Engineer (Senior to Staff level) Toronto, Ontario, Canada Hardware Engineering Posted a day ago",
+      "IT Data Engineer",
+      "IT Software Developer",
+      "Interim Engineering Intern - SW",
+      "Interim Intern",
+      "Intern",
+      "Manager",
+      "Note: Your past applications will be available when you sign in using the same email address you previously used to apply.",
+      "Package/System Design Engineer (PMIC SIP and Module) Hsinchu City, Hsinchu City, Taiwan Packaging Engineering Posted 4 hours ago",
+      "Package/System Design Solution Engineer, Senior Hsinchu City, Hsinchu City, Taiwan Packaging Engineering Posted 4 hours ago",
+      "Package/System Design Solution Engineer, Up to Senior Hsinchu City, Hsinchu City, Taiwan Packaging Engineering Posted 4 hours ago",
+      "Physical Design Engineer, Senior to Staff Level",
+      "Physical Design Engineer, Senior to Staff Level Taipei, Taipei City, Taiwan Systems Engineering Posted 4 hours ago",
+      "Physical Design Engineer, Sr/Lead/Staff Hyderabad, Telangana, India Hardware Engineering Posted 10 months ago",
+      "Physical Design Engineer- Senior Austin, Texas, United States of America ASICS Engineering Posted 3 days ago",
+      "Program Analyst",
+      "SENIOR PROGRAM MANAGER Shanghai, Shanghai, China Program Management Posted 4 hours ago",
+      "Sr Staff Engineer, Device Drivers Boulder, Colorado, United States of America Software Engineering Posted a day ago",
+      "Sr. Staff CPU Physical Design CAD Engineer Santa Clara, California, United States of America + 1 more CPU Engineering Posted 14 days ago",
+      "Thermal Engineer Hsinchu City, Hsinchu City, Taiwan Packaging Engineering Posted 4 hours ago"
+    ],
+    "entry_only": true,
+    "last_checked": "2026-07-03T04:13:21",
+    "location": "India"
+  },
+  "https://careers.razer.com/": {
+    "company": "Razer",
+    "count": 0,
+    "entries": [],
+    "entry_only": true,
+    "last_checked": "2026-07-03T04:13:21",
+    "location": "Singapore"
+  },
+  "https://careers.shopback.com/": {
+    "company": "ShopBack",
+    "count": 13,
+    "entries": [
+      "Associate Director II, IT Auditor and Cybersecurity Risk",
+      "Commercial Assistant Marketing Manager (ANZ market) Sydney, Australia Full-time hybrid",
+      "Commercial Associate Director, Business Development (Enterprise Accounts) Hong Kong, Hong Kong Full-time onsite",
+      "Commercial Business Development Executive (Fresh Graduate) Hong Kong, Hong Kong Full-time onsite",
+      "Commercial Business Development Lead (SMB Accounts) Hong Kong, Hong Kong Full-time onsite",
+      "Commercial Business Planning & Strategy Associate Kuala Lumpur, Malaysia Full-time onsite",
+      "Commercial Campaign Marketing Specialist (ANZ market) Sydney, Australia Full-time hybrid",
+      "Commercial Campaigns Associate Kuala Lumpur, Malaysia Full-time onsite",
+      "Commercial Creative Designer (6-months Contract) Manila, Philippines Contractor remote",
+      "Commercial Marketing Associate Kuala Lumpur, Malaysia Full-time onsite",
+      "Commercial Marketing Associate Taipei, Taiwan Full-time onsite",
+      "Commercial Senior Marketing Executive (ANZ market) Sydney, Australia Full-time hybrid",
+      "Senior Software Engineer II"
+    ],
+    "entry_only": true,
+    "last_checked": "2026-07-03T04:13:21",
+    "location": "Singapore"
+  },
+  "https://careers.shopee.sg/": {
+    "company": "Shopee (Sea)",
+    "count": 0,
+    "entries": [],
+    "entry_only": true,
+    "last_checked": "2026-07-03T04:13:21",
+    "location": "Singapore"
   },
   "https://careers.swiggy.com/": {
     "company": "Swiggy",
@@ -143,8 +411,40 @@
       "Senior Program Manager"
     ],
     "entry_only": false,
-    "last_checked": "2026-07-03T02:58:57",
+    "last_checked": "2026-07-03T04:13:21",
     "location": "Bengaluru"
+  },
+  "https://careers.synopsys.com/": {
+    "company": "Synopsys",
+    "count": 5,
+    "entries": [
+      "ASIC Digital Design, Manager",
+      "Apply",
+      "Engineer the Future",
+      "Executive Briefing Center",
+      "Senior Technical Support Engineer – Structural Simulation / FEA"
+    ],
+    "entry_only": true,
+    "last_checked": "2026-07-03T04:13:21",
+    "location": "Bengaluru"
+  },
+  "https://careers.talabat.com/": {
+    "company": "Talabat",
+    "count": 9,
+    "entries": [
+      "Account Manager",
+      "Account Manager - Alexandria",
+      "Apply",
+      "Assistant Manager Logistics Training",
+      "Assistant Manager Workforce Operations",
+      "Data Scientist II - Analysis, QC",
+      "Manager People Partnering (Instashop)",
+      "Specialist People Operations",
+      "Sr. Specialist Real Estate - Expansion"
+    ],
+    "entry_only": true,
+    "last_checked": "2026-07-03T04:13:21",
+    "location": "Dubai"
   },
   "https://careers.techmahindra.com/": {
     "company": "Tech Mahindra",
@@ -165,8 +465,28 @@
       "Technical Architect"
     ],
     "entry_only": true,
-    "last_checked": "2026-07-03T02:58:57",
+    "last_checked": "2026-07-03T04:13:21",
     "location": "India"
+  },
+  "https://careers.ti.com/": {
+    "company": "Texas Instruments",
+    "count": 0,
+    "entries": [],
+    "entry_only": true,
+    "last_checked": "2026-07-03T04:13:21",
+    "location": "Bengaluru"
+  },
+  "https://careers.walmart.com/technology": {
+    "company": "Walmart Global Tech",
+    "count": 3,
+    "entries": [
+      "Antony, Yield Manager",
+      "Christopher, Senior Manager, Food Media Insights",
+      "Tatiana, Software Engineer (iOS)"
+    ],
+    "entry_only": true,
+    "last_checked": "2026-07-03T04:13:21",
+    "location": "Bengaluru"
   },
   "https://careers.wipro.com/careers-home/jobs": {
     "company": "Wipro",
@@ -175,7 +495,7 @@
       "Cookie Consent Manager"
     ],
     "entry_only": true,
-    "last_checked": "2026-07-03T02:58:57",
+    "last_checked": "2026-07-03T04:13:21",
     "location": "India"
   },
   "https://careers.zohocorp.com/jobs/Careers": {
@@ -186,7 +506,7 @@
       "Looking to apply for a job?"
     ],
     "entry_only": true,
-    "last_checked": "2026-07-03T02:58:57",
+    "last_checked": "2026-07-03T04:13:21",
     "location": "India"
   },
   "https://cris.org.in/loadpage?page=indexcareer": {
@@ -467,7 +787,7 @@
       "six vacancy of Project Assistant in FOIS Group at New Delhi."
     ],
     "entry_only": true,
-    "last_checked": "2026-07-03T02:58:57",
+    "last_checked": "2026-07-03T04:13:21",
     "location": "New Delhi"
   },
   "https://darwinbox.com/careers": {
@@ -478,15 +798,52 @@
       "Product Marketing Lead"
     ],
     "entry_only": false,
-    "last_checked": "2026-07-03T02:58:57",
+    "last_checked": "2026-07-03T04:13:21",
     "location": "Hyderabad"
+  },
+  "https://facilio.com/careers/": {
+    "company": "Facilio",
+    "count": 2,
+    "entries": [
+      "Careers We are Hiring!",
+      "Product Marketing Manager"
+    ],
+    "entry_only": true,
+    "last_checked": "2026-07-03T04:13:21",
+    "location": "Chennai"
+  },
+  "https://fareye.com/careers/": {
+    "company": "FarEye",
+    "count": 1,
+    "entries": [
+      "Google Tag Manager sets the cookie to experiment advertisement efficiency of websites using their services."
+    ],
+    "entry_only": true,
+    "last_checked": "2026-07-03T04:13:21",
+    "location": "Pune"
+  },
+  "https://fractal.ai/careers/": {
+    "company": "Fractal Analytics",
+    "count": 0,
+    "entries": [],
+    "entry_only": true,
+    "last_checked": "2026-07-03T04:13:21",
+    "location": "India"
+  },
+  "https://fundingsocieties.com/careers/": {
+    "company": "Funding Societies",
+    "count": 0,
+    "entries": [],
+    "entry_only": true,
+    "last_checked": "2026-07-03T04:13:21",
+    "location": "Singapore"
   },
   "https://gailonline.com/IND_CareerCurrentOpenings.html": {
     "company": "GAIL",
     "count": 0,
     "entries": [],
     "entry_only": true,
-    "last_checked": "2026-07-03T02:58:57",
+    "last_checked": "2026-07-03T04:13:21",
     "location": "India"
   },
   "https://giftgujarat.in/company-job-openings": {
@@ -496,8 +853,57 @@
       "Developer Services"
     ],
     "entry_only": false,
-    "last_checked": "2026-07-03T02:58:57",
+    "last_checked": "2026-07-03T04:13:21",
     "location": "Gandhinagar"
+  },
+  "https://grab.careers/": {
+    "company": "Grab",
+    "count": 6,
+    "entries": [
+      "Account Management, Associate (Contract)",
+      "GRIT Trainee",
+      "Lead Software Engineer, Mobile (Android)",
+      "Manager, Post-Merger Integration (PMI) and Strategy",
+      "Senior Software Engineer, Backend",
+      "Software Engineer, Fullstack (w/DevOps)"
+    ],
+    "entry_only": true,
+    "last_checked": "2026-07-03T04:13:21",
+    "location": "Singapore"
+  },
+  "https://gramener.com/careers/": {
+    "company": "Gramener",
+    "count": 25,
+    "entries": [
+      "Can I apply more than one position at a time?",
+      "Data Analyst",
+      "Data Architect",
+      "Data Consultant",
+      "Data Engineer",
+      "Data Scientist",
+      "Data Scientist Bangalore Validate the models developed against statistical robustness and business sense.",
+      "Developer",
+      "How do I apply for a position at Gramener?",
+      "Internship is processed with technical assessment followed by discussion with the hiring manager.",
+      "Junior UI/UX Engineer Hyderabad/ Collaborate with marketing and sales teams to design and implement website updates and landing pages.",
+      "Lead Data Science Engineer at Gramener",
+      "Lead Data Scientist – SFE Analytics Hyderabad Worked extensively on SFE Analytics (Pharma preferred).",
+      "Mendix Developer Bangalore Develop and maintain applications using the Mendix low-code platform.",
+      "Python Architect Hyderabad/Bangalore/Chennai/Noida/Mumbai Architect and design new solutions and products for multiple domains.",
+      "Python Developer – GenAI/NLP Integration Hyderabad/Bangalore Core Python Development: 4–8 years of hands-on experience.",
+      "QA Engineer",
+      "Senior Full-Stack Developer Bangalore AWS or Azure cloud, Server management with basic visualization.",
+      "Snowflake Engineer",
+      "Snowflake Platform Engineer Hyderabad/Bangalore/Chennai Experience with monitoring, incident management, and platform governance.",
+      "UI UX Designer",
+      "What is the educational qualification criteria to apply for Gramener?",
+      "What is your process for Campus Hiring?",
+      "Yes, you may choose to apply for more than one position based on your fitment to the position.",
+      "You can visit our career website and apply to the suitable position. Please use the link :https://gramener.com/careers/"
+    ],
+    "entry_only": true,
+    "last_checked": "2026-07-03T04:13:21",
+    "location": "Hyderabad"
   },
   "https://groww.in/careers": {
     "company": "Groww",
@@ -506,7 +912,7 @@
       "Careers at Groww - Job Openings & Vacancy"
     ],
     "entry_only": false,
-    "last_checked": "2026-07-03T02:58:57",
+    "last_checked": "2026-07-03T04:13:21",
     "location": "Bengaluru"
   },
   "https://hal-india.co.in/career": {
@@ -518,6 +924,46 @@
     "entry_only": true,
     "last_checked": "2026-07-02T14:00:59",
     "location": "India"
+  },
+  "https://hasura.io/careers/": {
+    "company": "Hasura",
+    "count": 1,
+    "entries": [
+      "Forward Deployed Engineer"
+    ],
+    "entry_only": true,
+    "last_checked": "2026-07-03T04:13:21",
+    "location": "Bengaluru"
+  },
+  "https://hexaware.com/careers/": {
+    "company": "Hexaware",
+    "count": 0,
+    "entries": [],
+    "entry_only": true,
+    "last_checked": "2026-07-03T04:13:21",
+    "location": "India"
+  },
+  "https://ideas2it.com/careers/": {
+    "company": "Ideas2IT",
+    "count": 13,
+    "entries": [
+      "- Culture Lead",
+      "- Talent Lead",
+      "Careers We’re hiring",
+      "Data Architect",
+      "Data Engineer",
+      "Experiment with emerging tech. Lead outcomes. Drive real-world impact.",
+      "Hire Data Engineer Hire embedded engineers",
+      "Lead Data Scientist",
+      "Python Developer",
+      "QA AI QA, automation, coverage",
+      "Technical Architect",
+      "The Hiring Process Is Simple",
+      "We are hiring!"
+    ],
+    "entry_only": true,
+    "last_checked": "2026-07-03T04:13:21",
+    "location": "Chennai"
   },
   "https://innovaccer.com/careers": {
     "company": "Innovaccer",
@@ -532,6 +978,860 @@
     "last_checked": "2026-07-03T02:58:57",
     "location": "Noida"
   },
+  "https://internshala.com/internships/artificial-intelligence-internship/": {
+    "company": "Internshala (AI)",
+    "count": 85,
+    "entries": [
+      "AI Engineer (Agents & Orchestration)",
+      "Absolutely not! Internshala is a free platform. You don't have to pay anything to apply for internships on Internshala.",
+      "Accounts Fresher Job",
+      "Actively hiring",
+      "Apply",
+      "Architecture Internship",
+      "Artificial intelligence Internship in Bengaluru",
+      "Artificial intelligence Internship in Coimbatore",
+      "Artificial intelligence Internship in Delhi",
+      "Artificial intelligence Internship in Gurgaon",
+      "Artificial intelligence Internship in Hyderabad",
+      "Artificial intelligence Internship in Kolkata",
+      "Artificial intelligence Internships: Find 156 Artificial intelligence Intern Jobs",
+      "Business Analyst Fresher Job",
+      "Business/MBA Internship",
+      "Chemical Internship",
+      "Civil Fresher Job",
+      "Civil Fresher Jobs",
+      "Civil Internship",
+      "Click on 'Apply Now' and follow the steps to submit your application.",
+      "Computer Science Internship",
+      "Content Writing Internship",
+      "Creative Content & Video/Graphics Designer",
+      "Digital Marketing Fresher Job",
+      "Digital Marketing Fresher Jobs",
+      "Digital Marketing Internship",
+      "Electronics Internship",
+      "Engineering Internship",
+      "Finance Fresher Job",
+      "Finance Internship",
+      "Fresher Jobs",
+      "Fresher Jobs by Places",
+      "Fresher Jobs by Type",
+      "Fresher Jobs in Bangalore",
+      "Fresher Jobs in Chennai",
+      "Fresher Jobs in Delhi",
+      "Fresher Jobs in Gurgaon",
+      "Fresher Jobs in Hyderabad",
+      "Fresher Jobs in Kolkata",
+      "Fresher Jobs in Mumbai",
+      "Fresher Jobs in Noida",
+      "Fresher Jobs in Pune",
+      "Full Stack Developer course with placement",
+      "Game Designer",
+      "Go through the details thoroughly and apply for internships where your profile matches the requirements of the company.",
+      "Got an internship at Flipkart",
+      "Graphic Design Internship",
+      "HR Fresher Job",
+      "HR Fresher Jobs",
+      "HR Internship",
+      "Humanities Internship",
+      "If you are not registered on Internshala, register yourself today to find your dream internship.",
+      "International Internship",
+      "Internship by Location",
+      "Internship by Places",
+      "Internship by Stream",
+      "Internship in Bangalore",
+      "Internship in Chennai",
+      "Internship in Delhi",
+      "Internship in Gurgaon",
+      "Internship in Hyderabad",
+      "Internship in Jaipur",
+      "Internship in Kolkata",
+      "Internship in Mumbai",
+      "Internship in Pune",
+      "JAVA Fresher Job",
+      "Job offer post internship",
+      "Latest Artificial intelligence Intern Jobs",
+      "Law Internship",
+      "Lead Generation",
+      "MBA Fresher Job",
+      "MBA Fresher Jobs",
+      "Marketing Internship",
+      "Mechanical Internship",
+      "Part Time Fresher Jobs",
+      "Q. Do I need to pay to apply for an internship on Internshala?",
+      "Q. How can I apply for a artificial intelligence internship on Internshala?",
+      "SEO And Martech Specialist",
+      "Science Internship",
+      "Software Testing Fresher Job",
+      "View all fresher jobs",
+      "View all internship",
+      "We're hiring",
+      "You can apply for a artificial intelligence internship or artificial intelligence intern job using the following steps-",
+      "post internship"
+    ],
+    "entry_only": true,
+    "last_checked": "2026-07-03T04:13:21",
+    "location": "India"
+  },
+  "https://internshala.com/internships/internship-in-chennai/": {
+    "company": "Internshala Chennai",
+    "count": 92,
+    "entries": [
+      "Absolutely not! Internshala is a free platform. You don't have to pay anything to apply for internships in Chennai on Internshala.",
+      "Accounts Fresher Job",
+      "Actively hiring",
+      "Apply",
+      "Architecture Internship",
+      "Business Analyst Fresher Job",
+      "Business/MBA Internship",
+      "Chemical Internship",
+      "Civil Fresher Job",
+      "Civil Fresher Jobs",
+      "Civil Internship",
+      "Click on 'Apply Now' and follow the steps to submit your application.",
+      "Computer Science Internship",
+      "Content Developer (Intern To Full Time Opportunity)",
+      "Content Writing Internship",
+      "Data Analyst Internships in Chennai",
+      "Digital Marketing Fresher Job",
+      "Digital Marketing Fresher Jobs",
+      "Digital Marketing Internship",
+      "Electronics Internship",
+      "Engineering Internship",
+      "Finance Fresher Job",
+      "Finance Internship",
+      "Find personalised internship matches in",
+      "Fresher Jobs",
+      "Fresher Jobs by Places",
+      "Fresher Jobs by Type",
+      "Fresher Jobs in Bangalore",
+      "Fresher Jobs in Chennai",
+      "Fresher Jobs in Chennai for Freshers",
+      "Fresher Jobs in Delhi",
+      "Fresher Jobs in Gurgaon",
+      "Fresher Jobs in Hyderabad",
+      "Fresher Jobs in Kolkata",
+      "Fresher Jobs in Mumbai",
+      "Fresher Jobs in Noida",
+      "Fresher Jobs in Pune",
+      "Full Stack Developer course with placement",
+      "Go through the details thoroughly and apply for internships where your profile matches the requirements of the company.",
+      "Got an internship at Flipkart",
+      "Graphic Design Internship",
+      "HR Consultant",
+      "HR Fresher Job",
+      "HR Fresher Jobs",
+      "HR Internship",
+      "Humanities Internship",
+      "If you are not registered on Internshala, register yourself today to find your dream internship.",
+      "Implementation Engineer",
+      "International Internship",
+      "Internship by Places",
+      "Internship by Stream",
+      "Internship in Bangalore",
+      "Internship in Chennai",
+      "Internship in Delhi",
+      "Internship in Gurgaon",
+      "Internship in Hyderabad",
+      "Internship in Jaipur",
+      "Internship in Kolkata",
+      "Internship in Mumbai",
+      "Internship in Pune",
+      "JAVA Fresher Job",
+      "Latest Intern Jobs in Chennai",
+      "Latest Internship/ Jobs in Chennai",
+      "Law Internship",
+      "Lead Generation",
+      "Lead Management",
+      "MBA Fresher Job",
+      "MBA Fresher Jobs",
+      "Marketing Internship",
+      "Mechanical Internship",
+      "Part Time Fresher Jobs",
+      "Part Time Fresher Jobs in Chennai",
+      "Part Time Internship in Chennai",
+      "Part Time Work From Home Fresher Jobs in Chennai",
+      "Part Time Work From Home Internship in Chennai",
+      "Q. Do I need to pay to apply for an internship in Chennai in Internshala?",
+      "Q. How can I apply for an internship in Chennai on Internshala?",
+      "Relationship Manager",
+      "Sales & Service Engineer",
+      "Science Internship",
+      "Site Engineer - Interior And Fit Out",
+      "Software Testing Fresher Job",
+      "There are 100+ internship categories available in Chennai. Here are the top 5 categories for internships in Chennai-",
+      "Ui/Ux Designer Internships in Chennai",
+      "View all fresher jobs",
+      "View all internship",
+      "We're hiring",
+      "Web Developer Internships in Chennai",
+      "Work From Home Internship in Chennai",
+      "Work from Home Fresher Jobs in Chennai",
+      "You can apply for an internship in Chennai or internship jobs in Chennai on Internshala using the following steps-",
+      "post internship"
+    ],
+    "entry_only": true,
+    "last_checked": "2026-07-03T04:13:21",
+    "location": "Chennai"
+  },
+  "https://internshala.com/internships/internship-in-dehradun/": {
+    "company": "Internshala Dehradun",
+    "count": 80,
+    "entries": [
+      "Absolutely not! Internshala is a free platform. You don't have to pay anything to apply for internships in Dehradun on Internshala.",
+      "Accounts Fresher Job",
+      "Actively hiring",
+      "Apply",
+      "Architecture Internship",
+      "Business Analyst Fresher Job",
+      "Business/MBA Internship",
+      "Chemical Internship",
+      "Civil Fresher Job",
+      "Civil Fresher Jobs",
+      "Civil Internship",
+      "Click on 'Apply Now' and follow the steps to submit your application.",
+      "Computer Science Internship",
+      "Content Writing Internship",
+      "Data Analyst Internships in Dehradun",
+      "Digital Marketing Fresher Job",
+      "Digital Marketing Fresher Jobs",
+      "Digital Marketing Internship",
+      "Electronics Internship",
+      "Engineering Internship",
+      "Finance Fresher Job",
+      "Finance Internship",
+      "Find personalised internship matches in",
+      "Fresher Jobs",
+      "Fresher Jobs by Places",
+      "Fresher Jobs by Type",
+      "Fresher Jobs in Bangalore",
+      "Fresher Jobs in Chennai",
+      "Fresher Jobs in Dehradun for Freshers",
+      "Fresher Jobs in Delhi",
+      "Fresher Jobs in Gurgaon",
+      "Fresher Jobs in Hyderabad",
+      "Fresher Jobs in Kolkata",
+      "Fresher Jobs in Mumbai",
+      "Fresher Jobs in Noida",
+      "Fresher Jobs in Pune",
+      "Full Stack Developer course with placement",
+      "Go through the details thoroughly and apply for internships where your profile matches the requirements of the company.",
+      "Got an internship at Flipkart",
+      "Graphic Design Internship",
+      "HR Fresher Job",
+      "HR Fresher Jobs",
+      "HR Internship",
+      "Humanities Internship",
+      "If you are not registered on Internshala, register yourself today to find your dream internship.",
+      "International Internship",
+      "Internship by Places",
+      "Internship by Stream",
+      "Internship in Bangalore",
+      "Internship in Chennai",
+      "Internship in Delhi",
+      "Internship in Gurgaon",
+      "Internship in Hyderabad",
+      "Internship in Jaipur",
+      "Internship in Kolkata",
+      "Internship in Mumbai",
+      "Internship in Pune",
+      "JAVA Fresher Job",
+      "Latest Intern Jobs in Dehradun",
+      "Law Internship",
+      "Lead Generation",
+      "MBA Fresher Job",
+      "MBA Fresher Jobs",
+      "Marketing Internship",
+      "Mechanical Internship",
+      "Part Time Fresher Jobs",
+      "Q. Do I need to pay to apply for an internship in Dehradun on Internshala?",
+      "Q. How can I apply for an internship in Dehradun on Internshala?",
+      "Science Internship",
+      "Selected intern's day-to-day responsibilities 1. Handling social media 2. Connecting with clients 3. Maintain finances sheet",
+      "Software Testing Fresher Job",
+      "There are 100+ internship categories available in Dehradun. Here are the top 5 categories for internships in Dehradun-",
+      "Ui/Ux Designer Internships in Dehradun",
+      "Unity Developer",
+      "View all fresher jobs",
+      "View all internship",
+      "We're hiring",
+      "Web Developer Internships in Dehradun",
+      "You can apply for an internship in Dehradun or internship jobs in Dehradun on Internshala using the following steps-",
+      "post internship"
+    ],
+    "entry_only": true,
+    "last_checked": "2026-07-03T04:13:21",
+    "location": "Dehradun"
+  },
+  "https://internshala.com/internships/internship-in-gandhinagar/": {
+    "company": "Internshala Gandhinagar",
+    "count": 77,
+    "entries": [
+      "Absolutely not! Internshala is a free platform. You don't have to pay anything to apply for internships in Gandhinagar on Internshala.",
+      "Accounts Fresher Job",
+      "Actively hiring",
+      "Apply",
+      "Architecture Internship",
+      "Business Analyst Fresher Job",
+      "Business/MBA Internship",
+      "Chemical Internship",
+      "Civil Fresher Job",
+      "Civil Fresher Jobs",
+      "Civil Internship",
+      "Click on 'Apply Now' and follow the steps to submit your application.",
+      "Computer Science Internship",
+      "Content Writing Internship",
+      "Data Analyst Internships in Gandhinagar",
+      "Digital Marketing Fresher Job",
+      "Digital Marketing Fresher Jobs",
+      "Digital Marketing Internship",
+      "Electronics Internship",
+      "Engineering Internship",
+      "Finance Fresher Job",
+      "Finance Internship",
+      "Find personalised internship matches in",
+      "Fresher Jobs",
+      "Fresher Jobs by Places",
+      "Fresher Jobs by Type",
+      "Fresher Jobs in Bangalore",
+      "Fresher Jobs in Chennai",
+      "Fresher Jobs in Delhi",
+      "Fresher Jobs in Gandhinagar for Freshers",
+      "Fresher Jobs in Gurgaon",
+      "Fresher Jobs in Hyderabad",
+      "Fresher Jobs in Kolkata",
+      "Fresher Jobs in Mumbai",
+      "Fresher Jobs in Noida",
+      "Fresher Jobs in Pune",
+      "Full Stack Developer course with placement",
+      "Go through the details thoroughly and apply for internships where your profile matches the requirements of the company.",
+      "Got an internship at Flipkart",
+      "Graphic Design Internship",
+      "HR Fresher Job",
+      "HR Fresher Jobs",
+      "HR Internship",
+      "Humanities Internship",
+      "If you are not registered on Internshala, register yourself today to find your dream internship.",
+      "International Internship",
+      "Internship by Places",
+      "Internship by Stream",
+      "Internship in Bangalore",
+      "Internship in Chennai",
+      "Internship in Delhi",
+      "Internship in Gurgaon",
+      "Internship in Hyderabad",
+      "Internship in Jaipur",
+      "Internship in Kolkata",
+      "Internship in Mumbai",
+      "Internship in Pune",
+      "JAVA Fresher Job",
+      "Latest Intern Jobs in Gandhinagar",
+      "Law Internship",
+      "MBA Fresher Job",
+      "MBA Fresher Jobs",
+      "Marketing Internship",
+      "Mechanical Internship",
+      "Part Time Fresher Jobs",
+      "Q. Do I need to pay to apply for an internship in Gandhinagar on Internshala?",
+      "Q. How can I apply for an internship in Gandhinagar on Internshala?",
+      "Science Internship",
+      "Software Testing Fresher Job",
+      "There are 100+ internship categories available in Gandhinagar. Here are the top 5 categories for internships in Gandhinagar-",
+      "Ui/Ux Designer Internships in Gandhinagar",
+      "View all fresher jobs",
+      "View all internship",
+      "We're hiring",
+      "Web Developer Internships in Gandhinagar",
+      "You can apply for an internship in Gandhinagar or internship jobs in Gandhinagar on Internshala using the following steps-",
+      "post internship"
+    ],
+    "entry_only": true,
+    "last_checked": "2026-07-03T04:13:21",
+    "location": "Gandhinagar"
+  },
+  "https://internshala.com/internships/internship-in-gurgaon/": {
+    "company": "Internshala Gurgaon",
+    "count": 83,
+    "entries": [
+      "Absolutely not! Internshala is a free platform. You don't have to pay anything to apply for internships in Gurgaon on Internshala.",
+      "Accounts Executive",
+      "Accounts Fresher Job",
+      "Actively hiring",
+      "Apply",
+      "Architecture Internship",
+      "Business Analyst Fresher Job",
+      "Business/MBA Internship",
+      "Chemical Internship",
+      "Civil Fresher Job",
+      "Civil Fresher Jobs",
+      "Civil Internship",
+      "Click on 'Apply Now' and follow the steps to submit your application.",
+      "Computer Science Internship",
+      "Content Writing Internship",
+      "Data Analyst Internships in Gurgaon",
+      "Digital Marketing Fresher Job",
+      "Digital Marketing Fresher Jobs",
+      "Digital Marketing Internship",
+      "Electronics Internship",
+      "Engineering Internship",
+      "Finance Fresher Job",
+      "Finance Internship",
+      "Find personalised internship matches in",
+      "Fresher Jobs",
+      "Fresher Jobs by Places",
+      "Fresher Jobs by Type",
+      "Fresher Jobs in Bangalore",
+      "Fresher Jobs in Chennai",
+      "Fresher Jobs in Delhi",
+      "Fresher Jobs in Gurgaon",
+      "Fresher Jobs in Gurgaon for Freshers",
+      "Fresher Jobs in Hyderabad",
+      "Fresher Jobs in Kolkata",
+      "Fresher Jobs in Mumbai",
+      "Fresher Jobs in Noida",
+      "Fresher Jobs in Pune",
+      "Full Stack Developer course with placement",
+      "Game Designer",
+      "Go through the details thoroughly and apply for internships where your profile matches the requirements of the company.",
+      "Got an internship at Flipkart",
+      "Graphic Design Internship",
+      "HR Fresher Job",
+      "HR Fresher Jobs",
+      "HR Internship",
+      "Humanities Internship",
+      "If you are not registered on Internshala, register yourself today to find your dream internship.",
+      "International Internship",
+      "Internship by Places",
+      "Internship by Stream",
+      "Internship in Bangalore",
+      "Internship in Chennai",
+      "Internship in Delhi",
+      "Internship in Gurgaon",
+      "Internship in Hyderabad",
+      "Internship in Jaipur",
+      "Internship in Kolkata",
+      "Internship in Mumbai",
+      "Internship in Pune",
+      "JAVA Fresher Job",
+      "Latest Intern Jobs in Gurgaon",
+      "Law Internship",
+      "MBA Fresher Job",
+      "MBA Fresher Jobs",
+      "Marketing Internship",
+      "Mechanical Internship",
+      "Operations Executive - Customer Support",
+      "Part Time Fresher Jobs",
+      "Q. Do I need to pay to apply for an internship in Gurgaon in Internshala?",
+      "Q. How can I apply for an internship in Gurgaon on Internshala?",
+      "Sales Executive",
+      "Science Internship",
+      "Social Media Executive - Female Bengali Speaker",
+      "Software Testing Fresher Job",
+      "There are 100+ internship categories available in Gurgaon. Here are the top 5 categories for internships in Gurgaon-",
+      "Travel Consultant",
+      "Ui/Ux Designer Internships in Gurgaon",
+      "View all fresher jobs",
+      "View all internship",
+      "We're hiring",
+      "Web Developer Internships in Gurgaon",
+      "You can apply for an internship in Gurgaon or internship jobs in Gurgaon on Internshala using the following steps-",
+      "post internship"
+    ],
+    "entry_only": true,
+    "last_checked": "2026-07-03T04:13:21",
+    "location": "Gurugram"
+  },
+  "https://internshala.com/internships/internship-in-noida/": {
+    "company": "Internshala Noida",
+    "count": 90,
+    "entries": [
+      "Absolutely not! Internshala is a free platform. You don't have to pay anything to apply for internships in Noida on Internshala.",
+      "Accounts Executive",
+      "Accounts Fresher Job",
+      "Actively hiring",
+      "Apply",
+      "Architecture Internship",
+      "Business Analyst Fresher Job",
+      "Business/MBA Internship",
+      "Chemical Internship",
+      "Civil Fresher Job",
+      "Civil Fresher Jobs",
+      "Civil Internship",
+      "Click on 'Apply Now' and follow the steps to submit your application.",
+      "Computer Science Internship",
+      "Content Writing Internship",
+      "Data Analyst Internships in Noida",
+      "Digital Marketing Fresher Job",
+      "Digital Marketing Fresher Jobs",
+      "Digital Marketing Internship",
+      "Electronics Internship",
+      "Engineering Internship",
+      "Finance Fresher Job",
+      "Finance Internship",
+      "Find personalised internship matches in",
+      "Fresher Jobs",
+      "Fresher Jobs by Places",
+      "Fresher Jobs by Type",
+      "Fresher Jobs in Bangalore",
+      "Fresher Jobs in Chennai",
+      "Fresher Jobs in Delhi",
+      "Fresher Jobs in Gurgaon",
+      "Fresher Jobs in Hyderabad",
+      "Fresher Jobs in Kolkata",
+      "Fresher Jobs in Mumbai",
+      "Fresher Jobs in Noida",
+      "Fresher Jobs in Noida for Freshers",
+      "Fresher Jobs in Pune",
+      "Full Stack Developer course with placement",
+      "Game Designer",
+      "Go through the details thoroughly and apply for internships where your profile matches the requirements of the company.",
+      "Got an internship at Flipkart",
+      "Graphic Design Internship",
+      "HR Fresher Job",
+      "HR Fresher Jobs",
+      "HR Internship",
+      "Humanities Internship",
+      "If you are not registered on Internshala, register yourself today to find your dream internship.",
+      "International Internship",
+      "Internship by Places",
+      "Internship by Stream",
+      "Internship in Bangalore",
+      "Internship in Chennai",
+      "Internship in Delhi",
+      "Internship in Gurgaon",
+      "Internship in Hyderabad",
+      "Internship in Jaipur",
+      "Internship in Kolkata",
+      "Internship in Mumbai",
+      "Internship in Pune",
+      "JAVA Fresher Job",
+      "Latest Intern Jobs in Noida",
+      "Latest Internship/ Jobs in Noida",
+      "Law Internship",
+      "MBA Fresher Job",
+      "MBA Fresher Jobs",
+      "Marketing Internship",
+      "Mechanical Internship",
+      "Operations Executive - Customer Support",
+      "Part Time Fresher Jobs",
+      "Part Time Fresher Jobs in Noida",
+      "Part Time Internship in Noida",
+      "Part Time Work From Home Fresher Jobs in Noida",
+      "Part Time Work From Home Internship in Noida",
+      "Q. Do I need to pay to apply for an internship in Noida on Internshala?",
+      "Q. How can I apply for an internship in Noida on Internshala?",
+      "Sales Executive",
+      "Science Internship",
+      "Social Media Executive - Female Bengali Speaker",
+      "Software Testing Fresher Job",
+      "There are 100+ internship categories available in Noida. Here are the top 5 categories for internships in Noida-",
+      "Travel Consultant",
+      "Ui/Ux Designer Internships in Noida",
+      "View all fresher jobs",
+      "View all internship",
+      "We're hiring",
+      "Web Developer Internships in Noida",
+      "Work From Home Internship in Noida",
+      "Work from Home Fresher Jobs in Noida",
+      "You can apply for an internship in Noida or internship jobs in Noida on Internshala using the following steps-",
+      "post internship"
+    ],
+    "entry_only": true,
+    "last_checked": "2026-07-03T04:13:21",
+    "location": "Noida"
+  },
+  "https://internshala.com/internships/internship-in-pune/": {
+    "company": "Internshala Pune",
+    "count": 89,
+    "entries": [
+      "Absolutely not! Internshala is a free platform. You don't have to pay anything to apply for internships in Pune on Internshala.",
+      "Accounts Fresher Job",
+      "Actively hiring",
+      "Apply",
+      "Architecture Internship",
+      "Business Analyst Fresher Job",
+      "Business/MBA Internship",
+      "Chemical Internship",
+      "Civil Fresher Job",
+      "Civil Fresher Jobs",
+      "Civil Internship",
+      "Click on 'Apply Now' and follow the steps to submit your application.",
+      "Computer Science Internship",
+      "Content Writer Intern",
+      "Content Writing Internship",
+      "Customer Relationship Manager",
+      "Data Analyst Internships in Pune",
+      "Digital Marketing Fresher Job",
+      "Digital Marketing Fresher Jobs",
+      "Digital Marketing Internship",
+      "Electronics Internship",
+      "Engineering Internship",
+      "Finance Fresher Job",
+      "Finance Internship",
+      "Find personalised internship matches in",
+      "Fresher Jobs",
+      "Fresher Jobs by Places",
+      "Fresher Jobs by Type",
+      "Fresher Jobs in Bangalore",
+      "Fresher Jobs in Chennai",
+      "Fresher Jobs in Delhi",
+      "Fresher Jobs in Gurgaon",
+      "Fresher Jobs in Hyderabad",
+      "Fresher Jobs in Kolkata",
+      "Fresher Jobs in Mumbai",
+      "Fresher Jobs in Noida",
+      "Fresher Jobs in Pune",
+      "Fresher Jobs in Pune for Freshers",
+      "Full Stack Developer course with placement",
+      "Go through the details thoroughly and apply for internships where your profile matches the requirements of the company.",
+      "Got an internship at Flipkart",
+      "Graphic Design Internship",
+      "HR Fresher Job",
+      "HR Fresher Jobs",
+      "HR Internship",
+      "Humanities Internship",
+      "If you are not registered on Internshala, register yourself today to find your dream internship.",
+      "International Internship",
+      "Internship by Places",
+      "Internship by Stream",
+      "Internship in Bangalore",
+      "Internship in Chennai",
+      "Internship in Delhi",
+      "Internship in Gurgaon",
+      "Internship in Hyderabad",
+      "Internship in Jaipur",
+      "Internship in Kolkata",
+      "Internship in Mumbai",
+      "Internship in Pune",
+      "JAVA Fresher Job",
+      "Latest Intern Jobs in Pune",
+      "Latest Internship/ Jobs in Pune",
+      "Law Internship",
+      "Lead Generation",
+      "MBA Fresher Job",
+      "MBA Fresher Jobs",
+      "Marketing Internship",
+      "Mechanical Internship",
+      "Part Time Fresher Jobs",
+      "Part Time Fresher Jobs in Pune",
+      "Part Time Internship in Pune",
+      "Part Time Work From Home Fresher Jobs in Pune",
+      "Part Time Work From Home Internship in Pune",
+      "Procurement Executive",
+      "Q. Do I need to pay to apply for an internship in Pune in Internshala?",
+      "Q. How can I apply for an internship in Pune on Internshala?",
+      "Sales Executive",
+      "Science Internship",
+      "Software Testing Fresher Job",
+      "There are 100+ internship categories available in Pune. Here are the top 5 categories for internships in Pune-",
+      "Ui/Ux Designer Internships in Pune",
+      "View all fresher jobs",
+      "View all internship",
+      "We're hiring",
+      "Web Developer Internships in Pune",
+      "Work From Home Internship in Pune",
+      "Work from Home Fresher Jobs in Pune",
+      "You can apply for an internship in Pune or internship jobs in Pune on Internshala using the following steps-",
+      "post internship"
+    ],
+    "entry_only": true,
+    "last_checked": "2026-07-03T04:13:21",
+    "location": "Pune"
+  },
+  "https://internshala.com/internships/machine-learning-internship/": {
+    "company": "Internshala (ML)",
+    "count": 85,
+    "entries": [
+      "AI Engineer",
+      "AI Engineer (Agents & Orchestration)",
+      "AI/ML Inference Kernel Engineer",
+      "Absolutely not! Internshala is a free platform. You don't have to pay anything to apply for internships on Internshala.",
+      "Accounts Fresher Job",
+      "Actively hiring",
+      "Apply",
+      "Architecture Internship",
+      "Business Analyst Fresher Job",
+      "Business/MBA Internship",
+      "Chemical Internship",
+      "Civil Fresher Job",
+      "Civil Fresher Jobs",
+      "Civil Internship",
+      "Click on 'Apply Now' and follow the steps to submit your application.",
+      "Computer Science Internship",
+      "Content Writing Internship",
+      "Data Scientist",
+      "Digital Marketing Fresher Job",
+      "Digital Marketing Fresher Jobs",
+      "Digital Marketing Internship",
+      "Electronics Internship",
+      "Engineering Internship",
+      "Finance Fresher Job",
+      "Finance Internship",
+      "Forward Deployed Engineer Trainee (SLMs)",
+      "Fresher Jobs",
+      "Fresher Jobs by Places",
+      "Fresher Jobs by Type",
+      "Fresher Jobs in Bangalore",
+      "Fresher Jobs in Chennai",
+      "Fresher Jobs in Delhi",
+      "Fresher Jobs in Gurgaon",
+      "Fresher Jobs in Hyderabad",
+      "Fresher Jobs in Kolkata",
+      "Fresher Jobs in Mumbai",
+      "Fresher Jobs in Noida",
+      "Fresher Jobs in Pune",
+      "Go through the details thoroughly and apply for internships where your profile matches the requirements of the company.",
+      "Got an internship at Flipkart",
+      "Graphic Design Internship",
+      "HR Fresher Job",
+      "HR Fresher Jobs",
+      "HR Internship",
+      "Humanities Internship",
+      "If you are not registered on Internshala, register yourself today to find your dream internship.",
+      "International Internship",
+      "Internship by Location",
+      "Internship by Places",
+      "Internship by Stream",
+      "Internship in Bangalore",
+      "Internship in Chennai",
+      "Internship in Delhi",
+      "Internship in Gurgaon",
+      "Internship in Hyderabad",
+      "Internship in Jaipur",
+      "Internship in Kolkata",
+      "Internship in Mumbai",
+      "Internship in Pune",
+      "JAVA Fresher Job",
+      "Job offer post internship",
+      "Latest Machine Learning Intern Jobs",
+      "Law Internship",
+      "MBA Fresher Job",
+      "MBA Fresher Jobs",
+      "Machine Learning Internship in Bengaluru",
+      "Machine Learning Internship in Coimbatore",
+      "Machine Learning Internship in Delhi",
+      "Machine Learning Internship in Gurgaon",
+      "Machine Learning Internship in Hyderabad",
+      "Machine Learning Internship in Kolkata",
+      "Machine Learning Internships: Find 143 Machine Learning Intern Jobs",
+      "Marketing Internship",
+      "Mechanical Internship",
+      "Part Time Fresher Jobs",
+      "Q. Do I need to pay to apply for an internship on Internshala?",
+      "Q. How can I apply for a machine learning internship on Internshala?",
+      "Science Internship",
+      "Software Testing Fresher Job",
+      "Technical Analyst",
+      "View all fresher jobs",
+      "View all internship",
+      "We're hiring",
+      "You can apply for a machine learning internship or machine learning intern job using the following steps-",
+      "post internship"
+    ],
+    "entry_only": true,
+    "last_checked": "2026-07-03T04:13:21",
+    "location": "India"
+  },
+  "https://internshala.com/internships/software-development-internship/": {
+    "company": "Internshala (SDE)",
+    "count": 92,
+    "entries": [
+      "AI Engineer (Agents & Orchestration)",
+      "AI/ML Inference Kernel Engineer",
+      "Absolutely not! Internshala is a free platform. You don't have to pay anything to apply for internships on Internshala.",
+      "Accounts Fresher Job",
+      "Actively hiring",
+      "Apply",
+      "Architecture Internship",
+      "Business Analyst Fresher Job",
+      "Business/MBA Internship",
+      "Chemical Internship",
+      "Civil Fresher Job",
+      "Civil Fresher Jobs",
+      "Civil Internship",
+      "Click on 'Apply Now' and follow the steps to submit your application.",
+      "Computer Science Internship",
+      "Content Writing Internship",
+      "DevOps",
+      "Developer Of Automation Tools",
+      "Digital Marketing Fresher Job",
+      "Digital Marketing Fresher Jobs",
+      "Digital Marketing Internship",
+      "Electronics Internship",
+      "Engineering Internship",
+      "Finance Fresher Job",
+      "Finance Internship",
+      "Fresher Jobs",
+      "Fresher Jobs by Places",
+      "Fresher Jobs by Type",
+      "Fresher Jobs in Bangalore",
+      "Fresher Jobs in Chennai",
+      "Fresher Jobs in Delhi",
+      "Fresher Jobs in Gurgaon",
+      "Fresher Jobs in Hyderabad",
+      "Fresher Jobs in Kolkata",
+      "Fresher Jobs in Mumbai",
+      "Fresher Jobs in Noida",
+      "Fresher Jobs in Pune",
+      "Full Stack Developer course with placement",
+      "Game Designer",
+      "Go through the details thoroughly and apply for internships where your profile matches the requirements of the company.",
+      "Got an internship at Flipkart",
+      "Graphic Design Internship",
+      "HR Fresher Job",
+      "HR Fresher Jobs",
+      "HR Internship",
+      "Humanities Internship",
+      "If you are not registered on Internshala, register yourself today to find your dream internship.",
+      "Implementation Engineer",
+      "International Internship",
+      "Internship by Location",
+      "Internship by Places",
+      "Internship by Stream",
+      "Internship in Bangalore",
+      "Internship in Chennai",
+      "Internship in Delhi",
+      "Internship in Gurgaon",
+      "Internship in Hyderabad",
+      "Internship in Jaipur",
+      "Internship in Kolkata",
+      "Internship in Mumbai",
+      "Internship in Pune",
+      "JAVA Fresher Job",
+      "Job offer post internship",
+      "Latest Software Development Intern Jobs in India",
+      "Law Internship",
+      "MBA Fresher Job",
+      "MBA Fresher Jobs",
+      "Marketing Internship",
+      "Mechanical Internship",
+      "Part Time Fresher Jobs",
+      "Part Time Software Development Fresher Jobs",
+      "Part Time Software Development Work From Home Fresher Jobs",
+      "Q. Do I need to pay to apply for an internship on Internshala?",
+      "Q. How can I apply for a software development internship on Internshala?",
+      "SAP Cloud Developer - Trainee - Fresher",
+      "Science Internship",
+      "Software Development Fresher Jobs",
+      "Software Development Internship in Bengaluru",
+      "Software Development Internship in Coimbatore",
+      "Software Development Internship in Delhi",
+      "Software Development Internship in Gurgaon",
+      "Software Development Internship in Hyderabad",
+      "Software Development Internship in Kolkata",
+      "Software Development Internships: 216+ Software Development Intern Jobs",
+      "Software Development Work From Home Fresher Jobs",
+      "Software Testing Fresher Job",
+      "Technical Analyst",
+      "View all fresher jobs",
+      "View all internship",
+      "We're hiring",
+      "You can apply for a software development internship or software development intern job using the following steps-",
+      "post internship"
+    ],
+    "entry_only": true,
+    "last_checked": "2026-07-03T04:13:21",
+    "location": "India"
+  },
   "https://iocl.com/latest-job-openings": {
     "company": "IOCL",
     "count": 2,
@@ -540,8 +1840,74 @@
       "Latest Job Opening"
     ],
     "entry_only": true,
-    "last_checked": "2026-07-03T02:58:57",
+    "last_checked": "2026-07-03T04:13:21",
     "location": "India"
+  },
+  "https://kissflow.com/careers/": {
+    "company": "Kissflow",
+    "count": 6,
+    "entries": [
+      "Analyst Reports",
+      "Developer Hub",
+      "IT Manager - SoftBank",
+      "Lead Type (Not in Use)",
+      "Lead source",
+      "Manager - Digital Marketing Experience: 8 - 12 years Explore More"
+    ],
+    "entry_only": true,
+    "last_checked": "2026-07-03T04:13:21",
+    "location": "Chennai"
+  },
+  "https://kore.ai/careers/": {
+    "company": "Kore.ai",
+    "count": 18,
+    "entries": [
+      "AI Solution Sales Specialist",
+      "Account Executive",
+      "Analyst Recognition",
+      "Architect - Information Security",
+      "Automation Test Engineer",
+      "Cloud & Infrastructure Security Architect",
+      "Cloud Support & DevOPS Engineer",
+      "Cloud Support & DevOps",
+      "DevOPS Engineer - NorCal",
+      "Forward Deployed Engineer",
+      "Lead AI Customer Engineer — Fanatic Customer Support",
+      "Manager — Fanatic Customer Support Engineering",
+      "Sales Engineer, Thailand",
+      "Senior FP&A Analyst (Professional Services & Renewals)",
+      "Service Reliability Operations Manager",
+      "Site Reliability Engineer (SRE)",
+      "Software Engineer/Senior Software Engineer - Technical Support",
+      "Technical Support Manager (Product Support)"
+    ],
+    "entry_only": true,
+    "last_checked": "2026-07-03T04:13:21",
+    "location": "Hyderabad"
+  },
+  "https://ninjacart.com/careers/": {
+    "company": "Ninjacart",
+    "count": 0,
+    "entries": [],
+    "entry_only": true,
+    "last_checked": "2026-07-03T04:13:21",
+    "location": "Bengaluru"
+  },
+  "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite": {
+    "company": "NVIDIA",
+    "count": 0,
+    "entries": [],
+    "entry_only": true,
+    "last_checked": "2026-07-03T04:13:21",
+    "location": "India"
+  },
+  "https://nxp.wd3.myworkdayjobs.com/careers": {
+    "company": "NXP India",
+    "count": 0,
+    "entries": [],
+    "entry_only": true,
+    "last_checked": "2026-07-03T04:13:21",
+    "location": "Noida"
   },
   "https://paytm.com/careers": {
     "company": "Paytm",
@@ -553,145 +1919,296 @@
     "last_checked": "2026-07-03T02:58:57",
     "location": "Noida"
   },
+  "https://pharmeasy.in/careers/": {
+    "company": "PharmEasy",
+    "count": 0,
+    "entries": [],
+    "entry_only": true,
+    "last_checked": "2026-07-03T04:13:21",
+    "location": "Gurugram"
+  },
+  "https://pubmatic.com/careers/": {
+    "company": "PubMatic",
+    "count": 5,
+    "entries": [
+      "Country Manager, Greater China & Korea",
+      "Executive Dialogues",
+      "Learn more about the many opportunities we have open as we lead ad tech innovation around the world.",
+      "Manager, Human Resources",
+      "Senior Manager, Legal Operations"
+    ],
+    "entry_only": true,
+    "last_checked": "2026-07-03T04:13:21",
+    "location": "Pune"
+  },
+  "https://radixweb.com/careers": {
+    "company": "Radixweb",
+    "count": 0,
+    "entries": [],
+    "entry_only": true,
+    "last_checked": "2026-07-03T04:13:21",
+    "location": "Ahmedabad"
+  },
+  "https://razorpay.com/jobs/": {
+    "company": "Razorpay",
+    "count": 3,
+    "entries": [
+      "Build autonomous agents and re-engineer systems with unlimited tokens to scale fintech at 100x velocity.",
+      "Developer Docs",
+      "Razorpay Careers | Jobs, Hiring & Career Opportunities at Razorpay"
+    ],
+    "entry_only": true,
+    "last_checked": "2026-07-03T04:13:21",
+    "location": "Bengaluru"
+  },
+  "https://research.samsung.com/careers": {
+    "company": "Samsung R&D India",
+    "count": 0,
+    "entries": [],
+    "entry_only": true,
+    "last_checked": "2026-07-03T04:13:21",
+    "location": "Bengaluru"
+  },
   "https://sharechat.com/careers": {
     "company": "ShareChat",
-    "count": 8,
+    "count": 2,
     "entries": [
-      "Intern - Telugu - Business Development(Sales)",
-      "Intern - Video Editor",
-      "Lead - Legal & Company Secretary",
-      "Manager - Corporate Development & IR",
-      "Senior Associate-Finance",
       "Senior Product Analyst",
-      "Senior Product Designer - IC",
       "Talent Acquisition Manager - UK"
     ],
     "entry_only": false,
-    "last_checked": "2026-07-03T02:58:57",
+    "last_checked": "2026-07-03T04:13:21",
+    "location": "Bengaluru"
+  },
+  "https://sigtuple.com/careers": {
+    "company": "SigTuple",
+    "count": 2,
+    "entries": [
+      "AI-powered microscopy is reaching patients in places where specialist pathologists never could. Here are three stories from the field.",
+      "Scientist Builds AI-Enabled Device to Help Diagnose Diseases in Under a Minute"
+    ],
+    "entry_only": true,
+    "last_checked": "2026-07-03T04:13:21",
+    "location": "Bengaluru"
+  },
+  "https://skill-lync.com/careers": {
+    "company": "Skill-Lync",
+    "count": 6,
+    "entries": [
+      "GD&T Basics: How to Read and Apply GD&T Symbols",
+      "Post Graduate Program in CAD",
+      "Post Graduate Program in Computational Fluid Dynamics",
+      "Post Graduate Program in Electric Vehicle Design & Development",
+      "Post Graduate Program in Hybrid Electric Vehicle Design and Analysis",
+      "We enjoy what we create together. We fuel curiosity and foster creativity. We take pride in adding value to every engineer’s life."
+    ],
+    "entry_only": true,
+    "last_checked": "2026-07-03T04:13:21",
+    "location": "Hyderabad"
+  },
+  "https://tabby.ai/careers": {
+    "company": "Tabby",
+    "count": 29,
+    "entries": [
+      "AML Associate",
+      "Account Management Specialist",
+      "Ad Ops Specialist",
+      "Analyst, Information Security",
+      "CX - Operations Specialist",
+      "Commercial Operations Executive",
+      "Commercial Operations Manager I",
+      "Compliance Associate",
+      "Experience Lead",
+      "FinOps Associate",
+      "In-Store Success Executive (In-store Sales Executive)",
+      "Information Security Analyst l (PenTester)",
+      "Internal Audit Lead - Operations",
+      "Internal Audit Manager - Financial Crime",
+      "Internal Audit Manager - Financial Risk",
+      "Lead with empathy",
+      "Legal Specialist",
+      "Merchant Onboarding Manager II",
+      "Process Analyst (Customer Experience)",
+      "RegTech Manager",
+      "Senior Backend Engineer II",
+      "Senior Data Analyst",
+      "Senior Data Analyst (CX)",
+      "Senior Manager, Internal Audit (UAE National)",
+      "Senior Marketing Analyst, Marketing Analytics",
+      "Senior ServiceDesk Reliability Engineer - SDRE",
+      "ServiceDesk Engineer L1",
+      "Technical Project Manager (AI focus)",
+      "Training Lead - Saudi National"
+    ],
+    "entry_only": true,
+    "last_checked": "2026-07-03T04:13:21",
+    "location": "Dubai"
+  },
+  "https://tower-research.com/open-positions/": {
+    "company": "Tower Research Capital",
+    "count": 0,
+    "entries": [],
+    "entry_only": true,
+    "last_checked": "2026-07-03T04:13:21",
+    "location": "Gurugram"
+  },
+  "https://wellfound.com/location/bangalore": {
+    "company": "Wellfound",
+    "count": 0,
+    "entries": [],
+    "entry_only": true,
+    "last_checked": "2026-07-03T04:13:21",
+    "location": "Bengaluru"
+  },
+  "https://whatfix.com/careers/": {
+    "company": "Whatfix",
+    "count": 7,
+    "entries": [
+      "Acorn accelerated recruiter onboarding time 80% with Whatfix Learn more",
+      "Careers Hiring",
+      "Great question! Here are a few tips for successfully navigating the Whatfix hiring process.",
+      "How do I apply for an open role at Whatfix?",
+      "No compromise in hiring, We will sacrifice speed in hiring. We want to hire & work with people who are better than us.",
+      "What is Whatfix’s hiring process?",
+      "You can apply for an open role through our Careers page by submitting your resume and filling out an online application."
+    ],
+    "entry_only": true,
+    "last_checked": "2026-07-03T04:13:21",
     "location": "Bengaluru"
   },
   "https://www.accenture.com/in-en/careers/jobsearch?fl=Bengaluru": {
     "company": "Accenture",
-    "count": 22,
+    "count": 25,
     "entries": [
-      "AI Native Software Engineering Analyst",
-      "Analytics and Modeling Analyst",
-      "Application Architecture Senior Analyst",
-      "Application Support Engineer",
-      "Application/Cloud Support Associate Manager",
-      "Application/Cloud Support Team Lead/Consultant",
+      "AGBG Mid Market Operations Senior Analyst",
       "Apply",
       "Apply filter",
-      "Business & Technology Delivery Senior Analyst",
-      "Custom Software Engineer",
-      "Custom Software Engineering Senior Analyst",
-      "Customer Service Associate",
-      "Forward Deployed Engineer",
+      "Business Operations Senior Analyst",
+      "Client Account Leadership Senior Manager",
+      "Enterprise AI Value Strategy Manager",
       "Hiring journey",
+      "IMU - AI & Data Manager",
+      "IMU CAL Senior Manager",
+      "IMU Sales Capture Associate Director",
+      "IMU Sales Capture Senior Manager",
+      "IMU-Brand and Marketing Strategist Senior Manager",
+      "IMU-CAL-CMT-Senior Manager",
+      "IMU-SONG Strategy Consultant",
+      "IMU-SONG Strategy Manager",
       "Industry Analyst Recognition",
-      "Packaged Application Development Senior Analyst",
-      "Procure to Pay Operations Specialist",
-      "Procure to Pay Operations Team Lead/Consultant",
-      "Record to Report Operations New Associate",
-      "Record to Report Ops New Associate",
       "Recruiting and Hiring Privacy Statement",
-      "Technology Platform Engineer"
+      "Sales Capture Associate Director",
+      "Sales Capture Senior Manager",
+      "Strategy Innovation Associate Director",
+      "Strategy Manager",
+      "Strategy Senior Manager",
+      "Strategy Team Lead/Consultant",
+      "Workplace Service Delivery Associate Manager",
+      "Workplace Service Delivery Associate Manager-Events"
     ],
     "entry_only": true,
-    "last_checked": "2026-07-03T02:58:57",
+    "last_checked": "2026-07-03T04:13:21",
     "location": "Bengaluru"
   },
   "https://www.accenture.com/in-en/careers/jobsearch?fl=Gurugram": {
     "company": "Accenture",
-    "count": 22,
+    "count": 24,
     "entries": [
-      "AI Native Software Engineering Analyst",
-      "Analytics and Modeling Analyst",
-      "Application Architecture Senior Analyst",
-      "Application Support Engineer",
-      "Application/Cloud Support Associate Manager",
-      "Application/Cloud Support Team Lead/Consultant",
-      "Apply",
+      "AGBG Mid Market Operations Senior Analyst",
       "Apply filter",
-      "Business & Technology Delivery Senior Analyst",
-      "Custom Software Engineer",
-      "Custom Software Engineering Senior Analyst",
-      "Customer Service Associate",
-      "Forward Deployed Engineer",
+      "Business Operations Senior Analyst",
+      "Client Account Leadership Senior Manager",
+      "Enterprise AI Value Strategy Manager",
       "Hiring journey",
+      "IMU - AI & Data Manager",
+      "IMU CAL Senior Manager",
+      "IMU Sales Capture Associate Director",
+      "IMU Sales Capture Senior Manager",
+      "IMU-Brand and Marketing Strategist Senior Manager",
+      "IMU-CAL-CMT-Senior Manager",
+      "IMU-SONG Strategy Consultant",
+      "IMU-SONG Strategy Manager",
       "Industry Analyst Recognition",
-      "Packaged Application Development Senior Analyst",
-      "Procure to Pay Operations Specialist",
-      "Procure to Pay Operations Team Lead/Consultant",
-      "Record to Report Operations New Associate",
-      "Record to Report Ops New Associate",
       "Recruiting and Hiring Privacy Statement",
-      "Technology Platform Engineer"
+      "Sales Capture Associate Director",
+      "Sales Capture Senior Manager",
+      "Strategy Innovation Associate Director",
+      "Strategy Manager",
+      "Strategy Senior Manager",
+      "Strategy Team Lead/Consultant",
+      "Workplace Service Delivery Associate Manager",
+      "Workplace Service Delivery Associate Manager-Events"
     ],
     "entry_only": true,
-    "last_checked": "2026-07-03T02:58:57",
+    "last_checked": "2026-07-03T04:13:21",
     "location": "Gurugram"
   },
   "https://www.accenture.com/in-en/careers/jobsearch?fl=Hyderabad": {
     "company": "Accenture",
-    "count": 22,
+    "count": 25,
     "entries": [
-      "AI Native Software Engineering Analyst",
-      "Analytics and Modeling Analyst",
-      "Application Architecture Senior Analyst",
-      "Application Support Engineer",
-      "Application/Cloud Support Associate Manager",
-      "Application/Cloud Support Team Lead/Consultant",
+      "AGBG Mid Market Operations Senior Analyst",
       "Apply",
       "Apply filter",
-      "Business & Technology Delivery Senior Analyst",
-      "Custom Software Engineer",
-      "Custom Software Engineering Senior Analyst",
-      "Customer Service Associate",
-      "Forward Deployed Engineer",
+      "Business Operations Senior Analyst",
+      "Client Account Leadership Senior Manager",
+      "Enterprise AI Value Strategy Manager",
       "Hiring journey",
+      "IMU - AI & Data Manager",
+      "IMU CAL Senior Manager",
+      "IMU Sales Capture Associate Director",
+      "IMU Sales Capture Senior Manager",
+      "IMU-Brand and Marketing Strategist Senior Manager",
+      "IMU-CAL-CMT-Senior Manager",
+      "IMU-SONG Strategy Consultant",
+      "IMU-SONG Strategy Manager",
       "Industry Analyst Recognition",
-      "Packaged Application Development Senior Analyst",
-      "Procure to Pay Operations Specialist",
-      "Procure to Pay Operations Team Lead/Consultant",
-      "Record to Report Operations New Associate",
-      "Record to Report Ops New Associate",
       "Recruiting and Hiring Privacy Statement",
-      "Technology Platform Engineer"
+      "Sales Capture Associate Director",
+      "Sales Capture Senior Manager",
+      "Strategy Innovation Associate Director",
+      "Strategy Manager",
+      "Strategy Senior Manager",
+      "Strategy Team Lead/Consultant",
+      "Workplace Service Delivery Associate Manager",
+      "Workplace Service Delivery Associate Manager-Events"
     ],
     "entry_only": true,
-    "last_checked": "2026-07-03T02:58:57",
+    "last_checked": "2026-07-03T04:13:21",
     "location": "Hyderabad"
   },
   "https://www.accenture.com/in-en/careers/jobsearch?fl=Pune": {
     "company": "Accenture",
-    "count": 22,
+    "count": 25,
     "entries": [
-      "AI Native Software Engineering Analyst",
-      "Analytics and Modeling Analyst",
-      "Application Architecture Senior Analyst",
-      "Application Support Engineer",
-      "Application/Cloud Support Associate Manager",
-      "Application/Cloud Support Team Lead/Consultant",
+      "AGBG Mid Market Operations Senior Analyst",
       "Apply",
       "Apply filter",
-      "Business & Technology Delivery Senior Analyst",
-      "Custom Software Engineer",
-      "Custom Software Engineering Senior Analyst",
-      "Customer Service Associate",
-      "Forward Deployed Engineer",
+      "Business Operations Senior Analyst",
+      "Client Account Leadership Senior Manager",
+      "Enterprise AI Value Strategy Manager",
       "Hiring journey",
+      "IMU - AI & Data Manager",
+      "IMU CAL Senior Manager",
+      "IMU Sales Capture Associate Director",
+      "IMU Sales Capture Senior Manager",
+      "IMU-Brand and Marketing Strategist Senior Manager",
+      "IMU-CAL-CMT-Senior Manager",
+      "IMU-SONG Strategy Consultant",
+      "IMU-SONG Strategy Manager",
       "Industry Analyst Recognition",
-      "Packaged Application Development Senior Analyst",
-      "Procure to Pay Operations Specialist",
-      "Procure to Pay Operations Team Lead/Consultant",
-      "Record to Report Operations New Associate",
-      "Record to Report Ops New Associate",
       "Recruiting and Hiring Privacy Statement",
-      "Technology Platform Engineer"
+      "Sales Capture Associate Director",
+      "Sales Capture Senior Manager",
+      "Strategy Innovation Associate Director",
+      "Strategy Manager",
+      "Strategy Senior Manager",
+      "Strategy Team Lead/Consultant",
+      "Workplace Service Delivery Associate Manager",
+      "Workplace Service Delivery Associate Manager-Events"
     ],
     "entry_only": true,
-    "last_checked": "2026-07-03T02:58:57",
+    "last_checked": "2026-07-03T04:13:21",
     "location": "Pune"
   },
   "https://www.accenture.com/in-en/careers/life-at-accenture/entry-level": {
@@ -707,6 +2224,74 @@
     "entry_only": true,
     "last_checked": "2026-07-03T02:58:57",
     "location": "India"
+  },
+  "https://www.alpha-grep.com/careers/": {
+    "company": "AlphaGrep",
+    "count": 0,
+    "entries": [],
+    "entry_only": true,
+    "last_checked": "2026-07-03T04:13:21",
+    "location": "Bengaluru"
+  },
+  "https://www.amazon.jobs/en/search?base_query=intern&loc_query=India": {
+    "company": "Amazon India",
+    "count": 13,
+    "entries": [
+      "Available to complete a 12-month internship working 30hs/week",
+      "Available to complete a 12-month internship working 30hs/week Intermediate knowledge of English",
+      "Business Analyst Intern",
+      "Engineering Intern",
+      "Executive Assistant Intern",
+      "Financial Analyst Intern",
+      "HR Assistant Intern",
+      "IT Legal Intern",
+      "People Manager",
+      "Program Manager Intern",
+      "Public Policy Intern",
+      "UX Researcher Intern",
+      "intern | India"
+    ],
+    "entry_only": true,
+    "last_checked": "2026-07-03T04:13:21",
+    "location": "India"
+  },
+  "https://www.atherenergy.com/careers": {
+    "company": "Ather Energy",
+    "count": 0,
+    "entries": [],
+    "entry_only": true,
+    "last_checked": "2026-07-03T04:13:21",
+    "location": "Bengaluru"
+  },
+  "https://www.atlassian.com/company/careers/all-jobs": {
+    "company": "Atlassian",
+    "count": 2,
+    "entries": [
+      "Apply",
+      "Developer support"
+    ],
+    "entry_only": true,
+    "last_checked": "2026-07-03T04:13:21",
+    "location": "Bengaluru"
+  },
+  "https://www.auberginesolutions.com/careers/": {
+    "company": "Aubergine Solutions",
+    "count": 10,
+    "entries": [
+      "As an intern, you'll bring the knowledge and skills from your studies to life while working alongside industry experts on global projects.",
+      "Experience real-world learning and accelerate your career progression with our internship program.",
+      "I started my career at Aubergine as a UX designer and grew to become a Lead UX designer.",
+      "I started my journey at Aubergine as a Software Engineer Intern and grew with the organization over six years.",
+      "JumpCloud - Senior Software Engineer",
+      "Lead UI Designer",
+      "Senior Lead Designer",
+      "Software Engineer",
+      "Software Engineer & UX Design Jobs | Aubergine Solutions",
+      "Technical Lead"
+    ],
+    "entry_only": true,
+    "last_checked": "2026-07-03T04:13:21",
+    "location": "Ahmedabad"
   },
   "https://www.avenuesai.com/career-opportunities": {
     "company": "Infibeam AvenuesAI",
@@ -734,7 +2319,7 @@
       "product delivery. The Java Technical Lead will facilitate requirement analyses, conduct peer reviews and provide feedback."
     ],
     "entry_only": false,
-    "last_checked": "2026-07-03T02:58:57",
+    "last_checked": "2026-07-03T04:13:21",
     "location": "Gandhinagar"
   },
   "https://www.azilen.com/careers/": {
@@ -747,7 +2332,7 @@
       "Software QA Services"
     ],
     "entry_only": false,
-    "last_checked": "2026-07-03T02:58:57",
+    "last_checked": "2026-07-03T04:13:21",
     "location": "Ahmedabad"
   },
   "https://www.bacancytechnology.com/careers": {
@@ -837,8 +2422,24 @@
       "iOS Developer"
     ],
     "entry_only": false,
-    "last_checked": "2026-07-03T02:58:57",
+    "last_checked": "2026-07-03T04:13:21",
     "location": "Ahmedabad"
+  },
+  "https://www.bayut.com/careers/": {
+    "company": "Bayut / dubizzle",
+    "count": 0,
+    "entries": [],
+    "entry_only": true,
+    "last_checked": "2026-07-03T04:13:21",
+    "location": "Dubai"
+  },
+  "https://www.biofourmis.com/careers/": {
+    "company": "Biofourmis",
+    "count": 0,
+    "entries": [],
+    "entry_only": true,
+    "last_checked": "2026-07-03T04:13:21",
+    "location": "Singapore"
   },
   "https://www.brainvire.com/freshers/": {
     "company": "Brainvire",
@@ -851,7 +2452,7 @@
       "Your Future Starts Here: Join Our Team as an MBA Fresher and Make Your Mark"
     ],
     "entry_only": true,
-    "last_checked": "2026-07-03T02:58:57",
+    "last_checked": "2026-07-03T04:13:21",
     "location": "Ahmedabad"
   },
   "https://www.capgemini.com/in-en/careers/career-paths/students-and-graduates/": {
@@ -877,6 +2478,14 @@
     "last_checked": "2026-06-29T12:26:12",
     "location": "India"
   },
+  "https://www.careem.com/careers": {
+    "company": "Careem",
+    "count": 0,
+    "entries": [],
+    "entry_only": true,
+    "last_checked": "2026-07-03T04:13:21",
+    "location": "Dubai"
+  },
   "https://www.cars24.com/careers/": {
     "company": "Cars24",
     "count": 4,
@@ -887,8 +2496,119 @@
       "Senior UI/UX Designer"
     ],
     "entry_only": false,
-    "last_checked": "2026-07-03T02:58:57",
+    "last_checked": "2026-07-03T04:13:21",
     "location": "Gurugram"
+  },
+  "https://www.cashfree.com/careers/": {
+    "company": "Cashfree",
+    "count": 9,
+    "entries": [
+      "Assistant Manager - Merchant Onboarding",
+      "Associate Director - Banking & Alliance Product",
+      "Careers Hiring",
+      "Dedicated account manager",
+      "Manager - Government Affairs",
+      "Process Lead - Customer Success",
+      "Senior Manager - Emerging Business",
+      "Senior Manager - Revenue Strategy & Sales Enablement",
+      "Software Development Engineer - 3"
+    ],
+    "entry_only": true,
+    "last_checked": "2026-07-03T04:13:21",
+    "location": "Bengaluru"
+  },
+  "https://www.chargebee.com/careers/": {
+    "company": "Chargebee",
+    "count": 2,
+    "entries": [
+      "Developer",
+      "Join a Global Product Company | Hiring Globally"
+    ],
+    "entry_only": true,
+    "last_checked": "2026-07-03T04:13:21",
+    "location": "Chennai"
+  },
+  "https://www.clear.in/careers": {
+    "company": "Clear (ClearTax)",
+    "count": 1,
+    "entries": [
+      "Tax Consultant Services"
+    ],
+    "entry_only": true,
+    "last_checked": "2026-07-03T04:13:21",
+    "location": "Bengaluru"
+  },
+  "https://www.codapayments.com/careers": {
+    "company": "Coda Payments",
+    "count": 2,
+    "entries": [
+      "Apply",
+      "Hiring"
+    ],
+    "entry_only": true,
+    "last_checked": "2026-07-03T04:13:21",
+    "location": "Singapore"
+  },
+  "https://www.crestdata.ai/careers/": {
+    "company": "Crest Data",
+    "count": 4,
+    "entries": [
+      "Co-founder and Chief Executive Officer",
+      "DevOps",
+      "DevOps & Automation",
+      "We are Hiring!"
+    ],
+    "entry_only": true,
+    "last_checked": "2026-07-03T04:13:21",
+    "location": "Ahmedabad"
+  },
+  "https://www.cult.fit/careers": {
+    "company": "Cult.fit",
+    "count": 0,
+    "entries": [],
+    "entry_only": true,
+    "last_checked": "2026-07-03T04:13:21",
+    "location": "Bengaluru"
+  },
+  "https://www.cybage.com/careers": {
+    "company": "Cybage",
+    "count": 4,
+    "entries": [
+      "ALM & DevOps",
+      "Analyst Recognition",
+      "Apply",
+      "Azure Specialist"
+    ],
+    "entry_only": true,
+    "last_checked": "2026-07-03T04:13:21",
+    "location": "Pune"
+  },
+  "https://www.cygnet-infotech.com/careers": {
+    "company": "Cygnet Infotech",
+    "count": 2,
+    "entries": [
+      "AI-Powered Interviewing Helped an Education Group Reduce Hiring Time Significantly",
+      "Test consulting and maturity assessments for reliable software QA"
+    ],
+    "entry_only": true,
+    "last_checked": "2026-07-03T04:13:21",
+    "location": "Ahmedabad"
+  },
+  "https://www.cyient.com/careers": {
+    "company": "Cyient",
+    "count": 7,
+    "entries": [
+      "Apply",
+      "FP&A Analyst",
+      "Senior Manager - IT Infra",
+      "Senior Project Manager",
+      "Solution Architect - Software, Digital Hyderabad",
+      "Sr. Manager - Business Process",
+      "The Technology Career Path empowers talent to apply breakthrough insights in aerospace, rail, and beyond."
+    ],
+    "entry_only": true,
+    "last_checked": "2026-07-03T04:13:21",
+    "location": "Hyderabad"
   },
   "https://www.delhivery.com/careers": {
     "company": "Delhivery",
@@ -897,8 +2617,33 @@
       "Developer Documentation"
     ],
     "entry_only": false,
-    "last_checked": "2026-07-03T02:58:57",
+    "last_checked": "2026-07-03T04:13:21",
     "location": "Gurugram"
+  },
+  "https://www.deshawindia.com/careers": {
+    "company": "D. E. Shaw India",
+    "count": 16,
+    "entries": [
+      "A successful hiring process often includes an application review,",
+      "As an intern, you’ll work with a team on complex projects that have direct impact on the firm’s business and processes.",
+      "Be sure to fill out each of the required fields in this section. You may skip any portion of the form that clearly does not apply to you.",
+      "Can I apply for multiple positions?",
+      "Fresh Graduate Roles",
+      "How do I apply for an internship at D. E. Shaw India Private Limited?",
+      "How do I apply to D. E. Shaw India Private Limited?",
+      "Interviewing is important to our hiring process. As we get to know you better, you’ll get the chance to know our firm better, too.",
+      "Is D. E. Shaw India Private Limited hiring for locations other than Hyderabad?",
+      "Our hiring process may be lengthy, but it is designed to allow us to consider you for every possible opportunity that might interest you.",
+      "To apply for this job, please email your resume and the job title to",
+      "To explore career opportunities and apply for positions within the firm, please visit our",
+      "We invite you to explore your interests through our lateral- and campus-hiring initiatives.",
+      "Yes! You can apply for multiple positions through our",
+      "Yes, we are actively hiring for multiple positions at our",
+      "in Bengaluru and Gurugram. You can apply for these positions through our"
+    ],
+    "entry_only": true,
+    "last_checked": "2026-07-03T04:13:21",
+    "location": "Hyderabad"
   },
   "https://www.devitpl.com/careers/": {
     "company": "Dev Information Technology",
@@ -933,8 +2678,139 @@
       "Technical Support Executive"
     ],
     "entry_only": false,
-    "last_checked": "2026-07-03T02:58:57",
+    "last_checked": "2026-07-03T04:13:21",
     "location": "Gandhinagar"
+  },
+  "https://www.eand.com/en/careers.html": {
+    "company": "e& (Etisalat)",
+    "count": 1,
+    "entries": [
+      "Analyst Coverage"
+    ],
+    "entry_only": true,
+    "last_checked": "2026-07-03T04:13:21",
+    "location": "Dubai"
+  },
+  "https://www.emiratesgroupcareers.com/": {
+    "company": "Emirates Group",
+    "count": 1,
+    "entries": [
+      "Apply"
+    ],
+    "entry_only": true,
+    "last_checked": "2026-07-03T04:13:21",
+    "location": "Dubai"
+  },
+  "https://www.flipkartcareers.com/": {
+    "company": "Flipkart",
+    "count": 0,
+    "entries": [],
+    "entry_only": true,
+    "last_checked": "2026-07-03T04:13:21",
+    "location": "Bengaluru"
+  },
+  "https://www.fresha.com/careers": {
+    "company": "Fresha",
+    "count": 7,
+    "entries": [
+      ", Software Engineer",
+      "Account Manager (Berlin) Berlin, Germany · Commercial",
+      "Account Manager New York, United States · Commercial",
+      "Backend Engineer (B2B - Warsaw) Warsaw, Poland · Engineering",
+      "Business Development Manager - (Paris) Mandarin Speaking Paris, France · Commercial",
+      "Staff Backend Engineer (B2B - Warsaw) Warsaw, Poland · Engineering",
+      "Team Lead - Platform Engineering (London) London, United Kingdom · Engineering"
+    ],
+    "entry_only": true,
+    "last_checked": "2026-07-03T04:13:21",
+    "location": "Dubai"
+  },
+  "https://www.freshworks.com/company/careers/": {
+    "company": "Freshworks",
+    "count": 2,
+    "entries": [
+      "Apply",
+      "Cookie Preference Manager"
+    ],
+    "entry_only": true,
+    "last_checked": "2026-07-03T04:13:21",
+    "location": "Chennai"
+  },
+  "https://www.genpact.com/careers": {
+    "company": "Genpact",
+    "count": 5,
+    "entries": [
+      "Analyst and Advisor Rankings",
+      "Apply",
+      "Binita Nair, Consultant, Better World Initiative, India",
+      "Genpact never requires applicants to pay to be part of our hiring process.",
+      "We're hiring!"
+    ],
+    "entry_only": true,
+    "last_checked": "2026-07-03T04:13:21",
+    "location": "India"
+  },
+  "https://www.google.com/about/careers/applications/jobs/results/?location=India&employment_type=INTERN": {
+    "company": "Google",
+    "count": 2,
+    "entries": [
+      "Candidates will be able to share location preferences later in the hiring process.",
+      "Intern"
+    ],
+    "entry_only": true,
+    "last_checked": "2026-07-03T04:13:21",
+    "location": "India"
+  },
+  "https://www.gravitontrading.com/careers.html": {
+    "company": "Graviton Research Capital",
+    "count": 0,
+    "entries": [],
+    "entry_only": true,
+    "last_checked": "2026-07-03T04:13:21",
+    "location": "Gurugram"
+  },
+  "https://www.gupshup.io/careers": {
+    "company": "Gupshup",
+    "count": 1,
+    "entries": [
+      "Apply"
+    ],
+    "entry_only": true,
+    "last_checked": "2026-07-03T04:13:21",
+    "location": "Bengaluru"
+  },
+  "https://www.happiestminds.com/careers/": {
+    "company": "Happiest Minds",
+    "count": 14,
+    "entries": [
+      "Adobe Audience Manager",
+      "Adobe Experience Manager",
+      "Analyst Mentions",
+      "Customer Service Manager,",
+      "DevOps",
+      "Developer Engagement Platform",
+      "Devops – UK",
+      "Gen AI QA Services",
+      "GenAI QA",
+      "Google Tag Manager sets the cookie to experiment advertisement efficiency of websites using their services.",
+      "Intelligent Quality Engineer (IQE)",
+      "Intelligent Quality Engineer (IQE) an impressive quality engineering solution...",
+      "Local Hiring and Acquisitions Key to Mid-cap IT Firms’",
+      "eCommerce Manager, Ilmor Engineering, Inc."
+    ],
+    "entry_only": true,
+    "last_checked": "2026-07-03T04:13:21",
+    "location": "Bengaluru"
+  },
+  "https://www.haptik.ai/careers": {
+    "company": "Haptik",
+    "count": 1,
+    "entries": [
+      "AI Lead Qualification Agent"
+    ],
+    "entry_only": true,
+    "last_checked": "2026-07-03T04:13:21",
+    "location": "Mumbai"
   },
   "https://www.hcltech.com/careers/jobs": {
     "company": "HCLTech",
@@ -947,6 +2823,41 @@
     "entry_only": true,
     "last_checked": "2026-06-29T12:26:12",
     "location": "India"
+  },
+  "https://www.highradius.com/careers/": {
+    "company": "HighRadius",
+    "count": 3,
+    "entries": [
+      "Analyst Report",
+      "Analyst Reports",
+      "Google Tag Manager sets the cookie to experiment advertisement efficiency of websites using their services."
+    ],
+    "entry_only": true,
+    "last_checked": "2026-07-03T04:13:21",
+    "location": "Hyderabad"
+  },
+  "https://www.huspy.com/careers": {
+    "company": "Huspy",
+    "count": 0,
+    "entries": [],
+    "entry_only": true,
+    "last_checked": "2026-07-03T04:13:21",
+    "location": "Dubai"
+  },
+  "https://www.hyperlinkinfosystem.com/careers": {
+    "company": "Hyperlink InfoSystem",
+    "count": 6,
+    "entries": [
+      "DevOps",
+      "Don't settle for the ordinary, fill your project gaps with exceptional skills by hiring a developer for your special needs.",
+      "Hire IoT Solution Architect",
+      "Hiring a backend developer could be a daunting task, but not with Hyperlink InfoSystem. Hire your backend master with us.",
+      "Immerse them in your universe by hiring a game developer with us. Fuel your app ambitions with the best game developers in the industry.",
+      "On the lookout for a coding wizard? Hire a developer from Hyperlink InfoSystem and build brilliance together."
+    ],
+    "entry_only": true,
+    "last_checked": "2026-07-03T04:13:21",
+    "location": "Ahmedabad"
   },
   "https://www.ibm.com/in-en/careers/career-opportunities": {
     "company": "IBM",
@@ -973,16 +2884,57 @@
     "count": 0,
     "entries": [],
     "entry_only": true,
-    "last_checked": "2026-06-29T12:26:12",
+    "last_checked": "2026-07-03T04:13:21",
     "location": "India"
+  },
+  "https://www.icertis.com/company/careers/": {
+    "company": "Icertis",
+    "count": 3,
+    "entries": [
+      "Analyst & Research Reports",
+      "Analyst Reports",
+      "Apply"
+    ],
+    "entry_only": true,
+    "last_checked": "2026-07-03T04:13:21",
+    "location": "Pune"
+  },
+  "https://www.indiumsoftware.com/careers": {
+    "company": "Indium Software",
+    "count": 12,
+    "entries": [
+      ".Net Developer / Mendix Developer / Power Apps Developer / Power Platforms",
+      "AI / ML Architect, Java Architect / Solutions Architect",
+      "AI may power our systems — but people power Indium. Join us, and let’s engineer infinite possibilities together.",
+      "Backend Developer / Front-end Developer / Full-stack Developer / Cloud & DevOps Engineer",
+      "Chief AI Architect",
+      "Data Scientist / Data Engineer / Data Analyst",
+      "Engineer Infinite Possibilities",
+      "Lead - Brand Marketing",
+      "QA Full-stack Developer / SDET / Automation Test Engineer",
+      "Sketches, Steps, and Serendipity: My Journey from Artist to Adventurer to Designer at Indium",
+      "Software Engineer",
+      "Test Engineer"
+    ],
+    "entry_only": true,
+    "last_checked": "2026-07-03T04:13:21",
+    "location": "Chennai"
   },
   "https://www.infosys.com/careers/graduates.html": {
     "company": "Infosys",
     "count": 0,
     "entries": [],
     "entry_only": true,
-    "last_checked": "2026-07-03T02:58:57",
+    "last_checked": "2026-07-03T04:13:21",
     "location": "India"
+  },
+  "https://www.intel.com/content/www/us/en/jobs/locations/india.html": {
+    "company": "Intel India",
+    "count": 0,
+    "entries": [],
+    "entry_only": true,
+    "last_checked": "2026-07-03T04:13:21",
+    "location": "Bengaluru"
   },
   "https://www.irctc.com/new-openings.php": {
     "company": "IRCTC",
@@ -1000,7 +2952,7 @@
       "Requirement of Rajbhasa Consultant for IRCTC/NZ."
     ],
     "entry_only": false,
-    "last_checked": "2026-07-02T19:28:07",
+    "last_checked": "2026-07-03T04:13:21",
     "location": "New Delhi"
   },
   "https://www.isro.gov.in/Careers.html": {
@@ -1012,7 +2964,15 @@
       "Web Information Manager"
     ],
     "entry_only": true,
-    "last_checked": "2026-07-03T02:58:57",
+    "last_checked": "2026-07-03T04:13:21",
+    "location": "India"
+  },
+  "https://www.jumptrading.com/careers/": {
+    "company": "Jump Trading",
+    "count": 0,
+    "entries": [],
+    "entry_only": true,
+    "last_checked": "2026-07-03T04:13:21",
     "location": "India"
   },
   "https://www.keka.com/careers": {
@@ -1025,16 +2985,102 @@
       "We are hiring !"
     ],
     "entry_only": false,
-    "last_checked": "2026-07-03T02:58:57",
+    "last_checked": "2026-07-03T04:13:21",
     "location": "Hyderabad"
+  },
+  "https://www.kpit.com/careers/": {
+    "company": "KPIT",
+    "count": 2,
+    "entries": [
+      "Check all open roles and apply to be part of our global team.",
+      "Whether you're an experienced professional or a recent graduate, find your next opportunity and join our dynamic team today!"
+    ],
+    "entry_only": true,
+    "last_checked": "2026-07-03T04:13:21",
+    "location": "Pune"
+  },
+  "https://www.lazada.com/en/careers/": {
+    "company": "Lazada",
+    "count": 0,
+    "entries": [],
+    "entry_only": true,
+    "last_checked": "2026-07-03T04:13:21",
+    "location": "Singapore"
+  },
+  "https://www.leadsquared.com/careers/": {
+    "company": "LeadSquared",
+    "count": 2,
+    "entries": [
+      "Lead Management System",
+      "What is lead management"
+    ],
+    "entry_only": true,
+    "last_checked": "2026-07-03T04:13:21",
+    "location": "Bengaluru"
+  },
+  "https://www.lenskart.com/jobs": {
+    "company": "Lenskart",
+    "count": 0,
+    "entries": [],
+    "entry_only": true,
+    "last_checked": "2026-07-03T04:13:21",
+    "location": "Gurugram"
   },
   "https://www.ltm.com/india-careers": {
     "company": "LTIMindtree",
     "count": 0,
     "entries": [],
     "entry_only": true,
-    "last_checked": "2026-07-03T02:58:57",
+    "last_checked": "2026-07-03T04:13:21",
     "location": "India"
+  },
+  "https://www.ltts.com/careers": {
+    "company": "L&T Technology Services",
+    "count": 0,
+    "entries": [],
+    "entry_only": true,
+    "last_checked": "2026-07-03T04:13:21",
+    "location": "India"
+  },
+  "https://www.marvell.com/company/careers.html": {
+    "company": "Marvell India",
+    "count": 4,
+    "entries": [
+      "Apply",
+      "Early Career hiring",
+      "Internship and early career hiring",
+      "Marvell Executive Program LEARN MORE"
+    ],
+    "entry_only": true,
+    "last_checked": "2026-07-03T04:13:21",
+    "location": "Pune"
+  },
+  "https://www.mastek.com/careers/": {
+    "company": "Mastek",
+    "count": 8,
+    "entries": [
+      "Associate Consultant",
+      "Bid Manager - UK & Europe",
+      "Functional Consultant, Mastek",
+      "IT Consultant, Romania",
+      "Lead Mastek's comprehensive framework for measuring and maximizing AI value across the enterprise.",
+      "Lead with Velocity",
+      "Senior Consultant , India",
+      "– Senior Manager of an industry leading virtual agent services company."
+    ],
+    "entry_only": true,
+    "last_checked": "2026-07-03T04:13:21",
+    "location": "India"
+  },
+  "https://www.mediatek.com/careers": {
+    "company": "MediaTek India",
+    "count": 1,
+    "entries": [
+      "Analyst Coverage"
+    ],
+    "entry_only": true,
+    "last_checked": "2026-07-03T04:13:21",
+    "location": "Noida"
   },
   "https://www.meesho.io/jobs": {
     "company": "Meesho",
@@ -1055,8 +3101,49 @@
       "Data Scientist III Tech Bangalore, Karnataka"
     ],
     "entry_only": false,
-    "last_checked": "2026-07-03T02:58:57",
+    "last_checked": "2026-07-03T04:13:21",
     "location": "Bengaluru"
+  },
+  "https://www.mindtickle.com/careers/": {
+    "company": "Mindtickle",
+    "count": 24,
+    "entries": [
+      "Account Executive, Expansions [NAMER] Hybrid — Full-Time Bengaluru, Karnataka",
+      "Apply",
+      "Customer Success Engineer - II On-site — Full-Time Pune, Maharashtra",
+      "Group Product Manager On-site — Full-Time Bengaluru, Karnataka / Pune, Maharashtra",
+      "Instructional Designer Hybrid — Full-Time Pune, Maharashtra",
+      "Lead Design Engineer On-site — Full-Time Pune, Maharashtra / Bengaluru, Karnataka",
+      "Learning Consultant Hybrid — Full-Time Pune, Maharashtra",
+      "Principal Product Marketing Manager – Field (Expansion & Retention) Hybrid — Full-Time Remote, US",
+      "Product & Engineering Operations Manager On-site — Full-Time Pune, Maharashtra",
+      "Product Engagement Manager Hybrid — Full-Time Bengaluru, Karnataka / Pune, Maharashtra",
+      "Senior Analyst, Revenue Operations Hybrid — Full-Time Bengaluru, Karnataka / Pune, Maharashtra",
+      "Senior Field Marketing Associate Remote — Full-Time Remote, US",
+      "Senior Graphic Designer On-site — Full-Time Pune, Maharashtra",
+      "Senior Instructional Designer Hybrid — Full-Time Pune, Maharashtra",
+      "Senior Manager, Business Development - Enterprise Hybrid — Full-Time Bengaluru, Karnataka",
+      "Senior Manager, Services Delivery Hybrid — Full-Time Pune, Maharashtra",
+      "Senior Product Manager On-site — Full-Time Bengaluru, Karnataka",
+      "Senior Program Manager Hybrid — Full-Time Pune, Maharashtra",
+      "Senior Solutions Architect (NAMER) Hybrid — Full-Time Pune, Maharashtra",
+      "Senior Technical Program Manager On-site — Full-Time Pune, Maharashtra",
+      "Software Development Engineer - I Hybrid — Full-Time Pune, Maharashtra",
+      "Specialist, Information Security & Privacy Hybrid — Full-Time Pune, Maharashtra / Bengaluru, Karnataka",
+      "Staff Engineer On-site — Pune, Maharashtra",
+      "UX Research Manager On-site — Full-Time Bengaluru, Karnataka"
+    ],
+    "entry_only": true,
+    "last_checked": "2026-07-03T04:13:21",
+    "location": "Pune"
+  },
+  "https://www.mobikwik.com/careers": {
+    "company": "MobiKwik",
+    "count": 0,
+    "entries": [],
+    "entry_only": true,
+    "last_checked": "2026-07-03T04:13:21",
+    "location": "Gurugram"
   },
   "https://www.moengage.com/careers/": {
     "company": "MoEngage",
@@ -1067,7 +3154,118 @@
       "Product Manager - Campaigns, India"
     ],
     "entry_only": false,
-    "last_checked": "2026-07-03T02:58:57",
+    "last_checked": "2026-07-03T04:13:21",
+    "location": "Bengaluru"
+  },
+  "https://www.mu-sigma.com/careers": {
+    "company": "Mu Sigma",
+    "count": 3,
+    "entries": [
+      "Currently, we do not run any Internship Program but please drop us your resume at",
+      "How do I apply?",
+      "What does the hiring process look like?"
+    ],
+    "entry_only": true,
+    "last_checked": "2026-07-03T04:13:21",
+    "location": "Bengaluru"
+  },
+  "https://www.mycareersfuture.gov.sg/search?search=machine+learning&sortBy=new_posting_date": {
+    "company": "MyCareersFuture (ML)",
+    "count": 7,
+    "entries": [
+      "Apply Scheme NEW!",
+      "Executive",
+      "If you are a fresh graduate looking for a traineeship opportunity",
+      "Junior Executive",
+      "Manager",
+      "Non-executive",
+      "Senior Executive"
+    ],
+    "entry_only": true,
+    "last_checked": "2026-07-03T04:13:21",
+    "location": "Singapore"
+  },
+  "https://www.mycareersfuture.gov.sg/search?search=software+engineer&sortBy=new_posting_date": {
+    "company": "MyCareersFuture (SDE)",
+    "count": 7,
+    "entries": [
+      "Apply Scheme NEW!",
+      "Executive",
+      "If you are a fresh graduate looking for a traineeship opportunity",
+      "Junior Executive",
+      "Manager",
+      "Non-executive",
+      "Senior Executive"
+    ],
+    "entry_only": true,
+    "last_checked": "2026-07-03T04:13:21",
+    "location": "Singapore"
+  },
+  "https://www.nagarro.com/en/careers": {
+    "company": "Nagarro",
+    "count": 1,
+    "entries": [
+      "Nagarro's Reverse Application - We turn the tables on the hiring process! #LifeatNagarro"
+    ],
+    "entry_only": true,
+    "last_checked": "2026-07-03T04:13:21",
+    "location": "Gurugram"
+  },
+  "https://www.netradyne.com/company/careers": {
+    "company": "Netradyne",
+    "count": 0,
+    "entries": [],
+    "entry_only": true,
+    "last_checked": "2026-07-03T04:13:21",
+    "location": "Bengaluru"
+  },
+  "https://www.nium.com/careers": {
+    "company": "Nium",
+    "count": 4,
+    "entries": [
+      "Careers Apply to one of our open roles to join our global mission",
+      "Lithuania Country Manager",
+      "Senior Account Manager",
+      "Senior Workplace Manager"
+    ],
+    "entry_only": true,
+    "last_checked": "2026-07-03T04:13:21",
+    "location": "Singapore"
+  },
+  "https://www.nksecurities.com/": {
+    "company": "NK Securities",
+    "count": 5,
+    "entries": [
+      "Apply Now!",
+      "Quantitative Research Intern â",
+      "Software Engineer â",
+      "Software Intern â",
+      "We are Hiring"
+    ],
+    "entry_only": true,
+    "last_checked": "2026-07-03T04:13:21",
+    "location": "Gurugram"
+  },
+  "https://www.observe.ai/careers": {
+    "company": "Observe.AI",
+    "count": 5,
+    "entries": [
+      "Auto QA",
+      "Business Value Consultant Lead",
+      "Manual QA",
+      "Principal Implementation Manager",
+      "Senior Customer Success Manager"
+    ],
+    "entry_only": true,
+    "last_checked": "2026-07-03T04:13:21",
+    "location": "Bengaluru"
+  },
+  "https://www.olakrutrim.com/careers": {
+    "company": "Krutrim",
+    "count": 0,
+    "entries": [],
+    "entry_only": true,
+    "last_checked": "2026-07-03T04:13:21",
     "location": "Bengaluru"
   },
   "https://www.openxcell.com/company/career-and-culture/": {
@@ -1082,8 +3280,39 @@
       "Project Manager UI/UX"
     ],
     "entry_only": false,
-    "last_checked": "2026-07-03T02:58:57",
+    "last_checked": "2026-07-03T04:13:21",
     "location": "Ahmedabad"
+  },
+  "https://www.optiver.com/working-at-optiver/career-opportunities/": {
+    "company": "Optiver",
+    "count": 14,
+    "entries": [
+      "Graduate",
+      "Graduate Quantitative Researcher, PhD (2027 Start)",
+      "Graduate Software Engineer (2027 Start)",
+      "Internship",
+      "Network Operations Engineer",
+      "People Analyst",
+      "Quantitative Intern (Summer 2027)",
+      "Quantitative Research Intern, PhD (Summer 2027)",
+      "Reference Data Analyst",
+      "Security Engineer",
+      "Software Engineer - Trading Strategies",
+      "Software Engineer Intern (Summer 2027 - Austin)",
+      "Software Engineer Intern (Summer 2027 - Chicago)",
+      "Trading Operations Analyst"
+    ],
+    "entry_only": true,
+    "last_checked": "2026-07-03T04:13:21",
+    "location": "Mumbai"
+  },
+  "https://www.oyorooms.com/careers/": {
+    "company": "OYO",
+    "count": 0,
+    "entries": [],
+    "entry_only": true,
+    "last_checked": "2026-07-03T04:13:21",
+    "location": "Gurugram"
   },
   "https://www.peoplebox.ai/careers": {
     "company": "Peoplebox",
@@ -1101,8 +3330,34 @@
       "Your AI hiring partner, from resume to offer"
     ],
     "entry_only": false,
-    "last_checked": "2026-07-03T02:58:57",
+    "last_checked": "2026-07-03T04:13:21",
     "location": "Bengaluru"
+  },
+  "https://www.phonepe.com/careers/": {
+    "company": "PhonePe",
+    "count": 3,
+    "entries": [
+      "Associate Director, CorpFin",
+      "Senior Product Design Manager, UX Design",
+      "Software Development Engineer"
+    ],
+    "entry_only": true,
+    "last_checked": "2026-07-03T04:13:21",
+    "location": "Bengaluru"
+  },
+  "https://www.pinelabs.com/careers": {
+    "company": "Pine Labs",
+    "count": 5,
+    "entries": [
+      "Apply",
+      "Lead your crew on every expedition. Guide, support, and make the climb together.",
+      "Management Trainee Program",
+      "Our flagship summer internship program for students from premier B-schools.",
+      "Sales Trainee Program"
+    ],
+    "entry_only": true,
+    "last_checked": "2026-07-03T04:13:21",
+    "location": "Noida"
   },
   "https://www.policybazaar.com/careers/": {
     "company": "PolicyBazaar",
@@ -1120,6 +3375,18 @@
     "last_checked": "2026-06-29T12:26:12",
     "location": "Gurugram"
   },
+  "https://www.postman.com/company/careers/open-positions/": {
+    "company": "Postman",
+    "count": 3,
+    "entries": [
+      "AI Engineer AI Engineer is ready to help",
+      "DevOps",
+      "Developer Productivity"
+    ],
+    "entry_only": true,
+    "last_checked": "2026-07-03T04:13:21",
+    "location": "Bengaluru"
+  },
   "https://www.pristyncare.com/careers/": {
     "company": "Pristyn Care",
     "count": 1,
@@ -1127,7 +3394,41 @@
       "ENT Specialist Near Me"
     ],
     "entry_only": false,
-    "last_checked": "2026-07-03T02:58:57",
+    "last_checked": "2026-07-03T04:13:21",
+    "location": "Gurugram"
+  },
+  "https://www.propertyfinder.ae/en/careers": {
+    "company": "Property Finder",
+    "count": 0,
+    "entries": [],
+    "entry_only": true,
+    "last_checked": "2026-07-03T04:13:21",
+    "location": "Dubai"
+  },
+  "https://www.propertygurugroup.com/careers/": {
+    "company": "PropertyGuru",
+    "count": 3,
+    "entries": [
+      "Senior Communications Manager",
+      "Senior Communications Manager ​",
+      "We are hiring!"
+    ],
+    "entry_only": true,
+    "last_checked": "2026-07-03T04:13:21",
+    "location": "Singapore"
+  },
+  "https://www.quadeye.com/careers": {
+    "company": "Quadeye",
+    "count": 5,
+    "entries": [
+      "Graduate-Trading Technology & Research Engineer",
+      "Network Engineer",
+      "Operations Engineer",
+      "Software Developer - Fullstack",
+      "Systems Engineer - (C++ Developer)"
+    ],
+    "entry_only": true,
+    "last_checked": "2026-07-03T04:13:21",
     "location": "Gurugram"
   },
   "https://www.railtel.in/en/careers": {
@@ -1349,8 +3650,92 @@
       "‘Detailed Vacancy notice for ‘Deputation’ on the post of Addl.GM/GM (Tech)/RCIL in Northern Region"
     ],
     "entry_only": true,
-    "last_checked": "2026-07-03T02:58:57",
+    "last_checked": "2026-07-03T04:13:21",
     "location": "New Delhi"
+  },
+  "https://www.rapidops.com/careers/": {
+    "company": "Rapidops",
+    "count": 2,
+    "entries": [
+      "Build Your Career with Rapidops - We Are Hiring",
+      "Engineer GenAI software that amplifies human potential and delivers breakthrough results"
+    ],
+    "entry_only": true,
+    "last_checked": "2026-07-03T04:13:21",
+    "location": "Ahmedabad"
+  },
+  "https://www.salesforce.com/company/careers/university-recruiting/": {
+    "company": "Salesforce Futureforce",
+    "count": 0,
+    "entries": [],
+    "entry_only": true,
+    "last_checked": "2026-07-03T04:13:21",
+    "location": "India"
+  },
+  "https://www.sarvam.ai/careers": {
+    "company": "Sarvam AI",
+    "count": 48,
+    "entries": [
+      "Account Manager Bengaluru Full Time On-Site",
+      "Applied AI Engineer, Sarvam Agents Bengaluru Full Time On-Site",
+      "Architect, On-Device Inference Bengaluru Full Time On-Site",
+      "Backend Engineer - Studio Media Platform Bengaluru Full Time On-Site",
+      "Backend Engineer, API Team Bengaluru Full Time On-Site",
+      "Backend Engineer, Chanakya Bengaluru Full Time On-Site",
+      "Data Scientist - Evaluations, Chanakya Bengaluru Full Time On-Site",
+      "Desktop Publishing Specialist - DTP (Adobe InDesign) | Contract – 3 Months) Bengaluru Full Time Hybrid",
+      "DevOps Engineer - Studio Platform Bengaluru Full Time On-Site",
+      "Embedded Data Scientist, Chanakya Delhi Full Time On-Site",
+      "Embedded Infrastructure Engineer, Chanakya Delhi Full Time On-Site",
+      "Engagement Manager, Chanakya Delhi Full Time On-Site",
+      "Engineering — Full Stack AI Engineer Bengaluru Full Time On-Site",
+      "Forward Deployed Software Engineer - Dubbing Platform Bengaluru Full Time On-Site",
+      "Forward Deployed Software Engineer | 2-5 years Bengaluru Full Time On-Site",
+      "Frontend Engineer - Studio Bengaluru Full Time On-Site",
+      "Frontend Engineer, API Platform Bengaluru Full Time On-Site",
+      "Frontend Engineer, Chanakya Bengaluru Full Time On-Site",
+      "GTM Manager On-Device AI Bengaluru Full Time On-Site",
+      "IT Lead Bengaluru Full Time On-Site",
+      "ML Engineer (Data), Foundational Models Bengaluru Full Time On-Site",
+      "ML Engineer (Training Infra), Foundational Models Bengaluru Full Time On-Site",
+      "ML Ops Engineer, Chanakya Delhi Full Time On-Site",
+      "Machine Learning Engineer, Dubbing Bengaluru Full Time On-Site",
+      "Machine Learning Engineer, Vision Bengaluru Full Time On-Site",
+      "Partnerships & Alliances Lead (GSIs) - India Bengaluru Full Time On-Site",
+      "Performance Engineer, On-Device Inference Bengaluru Full Time On-Site",
+      "Platform Engineer - AI Infrastructure Bengaluru Full Time On-Site",
+      "Principal Forward Deployed Software Engineer (FDSE) - OnDevice AI Bengaluru Full Time On-Site",
+      "Principal Security Engineer Bengaluru Full Time On-Site",
+      "Principal Solution Architect Bengaluru Full Time On-Site",
+      "Product Designer Bengaluru Full Time On-Site",
+      "Product Manager (Models) Bengaluru Full Time On-Site",
+      "Product Manager Bengaluru Full Time On-Site",
+      "Product Manager On-Device & Edge AI Bengaluru Full Time On-Site",
+      "Product Manager, Growth Bengaluru Full Time On-Site",
+      "Product Manager, Monetization & Retention Bengaluru Full Time On-Site",
+      "Product Marketing Manager - Sarvam Platform Bengaluru Full Time On-Site",
+      "Product Marketing Manager Bengaluru Full Time On-Site",
+      "Senior Forward Deployed Software Engineer (FDSE) - OnDevice AI Bengaluru Full Time On-Site",
+      "Senior Performance Engineer, Intel Stack Bengaluru Full Time On-Site",
+      "Solution Architect Bengaluru Full Time On-Site",
+      "Solution Specialist Bengaluru Full Time On-Site",
+      "Sr. Forward Deployed Software Engineer - Dubbing Platform Bengaluru Full Time On-Site",
+      "Staff Data Engineer Bengaluru Full Time On-Site",
+      "Staff Engineer, API Platform Bengaluru Full Time On-Site",
+      "Staff Engineer, Product Infrastructure Bengaluru Full Time On-Site",
+      "Strategic Deployment Engineer, Chanakya Delhi Full Time On-Site"
+    ],
+    "entry_only": true,
+    "last_checked": "2026-07-03T04:13:21",
+    "location": "Bengaluru"
+  },
+  "https://www.seclore.com/company/careers/": {
+    "company": "Seclore",
+    "count": 0,
+    "entries": [],
+    "entry_only": true,
+    "last_checked": "2026-07-03T04:13:21",
+    "location": "Pune"
   },
   "https://www.silvertouch.com/career/": {
     "company": "Silver Touch Technologies",
@@ -1374,7 +3759,7 @@
       "Sales Executive, Ahmedabad, India"
     ],
     "entry_only": false,
-    "last_checked": "2026-07-03T02:58:57",
+    "last_checked": "2026-07-03T04:13:21",
     "location": "Gandhinagar"
   },
   "https://www.simform.com/careers/": {
@@ -1398,7 +3783,7 @@
       "You can work from home when required, with approval from your manager, offering flexibility in your work routine."
     ],
     "entry_only": false,
-    "last_checked": "2026-07-03T02:58:57",
+    "last_checked": "2026-07-03T04:13:21",
     "location": "Ahmedabad"
   },
   "https://www.smartsensesolutions.com/career": {
@@ -1406,8 +3791,18 @@
     "count": 0,
     "entries": [],
     "entry_only": false,
-    "last_checked": "2026-07-03T02:58:57",
+    "last_checked": "2026-07-03T04:13:21",
     "location": "Gandhinagar"
+  },
+  "https://www.sonata-software.com/careers": {
+    "company": "Sonata Software",
+    "count": 1,
+    "entries": [
+      "Executive Leadership Team"
+    ],
+    "entry_only": true,
+    "last_checked": "2026-07-03T04:13:21",
+    "location": "Bengaluru"
   },
   "https://www.spinny.com/careers/": {
     "company": "Spinny",
@@ -1418,8 +3813,27 @@
       "Priti Awasthi, Manager, HR & Talent Acquisition"
     ],
     "entry_only": false,
-    "last_checked": "2026-07-03T02:58:57",
+    "last_checked": "2026-07-03T04:13:21",
     "location": "Gurugram"
+  },
+  "https://www.stashaway.sg/careers": {
+    "company": "StashAway",
+    "count": 2,
+    "entries": [
+      "Client Engagement Executive",
+      "Online Marketing Analyst"
+    ],
+    "entry_only": true,
+    "last_checked": "2026-07-03T04:13:21",
+    "location": "Singapore"
+  },
+  "https://www.swvl.com/careers": {
+    "company": "Swvl",
+    "count": 0,
+    "entries": [],
+    "entry_only": true,
+    "last_checked": "2026-07-03T04:13:21",
+    "location": "Dubai"
   },
   "https://www.tata.com/careers/jobs/joblisting": {
     "company": "Tata group",
@@ -1428,7 +3842,7 @@
       "Apply"
     ],
     "entry_only": false,
-    "last_checked": "2026-07-03T02:58:57",
+    "last_checked": "2026-07-03T04:13:21",
     "location": "India"
   },
   "https://www.tataelxsi.com/careers": {
@@ -1436,7 +3850,7 @@
     "count": 0,
     "entries": [],
     "entry_only": false,
-    "last_checked": "2026-07-03T02:58:57",
+    "last_checked": "2026-07-03T04:13:21",
     "location": "Bengaluru"
   },
   "https://www.tatatechnologies.com/in/careers/": {
@@ -1448,7 +3862,7 @@
       "Get in touch today and discover how we can help you engineer a better world"
     ],
     "entry_only": false,
-    "last_checked": "2026-07-03T02:58:57",
+    "last_checked": "2026-07-03T04:13:21",
     "location": "Pune"
   },
   "https://www.tatvasoft.com/career": {
@@ -1467,6 +3881,32 @@
     "last_checked": "2026-07-03T02:58:57",
     "location": "Ahmedabad"
   },
+  "https://www.tcs.com/careers/india": {
+    "company": "TCS",
+    "count": 0,
+    "entries": [],
+    "entry_only": true,
+    "last_checked": "2026-07-03T04:13:21",
+    "location": "India"
+  },
+  "https://www.tech.gov.sg/careers/": {
+    "company": "GovTech Singapore",
+    "count": 1,
+    "entries": [
+      "Apply for jobs Apply for jobs on Careers@Gov."
+    ],
+    "entry_only": true,
+    "last_checked": "2026-07-03T04:13:21",
+    "location": "Singapore"
+  },
+  "https://www.thunes.com/careers/": {
+    "company": "Thunes",
+    "count": 0,
+    "entries": [],
+    "entry_only": true,
+    "last_checked": "2026-07-03T04:13:21",
+    "location": "Singapore"
+  },
   "https://www.tisindia.com/careers/": {
     "company": "TIS India",
     "count": 3,
@@ -1479,13 +3919,201 @@
     "last_checked": "2026-06-29T12:26:12",
     "location": "Gandhinagar"
   },
+  "https://www.turno.club/careers": {
+    "company": "Turno",
+    "count": 35,
+    "entries": [
+      "AI/ML engineer Bangalore 2-5 Full Time",
+      "Area Sales Manager Agra 4-8 Full Time",
+      "Area Sales Manager Bangalore 5-10 Full Time",
+      "Area Sales Manager Bihar , Muzaffarpur 4-8 Full Time",
+      "Area Sales Manager Indore , Noida 5-8 Full Time",
+      "Art Specialist Bangalore Full Time",
+      "Business Finance Analyst Bangalore 2-6 Years Full Time",
+      "Content and Social Media Manager Bangalore Full Time",
+      "Credit Manager Bangalore 5-10 years Full Time",
+      "Executive- Sales & Collections Begusarai +15 locations 2-5 Full Time",
+      "Executive- Sales & Collections Dehradun +2 locations 1-5 Full Time",
+      "Executive- Sales & Collections Rewa +5 locations 2-4 Full Time",
+      "IT Equipment & IT Admin Manager 5-10 Full Time",
+      "Inside Sales Executive Bangalore 1-4 Full Time",
+      "Inside Sales Team Lead Bangalore 5-8 Full Time",
+      "Insurance Specialist Bangalore 2-8 Full Time",
+      "Junior Embedded Engineer (IoT & Battery Systems) Bangalore 1-3 Years Full Time",
+      "Mechanical Design Engineer Bangalore Full Time",
+      "Mechanical Engineer- BESS Bangalore 3-8 Years Full Time",
+      "Operations Executive Bangalore 2-4 Full Time",
+      "Pre Sales Executive-Repo Bangalore 1-6 Full Time",
+      "Product Manager Bangalore 2-6 Full Time",
+      "Program Manager - Operations and Growth Bangalore 3-5 Years Full Time",
+      "Program Manager Bangalore 3-7 Full Time",
+      "Repo Executive - Sales & Collections Aligarh +3 locations 1-6 Full Time",
+      "Repo Executive Sales & Collections Agra 2-4 Full Time",
+      "Repo Executive Sales & Collections Delhi - NCR +2 locations 1-5 Full Time",
+      "Senior Finance Executive Bangalore 4-5 Years Full Time",
+      "Senior Marketing Manager Bangalore 8-12 Full Time",
+      "Strategic Account Manager Bangalore Full Time",
+      "Supply Chain Engineer Bangalore 2-4 Full Time",
+      "Team Lead, Field Service Operations Bangalore 8+ Full Time",
+      "Team Lead- Battery Bangalore 4-7 Full Time",
+      "Technical Customer Support Engineer- EV Battery Bangalore 2-5 Full Time",
+      "Tele Quality Lead Auditor Lucknow 2-5 Full Time"
+    ],
+    "entry_only": true,
+    "last_checked": "2026-07-03T04:13:21",
+    "location": "Hyderabad"
+  },
+  "https://www.uniphore.com/careers/": {
+    "company": "Uniphore",
+    "count": 2,
+    "entries": [
+      "Analyst Reports",
+      "Apply"
+    ],
+    "entry_only": true,
+    "last_checked": "2026-07-03T04:13:21",
+    "location": "Bengaluru"
+  },
   "https://www.urbancompany.com/careers": {
     "company": "Urban Company",
     "count": 0,
     "entries": [],
     "entry_only": false,
-    "last_checked": "2026-07-03T02:58:57",
+    "last_checked": "2026-07-03T04:13:21",
     "location": "Gurugram"
+  },
+  "https://www.wadhwaniai.org/careers/": {
+    "company": "Wadhwani AI",
+    "count": 30,
+    "entries": [
+      "APPLY",
+      "Associate ML Scientist I",
+      "Associate ML Scientist II",
+      "Associate Machine Learning Scientist",
+      "Associate UI/UX Designer",
+      "Cloud and Terraform Engineer II",
+      "Communications Consultant",
+      "Consultant Data Coordinator",
+      "Consultant Dermatologist",
+      "Consultant – Senior Program Officer (Education)",
+      "Data Analyst",
+      "Data Consultant",
+      "District Consultant",
+      "Fundraising Manager",
+      "MEL Manager",
+      "MERLI Specialist – Agriculture",
+      "Machine Learning Intern",
+      "Machine Learning Scientist (ASR)",
+      "Machine Learning Scientist (LLM)",
+      "Machine Learning Scientist (Speech Processing)",
+      "Program Associate",
+      "Program Manager",
+      "QA Engineer",
+      "Security Engineer II",
+      "Senior Associate – Capacity Building",
+      "Senior Machine Learning Scientist / Machine Learning Scientist (LLM)",
+      "Software Development Engineer - I",
+      "Software Development Engineer - III",
+      "State Lead – Deployment",
+      "Trainee Roles"
+    ],
+    "entry_only": true,
+    "last_checked": "2026-07-03T04:13:21",
+    "location": "India"
+  },
+  "https://www.wns.com/careers": {
+    "company": "WNS",
+    "count": 4,
+    "entries": [
+      "Analyst Rankings",
+      "Apply",
+      "Apply For Jobs",
+      "Executive Search Services"
+    ],
+    "entry_only": true,
+    "last_checked": "2026-07-03T04:13:21",
+    "location": "India"
+  },
+  "https://www.worldquant.com/careers/": {
+    "company": "WorldQuant",
+    "count": 5,
+    "entries": [
+      "Apply",
+      "Consultant Spotlight: Azmi Fauzi",
+      "Execution Developer (Technology) New York OR Old Greenwich OR Chicago OR Austin 00:16",
+      "Independent Portfolio Manager (Portfolio Management) Multiple Cities 00:16",
+      "Portfolio Manager, U.S."
+    ],
+    "entry_only": true,
+    "last_checked": "2026-07-03T04:13:21",
+    "location": "Mumbai"
+  },
+  "https://www.ycombinator.com/jobs/location/bengaluru": {
+    "company": "YCombinator Jobs",
+    "count": 58,
+    "entries": [
+      "AI Agent Architect",
+      "AI Platform Engineering Specialist",
+      "AI Research Engineer",
+      "AI recruiter for India's massive blue-collar workforce",
+      "Agent Reliability Enablement Manager",
+      "Applied AI Engineer",
+      "Apply",
+      "Associate Product Manager (APM)",
+      "Business Development Associate (Renewals)",
+      "Collections Associate (Bangalore)",
+      "Customer Experience Specialist",
+      "Devops",
+      "Devops Engineer",
+      "Engineering Lead",
+      "Engineering manager",
+      "Enterprise Account Executive",
+      "Founding Design Engineer",
+      "Founding Designer",
+      "Founding Sales lead",
+      "Frontend Engineer",
+      "General Manager, Human Data Operations",
+      "Inside Sales Executive",
+      "Inside Sales Manager",
+      "Lead Data Scientist",
+      "Lead, Engineer",
+      "Lead/Group Product Manager",
+      "Manager - Technical Account Management",
+      "Manager, Implementation",
+      "Marketing Communications Designer",
+      "Performance Marketing Manager",
+      "Product Designer",
+      "Product Manager",
+      "Product Manager Jobs",
+      "Product Manager Jobs in Los Angeles",
+      "Product Manager Jobs in New York",
+      "Product Manager Jobs in San Francisco",
+      "Program Manager",
+      "QA Engineer (Manual Testing)",
+      "Remote Product Manager Jobs",
+      "Remote Software Engineer Jobs",
+      "Security Engineer (Bangalore, India)",
+      "Senior Backend Engineer",
+      "Senior Manager / Associate Director - Product Operations",
+      "Senior Manager/Associate Director - Finance",
+      "Senior Product Manager",
+      "Senior Software Engineer - E3 - Instawork Robotics",
+      "Senior Software Engineer - E4 - Instawork Robotics",
+      "Software Engineer",
+      "Software Engineer III (Bangalore, India)",
+      "Software Engineer Jobs",
+      "Software Engineer Jobs in Los Angeles",
+      "Software Engineer Jobs in New York",
+      "Software Engineer Jobs in San Francisco",
+      "Staff Engineer",
+      "Staff Software Engineer - Instawork Robotics",
+      "Staff Software Engineer, AI Agents",
+      "Vahan (S19) • AI recruiter for India's massive blue-collar workforce",
+      "Vahan (S19) • AI recruiter for India's massive blue-collar workforce ( 10 days ago)"
+    ],
+    "entry_only": true,
+    "last_checked": "2026-07-03T04:13:21",
+    "location": "Bengaluru"
   },
   "https://www.yudiz.com/join-our-team/": {
     "company": "Yudiz Solutions",
@@ -1548,8 +4176,56 @@
     "count": 0,
     "entries": [],
     "entry_only": false,
-    "last_checked": "2026-06-29T12:26:12",
+    "last_checked": "2026-07-03T04:13:21",
     "location": "Bengaluru"
+  },
+  "https://www.zetwerk.com/careers/": {
+    "company": "Zetwerk",
+    "count": 22,
+    "entries": [
+      "Assistant Manager - Business Finance",
+      "Assistant Manager - Production (Manual Insertion)",
+      "Assistant Manager, Estimations & Proposals",
+      "Assistant Program Manager",
+      "DLP Security Engineer",
+      "Engineering Manager - Process",
+      "General Manager - Estimations",
+      "Lead - Procurement",
+      "Manager - Banking Operations",
+      "Manager - Business Development (EV)",
+      "Manager - EHS",
+      "Manager - Hedging",
+      "Manager - NPI",
+      "Manager - Projects (EPC)",
+      "Manager - Quality",
+      "Program Manager - Product Governance & Systems Compliance",
+      "Regional Sales Manager - Ferrous",
+      "Regional Sales Manager - Industrials",
+      "Sales Manager - Lending",
+      "Senior Executive - Accounts",
+      "Senior Executive - Finance",
+      "Senior Manager - Quality"
+    ],
+    "entry_only": true,
+    "last_checked": "2026-07-03T04:13:21",
+    "location": "Bengaluru"
+  },
+  "https://www.zluri.com/careers": {
+    "company": "Zluri",
+    "count": 8,
+    "entries": [
+      "Lead Product Designer Bangalore 6years+ Full Time",
+      "Senior Customer Success Manager (US PST Timezone) 5-8 years Full Time",
+      "Senior Data Engineer Bangalore 3-6 years Full Time",
+      "Senior Product Designer 4-6 years Full Time",
+      "Senior Software Engineer (Backend) Bangalore 3-5 years Full Time",
+      "Software Development Engineer in Test (SDET 2) 3-6 years Full Time",
+      "Technical Support Engineer 2-5 years Full Time",
+      "UX Design Manager 7-10 years Full Time"
+    ],
+    "entry_only": true,
+    "last_checked": "2026-07-03T04:13:21",
+    "location": "Hyderabad"
   },
   "https://www.zomato.com/careers": {
     "company": "Zomato",
@@ -1560,5 +4236,15 @@
     "entry_only": false,
     "last_checked": "2026-06-29T12:26:12",
     "location": "Gurugram"
+  },
+  "https://yellow.ai/careers/": {
+    "company": "Yellow.ai",
+    "count": 1,
+    "entries": [
+      "Analyst Mentions"
+    ],
+    "entry_only": true,
+    "last_checked": "2026-07-03T04:13:21",
+    "location": "Bengaluru"
   }
 }
