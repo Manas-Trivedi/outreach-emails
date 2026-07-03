@@ -14,7 +14,7 @@
       "Technical Program Manager"
     ],
     "entry_only": true,
-    "last_checked": "2026-07-03T04:13:21",
+    "last_checked": "2026-07-03T04:23:59",
     "location": "Singapore"
   },
   "https://aspireapp.com/careers": {
@@ -26,7 +26,7 @@
       "Pricing that fits your business For businesses with complex operations that need a relationship manager."
     ],
     "entry_only": true,
-    "last_checked": "2026-07-03T04:13:21",
+    "last_checked": "2026-07-03T04:23:59",
     "location": "Singapore"
   },
   "https://bel-india.in/career/": {
@@ -34,7 +34,7 @@
     "count": 0,
     "entries": [],
     "entry_only": true,
-    "last_checked": "2026-07-03T04:13:21",
+    "last_checked": "2026-07-03T04:23:59",
     "location": "India"
   },
   "https://blinkit.com/careers": {
@@ -42,7 +42,7 @@
     "count": 0,
     "entries": [],
     "entry_only": true,
-    "last_checked": "2026-07-03T04:13:21",
+    "last_checked": "2026-07-03T04:23:59",
     "location": "Gurugram"
   },
   "https://cadence.wd1.myworkdayjobs.com/External_Careers": {
@@ -50,22 +50,15 @@
     "count": 0,
     "entries": [],
     "entry_only": true,
-    "last_checked": "2026-07-03T04:13:21",
+    "last_checked": "2026-07-03T04:23:59",
     "location": "Noida"
   },
   "https://career.infosys.com/joblist": {
     "company": "Infosys",
-    "count": 6,
-    "entries": [
-      "Agile Consultant/Scrum Master",
-      "IaC Engineer – Ansible + Terraform",
-      "Program Lead – Business Transformation",
-      "Site Reliability Engineer",
-      "Snowflake Developer",
-      "Solution Architect - Infrastructure Consulting"
-    ],
+    "count": 0,
+    "entries": [],
     "entry_only": true,
-    "last_checked": "2026-07-03T04:13:21",
+    "last_checked": "2026-07-03T04:23:59",
     "location": "Chandigarh"
   },
   "https://career.sea.com/": {
@@ -81,7 +74,7 @@
       "Sea Global Management Associate Program"
     ],
     "entry_only": true,
-    "last_checked": "2026-07-03T04:13:21",
+    "last_checked": "2026-07-03T04:23:59",
     "location": "Singapore"
   },
   "https://careers.adobe.com/us/en/c/university-jobs": {
@@ -93,7 +86,7 @@
       "Hiring Process"
     ],
     "entry_only": true,
-    "last_checked": "2026-07-03T04:13:21",
+    "last_checked": "2026-07-03T04:23:59",
     "location": "India"
   },
   "https://careers.amd.com/careers-home": {
@@ -116,7 +109,7 @@
       "Senior Program Manager, New Product Introduction"
     ],
     "entry_only": true,
-    "last_checked": "2026-07-03T04:13:21",
+    "last_checked": "2026-07-03T04:23:59",
     "location": "Bengaluru"
   },
   "https://careers.analog.com/": {
@@ -131,10 +124,22 @@
   },
   "https://careers.arcesium.com/": {
     "company": "Arcesium",
-    "count": 0,
-    "entries": [],
+    "count": 11,
+    "entries": [
+      "Chief Executive Officer",
+      "Client Solutions Architect - Investment Management Client and Partner Development Stockholm, Sweden",
+      "Lead Engineer - Corp Tech Technology Hyderabad",
+      "Lead Infrastructure Engineer - Distributed Systems Technology Lisbon",
+      "Lead Infrastructure Engineer Technology Lisbon",
+      "Lead Infrastructure Engineer Technology Stockholm, Sweden",
+      "Manager - Middle Office Forward Deployed Data Strategy, CPD Client and Partner Development Bengaluru; Gurugram; Hyderabad",
+      "Principal Engineer",
+      "Product Manager",
+      "Software Engineer",
+      "Sr. Manager, Financial Operations"
+    ],
     "entry_only": true,
-    "last_checked": "2026-07-03T04:13:21",
+    "last_checked": "2026-07-03T04:23:59",
     "location": "Bengaluru"
   },
   "https://careers.argusoft.com/": {
@@ -142,7 +147,7 @@
     "count": 0,
     "entries": [],
     "entry_only": false,
-    "last_checked": "2026-07-03T04:13:21",
+    "last_checked": "2026-07-03T04:23:59",
     "location": "Gandhinagar"
   },
   "https://careers.cardekho.com/": {
@@ -152,8 +157,16 @@
       "We're always looking for great folks to join us on our mission. If you want to be a part of our story, apply today."
     ],
     "entry_only": true,
-    "last_checked": "2026-07-03T04:13:21",
+    "last_checked": "2026-07-03T04:23:59",
     "location": "Gurugram"
+  },
+  "https://careers.carousell.com/": {
+    "company": "Carousell",
+    "count": 0,
+    "entries": [],
+    "entry_only": true,
+    "last_checked": "2026-07-03T04:23:59",
+    "location": "Singapore"
   },
   "https://careers.coforge.com/": {
     "company": "Coforge",
@@ -178,7 +191,7 @@
       "Validation Test Analyst (CSV/CSA)"
     ],
     "entry_only": true,
-    "last_checked": "2026-07-03T04:13:21",
+    "last_checked": "2026-07-03T04:23:59",
     "location": "India"
   },
   "https://careers.cognizant.com/india-en/jobs/": {
@@ -196,7 +209,7 @@
       "Validation Test Analyst (CSV/CSA)"
     ],
     "entry_only": true,
-    "last_checked": "2026-07-03T04:13:21",
+    "last_checked": "2026-07-03T04:23:59",
     "location": "India"
   },
   "https://careers.cred.club/": {
@@ -206,7 +219,7 @@
       "opening"
     ],
     "entry_only": true,
-    "last_checked": "2026-07-03T04:13:21",
+    "last_checked": "2026-07-03T04:23:59",
     "location": "Bengaluru"
   },
   "https://careers.drcsystems.com/": {
@@ -227,7 +240,7 @@
       "Sr. Executive – Sales"
     ],
     "entry_only": false,
-    "last_checked": "2026-07-03T04:13:21",
+    "last_checked": "2026-07-03T04:23:59",
     "location": "Gandhinagar"
   },
   "https://careers.makemytrip.com/": {
@@ -240,17 +253,13 @@
   },
   "https://careers.micron.com/careers": {
     "company": "Micron India",
-    "count": 24,
+    "count": 15,
     "entries": [
       "Ability to lead and influence independently across Operations, Engineering, and Supply Chain teams",
       "Director/Executive",
-      "ENGINEER, OMT HVM PROD OPS PLANNING TACTICAL CAPACITY Miaoli County, Miaoli County, Taiwan + 1 more Posted 25 days ago",
-      "ENGINEER, OMT HVM PROD OPS PLANNING TACTICAL CAPACITY Taichung City, Taichung City, Taiwan Posted 3 months ago",
       "Effectively communicate, and influence recommendations and improvement proposals through dashboards and executive presentations",
       "HIG-HBM ENGINEERING MANAGER - LAYOUT Tlaquepaque, Jalisco, Mexico Company Priority Posted 11 days ago",
-      "Industrial Engineer, US Front-End Expansion Planning Boise, Idaho, United States of America Posted a day ago",
       "Intern",
-      "Manufacturing Industrial Engineer (MIE) – Advanced Analytics & AI Enablement Boise, Idaho, United States of America Posted a month ago",
       "Process Integration Lead, APTD Boise, Idaho, United States of America Company Priority Posted 3 months ago",
       "Product Quality Assurance Engineer Singapore, Singapore Posted 4 hours ago",
       "Quality & Reliability Engineer (NAND) Batu Kawan, Pulau Pinang (Penang), Malaysia Posted 4 hours ago",
@@ -259,16 +268,11 @@
       "Senior ASIC Test Engineer Zhubei City, Hsinchu County, Taiwan + 1 more Posted 4 hours ago",
       "Senior Engineer - Capacity Planning Manufacturing Engineer",
       "Senior Engineer - Capacity Planning Manufacturing Engineer Boise, Idaho, United States of America Company Priority Posted a day ago",
-      "Senior Engineer - Dry Etch HVM Area Manufacturing Engineer Boise, Idaho, United States of America Posted a day ago",
-      "Senior Engineer, Technology Development Operations Planning Singapore, Singapore Posted 21 days ago",
-      "Senior Industrial Engineer – AI Enablement Boise, Idaho, United States of America Posted 13 days ago",
       "Staff Design Verification Engineer, DRAM Boise, Idaho, United States of America Company Priority Posted 11 days ago",
-      "US Expansion Layout Engineer Boise, Idaho, United States of America Company Priority Posted a day ago",
-      "US Expansion Planning Engineer Boise, Idaho, United States of America Posted 24 days ago",
-      "US Expansion Planning Engineer Boise, Idaho, United States of America Posted 8 days ago"
+      "US Expansion Layout Engineer Boise, Idaho, United States of America Company Priority Posted a day ago"
     ],
     "entry_only": true,
-    "last_checked": "2026-07-03T04:13:21",
+    "last_checked": "2026-07-03T04:23:59",
     "location": "Hyderabad"
   },
   "https://careers.microsoft.com/students/us/en/search-results": {
@@ -289,7 +293,7 @@
       "https://careers.microsoft.com/v2/global/en/hiring-tips/student-interviewing"
     ],
     "entry_only": true,
-    "last_checked": "2026-07-03T04:13:21",
+    "last_checked": "2026-07-03T04:23:59",
     "location": "India"
   },
   "https://careers.mphasis.com/home/hot-jobs/location-search/india.html": {
@@ -301,7 +305,7 @@
       "Kaushik Ghosh, Business Analyst"
     ],
     "entry_only": true,
-    "last_checked": "2026-07-03T04:13:21",
+    "last_checked": "2026-07-03T04:23:59",
     "location": "India"
   },
   "https://careers.ntpc.co.in/": {
@@ -309,7 +313,7 @@
     "count": 0,
     "entries": [],
     "entry_only": true,
-    "last_checked": "2026-07-03T04:13:21",
+    "last_checked": "2026-07-03T04:23:59",
     "location": "India"
   },
   "https://careers.persistent.com/": {
@@ -322,21 +326,20 @@
   },
   "https://careers.qualcomm.com/careers": {
     "company": "Qualcomm",
-    "count": 32,
+    "count": 31,
     "entries": [
-      "1. Lead Designer",
-      "2. Design Lead",
-      "3. Senior Design Lead",
-      "4. Senior Designer",
-      "5. Physical Design Engineer",
-      "ASICS Design Engineer, Senior to Staff Hsinchu City, Hsinchu City, Taiwan ASICS Engineering Posted 2 days ago",
-      "CPU Architecture Performance Engineer, Senior to Staff Level Hsinchu City, Hsinchu City, Taiwan ASICS Engineering Posted 4 months ago",
-      "CPU Physical Design Engineer, Senior Noida, Uttar Pradesh, India Hardware Engineering Posted 15 days ago",
-      "CPU Physical Design Engineer, Senior to Senior Staff Level Hsinchu City, Hsinchu City, Taiwan ASICS Engineering Posted 4 months ago",
-      "CPU Server Physical Design Engineer Santa Clara, California, United States of America CPU Engineering Posted 3 months ago",
-      "Camera ISP/IQ tuning Engineer, Senior to Staff Taipei, Taipei City, Taiwan Software Applications Engineering Posted 4 months ago",
+      "(Structural ATPG) APAC Digital SOC Test Engineer Hsinchu City, Hsinchu City, Taiwan Hardware Engineering Posted 8 months ago",
+      "1. Engineer",
+      "2. Associate Engineer",
+      "3. Principal Engineer",
+      "4. Senior Engineer",
+      "5. Lead Engineer",
+      "ADT System Level Test Engineer, up to Sr. Hsinchu City, Hsinchu City, Taiwan Hardware Engineering Posted 2 months ago",
+      "CPU Competitive Analysis Engineer, Entry Level up to Staff Hsinchu City, Hsinchu City, Taiwan ASICS Engineering Posted 4 months ago",
+      "CPU Verification Engineer, Up to Staff Level Hsinchu City, Hsinchu City, Taiwan ASICS Engineering Posted 9 months ago",
+      "DC Char ATE Test Engineer, up to Sr.",
       "DC Char ATE Test Engineer, up to Sr. Hsinchu City, Hsinchu City, Taiwan Hardware Engineering Posted 4 hours ago",
-      "DFT Engineer (Senior to Staff level) Toronto, Ontario, Canada Hardware Engineering Posted a day ago",
+      "Digital Product Engineer, Senior Hsinchu City, Hsinchu City, Taiwan Hardware Engineering Posted a month ago",
       "IT Data Engineer",
       "IT Software Developer",
       "Interim Engineering Intern - SW",
@@ -344,21 +347,21 @@
       "Intern",
       "Manager",
       "Note: Your past applications will be available when you sign in using the same email address you previously used to apply.",
+      "PMIC Product Test Engineer, Sr. Hsinchu City, Hsinchu City, Taiwan Hardware Engineering Posted 3 months ago",
+      "PMIC Yield Diagnostics Engineer, up to staff Hsinchu City, Hsinchu City, Taiwan ASICS Engineering Posted 2 months ago",
       "Package/System Design Engineer (PMIC SIP and Module) Hsinchu City, Hsinchu City, Taiwan Packaging Engineering Posted 4 hours ago",
       "Package/System Design Solution Engineer, Senior Hsinchu City, Hsinchu City, Taiwan Packaging Engineering Posted 4 hours ago",
       "Package/System Design Solution Engineer, Up to Senior Hsinchu City, Hsinchu City, Taiwan Packaging Engineering Posted 4 hours ago",
-      "Physical Design Engineer, Senior to Staff Level",
       "Physical Design Engineer, Senior to Staff Level Taipei, Taipei City, Taiwan Systems Engineering Posted 4 hours ago",
-      "Physical Design Engineer, Sr/Lead/Staff Hyderabad, Telangana, India Hardware Engineering Posted 10 months ago",
-      "Physical Design Engineer- Senior Austin, Texas, United States of America ASICS Engineering Posted 3 days ago",
       "Program Analyst",
       "SENIOR PROGRAM MANAGER Shanghai, Shanghai, China Program Management Posted 4 hours ago",
+      "Senior Digital Test Engineer-SCAN/MBIST (Zhubei) Hsinchu City, Hsinchu City, Taiwan Hardware Engineering Posted 3 months ago",
       "Sr Staff Engineer, Device Drivers Boulder, Colorado, United States of America Software Engineering Posted a day ago",
-      "Sr. Staff CPU Physical Design CAD Engineer Santa Clara, California, United States of America + 1 more CPU Engineering Posted 14 days ago",
+      "Test Development (TD) Senior Engineer Hsinchu City, Hsinchu City, Taiwan Hardware Engineering Posted a month ago",
       "Thermal Engineer Hsinchu City, Hsinchu City, Taiwan Packaging Engineering Posted 4 hours ago"
     ],
     "entry_only": true,
-    "last_checked": "2026-07-03T04:13:21",
+    "last_checked": "2026-07-03T04:23:59",
     "location": "India"
   },
   "https://careers.razer.com/": {
@@ -366,7 +369,7 @@
     "count": 0,
     "entries": [],
     "entry_only": true,
-    "last_checked": "2026-07-03T04:13:21",
+    "last_checked": "2026-07-03T04:23:59",
     "location": "Singapore"
   },
   "https://careers.shopback.com/": {
@@ -388,7 +391,7 @@
       "Senior Software Engineer II"
     ],
     "entry_only": true,
-    "last_checked": "2026-07-03T04:13:21",
+    "last_checked": "2026-07-03T04:23:59",
     "location": "Singapore"
   },
   "https://careers.shopee.sg/": {
@@ -396,7 +399,7 @@
     "count": 0,
     "entries": [],
     "entry_only": true,
-    "last_checked": "2026-07-03T04:13:21",
+    "last_checked": "2026-07-03T04:23:59",
     "location": "Singapore"
   },
   "https://careers.swiggy.com/": {
@@ -411,21 +414,23 @@
       "Senior Program Manager"
     ],
     "entry_only": false,
-    "last_checked": "2026-07-03T04:13:21",
+    "last_checked": "2026-07-03T04:23:59",
     "location": "Bengaluru"
   },
   "https://careers.synopsys.com/": {
     "company": "Synopsys",
-    "count": 5,
+    "count": 7,
     "entries": [
-      "ASIC Digital Design, Manager",
+      "Applications Engineering, Scientist",
       "Apply",
       "Engineer the Future",
       "Executive Briefing Center",
+      "Hardware Verification Engineer, Entry Level",
+      "R&D Engineering, Staff Engineer - Formality Team",
       "Senior Technical Support Engineer – Structural Simulation / FEA"
     ],
     "entry_only": true,
-    "last_checked": "2026-07-03T04:13:21",
+    "last_checked": "2026-07-03T04:23:59",
     "location": "Bengaluru"
   },
   "https://careers.talabat.com/": {
@@ -443,7 +448,7 @@
       "Sr. Specialist Real Estate - Expansion"
     ],
     "entry_only": true,
-    "last_checked": "2026-07-03T04:13:21",
+    "last_checked": "2026-07-03T04:23:59",
     "location": "Dubai"
   },
   "https://careers.techmahindra.com/": {
@@ -465,7 +470,7 @@
       "Technical Architect"
     ],
     "entry_only": true,
-    "last_checked": "2026-07-03T04:13:21",
+    "last_checked": "2026-07-03T04:23:59",
     "location": "India"
   },
   "https://careers.ti.com/": {
@@ -473,7 +478,7 @@
     "count": 0,
     "entries": [],
     "entry_only": true,
-    "last_checked": "2026-07-03T04:13:21",
+    "last_checked": "2026-07-03T04:23:59",
     "location": "Bengaluru"
   },
   "https://careers.walmart.com/technology": {
@@ -485,7 +490,7 @@
       "Tatiana, Software Engineer (iOS)"
     ],
     "entry_only": true,
-    "last_checked": "2026-07-03T04:13:21",
+    "last_checked": "2026-07-03T04:23:59",
     "location": "Bengaluru"
   },
   "https://careers.wipro.com/careers-home/jobs": {
@@ -495,18 +500,17 @@
       "Cookie Consent Manager"
     ],
     "entry_only": true,
-    "last_checked": "2026-07-03T04:13:21",
+    "last_checked": "2026-07-03T04:23:59",
     "location": "India"
   },
   "https://careers.zohocorp.com/jobs/Careers": {
     "company": "Zoho",
-    "count": 2,
+    "count": 1,
     "entries": [
-      "Hello there! I’m Career Assistant, and I’m here to help you to apply for a job.",
       "Looking to apply for a job?"
     ],
     "entry_only": true,
-    "last_checked": "2026-07-03T04:13:21",
+    "last_checked": "2026-07-03T04:23:59",
     "location": "India"
   },
   "https://cris.org.in/loadpage?page=indexcareer": {
@@ -787,7 +791,7 @@
       "six vacancy of Project Assistant in FOIS Group at New Delhi."
     ],
     "entry_only": true,
-    "last_checked": "2026-07-03T04:13:21",
+    "last_checked": "2026-07-03T04:23:59",
     "location": "New Delhi"
   },
   "https://darwinbox.com/careers": {
@@ -809,7 +813,7 @@
       "Product Marketing Manager"
     ],
     "entry_only": true,
-    "last_checked": "2026-07-03T04:13:21",
+    "last_checked": "2026-07-03T04:23:59",
     "location": "Chennai"
   },
   "https://fareye.com/careers/": {
@@ -819,15 +823,37 @@
       "Google Tag Manager sets the cookie to experiment advertisement efficiency of websites using their services."
     ],
     "entry_only": true,
-    "last_checked": "2026-07-03T04:13:21",
+    "last_checked": "2026-07-03T04:23:59",
     "location": "Pune"
   },
   "https://fractal.ai/careers/": {
     "company": "Fractal Analytics",
-    "count": 0,
-    "entries": [],
+    "count": 21,
+    "entries": [
+      "Architect/Lead Architect",
+      "Engagement Manager - CPG+Retail",
+      "Engagement Manager – Strategic Alliances, CPG-Retail",
+      "Full Stack Engineer (React + Django)",
+      "Hiring Related Queries",
+      "MLOps Engineer",
+      "Procurement Manager",
+      "Qlik Consultant",
+      "Senior / Lead Forward Deployed Engineer (FDE) - Cogentiq Platform",
+      "Senior AWS DevOps & Platform Engineer (6-9 Years)",
+      "Senior Azure Data Engineer",
+      "Senior Azure DevOps & Platform Engineer (6 to 8 Years)",
+      "Senior Consultant - Tableau",
+      "Senior Consultant, Pharma",
+      "Senior Consultant- Data Governance",
+      "Senior Full Stack (React + Python ) Developer Role",
+      "Senior Full Stack Engineer (React + Django)",
+      "Senior Full Stack Engineer (ReactJS + Dot Net)",
+      "Senior ML Engineer",
+      "Sr. Data Scientist – GenAI & Agentic Systems",
+      "hiring@fractal.ai"
+    ],
     "entry_only": true,
-    "last_checked": "2026-07-03T04:13:21",
+    "last_checked": "2026-07-03T04:23:59",
     "location": "India"
   },
   "https://fundingsocieties.com/careers/": {
@@ -835,7 +861,7 @@
     "count": 0,
     "entries": [],
     "entry_only": true,
-    "last_checked": "2026-07-03T04:13:21",
+    "last_checked": "2026-07-03T04:23:59",
     "location": "Singapore"
   },
   "https://gailonline.com/IND_CareerCurrentOpenings.html": {
@@ -843,7 +869,7 @@
     "count": 0,
     "entries": [],
     "entry_only": true,
-    "last_checked": "2026-07-03T04:13:21",
+    "last_checked": "2026-07-03T04:23:59",
     "location": "India"
   },
   "https://giftgujarat.in/company-job-openings": {
@@ -853,56 +879,29 @@
       "Developer Services"
     ],
     "entry_only": false,
-    "last_checked": "2026-07-03T04:13:21",
+    "last_checked": "2026-07-03T04:23:59",
     "location": "Gandhinagar"
   },
   "https://grab.careers/": {
     "company": "Grab",
-    "count": 6,
+    "count": 5,
     "entries": [
       "Account Management, Associate (Contract)",
       "GRIT Trainee",
-      "Lead Software Engineer, Mobile (Android)",
       "Manager, Post-Merger Integration (PMI) and Strategy",
       "Senior Software Engineer, Backend",
       "Software Engineer, Fullstack (w/DevOps)"
     ],
     "entry_only": true,
-    "last_checked": "2026-07-03T04:13:21",
+    "last_checked": "2026-07-03T04:23:59",
     "location": "Singapore"
   },
   "https://gramener.com/careers/": {
     "company": "Gramener",
-    "count": 25,
-    "entries": [
-      "Can I apply more than one position at a time?",
-      "Data Analyst",
-      "Data Architect",
-      "Data Consultant",
-      "Data Engineer",
-      "Data Scientist",
-      "Data Scientist Bangalore Validate the models developed against statistical robustness and business sense.",
-      "Developer",
-      "How do I apply for a position at Gramener?",
-      "Internship is processed with technical assessment followed by discussion with the hiring manager.",
-      "Junior UI/UX Engineer Hyderabad/ Collaborate with marketing and sales teams to design and implement website updates and landing pages.",
-      "Lead Data Science Engineer at Gramener",
-      "Lead Data Scientist – SFE Analytics Hyderabad Worked extensively on SFE Analytics (Pharma preferred).",
-      "Mendix Developer Bangalore Develop and maintain applications using the Mendix low-code platform.",
-      "Python Architect Hyderabad/Bangalore/Chennai/Noida/Mumbai Architect and design new solutions and products for multiple domains.",
-      "Python Developer – GenAI/NLP Integration Hyderabad/Bangalore Core Python Development: 4–8 years of hands-on experience.",
-      "QA Engineer",
-      "Senior Full-Stack Developer Bangalore AWS or Azure cloud, Server management with basic visualization.",
-      "Snowflake Engineer",
-      "Snowflake Platform Engineer Hyderabad/Bangalore/Chennai Experience with monitoring, incident management, and platform governance.",
-      "UI UX Designer",
-      "What is the educational qualification criteria to apply for Gramener?",
-      "What is your process for Campus Hiring?",
-      "Yes, you may choose to apply for more than one position based on your fitment to the position.",
-      "You can visit our career website and apply to the suitable position. Please use the link :https://gramener.com/careers/"
-    ],
+    "count": 0,
+    "entries": [],
     "entry_only": true,
-    "last_checked": "2026-07-03T04:13:21",
+    "last_checked": "2026-07-03T04:23:59",
     "location": "Hyderabad"
   },
   "https://groww.in/careers": {
@@ -912,7 +911,7 @@
       "Careers at Groww - Job Openings & Vacancy"
     ],
     "entry_only": false,
-    "last_checked": "2026-07-03T04:13:21",
+    "last_checked": "2026-07-03T04:23:59",
     "location": "Bengaluru"
   },
   "https://hal-india.co.in/career": {
@@ -932,7 +931,7 @@
       "Forward Deployed Engineer"
     ],
     "entry_only": true,
-    "last_checked": "2026-07-03T04:13:21",
+    "last_checked": "2026-07-03T04:23:59",
     "location": "Bengaluru"
   },
   "https://hexaware.com/careers/": {
@@ -940,8 +939,33 @@
     "count": 0,
     "entries": [],
     "entry_only": true,
-    "last_checked": "2026-07-03T04:13:21",
+    "last_checked": "2026-07-03T04:23:59",
     "location": "India"
+  },
+  "https://hyperverge.co/careers/": {
+    "company": "HyperVerge",
+    "count": 16,
+    "entries": [
+      "Apply",
+      "Customer Success Manager - BFSI",
+      "Customer Success Manager - Vietnam",
+      "Digital-first KYC and customer onboarding for bank account opening",
+      "Engineering Manager",
+      "Full Stack Engineer",
+      "Intern",
+      "Intern Stories at HyperVerge",
+      "Lead - Machine Learning (NLP)",
+      "Lead the",
+      "Legal Intern (In-House Counsel)",
+      "Principal Key Account Manager - BFSI",
+      "Product Marketing Associate",
+      "Product Support/Technical Intern",
+      "Senior Product Designer",
+      "Site Reliabilty Engineer"
+    ],
+    "entry_only": true,
+    "last_checked": "2026-07-03T04:23:59",
+    "location": "Chennai"
   },
   "https://ideas2it.com/careers/": {
     "company": "Ideas2IT",
@@ -962,7 +986,7 @@
       "We are hiring!"
     ],
     "entry_only": true,
-    "last_checked": "2026-07-03T04:13:21",
+    "last_checked": "2026-07-03T04:23:59",
     "location": "Chennai"
   },
   "https://innovaccer.com/careers": {
@@ -975,7 +999,7 @@
       "apply now apply now"
     ],
     "entry_only": false,
-    "last_checked": "2026-07-03T02:58:57",
+    "last_checked": "2026-07-03T04:23:59",
     "location": "Noida"
   },
   "https://internshala.com/internships/artificial-intelligence-internship/": {
@@ -1069,7 +1093,7 @@
       "post internship"
     ],
     "entry_only": true,
-    "last_checked": "2026-07-03T04:13:21",
+    "last_checked": "2026-07-03T04:23:59",
     "location": "India"
   },
   "https://internshala.com/internships/internship-in-chennai/": {
@@ -1170,7 +1194,7 @@
       "post internship"
     ],
     "entry_only": true,
-    "last_checked": "2026-07-03T04:13:21",
+    "last_checked": "2026-07-03T04:23:59",
     "location": "Chennai"
   },
   "https://internshala.com/internships/internship-in-dehradun/": {
@@ -1259,7 +1283,7 @@
       "post internship"
     ],
     "entry_only": true,
-    "last_checked": "2026-07-03T04:13:21",
+    "last_checked": "2026-07-03T04:23:59",
     "location": "Dehradun"
   },
   "https://internshala.com/internships/internship-in-gandhinagar/": {
@@ -1345,15 +1369,16 @@
       "post internship"
     ],
     "entry_only": true,
-    "last_checked": "2026-07-03T04:13:21",
+    "last_checked": "2026-07-03T04:23:59",
     "location": "Gandhinagar"
   },
   "https://internshala.com/internships/internship-in-gurgaon/": {
     "company": "Internshala Gurgaon",
-    "count": 83,
+    "count": 84,
     "entries": [
       "Absolutely not! Internshala is a free platform. You don't have to pay anything to apply for internships in Gurgaon on Internshala.",
       "Accounts Executive",
+      "Accounts Executive - Female",
       "Accounts Fresher Job",
       "Actively hiring",
       "Apply",
@@ -1437,15 +1462,16 @@
       "post internship"
     ],
     "entry_only": true,
-    "last_checked": "2026-07-03T04:13:21",
+    "last_checked": "2026-07-03T04:23:59",
     "location": "Gurugram"
   },
   "https://internshala.com/internships/internship-in-noida/": {
     "company": "Internshala Noida",
-    "count": 90,
+    "count": 91,
     "entries": [
       "Absolutely not! Internshala is a free platform. You don't have to pay anything to apply for internships in Noida on Internshala.",
       "Accounts Executive",
+      "Accounts Executive - Female",
       "Accounts Fresher Job",
       "Actively hiring",
       "Apply",
@@ -1536,7 +1562,7 @@
       "post internship"
     ],
     "entry_only": true,
-    "last_checked": "2026-07-03T04:13:21",
+    "last_checked": "2026-07-03T04:23:59",
     "location": "Noida"
   },
   "https://internshala.com/internships/internship-in-pune/": {
@@ -1634,7 +1660,7 @@
       "post internship"
     ],
     "entry_only": true,
-    "last_checked": "2026-07-03T04:13:21",
+    "last_checked": "2026-07-03T04:23:59",
     "location": "Pune"
   },
   "https://internshala.com/internships/machine-learning-internship/": {
@@ -1728,7 +1754,7 @@
       "post internship"
     ],
     "entry_only": true,
-    "last_checked": "2026-07-03T04:13:21",
+    "last_checked": "2026-07-03T04:23:59",
     "location": "India"
   },
   "https://internshala.com/internships/software-development-internship/": {
@@ -1829,7 +1855,7 @@
       "post internship"
     ],
     "entry_only": true,
-    "last_checked": "2026-07-03T04:13:21",
+    "last_checked": "2026-07-03T04:23:59",
     "location": "India"
   },
   "https://iocl.com/latest-job-openings": {
@@ -1840,8 +1866,16 @@
       "Latest Job Opening"
     ],
     "entry_only": true,
-    "last_checked": "2026-07-03T04:13:21",
+    "last_checked": "2026-07-03T04:23:59",
     "location": "India"
+  },
+  "https://juspay.io/in/careers": {
+    "company": "Juspay",
+    "count": 0,
+    "entries": [],
+    "entry_only": true,
+    "last_checked": "2026-07-03T04:23:59",
+    "location": "Bengaluru"
   },
   "https://kissflow.com/careers/": {
     "company": "Kissflow",
@@ -1855,8 +1889,19 @@
       "Manager - Digital Marketing Experience: 8 - 12 years Explore More"
     ],
     "entry_only": true,
-    "last_checked": "2026-07-03T04:13:21",
+    "last_checked": "2026-07-03T04:23:59",
     "location": "Chennai"
+  },
+  "https://kitopi.com/careers/": {
+    "company": "Kitopi",
+    "count": 2,
+    "entries": [
+      "ARE YOU A RECRUITER?",
+      "Connect with us if you are a recruiter or working for a recruitment agency."
+    ],
+    "entry_only": true,
+    "last_checked": "2026-07-03T04:23:59",
+    "location": "Dubai"
   },
   "https://kore.ai/careers/": {
     "company": "Kore.ai",
@@ -1882,7 +1927,7 @@
       "Technical Support Manager (Product Support)"
     ],
     "entry_only": true,
-    "last_checked": "2026-07-03T04:13:21",
+    "last_checked": "2026-07-03T04:23:59",
     "location": "Hyderabad"
   },
   "https://ninjacart.com/careers/": {
@@ -1890,7 +1935,7 @@
     "count": 0,
     "entries": [],
     "entry_only": true,
-    "last_checked": "2026-07-03T04:13:21",
+    "last_checked": "2026-07-03T04:23:59",
     "location": "Bengaluru"
   },
   "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite": {
@@ -1898,7 +1943,7 @@
     "count": 0,
     "entries": [],
     "entry_only": true,
-    "last_checked": "2026-07-03T04:13:21",
+    "last_checked": "2026-07-03T04:23:59",
     "location": "India"
   },
   "https://nxp.wd3.myworkdayjobs.com/careers": {
@@ -1906,8 +1951,16 @@
     "count": 0,
     "entries": [],
     "entry_only": true,
-    "last_checked": "2026-07-03T04:13:21",
+    "last_checked": "2026-07-03T04:23:59",
     "location": "Noida"
+  },
+  "https://osome.com/careers/": {
+    "company": "Osome",
+    "count": 0,
+    "entries": [],
+    "entry_only": true,
+    "last_checked": "2026-07-03T04:23:59",
+    "location": "Singapore"
   },
   "https://paytm.com/careers": {
     "company": "Paytm",
@@ -1916,7 +1969,7 @@
       "Apply for Field Sales Executive Job"
     ],
     "entry_only": false,
-    "last_checked": "2026-07-03T02:58:57",
+    "last_checked": "2026-07-03T04:23:59",
     "location": "Noida"
   },
   "https://pharmeasy.in/careers/": {
@@ -1924,7 +1977,7 @@
     "count": 0,
     "entries": [],
     "entry_only": true,
-    "last_checked": "2026-07-03T04:13:21",
+    "last_checked": "2026-07-03T04:23:59",
     "location": "Gurugram"
   },
   "https://pubmatic.com/careers/": {
@@ -1938,7 +1991,7 @@
       "Senior Manager, Legal Operations"
     ],
     "entry_only": true,
-    "last_checked": "2026-07-03T04:13:21",
+    "last_checked": "2026-07-03T04:23:59",
     "location": "Pune"
   },
   "https://radixweb.com/careers": {
@@ -1946,7 +1999,7 @@
     "count": 0,
     "entries": [],
     "entry_only": true,
-    "last_checked": "2026-07-03T04:13:21",
+    "last_checked": "2026-07-03T04:23:59",
     "location": "Ahmedabad"
   },
   "https://razorpay.com/jobs/": {
@@ -1958,7 +2011,7 @@
       "Razorpay Careers | Jobs, Hiring & Career Opportunities at Razorpay"
     ],
     "entry_only": true,
-    "last_checked": "2026-07-03T04:13:21",
+    "last_checked": "2026-07-03T04:23:59",
     "location": "Bengaluru"
   },
   "https://research.samsung.com/careers": {
@@ -1966,18 +2019,32 @@
     "count": 0,
     "entries": [],
     "entry_only": true,
-    "last_checked": "2026-07-03T04:13:21",
+    "last_checked": "2026-07-03T04:23:59",
     "location": "Bengaluru"
+  },
+  "https://sail.co.in/en/jobs": {
+    "company": "SAIL",
+    "count": 0,
+    "entries": [],
+    "entry_only": true,
+    "last_checked": "2026-07-03T04:23:59",
+    "location": "India"
   },
   "https://sharechat.com/careers": {
     "company": "ShareChat",
-    "count": 2,
+    "count": 8,
     "entries": [
+      "Intern - Telugu - Business Development(Sales)",
+      "Intern - Video Editor",
+      "Lead - Legal & Company Secretary",
+      "Manager - Corporate Development & IR",
+      "Senior Associate-Finance",
       "Senior Product Analyst",
+      "Senior Product Designer - IC",
       "Talent Acquisition Manager - UK"
     ],
     "entry_only": false,
-    "last_checked": "2026-07-03T04:13:21",
+    "last_checked": "2026-07-03T04:23:59",
     "location": "Bengaluru"
   },
   "https://sigtuple.com/careers": {
@@ -1988,7 +2055,7 @@
       "Scientist Builds AI-Enabled Device to Help Diagnose Diseases in Under a Minute"
     ],
     "entry_only": true,
-    "last_checked": "2026-07-03T04:13:21",
+    "last_checked": "2026-07-03T04:23:59",
     "location": "Bengaluru"
   },
   "https://skill-lync.com/careers": {
@@ -2003,7 +2070,7 @@
       "We enjoy what we create together. We fuel curiosity and foster creativity. We take pride in adding value to every engineer’s life."
     ],
     "entry_only": true,
-    "last_checked": "2026-07-03T04:13:21",
+    "last_checked": "2026-07-03T04:23:59",
     "location": "Hyderabad"
   },
   "https://tabby.ai/careers": {
@@ -2041,7 +2108,7 @@
       "Training Lead - Saudi National"
     ],
     "entry_only": true,
-    "last_checked": "2026-07-03T04:13:21",
+    "last_checked": "2026-07-03T04:23:59",
     "location": "Dubai"
   },
   "https://tower-research.com/open-positions/": {
@@ -2049,7 +2116,7 @@
     "count": 0,
     "entries": [],
     "entry_only": true,
-    "last_checked": "2026-07-03T04:13:21",
+    "last_checked": "2026-07-03T04:23:59",
     "location": "Gurugram"
   },
   "https://wellfound.com/location/bangalore": {
@@ -2057,7 +2124,7 @@
     "count": 0,
     "entries": [],
     "entry_only": true,
-    "last_checked": "2026-07-03T04:13:21",
+    "last_checked": "2026-07-03T04:23:59",
     "location": "Bengaluru"
   },
   "https://whatfix.com/careers/": {
@@ -2073,142 +2140,154 @@
       "You can apply for an open role through our Careers page by submitting your resume and filling out an online application."
     ],
     "entry_only": true,
-    "last_checked": "2026-07-03T04:13:21",
+    "last_checked": "2026-07-03T04:23:59",
     "location": "Bengaluru"
+  },
+  "https://wingify.com/careers/": {
+    "company": "Wingify",
+    "count": 14,
+    "entries": [
+      "Apply",
+      "Apply Filter",
+      "Click on available positions to apply. Or send your CV and work samples to",
+      "GenAI Engineer",
+      "Growth Marketing Manager – US",
+      "Pratham’s internship experience with the engineering team",
+      "Revenue Operations Specialist",
+      "Senior Data Engineer",
+      "Senior DevOps Engineer",
+      "Senior Software Engineer - Client Services",
+      "Software Engineer - QA (Client Services team)",
+      "Software Engineer – Full Stack",
+      "Solutions Consultant (Japanese fluent)",
+      "Technical Account Manager - Customer support specialist - US/APAC/EMEA"
+    ],
+    "entry_only": true,
+    "last_checked": "2026-07-03T04:23:59",
+    "location": "Pune"
   },
   "https://www.accenture.com/in-en/careers/jobsearch?fl=Bengaluru": {
     "company": "Accenture",
-    "count": 25,
+    "count": 22,
     "entries": [
-      "AGBG Mid Market Operations Senior Analyst",
+      "AI Native Software Engineering Analyst",
+      "Analytics and Modeling Analyst",
+      "Application Architecture Senior Analyst",
+      "Application Support Engineer",
+      "Application/Cloud Support Associate Manager",
+      "Application/Cloud Support Team Lead/Consultant",
       "Apply",
       "Apply filter",
-      "Business Operations Senior Analyst",
-      "Client Account Leadership Senior Manager",
-      "Enterprise AI Value Strategy Manager",
+      "Business & Technology Delivery Senior Analyst",
+      "Custom Software Engineer",
+      "Custom Software Engineering Senior Analyst",
+      "Customer Service Associate",
+      "Forward Deployed Engineer",
       "Hiring journey",
-      "IMU - AI & Data Manager",
-      "IMU CAL Senior Manager",
-      "IMU Sales Capture Associate Director",
-      "IMU Sales Capture Senior Manager",
-      "IMU-Brand and Marketing Strategist Senior Manager",
-      "IMU-CAL-CMT-Senior Manager",
-      "IMU-SONG Strategy Consultant",
-      "IMU-SONG Strategy Manager",
       "Industry Analyst Recognition",
+      "Packaged Application Development Senior Analyst",
+      "Procure to Pay Operations Specialist",
+      "Procure to Pay Operations Team Lead/Consultant",
+      "Record to Report Operations New Associate",
+      "Record to Report Ops New Associate",
       "Recruiting and Hiring Privacy Statement",
-      "Sales Capture Associate Director",
-      "Sales Capture Senior Manager",
-      "Strategy Innovation Associate Director",
-      "Strategy Manager",
-      "Strategy Senior Manager",
-      "Strategy Team Lead/Consultant",
-      "Workplace Service Delivery Associate Manager",
-      "Workplace Service Delivery Associate Manager-Events"
+      "Technology Platform Engineer"
     ],
     "entry_only": true,
-    "last_checked": "2026-07-03T04:13:21",
+    "last_checked": "2026-07-03T04:23:59",
     "location": "Bengaluru"
   },
   "https://www.accenture.com/in-en/careers/jobsearch?fl=Gurugram": {
     "company": "Accenture",
-    "count": 24,
+    "count": 22,
     "entries": [
-      "AGBG Mid Market Operations Senior Analyst",
+      "AI Native Software Engineering Analyst",
+      "Analytics and Modeling Analyst",
+      "Application Architecture Senior Analyst",
+      "Application Support Engineer",
+      "Application/Cloud Support Associate Manager",
+      "Application/Cloud Support Team Lead/Consultant",
+      "Apply",
       "Apply filter",
-      "Business Operations Senior Analyst",
-      "Client Account Leadership Senior Manager",
-      "Enterprise AI Value Strategy Manager",
+      "Business & Technology Delivery Senior Analyst",
+      "Custom Software Engineer",
+      "Custom Software Engineering Senior Analyst",
+      "Customer Service Associate",
+      "Forward Deployed Engineer",
       "Hiring journey",
-      "IMU - AI & Data Manager",
-      "IMU CAL Senior Manager",
-      "IMU Sales Capture Associate Director",
-      "IMU Sales Capture Senior Manager",
-      "IMU-Brand and Marketing Strategist Senior Manager",
-      "IMU-CAL-CMT-Senior Manager",
-      "IMU-SONG Strategy Consultant",
-      "IMU-SONG Strategy Manager",
       "Industry Analyst Recognition",
+      "Packaged Application Development Senior Analyst",
+      "Procure to Pay Operations Specialist",
+      "Procure to Pay Operations Team Lead/Consultant",
+      "Record to Report Operations New Associate",
+      "Record to Report Ops New Associate",
       "Recruiting and Hiring Privacy Statement",
-      "Sales Capture Associate Director",
-      "Sales Capture Senior Manager",
-      "Strategy Innovation Associate Director",
-      "Strategy Manager",
-      "Strategy Senior Manager",
-      "Strategy Team Lead/Consultant",
-      "Workplace Service Delivery Associate Manager",
-      "Workplace Service Delivery Associate Manager-Events"
+      "Technology Platform Engineer"
     ],
     "entry_only": true,
-    "last_checked": "2026-07-03T04:13:21",
+    "last_checked": "2026-07-03T04:23:59",
     "location": "Gurugram"
   },
   "https://www.accenture.com/in-en/careers/jobsearch?fl=Hyderabad": {
     "company": "Accenture",
-    "count": 25,
+    "count": 22,
     "entries": [
-      "AGBG Mid Market Operations Senior Analyst",
+      "AI Native Software Engineering Analyst",
+      "Analytics and Modeling Analyst",
+      "Application Architecture Senior Analyst",
+      "Application Support Engineer",
+      "Application/Cloud Support Associate Manager",
+      "Application/Cloud Support Team Lead/Consultant",
       "Apply",
       "Apply filter",
-      "Business Operations Senior Analyst",
-      "Client Account Leadership Senior Manager",
-      "Enterprise AI Value Strategy Manager",
+      "Business & Technology Delivery Senior Analyst",
+      "Custom Software Engineer",
+      "Custom Software Engineering Senior Analyst",
+      "Customer Service Associate",
+      "Forward Deployed Engineer",
       "Hiring journey",
-      "IMU - AI & Data Manager",
-      "IMU CAL Senior Manager",
-      "IMU Sales Capture Associate Director",
-      "IMU Sales Capture Senior Manager",
-      "IMU-Brand and Marketing Strategist Senior Manager",
-      "IMU-CAL-CMT-Senior Manager",
-      "IMU-SONG Strategy Consultant",
-      "IMU-SONG Strategy Manager",
       "Industry Analyst Recognition",
+      "Packaged Application Development Senior Analyst",
+      "Procure to Pay Operations Specialist",
+      "Procure to Pay Operations Team Lead/Consultant",
+      "Record to Report Operations New Associate",
+      "Record to Report Ops New Associate",
       "Recruiting and Hiring Privacy Statement",
-      "Sales Capture Associate Director",
-      "Sales Capture Senior Manager",
-      "Strategy Innovation Associate Director",
-      "Strategy Manager",
-      "Strategy Senior Manager",
-      "Strategy Team Lead/Consultant",
-      "Workplace Service Delivery Associate Manager",
-      "Workplace Service Delivery Associate Manager-Events"
+      "Technology Platform Engineer"
     ],
     "entry_only": true,
-    "last_checked": "2026-07-03T04:13:21",
+    "last_checked": "2026-07-03T04:23:59",
     "location": "Hyderabad"
   },
   "https://www.accenture.com/in-en/careers/jobsearch?fl=Pune": {
     "company": "Accenture",
-    "count": 25,
+    "count": 22,
     "entries": [
-      "AGBG Mid Market Operations Senior Analyst",
+      "AI Native Software Engineering Analyst",
+      "Analytics and Modeling Analyst",
+      "Application Architecture Senior Analyst",
+      "Application Support Engineer",
+      "Application/Cloud Support Associate Manager",
+      "Application/Cloud Support Team Lead/Consultant",
       "Apply",
       "Apply filter",
-      "Business Operations Senior Analyst",
-      "Client Account Leadership Senior Manager",
-      "Enterprise AI Value Strategy Manager",
+      "Business & Technology Delivery Senior Analyst",
+      "Custom Software Engineer",
+      "Custom Software Engineering Senior Analyst",
+      "Customer Service Associate",
+      "Forward Deployed Engineer",
       "Hiring journey",
-      "IMU - AI & Data Manager",
-      "IMU CAL Senior Manager",
-      "IMU Sales Capture Associate Director",
-      "IMU Sales Capture Senior Manager",
-      "IMU-Brand and Marketing Strategist Senior Manager",
-      "IMU-CAL-CMT-Senior Manager",
-      "IMU-SONG Strategy Consultant",
-      "IMU-SONG Strategy Manager",
       "Industry Analyst Recognition",
+      "Packaged Application Development Senior Analyst",
+      "Procure to Pay Operations Specialist",
+      "Procure to Pay Operations Team Lead/Consultant",
+      "Record to Report Operations New Associate",
+      "Record to Report Ops New Associate",
       "Recruiting and Hiring Privacy Statement",
-      "Sales Capture Associate Director",
-      "Sales Capture Senior Manager",
-      "Strategy Innovation Associate Director",
-      "Strategy Manager",
-      "Strategy Senior Manager",
-      "Strategy Team Lead/Consultant",
-      "Workplace Service Delivery Associate Manager",
-      "Workplace Service Delivery Associate Manager-Events"
+      "Technology Platform Engineer"
     ],
     "entry_only": true,
-    "last_checked": "2026-07-03T04:13:21",
+    "last_checked": "2026-07-03T04:23:59",
     "location": "Pune"
   },
   "https://www.accenture.com/in-en/careers/life-at-accenture/entry-level": {
@@ -2222,15 +2301,49 @@
       "Recruiting and Hiring Privacy Statement"
     ],
     "entry_only": true,
-    "last_checked": "2026-07-03T02:58:57",
+    "last_checked": "2026-07-03T04:23:59",
     "location": "India"
+  },
+  "https://www.agnikul.in/": {
+    "company": "Agnikul Cosmos",
+    "count": 0,
+    "entries": [],
+    "entry_only": true,
+    "last_checked": "2026-07-03T04:23:59",
+    "location": "Chennai"
+  },
+  "https://www.alefeducation.com/careers/": {
+    "company": "Alef Education",
+    "count": 17,
+    "entries": [
+      "Analyst Coverage",
+      "BI Developer [L1]",
+      "Digital Learning Implementation Specialist",
+      "Digital Learning Implementation Specialist (UAE National)",
+      "Executive",
+      "Financial Planning Analyst",
+      "Junior Product Manager",
+      "Lead AI Engineer",
+      "QA Engineer [L2]",
+      "Senior Sales Manager B2G",
+      "Senior Unity Developer [L4]",
+      "Support Developer",
+      "Talent Acquisition Manager",
+      "Technology: Devops",
+      "UI/UX Lead",
+      "UI/UX Manager",
+      "opening positions"
+    ],
+    "entry_only": true,
+    "last_checked": "2026-07-03T04:23:59",
+    "location": "Dubai"
   },
   "https://www.alpha-grep.com/careers/": {
     "company": "AlphaGrep",
     "count": 0,
     "entries": [],
     "entry_only": true,
-    "last_checked": "2026-07-03T04:13:21",
+    "last_checked": "2026-07-03T04:23:59",
     "location": "Bengaluru"
   },
   "https://www.amazon.jobs/en/search?base_query=intern&loc_query=India": {
@@ -2252,7 +2365,7 @@
       "intern | India"
     ],
     "entry_only": true,
-    "last_checked": "2026-07-03T04:13:21",
+    "last_checked": "2026-07-03T04:23:59",
     "location": "India"
   },
   "https://www.atherenergy.com/careers": {
@@ -2260,7 +2373,7 @@
     "count": 0,
     "entries": [],
     "entry_only": true,
-    "last_checked": "2026-07-03T04:13:21",
+    "last_checked": "2026-07-03T04:23:59",
     "location": "Bengaluru"
   },
   "https://www.atlassian.com/company/careers/all-jobs": {
@@ -2271,7 +2384,7 @@
       "Developer support"
     ],
     "entry_only": true,
-    "last_checked": "2026-07-03T04:13:21",
+    "last_checked": "2026-07-03T04:23:59",
     "location": "Bengaluru"
   },
   "https://www.auberginesolutions.com/careers/": {
@@ -2290,7 +2403,7 @@
       "Technical Lead"
     ],
     "entry_only": true,
-    "last_checked": "2026-07-03T04:13:21",
+    "last_checked": "2026-07-03T04:23:59",
     "location": "Ahmedabad"
   },
   "https://www.avenuesai.com/career-opportunities": {
@@ -2319,7 +2432,7 @@
       "product delivery. The Java Technical Lead will facilitate requirement analyses, conduct peer reviews and provide feedback."
     ],
     "entry_only": false,
-    "last_checked": "2026-07-03T04:13:21",
+    "last_checked": "2026-07-03T04:23:59",
     "location": "Gandhinagar"
   },
   "https://www.azilen.com/careers/": {
@@ -2332,7 +2445,7 @@
       "Software QA Services"
     ],
     "entry_only": false,
-    "last_checked": "2026-07-03T04:13:21",
+    "last_checked": "2026-07-03T04:23:59",
     "location": "Ahmedabad"
   },
   "https://www.bacancytechnology.com/careers": {
@@ -2422,7 +2535,7 @@
       "iOS Developer"
     ],
     "entry_only": false,
-    "last_checked": "2026-07-03T04:13:21",
+    "last_checked": "2026-07-03T04:23:59",
     "location": "Ahmedabad"
   },
   "https://www.bayut.com/careers/": {
@@ -2430,7 +2543,7 @@
     "count": 0,
     "entries": [],
     "entry_only": true,
-    "last_checked": "2026-07-03T04:13:21",
+    "last_checked": "2026-07-03T04:23:59",
     "location": "Dubai"
   },
   "https://www.biofourmis.com/careers/": {
@@ -2438,8 +2551,25 @@
     "count": 0,
     "entries": [],
     "entry_only": true,
-    "last_checked": "2026-07-03T04:13:21",
+    "last_checked": "2026-07-03T04:23:59",
     "location": "Singapore"
+  },
+  "https://www.birlasoft.com/careers": {
+    "company": "Birlasoft",
+    "count": 8,
+    "entries": [
+      "Analyst",
+      "Apply",
+      "Computer Systems Analyst:",
+      "IT Project Manager:",
+      "If you’re ready to grow with purpose, lead with confidence, and power what’s next, your journey starts here.",
+      "Plan, initiate & manage IT projects. Lead & guide the work of tech staff. $126,610 - $150,301/yr.",
+      "Software Developer:",
+      "The Strongest Leaders will Lead Silently"
+    ],
+    "entry_only": true,
+    "last_checked": "2026-07-03T04:23:59",
+    "location": "India"
   },
   "https://www.brainvire.com/freshers/": {
     "company": "Brainvire",
@@ -2452,8 +2582,19 @@
       "Your Future Starts Here: Join Our Team as an MBA Fresher and Make Your Mark"
     ],
     "entry_only": true,
-    "last_checked": "2026-07-03T04:13:21",
+    "last_checked": "2026-07-03T04:23:59",
     "location": "Ahmedabad"
+  },
+  "https://www.browserstack.com/careers": {
+    "company": "BrowserStack",
+    "count": 2,
+    "entries": [
+      "Discord Community Join our developer community",
+      "Events QA leader connects & webinars"
+    ],
+    "entry_only": true,
+    "last_checked": "2026-07-03T04:23:59",
+    "location": "Bengaluru"
   },
   "https://www.capgemini.com/in-en/careers/career-paths/students-and-graduates/": {
     "company": "Capgemini",
@@ -2464,18 +2605,23 @@
       "Student and graduate opportunities with our brands"
     ],
     "entry_only": true,
-    "last_checked": "2026-06-29T12:26:12",
+    "last_checked": "2026-07-03T04:23:59",
     "location": "India"
   },
   "https://www.capgemini.com/in-en/careers/join-capgemini/job-search/": {
     "company": "Capgemini",
-    "count": 2,
+    "count": 7,
     "entries": [
       "Analyst recognition",
-      "Executive committee"
+      "BTP Technical Architect Bangalore, Gandhinagar, Pune, Mumbai Software Engineering Permanent Experienced Professionals",
+      "Executive committee",
+      "Mainframe Developer With CICS Chennai (ex Madras), Hyderabad, Bangalore, Pune Software Engineering Permanent Experienced Professionals",
+      "SAP BTP CPI Lead Bangalore, Gandhinagar, Pune, Mumbai Software Engineering Permanent Experienced Professionals",
+      "SAP CPI Lead Bangalore, Gandhinagar, Pune, Mumbai Software Engineering Permanent Experienced Professionals",
+      "SAP EWM Lead Bangalore, Pune, Mumbai Software Engineering Permanent Experienced Professionals"
     ],
     "entry_only": true,
-    "last_checked": "2026-06-29T12:26:12",
+    "last_checked": "2026-07-03T04:23:59",
     "location": "India"
   },
   "https://www.careem.com/careers": {
@@ -2483,8 +2629,16 @@
     "count": 0,
     "entries": [],
     "entry_only": true,
-    "last_checked": "2026-07-03T04:13:21",
+    "last_checked": "2026-07-03T04:23:59",
     "location": "Dubai"
+  },
+  "https://www.carro.co/en/careers": {
+    "company": "Carro",
+    "count": 0,
+    "entries": [],
+    "entry_only": true,
+    "last_checked": "2026-07-03T04:23:59",
+    "location": "Singapore"
   },
   "https://www.cars24.com/careers/": {
     "company": "Cars24",
@@ -2496,7 +2650,7 @@
       "Senior UI/UX Designer"
     ],
     "entry_only": false,
-    "last_checked": "2026-07-03T04:13:21",
+    "last_checked": "2026-07-03T04:23:59",
     "location": "Gurugram"
   },
   "https://www.cashfree.com/careers/": {
@@ -2514,7 +2668,7 @@
       "Software Development Engineer - 3"
     ],
     "entry_only": true,
-    "last_checked": "2026-07-03T04:13:21",
+    "last_checked": "2026-07-03T04:23:59",
     "location": "Bengaluru"
   },
   "https://www.chargebee.com/careers/": {
@@ -2525,7 +2679,7 @@
       "Join a Global Product Company | Hiring Globally"
     ],
     "entry_only": true,
-    "last_checked": "2026-07-03T04:13:21",
+    "last_checked": "2026-07-03T04:23:59",
     "location": "Chennai"
   },
   "https://www.clear.in/careers": {
@@ -2535,7 +2689,7 @@
       "Tax Consultant Services"
     ],
     "entry_only": true,
-    "last_checked": "2026-07-03T04:13:21",
+    "last_checked": "2026-07-03T04:23:59",
     "location": "Bengaluru"
   },
   "https://www.codapayments.com/careers": {
@@ -2546,7 +2700,7 @@
       "Hiring"
     ],
     "entry_only": true,
-    "last_checked": "2026-07-03T04:13:21",
+    "last_checked": "2026-07-03T04:23:59",
     "location": "Singapore"
   },
   "https://www.crestdata.ai/careers/": {
@@ -2559,7 +2713,7 @@
       "We are Hiring!"
     ],
     "entry_only": true,
-    "last_checked": "2026-07-03T04:13:21",
+    "last_checked": "2026-07-03T04:23:59",
     "location": "Ahmedabad"
   },
   "https://www.cult.fit/careers": {
@@ -2567,7 +2721,7 @@
     "count": 0,
     "entries": [],
     "entry_only": true,
-    "last_checked": "2026-07-03T04:13:21",
+    "last_checked": "2026-07-03T04:23:59",
     "location": "Bengaluru"
   },
   "https://www.cybage.com/careers": {
@@ -2580,7 +2734,7 @@
       "Azure Specialist"
     ],
     "entry_only": true,
-    "last_checked": "2026-07-03T04:13:21",
+    "last_checked": "2026-07-03T04:23:59",
     "location": "Pune"
   },
   "https://www.cygnet-infotech.com/careers": {
@@ -2591,7 +2745,7 @@
       "Test consulting and maturity assessments for reliable software QA"
     ],
     "entry_only": true,
-    "last_checked": "2026-07-03T04:13:21",
+    "last_checked": "2026-07-03T04:23:59",
     "location": "Ahmedabad"
   },
   "https://www.cyient.com/careers": {
@@ -2607,7 +2761,7 @@
       "The Technology Career Path empowers talent to apply breakthrough insights in aerospace, rail, and beyond."
     ],
     "entry_only": true,
-    "last_checked": "2026-07-03T04:13:21",
+    "last_checked": "2026-07-03T04:23:59",
     "location": "Hyderabad"
   },
   "https://www.delhivery.com/careers": {
@@ -2617,7 +2771,7 @@
       "Developer Documentation"
     ],
     "entry_only": false,
-    "last_checked": "2026-07-03T04:13:21",
+    "last_checked": "2026-07-03T04:23:59",
     "location": "Gurugram"
   },
   "https://www.deshawindia.com/careers": {
@@ -2642,7 +2796,7 @@
       "in Bengaluru and Gurugram. You can apply for these positions through our"
     ],
     "entry_only": true,
-    "last_checked": "2026-07-03T04:13:21",
+    "last_checked": "2026-07-03T04:23:59",
     "location": "Hyderabad"
   },
   "https://www.devitpl.com/careers/": {
@@ -2678,8 +2832,24 @@
       "Technical Support Executive"
     ],
     "entry_only": false,
-    "last_checked": "2026-07-03T04:13:21",
+    "last_checked": "2026-07-03T04:23:59",
     "location": "Gandhinagar"
+  },
+  "https://www.druva.com/about/careers": {
+    "company": "Druva",
+    "count": 7,
+    "entries": [
+      "Absolutely, you can apply for multiple positions if you are interested and feel qualified for them.",
+      "Analyst Research",
+      "Can I apply for multiple positions?",
+      "Developer Portal",
+      "Does Druva have an internship program?",
+      "Lead by example",
+      "Sr. Commercial Account Executive"
+    ],
+    "entry_only": true,
+    "last_checked": "2026-07-03T04:23:59",
+    "location": "Pune"
   },
   "https://www.eand.com/en/careers.html": {
     "company": "e& (Etisalat)",
@@ -2688,8 +2858,16 @@
       "Analyst Coverage"
     ],
     "entry_only": true,
-    "last_checked": "2026-07-03T04:13:21",
+    "last_checked": "2026-07-03T04:23:59",
     "location": "Dubai"
+  },
+  "https://www.einfochips.com/careers/": {
+    "company": "eInfochips",
+    "count": 0,
+    "entries": [],
+    "entry_only": false,
+    "last_checked": "2026-07-03T04:23:59",
+    "location": "Gandhinagar"
   },
   "https://www.emiratesgroupcareers.com/": {
     "company": "Emirates Group",
@@ -2698,15 +2876,27 @@
       "Apply"
     ],
     "entry_only": true,
-    "last_checked": "2026-07-03T04:13:21",
+    "last_checked": "2026-07-03T04:23:59",
     "location": "Dubai"
+  },
+  "https://www.exlservice.com/careers": {
+    "company": "EXL",
+    "count": 3,
+    "entries": [
+      "Analyst Recognitions",
+      "Executive Insights",
+      "Senior Manager, Operations"
+    ],
+    "entry_only": true,
+    "last_checked": "2026-07-03T04:23:59",
+    "location": "Noida"
   },
   "https://www.flipkartcareers.com/": {
     "company": "Flipkart",
     "count": 0,
     "entries": [],
     "entry_only": true,
-    "last_checked": "2026-07-03T04:13:21",
+    "last_checked": "2026-07-03T04:23:59",
     "location": "Bengaluru"
   },
   "https://www.fresha.com/careers": {
@@ -2722,7 +2912,7 @@
       "Team Lead - Platform Engineering (London) London, United Kingdom · Engineering"
     ],
     "entry_only": true,
-    "last_checked": "2026-07-03T04:13:21",
+    "last_checked": "2026-07-03T04:23:59",
     "location": "Dubai"
   },
   "https://www.freshworks.com/company/careers/": {
@@ -2733,7 +2923,7 @@
       "Cookie Preference Manager"
     ],
     "entry_only": true,
-    "last_checked": "2026-07-03T04:13:21",
+    "last_checked": "2026-07-03T04:23:59",
     "location": "Chennai"
   },
   "https://www.genpact.com/careers": {
@@ -2747,8 +2937,22 @@
       "We're hiring!"
     ],
     "entry_only": true,
-    "last_checked": "2026-07-03T04:13:21",
+    "last_checked": "2026-07-03T04:23:59",
     "location": "India"
+  },
+  "https://www.goldmansachs.com/careers/students/": {
+    "company": "Goldman Sachs Eng",
+    "count": 5,
+    "entries": [
+      "\"My role in Banking Operations marries business and engineering.\" Jack, Analyst, Operations, New York",
+      "As a new analyst or associate, you will learn about our businesses, develop important relationships, and build career-enhancing skills.",
+      "At-A-Glance: 2026 Internship Program",
+      "Get Ready to Apply",
+      "Graduate Students"
+    ],
+    "entry_only": true,
+    "last_checked": "2026-07-03T04:23:59",
+    "location": "Bengaluru"
   },
   "https://www.google.com/about/careers/applications/jobs/results/?location=India&employment_type=INTERN": {
     "company": "Google",
@@ -2758,7 +2962,7 @@
       "Intern"
     ],
     "entry_only": true,
-    "last_checked": "2026-07-03T04:13:21",
+    "last_checked": "2026-07-03T04:23:59",
     "location": "India"
   },
   "https://www.gravitontrading.com/careers.html": {
@@ -2766,7 +2970,7 @@
     "count": 0,
     "entries": [],
     "entry_only": true,
-    "last_checked": "2026-07-03T04:13:21",
+    "last_checked": "2026-07-03T04:23:59",
     "location": "Gurugram"
   },
   "https://www.gupshup.io/careers": {
@@ -2776,7 +2980,7 @@
       "Apply"
     ],
     "entry_only": true,
-    "last_checked": "2026-07-03T04:13:21",
+    "last_checked": "2026-07-03T04:23:59",
     "location": "Bengaluru"
   },
   "https://www.happiestminds.com/careers/": {
@@ -2799,7 +3003,7 @@
       "eCommerce Manager, Ilmor Engineering, Inc."
     ],
     "entry_only": true,
-    "last_checked": "2026-07-03T04:13:21",
+    "last_checked": "2026-07-03T04:23:59",
     "location": "Bengaluru"
   },
   "https://www.haptik.ai/careers": {
@@ -2809,7 +3013,7 @@
       "AI Lead Qualification Agent"
     ],
     "entry_only": true,
-    "last_checked": "2026-07-03T04:13:21",
+    "last_checked": "2026-07-03T04:23:59",
     "location": "Mumbai"
   },
   "https://www.hcltech.com/careers/jobs": {
@@ -2833,7 +3037,7 @@
       "Google Tag Manager sets the cookie to experiment advertisement efficiency of websites using their services."
     ],
     "entry_only": true,
-    "last_checked": "2026-07-03T04:13:21",
+    "last_checked": "2026-07-03T04:23:59",
     "location": "Hyderabad"
   },
   "https://www.huspy.com/careers": {
@@ -2841,7 +3045,7 @@
     "count": 0,
     "entries": [],
     "entry_only": true,
-    "last_checked": "2026-07-03T04:13:21",
+    "last_checked": "2026-07-03T04:23:59",
     "location": "Dubai"
   },
   "https://www.hyperlinkinfosystem.com/careers": {
@@ -2856,35 +3060,67 @@
       "On the lookout for a coding wizard? Hire a developer from Hyperlink InfoSystem and build brilliance together."
     ],
     "entry_only": true,
-    "last_checked": "2026-07-03T04:13:21",
+    "last_checked": "2026-07-03T04:23:59",
     "location": "Ahmedabad"
   },
   "https://www.ibm.com/in-en/careers/career-opportunities": {
     "company": "IBM",
-    "count": 11,
+    "count": 17,
     "entries": [
       "5 things you need to know before you apply",
       "A Day in the Office: Libby, AI Partner Technical Specialist",
       "A Day in the Office: Mike, Lab Engineering Manager",
       "A Day in the Office: Olivia, SAP Sales Consultant",
+      "Associate Data Engineer",
+      "Associate Technical SAP Package Specialist (September 2026 - Calgary)",
       "Check the video and the tips in the tabs we prepared for you before you apply and make sure your application is successful.",
+      "Developer Access digital resources, code samples and code trials",
       "Entry Level Consultant: The Secrets to Becoming a Successful Candidate",
+      "Entry level Brand Sales Specialist - Power - Luxembourg",
+      "Entry level Brand Technical Specialist - Belgium",
       "Entry-Level Developer: The Secrets to Becoming a Successful Candidate",
       "IBM Internship Programs",
       "This IBMer started as an intern and today advises global business leaders on ways to incorporate AI.",
       "Tips before you apply to IBM",
-      "Total intern learning hours last year"
+      "Total intern learning hours last year",
+      "Treasury Analyst (Korean Bilingual)"
     ],
     "entry_only": true,
-    "last_checked": "2026-06-29T12:26:12",
+    "last_checked": "2026-07-03T04:23:59",
     "location": "India"
   },
   "https://www.ibm.com/in-en/careers/search": {
     "company": "IBM",
-    "count": 0,
-    "entries": [],
+    "count": 25,
+    "entries": [
+      "Consulting Business Transformation Consultant-Finance Transformation Professional Bangalore, IN",
+      "Consulting Business Transformation Consultant-Manufacturing Professional Hsinchu, TW",
+      "Consulting Package Consultant-SAP HANA SCM EWM Professional Hyderabad, IN",
+      "Consulting Package Consultant-SuccessFactors Core HR Professional Pune, IN",
+      "Data Engineer-Data Integration Professional Pune, IN",
+      "Developer Access digital resources, code samples and code trials",
+      "Enterprise Operations PROCESS DELIVERY SPECIALIST-LEAD TO CASH Professional Chennai, IN",
+      "Enterprise Operations PROCESS DELIVERY SPECIALIST-PROCURE TO PAY Professional Bangalore, IN",
+      "Enterprise Operations Process Associate Order Management - Health Care (Voice) Professional Gurgaon, IN",
+      "Infrastructure & Technology Associate Technical SAP Package Specialist (September 2026 - Calgary) Entry Level Calgary, CA",
+      "Infrastructure & Technology CPU/Processor Verification – Core Execution Unit Lead Professional Bangalore, IN",
+      "Infrastructure & Technology IBM LOGIC DESIGN ENGINEER - PCIe/CXL Professional Bangalore, IN",
+      "Infrastructure & Technology Package Specialist 2026- Workday HCM & Compensation Entry Level Multiple Cities",
+      "Infrastructure & Technology Site Reliability Engineer Professional Bellevue, US",
+      "Internship (96)",
+      "Microsoft Dynamics NAV Developer Professional QUEZON CITY, PH",
+      "Project Management Estágio na área de Internal Controls Internship HORTOLANDIA, BR",
+      "Sales Apprenti.e Metropole Program Manager – Ecosystème - IBM France - H/F Internship Bois Colombes Cedex, FR",
+      "Software Engineering Application Developer-Cloud FullStack Professional Bangalore, IN",
+      "Software Engineering Application Developer-Cloud FullStack Professional Hyderabad, IN",
+      "Software Engineering Application Developer-Edge & Network Cloud Professional Gurgaon, IN",
+      "Software Engineering IBM Consulting Interns Internship QUEZON CITY, PH",
+      "Software Engineering Java Developer - Japanese Bilingual Professional Multiple Cities",
+      "Software Engineering SAP SCM MM Consultant Professional GUADALAJARA, MX",
+      "Software Engineering Senior Java Developer - eDV Clearance Required Professional Multiple Cities"
+    ],
     "entry_only": true,
-    "last_checked": "2026-07-03T04:13:21",
+    "last_checked": "2026-07-03T04:23:59",
     "location": "India"
   },
   "https://www.icertis.com/company/careers/": {
@@ -2896,7 +3132,7 @@
       "Apply"
     ],
     "entry_only": true,
-    "last_checked": "2026-07-03T04:13:21",
+    "last_checked": "2026-07-03T04:23:59",
     "location": "Pune"
   },
   "https://www.indiumsoftware.com/careers": {
@@ -2917,7 +3153,7 @@
       "Test Engineer"
     ],
     "entry_only": true,
-    "last_checked": "2026-07-03T04:13:21",
+    "last_checked": "2026-07-03T04:23:59",
     "location": "Chennai"
   },
   "https://www.infosys.com/careers/graduates.html": {
@@ -2925,7 +3161,7 @@
     "count": 0,
     "entries": [],
     "entry_only": true,
-    "last_checked": "2026-07-03T04:13:21",
+    "last_checked": "2026-07-03T04:23:59",
     "location": "India"
   },
   "https://www.intel.com/content/www/us/en/jobs/locations/india.html": {
@@ -2933,7 +3169,7 @@
     "count": 0,
     "entries": [],
     "entry_only": true,
-    "last_checked": "2026-07-03T04:13:21",
+    "last_checked": "2026-07-03T04:23:59",
     "location": "Bengaluru"
   },
   "https://www.irctc.com/new-openings.php": {
@@ -2952,7 +3188,7 @@
       "Requirement of Rajbhasa Consultant for IRCTC/NZ."
     ],
     "entry_only": false,
-    "last_checked": "2026-07-03T04:13:21",
+    "last_checked": "2026-07-03T04:23:59",
     "location": "New Delhi"
   },
   "https://www.isro.gov.in/Careers.html": {
@@ -2964,7 +3200,7 @@
       "Web Information Manager"
     ],
     "entry_only": true,
-    "last_checked": "2026-07-03T04:13:21",
+    "last_checked": "2026-07-03T04:23:59",
     "location": "India"
   },
   "https://www.jumptrading.com/careers/": {
@@ -2972,7 +3208,7 @@
     "count": 0,
     "entries": [],
     "entry_only": true,
-    "last_checked": "2026-07-03T04:13:21",
+    "last_checked": "2026-07-03T04:23:59",
     "location": "India"
   },
   "https://www.keka.com/careers": {
@@ -2985,7 +3221,7 @@
       "We are hiring !"
     ],
     "entry_only": false,
-    "last_checked": "2026-07-03T04:13:21",
+    "last_checked": "2026-07-03T04:23:59",
     "location": "Hyderabad"
   },
   "https://www.kpit.com/careers/": {
@@ -2996,7 +3232,7 @@
       "Whether you're an experienced professional or a recent graduate, find your next opportunity and join our dynamic team today!"
     ],
     "entry_only": true,
-    "last_checked": "2026-07-03T04:13:21",
+    "last_checked": "2026-07-03T04:23:59",
     "location": "Pune"
   },
   "https://www.lazada.com/en/careers/": {
@@ -3004,7 +3240,7 @@
     "count": 0,
     "entries": [],
     "entry_only": true,
-    "last_checked": "2026-07-03T04:13:21",
+    "last_checked": "2026-07-03T04:23:59",
     "location": "Singapore"
   },
   "https://www.leadsquared.com/careers/": {
@@ -3015,7 +3251,7 @@
       "What is lead management"
     ],
     "entry_only": true,
-    "last_checked": "2026-07-03T04:13:21",
+    "last_checked": "2026-07-03T04:23:59",
     "location": "Bengaluru"
   },
   "https://www.lenskart.com/jobs": {
@@ -3023,7 +3259,7 @@
     "count": 0,
     "entries": [],
     "entry_only": true,
-    "last_checked": "2026-07-03T04:13:21",
+    "last_checked": "2026-07-03T04:23:59",
     "location": "Gurugram"
   },
   "https://www.ltm.com/india-careers": {
@@ -3031,7 +3267,7 @@
     "count": 0,
     "entries": [],
     "entry_only": true,
-    "last_checked": "2026-07-03T04:13:21",
+    "last_checked": "2026-07-03T04:23:59",
     "location": "India"
   },
   "https://www.ltts.com/careers": {
@@ -3039,7 +3275,7 @@
     "count": 0,
     "entries": [],
     "entry_only": true,
-    "last_checked": "2026-07-03T04:13:21",
+    "last_checked": "2026-07-03T04:23:59",
     "location": "India"
   },
   "https://www.marvell.com/company/careers.html": {
@@ -3052,7 +3288,7 @@
       "Marvell Executive Program LEARN MORE"
     ],
     "entry_only": true,
-    "last_checked": "2026-07-03T04:13:21",
+    "last_checked": "2026-07-03T04:23:59",
     "location": "Pune"
   },
   "https://www.mastek.com/careers/": {
@@ -3069,7 +3305,7 @@
       "– Senior Manager of an industry leading virtual agent services company."
     ],
     "entry_only": true,
-    "last_checked": "2026-07-03T04:13:21",
+    "last_checked": "2026-07-03T04:23:59",
     "location": "India"
   },
   "https://www.mediatek.com/careers": {
@@ -3079,7 +3315,7 @@
       "Analyst Coverage"
     ],
     "entry_only": true,
-    "last_checked": "2026-07-03T04:13:21",
+    "last_checked": "2026-07-03T04:23:59",
     "location": "Noida"
   },
   "https://www.meesho.io/jobs": {
@@ -3101,7 +3337,7 @@
       "Data Scientist III Tech Bangalore, Karnataka"
     ],
     "entry_only": false,
-    "last_checked": "2026-07-03T04:13:21",
+    "last_checked": "2026-07-03T04:23:59",
     "location": "Bengaluru"
   },
   "https://www.mindtickle.com/careers/": {
@@ -3134,7 +3370,7 @@
       "UX Research Manager On-site — Full-Time Bengaluru, Karnataka"
     ],
     "entry_only": true,
-    "last_checked": "2026-07-03T04:13:21",
+    "last_checked": "2026-07-03T04:23:59",
     "location": "Pune"
   },
   "https://www.mobikwik.com/careers": {
@@ -3142,7 +3378,7 @@
     "count": 0,
     "entries": [],
     "entry_only": true,
-    "last_checked": "2026-07-03T04:13:21",
+    "last_checked": "2026-07-03T04:23:59",
     "location": "Gurugram"
   },
   "https://www.moengage.com/careers/": {
@@ -3154,7 +3390,7 @@
       "Product Manager - Campaigns, India"
     ],
     "entry_only": false,
-    "last_checked": "2026-07-03T04:13:21",
+    "last_checked": "2026-07-03T04:23:59",
     "location": "Bengaluru"
   },
   "https://www.mu-sigma.com/careers": {
@@ -3166,7 +3402,7 @@
       "What does the hiring process look like?"
     ],
     "entry_only": true,
-    "last_checked": "2026-07-03T04:13:21",
+    "last_checked": "2026-07-03T04:23:59",
     "location": "Bengaluru"
   },
   "https://www.mycareersfuture.gov.sg/search?search=machine+learning&sortBy=new_posting_date": {
@@ -3182,7 +3418,7 @@
       "Senior Executive"
     ],
     "entry_only": true,
-    "last_checked": "2026-07-03T04:13:21",
+    "last_checked": "2026-07-03T04:23:59",
     "location": "Singapore"
   },
   "https://www.mycareersfuture.gov.sg/search?search=software+engineer&sortBy=new_posting_date": {
@@ -3198,7 +3434,7 @@
       "Senior Executive"
     ],
     "entry_only": true,
-    "last_checked": "2026-07-03T04:13:21",
+    "last_checked": "2026-07-03T04:23:59",
     "location": "Singapore"
   },
   "https://www.nagarro.com/en/careers": {
@@ -3208,7 +3444,7 @@
       "Nagarro's Reverse Application - We turn the tables on the hiring process! #LifeatNagarro"
     ],
     "entry_only": true,
-    "last_checked": "2026-07-03T04:13:21",
+    "last_checked": "2026-07-03T04:23:59",
     "location": "Gurugram"
   },
   "https://www.netradyne.com/company/careers": {
@@ -3216,8 +3452,28 @@
     "count": 0,
     "entries": [],
     "entry_only": true,
-    "last_checked": "2026-07-03T04:13:21",
+    "last_checked": "2026-07-03T04:23:59",
     "location": "Bengaluru"
+  },
+  "https://www.ninjavan.co/en-sg/careers": {
+    "company": "Ninja Van",
+    "count": 11,
+    "entries": [
+      "Account Management Associate Singapore, Singapore",
+      "Account Management Associate, Singapore",
+      "Fleet Operations Manager, Thailand",
+      "Junior Accounts Manager, Philippines",
+      "Junior Recruiter, Human Resource, Malaysia",
+      "Operations Specialist, Philippines",
+      "Senior Business Intelligence Analyst, Vietnam",
+      "Senior Finance Manager Singapore, Singapore",
+      "Senior Sales Associate Singapore, Singapore",
+      "Senior Software Engineer, Indonesia",
+      "Station Operations Manager (Cold Chain) Singapore, Singapore"
+    ],
+    "entry_only": true,
+    "last_checked": "2026-07-03T04:23:59",
+    "location": "Singapore"
   },
   "https://www.nium.com/careers": {
     "company": "Nium",
@@ -3229,7 +3485,7 @@
       "Senior Workplace Manager"
     ],
     "entry_only": true,
-    "last_checked": "2026-07-03T04:13:21",
+    "last_checked": "2026-07-03T04:23:59",
     "location": "Singapore"
   },
   "https://www.nksecurities.com/": {
@@ -3243,7 +3499,7 @@
       "We are Hiring"
     ],
     "entry_only": true,
-    "last_checked": "2026-07-03T04:13:21",
+    "last_checked": "2026-07-03T04:23:59",
     "location": "Gurugram"
   },
   "https://www.observe.ai/careers": {
@@ -3257,7 +3513,7 @@
       "Senior Customer Success Manager"
     ],
     "entry_only": true,
-    "last_checked": "2026-07-03T04:13:21",
+    "last_checked": "2026-07-03T04:23:59",
     "location": "Bengaluru"
   },
   "https://www.olakrutrim.com/careers": {
@@ -3265,7 +3521,7 @@
     "count": 0,
     "entries": [],
     "entry_only": true,
-    "last_checked": "2026-07-03T04:13:21",
+    "last_checked": "2026-07-03T04:23:59",
     "location": "Bengaluru"
   },
   "https://www.openxcell.com/company/career-and-culture/": {
@@ -3280,7 +3536,7 @@
       "Project Manager UI/UX"
     ],
     "entry_only": false,
-    "last_checked": "2026-07-03T04:13:21",
+    "last_checked": "2026-07-03T04:23:59",
     "location": "Ahmedabad"
   },
   "https://www.optiver.com/working-at-optiver/career-opportunities/": {
@@ -3303,7 +3559,7 @@
       "Trading Operations Analyst"
     ],
     "entry_only": true,
-    "last_checked": "2026-07-03T04:13:21",
+    "last_checked": "2026-07-03T04:23:59",
     "location": "Mumbai"
   },
   "https://www.oyorooms.com/careers/": {
@@ -3311,8 +3567,20 @@
     "count": 0,
     "entries": [],
     "entry_only": true,
-    "last_checked": "2026-07-03T04:13:21",
+    "last_checked": "2026-07-03T04:23:59",
     "location": "Gurugram"
+  },
+  "https://www.patsnap.com/careers/": {
+    "company": "PatSnap",
+    "count": 3,
+    "entries": [
+      "In their own words: Lucy Palmer, Team Lead, Account Management",
+      "Team Lead, Account Management e Toronto",
+      "We lead by example and inspire each other to reach for new heights."
+    ],
+    "entry_only": true,
+    "last_checked": "2026-07-03T04:23:59",
+    "location": "Singapore"
   },
   "https://www.peoplebox.ai/careers": {
     "company": "Peoplebox",
@@ -3330,7 +3598,7 @@
       "Your AI hiring partner, from resume to offer"
     ],
     "entry_only": false,
-    "last_checked": "2026-07-03T04:13:21",
+    "last_checked": "2026-07-03T04:23:59",
     "location": "Bengaluru"
   },
   "https://www.phonepe.com/careers/": {
@@ -3342,21 +3610,15 @@
       "Software Development Engineer"
     ],
     "entry_only": true,
-    "last_checked": "2026-07-03T04:13:21",
+    "last_checked": "2026-07-03T04:23:59",
     "location": "Bengaluru"
   },
   "https://www.pinelabs.com/careers": {
     "company": "Pine Labs",
-    "count": 5,
-    "entries": [
-      "Apply",
-      "Lead your crew on every expedition. Guide, support, and make the climb together.",
-      "Management Trainee Program",
-      "Our flagship summer internship program for students from premier B-schools.",
-      "Sales Trainee Program"
-    ],
+    "count": 0,
+    "entries": [],
     "entry_only": true,
-    "last_checked": "2026-07-03T04:13:21",
+    "last_checked": "2026-07-03T04:23:59",
     "location": "Noida"
   },
   "https://www.policybazaar.com/careers/": {
@@ -3377,14 +3639,95 @@
   },
   "https://www.postman.com/company/careers/open-positions/": {
     "company": "Postman",
-    "count": 3,
+    "count": 84,
     "entries": [
       "AI Engineer AI Engineer is ready to help",
+      "Account Executive, IT/ITES & Automotive, Pune",
+      "Applied AI Scientist, Small Language Model and AI Training",
+      "Backend and System Engineer (nodeJS or Golang)",
+      "Backend and System Engineer, Flows",
+      "Billing Support Specialist",
+      "Channel Sales Manager, Singapore",
+      "Channel Sales Manager, UK",
+      "Commercial Account Executive",
+      "Corporate Solutions Engineer",
+      "Corporate Solutions Engineer, Nordics",
+      "Corporate Solutions Engineer, UK",
+      "Customer Success Engineer",
+      "Customer Success Engineer - APAC",
+      "Customer Success Engineer, French Speaking",
+      "Customer Success Engineer, German Speaking",
+      "Customer Success Engineer, Spanish Speaking",
+      "Customer Success Engineer/Devops",
+      "Data Engineer",
+      "Deal Operations Analyst",
       "DevOps",
-      "Developer Productivity"
+      "Developer Productivity",
+      "Engagement Manager",
+      "Engineering Manager, Fern Docs",
+      "Engineering Manager, Insights",
+      "Engineering Manager, Postman AI",
+      "Enterprise Account Executive",
+      "Enterprise Account Executive – IT/ITES, Dehli NCR",
+      "Enterprise Solutions Engineer",
+      "Enterprise Solutions Engineer, Israel",
+      "Enterprise Solutions Engineer, Italy",
+      "Enterprise Solutions Engineer, Netherlands",
+      "Enterprise Solutions Engineer, UK",
+      "Field Marketing Manager",
+      "Global Field Events Lead",
+      "Manager, Account Development",
+      "Manager, Corporate Sales, Bengaluru",
+      "Member of Technical Staff, AI Agent Development Lead",
+      "Member of Technical Staff, AI Reliability & Monitoring Engineering Lead",
+      "Mid-Market Account Executive",
+      "Named Account Executive",
+      "Principal Offensive Security Engineer",
+      "Principal Product Marketing Manager",
+      "Principal Product Marketing Manager, EMEA",
+      "Principal Product Marketing Manager, India",
+      "Product Partnerships Manager",
+      "Regional Channel Sales Manager, Enterprise East",
+      "Regional Channel Sales Manager, Enterprise West",
+      "SEO Manager",
+      "SMB Account Executive, Germany",
+      "SMB Account Executive, Japan",
+      "Sales Compensation Analyst",
+      "Sales Enablement Program Manager",
+      "Senior Backend Engineer, Cloud Platform",
+      "Senior Backend Engineer, Observability",
+      "Senior Developer Advocate",
+      "Senior Digital Marketing Manager",
+      "Senior Engineer, Messaging Platform",
+      "Senior Fullstack Engineer - Codegen",
+      "Senior Fullstack Engineer, Observability",
+      "Senior Fullstack Software Engineer - (Customer Journey)",
+      "Senior Manager, Customer Success Engineering",
+      "Senior Product Marketing Manager",
+      "Senior Sales Operations Manager, Enterprise",
+      "Senior Software Engineer - Client SDK (UI Platform)",
+      "Senior Software Engineer - Fern",
+      "Senior Software Engineer Manager - Ecosystems",
+      "Senior Software Engineer, Ecosystem",
+      "Senior Software Engineer, Marketing Engineering",
+      "Senior Software Engineer, Monetization",
+      "Senior Solutions Architect",
+      "Software Engineer, Authorization",
+      "Software Engineer, IAM",
+      "Staff Engineer – Observability Platform",
+      "Staff Engineer, Desktop Platform",
+      "Staff Engineer, Product Trust",
+      "Staff Software Engineer - Fern",
+      "Staff Software Engineer, Business Platform",
+      "Staff Software Engineer- Codegen",
+      "Strategic Account Executive, Bengaluru",
+      "Technical Community Manager",
+      "Technical Enablement Program Manager",
+      "Technical Support Engineer",
+      "Technical Support Engineer, EMEA"
     ],
     "entry_only": true,
-    "last_checked": "2026-07-03T04:13:21",
+    "last_checked": "2026-07-03T04:23:59",
     "location": "Bengaluru"
   },
   "https://www.pristyncare.com/careers/": {
@@ -3394,7 +3737,7 @@
       "ENT Specialist Near Me"
     ],
     "entry_only": false,
-    "last_checked": "2026-07-03T04:13:21",
+    "last_checked": "2026-07-03T04:23:59",
     "location": "Gurugram"
   },
   "https://www.propertyfinder.ae/en/careers": {
@@ -3402,7 +3745,7 @@
     "count": 0,
     "entries": [],
     "entry_only": true,
-    "last_checked": "2026-07-03T04:13:21",
+    "last_checked": "2026-07-03T04:23:59",
     "location": "Dubai"
   },
   "https://www.propertygurugroup.com/careers/": {
@@ -3414,7 +3757,7 @@
       "We are hiring!"
     ],
     "entry_only": true,
-    "last_checked": "2026-07-03T04:13:21",
+    "last_checked": "2026-07-03T04:23:59",
     "location": "Singapore"
   },
   "https://www.quadeye.com/careers": {
@@ -3428,7 +3771,7 @@
       "Systems Engineer - (C++ Developer)"
     ],
     "entry_only": true,
-    "last_checked": "2026-07-03T04:13:21",
+    "last_checked": "2026-07-03T04:23:59",
     "location": "Gurugram"
   },
   "https://www.railtel.in/en/careers": {
@@ -3650,7 +3993,7 @@
       "‘Detailed Vacancy notice for ‘Deputation’ on the post of Addl.GM/GM (Tech)/RCIL in Northern Region"
     ],
     "entry_only": true,
-    "last_checked": "2026-07-03T04:13:21",
+    "last_checked": "2026-07-03T04:23:59",
     "location": "New Delhi"
   },
   "https://www.rapidops.com/careers/": {
@@ -3661,7 +4004,7 @@
       "Engineer GenAI software that amplifies human potential and delivers breakthrough results"
     ],
     "entry_only": true,
-    "last_checked": "2026-07-03T04:13:21",
+    "last_checked": "2026-07-03T04:23:59",
     "location": "Ahmedabad"
   },
   "https://www.salesforce.com/company/careers/university-recruiting/": {
@@ -3669,7 +4012,7 @@
     "count": 0,
     "entries": [],
     "entry_only": true,
-    "last_checked": "2026-07-03T04:13:21",
+    "last_checked": "2026-07-03T04:23:59",
     "location": "India"
   },
   "https://www.sarvam.ai/careers": {
@@ -3726,7 +4069,7 @@
       "Strategic Deployment Engineer, Chanakya Delhi Full Time On-Site"
     ],
     "entry_only": true,
-    "last_checked": "2026-07-03T04:13:21",
+    "last_checked": "2026-07-03T04:23:59",
     "location": "Bengaluru"
   },
   "https://www.seclore.com/company/careers/": {
@@ -3734,8 +4077,48 @@
     "count": 0,
     "entries": [],
     "entry_only": true,
-    "last_checked": "2026-07-03T04:13:21",
+    "last_checked": "2026-07-03T04:23:59",
     "location": "Pune"
+  },
+  "https://www.signzy.com/careers/": {
+    "company": "Signzy",
+    "count": 31,
+    "entries": [
+      "Account Manager 454 days ago Mumbai 3-7 Full Time",
+      "Assistant Manager- Sales Operations 651 days ago Bangalore Full Time",
+      "Assistant Manager- Sales Operations 686 days ago Gurugram Full Time",
+      "Associate Director - Enterprise Sales 864 days ago Chennai 7 years - 10 years Full Time",
+      "Customer Success Manager 262 days ago Mumbai +2 locations 1 - 3 Full Time",
+      "Enterprise Sales Manager 3 days ago 4 to 5 years Full Time",
+      "Enterprise Sales Manager 664 days ago Gurugram 4 - 8 years Full Time",
+      "Enterprise Sales Manager 765 days ago Mumbai 2-7 years Full Time",
+      "Enterprise Sales Manager 765 days ago Mumbai 3-5 years Full Time",
+      "Finance Manager 175 days ago 3-5 Full Time",
+      "Global Partnerships Manager 603 days ago Gurugram Full Time",
+      "Java Developer 203 days ago Bengaluru 1-3 Full Time",
+      "Mobile Application Developer - 1 11 days ago 1-3 Full Time",
+      "Mobile Application Developer-2 11 days ago 3-6 Full Time",
+      "Presales Consultant 726 days ago Gurugram 5 years Full Time",
+      "Presales Consultant 731 days ago Bangalore 3-5 years Full Time",
+      "Presales Consultant/Executive 99 days ago Delhi/Gurgaon 4 to 5 years Full Time",
+      "Product Support Engineer 625 days ago Bangalore 1-3 Years Full Time",
+      "QA Engineer - 1 352 days ago Bangalore 1 - 3 years Full Time",
+      "QA-1 9 days ago Bangalore 1-3 yrs Full Time",
+      "SDE - 1 Fullstack Engineer 11 days ago Bangalore 0-2 years Full Time",
+      "Sales Associate 10 days ago Mumbai 1 - 2 years Full Time",
+      "Sales L&D Specialist 20 days ago Mumbai , Delhi/Gurgaon 5+ Full Time",
+      "Sales Manager 703 days ago Bangalore Full Time",
+      "Senior Account Manager 242 days ago Mumbai , Gurugram 3 to 6 years Full Time",
+      "Senior Manager - Finance 632 days ago Bangalore 3-5 Years Full Time",
+      "Senior Sales Manager - Fintech and Public Sector 211 days ago Delhi/Gurgaon 4 to 8 years of experience Full Time",
+      "Site Reliability Engineer - 1 134 days ago Bengaluru 1 - 3 years Full Time",
+      "Site Reliability Engineer - 2 240 days ago Bengaluru , Dubai 3-5 years Full Time",
+      "UI/UX Designer 52 days ago Bengaluru 0 Full Time",
+      "We Are Hiring"
+    ],
+    "entry_only": true,
+    "last_checked": "2026-07-03T04:23:59",
+    "location": "Bengaluru"
   },
   "https://www.silvertouch.com/career/": {
     "company": "Silver Touch Technologies",
@@ -3759,7 +4142,7 @@
       "Sales Executive, Ahmedabad, India"
     ],
     "entry_only": false,
-    "last_checked": "2026-07-03T04:13:21",
+    "last_checked": "2026-07-03T04:23:59",
     "location": "Gandhinagar"
   },
   "https://www.simform.com/careers/": {
@@ -3783,15 +4166,20 @@
       "You can work from home when required, with approval from your manager, offering flexibility in your work routine."
     ],
     "entry_only": false,
-    "last_checked": "2026-07-03T04:13:21",
+    "last_checked": "2026-07-03T04:23:59",
     "location": "Ahmedabad"
   },
   "https://www.smartsensesolutions.com/career": {
     "company": "SmartSense Consulting Solutions",
-    "count": 0,
-    "entries": [],
+    "count": 4,
+    "entries": [
+      "Full Stack Developer",
+      "QA Automation Engineer",
+      "Sr. QA Engineer",
+      "View Opening"
+    ],
     "entry_only": false,
-    "last_checked": "2026-07-03T04:13:21",
+    "last_checked": "2026-07-03T04:23:59",
     "location": "Gandhinagar"
   },
   "https://www.sonata-software.com/careers": {
@@ -3801,7 +4189,7 @@
       "Executive Leadership Team"
     ],
     "entry_only": true,
-    "last_checked": "2026-07-03T04:13:21",
+    "last_checked": "2026-07-03T04:23:59",
     "location": "Bengaluru"
   },
   "https://www.spinny.com/careers/": {
@@ -3813,7 +4201,20 @@
       "Priti Awasthi, Manager, HR & Talent Acquisition"
     ],
     "entry_only": false,
-    "last_checked": "2026-07-03T04:13:21",
+    "last_checked": "2026-07-03T04:23:59",
+    "location": "Gurugram"
+  },
+  "https://www.sprinklr.com/careers/": {
+    "company": "Sprinklr",
+    "count": 4,
+    "entries": [
+      "Analyst Reports",
+      "Apply to one of our open positions.",
+      "Developer Portal",
+      "Internship and Early Careers"
+    ],
+    "entry_only": false,
+    "last_checked": "2026-07-03T04:23:59",
     "location": "Gurugram"
   },
   "https://www.stashaway.sg/careers": {
@@ -3824,7 +4225,7 @@
       "Online Marketing Analyst"
     ],
     "entry_only": true,
-    "last_checked": "2026-07-03T04:13:21",
+    "last_checked": "2026-07-03T04:23:59",
     "location": "Singapore"
   },
   "https://www.swvl.com/careers": {
@@ -3832,7 +4233,7 @@
     "count": 0,
     "entries": [],
     "entry_only": true,
-    "last_checked": "2026-07-03T04:13:21",
+    "last_checked": "2026-07-03T04:23:59",
     "location": "Dubai"
   },
   "https://www.tata.com/careers/jobs/joblisting": {
@@ -3842,7 +4243,7 @@
       "Apply"
     ],
     "entry_only": false,
-    "last_checked": "2026-07-03T04:13:21",
+    "last_checked": "2026-07-03T04:23:59",
     "location": "India"
   },
   "https://www.tataelxsi.com/careers": {
@@ -3850,7 +4251,7 @@
     "count": 0,
     "entries": [],
     "entry_only": false,
-    "last_checked": "2026-07-03T04:13:21",
+    "last_checked": "2026-07-03T04:23:59",
     "location": "Bengaluru"
   },
   "https://www.tatatechnologies.com/in/careers/": {
@@ -3862,7 +4263,7 @@
       "Get in touch today and discover how we can help you engineer a better world"
     ],
     "entry_only": false,
-    "last_checked": "2026-07-03T04:13:21",
+    "last_checked": "2026-07-03T04:23:59",
     "location": "Pune"
   },
   "https://www.tatvasoft.com/career": {
@@ -3878,7 +4279,7 @@
       "Software Testing & QA"
     ],
     "entry_only": false,
-    "last_checked": "2026-07-03T02:58:57",
+    "last_checked": "2026-07-03T04:23:59",
     "location": "Ahmedabad"
   },
   "https://www.tcs.com/careers/india": {
@@ -3886,7 +4287,7 @@
     "count": 0,
     "entries": [],
     "entry_only": true,
-    "last_checked": "2026-07-03T04:13:21",
+    "last_checked": "2026-07-03T04:23:59",
     "location": "India"
   },
   "https://www.tech.gov.sg/careers/": {
@@ -3896,15 +4297,21 @@
       "Apply for jobs Apply for jobs on Careers@Gov."
     ],
     "entry_only": true,
-    "last_checked": "2026-07-03T04:13:21",
+    "last_checked": "2026-07-03T04:23:59",
     "location": "Singapore"
   },
   "https://www.thunes.com/careers/": {
     "company": "Thunes",
-    "count": 0,
-    "entries": [],
+    "count": 5,
+    "entries": [
+      "Applications for the Singapore Global Executive Programme are now open. Kickstart your fintech career by clicking the link below.",
+      "Apply",
+      "Developer Portal & API Documentation",
+      "Enterprise Singapore Graduate Scheme",
+      "Talent Acquisition Specialist"
+    ],
     "entry_only": true,
-    "last_checked": "2026-07-03T04:13:21",
+    "last_checked": "2026-07-03T04:23:59",
     "location": "Singapore"
   },
   "https://www.tisindia.com/careers/": {
@@ -3918,6 +4325,21 @@
     "entry_only": false,
     "last_checked": "2026-06-29T12:26:12",
     "location": "Gandhinagar"
+  },
+  "https://www.truefoundry.com/careers": {
+    "company": "TrueFoundry",
+    "count": 6,
+    "entries": [
+      "Backend Engineer",
+      "ML Engineer",
+      "Platform Engineer",
+      "Sales & Lead Management",
+      "Sales and Lead Management",
+      "We are actively hiring across multiple functions"
+    ],
+    "entry_only": true,
+    "last_checked": "2026-07-03T04:23:59",
+    "location": "Bengaluru"
   },
   "https://www.turno.club/careers": {
     "company": "Turno",
@@ -3960,7 +4382,7 @@
       "Tele Quality Lead Auditor Lucknow 2-5 Full Time"
     ],
     "entry_only": true,
-    "last_checked": "2026-07-03T04:13:21",
+    "last_checked": "2026-07-03T04:23:59",
     "location": "Hyderabad"
   },
   "https://www.uniphore.com/careers/": {
@@ -3971,7 +4393,7 @@
       "Apply"
     ],
     "entry_only": true,
-    "last_checked": "2026-07-03T04:13:21",
+    "last_checked": "2026-07-03T04:23:59",
     "location": "Bengaluru"
   },
   "https://www.urbancompany.com/careers": {
@@ -3979,7 +4401,7 @@
     "count": 0,
     "entries": [],
     "entry_only": false,
-    "last_checked": "2026-07-03T04:13:21",
+    "last_checked": "2026-07-03T04:23:59",
     "location": "Gurugram"
   },
   "https://www.wadhwaniai.org/careers/": {
@@ -4018,7 +4440,7 @@
       "Trainee Roles"
     ],
     "entry_only": true,
-    "last_checked": "2026-07-03T04:13:21",
+    "last_checked": "2026-07-03T04:23:59",
     "location": "India"
   },
   "https://www.wns.com/careers": {
@@ -4031,7 +4453,7 @@
       "Executive Search Services"
     ],
     "entry_only": true,
-    "last_checked": "2026-07-03T04:13:21",
+    "last_checked": "2026-07-03T04:23:59",
     "location": "India"
   },
   "https://www.worldquant.com/careers/": {
@@ -4040,12 +4462,12 @@
     "entries": [
       "Apply",
       "Consultant Spotlight: Azmi Fauzi",
-      "Execution Developer (Technology) New York OR Old Greenwich OR Chicago OR Austin 00:16",
-      "Independent Portfolio Manager (Portfolio Management) Multiple Cities 00:16",
+      "Execution Developer (Technology) New York OR Old Greenwich OR Chicago OR Austin 00:26",
+      "Independent Portfolio Manager (Portfolio Management) Multiple Cities 00:26",
       "Portfolio Manager, U.S."
     ],
     "entry_only": true,
-    "last_checked": "2026-07-03T04:13:21",
+    "last_checked": "2026-07-03T04:23:59",
     "location": "Mumbai"
   },
   "https://www.ycombinator.com/jobs/location/bengaluru": {
@@ -4112,12 +4534,12 @@
       "Vahan (S19) • AI recruiter for India's massive blue-collar workforce ( 10 days ago)"
     ],
     "entry_only": true,
-    "last_checked": "2026-07-03T04:13:21",
+    "last_checked": "2026-07-03T04:23:59",
     "location": "Bengaluru"
   },
   "https://www.yudiz.com/join-our-team/": {
     "company": "Yudiz Solutions",
-    "count": 47,
+    "count": 48,
     "entries": [
       ".NET Developer",
       "2D Web Game Developer",
@@ -4155,6 +4577,7 @@
       "Python Developer",
       "ReactJS Developer",
       "SEO Executive",
+      "Sales Intern",
       "Shopify Developer",
       "Social Media Executive",
       "Solana Blockchain Developer",
@@ -4168,15 +4591,48 @@
       "iOS Developer"
     ],
     "entry_only": false,
-    "last_checked": "2026-06-29T12:26:12",
+    "last_checked": "2026-07-03T04:23:59",
     "location": "Ahmedabad"
   },
   "https://www.zenskar.com/careers": {
     "company": "Zenskar",
-    "count": 0,
-    "entries": [],
+    "count": 20,
+    "entries": [
+      "Account Executive-Mid Market(US)",
+      "Content Marketing Intern",
+      "Customer Success & Solutions Manager",
+      "Customer Success Intern",
+      "Engineering Manager",
+      "Enterprise Account Executive (US)",
+      "Finance Executive",
+      "Forward Deployed Engineer",
+      "Intern @ Zenskar",
+      "Product Manager",
+      "Product Security Engineer",
+      "Revenue Operations Intern",
+      "Senior Forward Deployed Engineer",
+      "Senior GenAI Engineer",
+      "Senior Solutions Engineer (US)",
+      "Solutions Consultant",
+      "Tech Lead - Backend",
+      "Technical Support Engineer",
+      "We're hiring across every function. Here's where we're building right now.",
+      "or apply via our careers page here:"
+    ],
     "entry_only": false,
-    "last_checked": "2026-07-03T04:13:21",
+    "last_checked": "2026-07-03T04:23:59",
+    "location": "Bengaluru"
+  },
+  "https://www.zeta.tech/careers/": {
+    "company": "Zeta",
+    "count": 3,
+    "entries": [
+      "Apply",
+      "Designer’s Corner",
+      "Servicing Specialist teams to handle card operations & customer service"
+    ],
+    "entry_only": true,
+    "last_checked": "2026-07-03T04:23:59",
     "location": "Bengaluru"
   },
   "https://www.zetwerk.com/careers/": {
@@ -4207,7 +4663,7 @@
       "Senior Manager - Quality"
     ],
     "entry_only": true,
-    "last_checked": "2026-07-03T04:13:21",
+    "last_checked": "2026-07-03T04:23:59",
     "location": "Bengaluru"
   },
   "https://www.zluri.com/careers": {
@@ -4224,7 +4680,7 @@
       "UX Design Manager 7-10 years Full Time"
     ],
     "entry_only": true,
-    "last_checked": "2026-07-03T04:13:21",
+    "last_checked": "2026-07-03T04:23:59",
     "location": "Hyderabad"
   },
   "https://www.zomato.com/careers": {
@@ -4244,7 +4700,7 @@
       "Analyst Mentions"
     ],
     "entry_only": true,
-    "last_checked": "2026-07-03T04:13:21",
+    "last_checked": "2026-07-03T04:23:59",
     "location": "Bengaluru"
   }
 }
