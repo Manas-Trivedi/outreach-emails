@@ -64,6 +64,18 @@ ENTRY_RE = re.compile(
     r"no experience|0\s*yr|new grad)\b",
     re.I,
 )
+# AI/ML roles.
+AIML_RE = re.compile(
+    r"\b(ai|ml|machine learning|deep learning|data scien(ce|tist)|nlp|"
+    r"computer vision|gen(?:erative)?\s?ai|llm|mlops|artificial intelligence)\b",
+    re.I,
+)
+# Software-engineering / dev roles.
+SDE_RE = re.compile(
+    r"\b(sde|sdet|software (engineer|developer|development)|back[ -]?end|"
+    r"front[ -]?end|full[ -]?stack|web developer|programmer)\b",
+    re.I,
+)
 NOISE_RE = re.compile(
     r"^(home|about|contact|privacy|terms|cookie|login|sign in|menu|careers?|"
     r"life at|why join|benefits|culture|search|apply now|view all|learn more)$",
@@ -131,6 +143,22 @@ def extract_entries(html):
 
 def is_entry_level(s):
     return bool(ENTRY_RE.search(s))
+
+
+def is_focus(s):
+    """Role the user cares about: entry-level OR SDE OR AI/ML."""
+    return bool(ENTRY_RE.search(s) or SDE_RE.search(s) or AIML_RE.search(s))
+
+
+def tags(s):
+    t = ""
+    if ENTRY_RE.search(s):
+        t += "🎓 "
+    if AIML_RE.search(s):
+        t += "🤖 "
+    if SDE_RE.search(s):
+        t += "💻 "
+    return t
 
 
 def load_state():
@@ -217,10 +245,10 @@ def main():
         first_run = url not in state
         new = [e for e in entries if e not in prev]
         if entry_only:
-            new = [e for e in new if is_entry_level(e)]
+            new = [e for e in new if is_focus(e)]
 
         if new and not first_run:
-            alerts.append((label, url, [(e, is_entry_level(e)) for e in new]))
+            alerts.append((label, url, new))
 
         state[url] = {
             "company": company,
@@ -238,8 +266,8 @@ def main():
         md_lines.append(f"# 🔔 New career-page entries — {now}\n")
         for label, url, items in alerts:
             md_lines.append(f"## {label}\n<{url}>\n")
-            for entry, entry_lvl in items:
-                md_lines.append(f"- {'🎓 ' if entry_lvl else ''}{entry}")
+            for entry in items:
+                md_lines.append(f"- {tags(entry)}{entry}")
             md_lines.append("")
     md = "\n".join(md_lines)
 
