@@ -184,23 +184,14 @@ def fetch_static(url):
     return r.text
 
 
-def fetch_rendered(url):
-    """Render JS with Playwright if available; else fall back to static."""
+def fetch_with_browser(browser, url):
+    """Render JS using a shared Playwright browser (one page per URL)."""
+    page = browser.new_page(user_agent=UA)
     try:
-        from playwright.sync_api import sync_playwright
-    except ImportError:
-        return fetch_static(url)
-    with sync_playwright() as p:
-        browser = p.chromium.launch()
-        page = browser.new_page(user_agent=UA)
         page.goto(url, wait_until="networkidle", timeout=TIMEOUT * 1000)
-        html = page.content()
-        browser.close()
-        return html
-
-
-def fetch(url):
-    return fetch_rendered(url) if RENDER else fetch_static(url)
+        return page.content()
+    finally:
+        page.close()
 
 
 def truthy(v):
@@ -225,8 +216,19 @@ def main():
     now = dt.datetime.now().isoformat(timespec="seconds")
     state = load_state()
     pages = read_pages()
-    alerts = []   # (label, url, [(entry, entry_level_bool)])
+    alerts = []   # (label, url, [entries])
     errors = []
+
+    # Shared browser for RENDER mode (one launch per run, not per page).
+    pw = browser = None
+    if RENDER:
+        try:
+            from playwright.sync_api import sync_playwright
+            pw = sync_playwright().start()
+            browser = pw.chromium.launch()
+        except ImportError:
+            print("RENDER=1 but Playwright not installed; using static fetch.",
+                  file=sys.stderr)
 
     for row in pages:
         company = row.get("Company", "").strip() or row["URL"]
@@ -236,7 +238,8 @@ def main():
         entry_only = truthy(row.get("EntryLevel", ""))
 
         try:
-            entries = extract_entries(fetch(url))
+            html = fetch_with_browser(browser, url) if browser else fetch_static(url)
+            entries = extract_entries(html)
         except Exception as e:
             errors.append((label, url, str(e)[:120]))
             continue
@@ -258,6 +261,10 @@ def main():
             "count": len(entries),
             "last_checked": now,
         }
+
+    if pw:
+        browser.close()
+        pw.stop()
 
     save_state(state)
 
