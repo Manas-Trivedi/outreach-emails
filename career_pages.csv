@@ -125,7 +125,7 @@ Intel India,https://www.intel.com/content/www/us/en/jobs/locations/india.html,Be
 AMD India,https://careers.amd.com/careers-home,Bengaluru,yes,VLSI/SDE (SPA)
 Texas Instruments,https://careers.ti.com/,Bengaluru,yes,Analog/embedded (SPA)
 Micron India,https://careers.micron.com/careers,Hyderabad,yes,Memory/VLSI (SPA)
-Analog Devices,https://careers.analog.com/,Bengaluru,yes,Analog/embedded (SPA)
+Analog Devices,https://analogdevices.wd1.myworkdayjobs.com/External,Bengaluru,yes,Analog/embedded (SPA)
 NXP India,https://nxp.wd3.myworkdayjobs.com/careers,Noida,yes,Semiconductors (SPA)
 Synopsys,https://careers.synopsys.com/,Bengaluru,yes,EDA/VLSI (SPA)
 Cadence,https://cadence.wd1.myworkdayjobs.com/External_Careers,Noida,yes,EDA/VLSI (SPA)
@@ -254,9 +254,9 @@ CtrlS,https://www.ctrls.in/careers/,Hyderabad,yes,Datacenter/cloud
 Tekion,https://tekion.com/careers,Bengaluru,yes,Auto retail cloud/AI
 Amdocs,https://www.amdocs.com/careers,Pune,yes,Telecom software
 Quick Heal,https://www.quickheal.com/careers/,Pune,yes,Cybersecurity
-Cimpress/Vistaprint,https://careers.cimpress.com/,Pune,yes,Ecommerce SDE
+Cimpress/Vistaprint,https://cimpress.com/careers/,Pune,yes,Ecommerce SDE
 BMC Software,https://www.bmc.com/careers.html,Pune,yes,Enterprise software
-NICE,https://careers.nice.com/,Pune,yes,CX/analytics SaaS
+NICE,https://www.nice.com/careers,Pune,yes,CX/analytics SaaS
 Ramco Systems,https://www.ramco.com/careers/,Chennai,yes,ERP/AI SaaS
 M2P Fintech,https://m2pfintech.com/careers/,Chennai,yes,Fintech infra
 Aspire Systems,https://www.aspiresys.com/careers/,Chennai,yes,Product engineering
@@ -280,7 +280,7 @@ Inexture,https://www.inexture.com/careers/,Ahmedabad,yes,Software dev
 Zealous System,https://www.zealousys.com/careers/,Ahmedabad,yes,Software dev
 Sarwa,https://www.sarwa.co/careers,Dubai,yes,Wealthtech
 Cafu,https://cafu.com/careers/,Dubai,yes,Mobility tech
-Astra Tech (Botim),https://www.astratech.com/careers,Dubai,yes,Super-app
+Astra Tech (Botim),https://careers.astratech.ae/,Dubai,yes,Super-app
 Majid Al Futtaim,https://www.majidalfuttaim.com/en/careers,Dubai,yes,Retail tech
 Bayzat,https://www.bayzat.com/careers,Dubai,yes,HR/insurtech SaaS
 Advance Intelligence (Atome),https://advance.ai/careers,Singapore,yes,AI/fintech
@@ -292,19 +292,18 @@ Sleek,https://sleek.com/careers/,Singapore,yes,Fintech SaaS
 Naukri Dehradun (IT),https://www.naukri.com/it-jobs-in-dehradun,Dehradun,yes,City IT board
 Unacademy,https://unacademy.com/careers,Bengaluru,yes,Edtech SDE
 Vedantu,https://www.vedantu.com/careers,Bengaluru,yes,Edtech SDE
-PhysicsWallah,https://careers.pw.live/,Noida,yes,Edtech SDE
+PhysicsWallah,https://jobs.pwskills.com/,Noida,yes,Edtech SDE
 upGrad,https://www.upgrad.com/careers/,Mumbai,yes,Edtech SDE
 Scaler,https://www.scaler.com/careers/,Bengaluru,yes,Edtech/engineering
 BigBasket,https://www.bigbasket.com/careers/,Bengaluru,yes,E-grocery SDE
 Zepto,https://www.zeptonow.com/careers,Bengaluru,yes,Q-commerce SDE
 Porter,https://porter.in/careers,Bengaluru,yes,Logistics SDE
 Games24x7,https://www.games24x7.com/careers/,Bengaluru,yes,Gaming SDE/AI
-Mobile Premier League,https://careers.mpl.live/,Bengaluru,yes,Gaming SDE
 Rebel Foods,https://www.rebelfoods.com/careers,Mumbai,yes,Foodtech SDE
 Ola,https://www.olacabs.com/careers,Bengaluru,yes,Mobility SDE/AI
 Ola Electric,https://olaelectric.com/careers,Bengaluru,yes,EV SDE/embedded
 Toplyne,https://www.toplyne.io/careers,Bengaluru,yes,GTM AI SaaS
-Techwave,https://techwave.net/careers/,Hyderabad,yes,IT services
+Techwave,https://techwave.wd108.myworkdayjobs.com/TechWave_Careers,Hyderabad,yes,IT services
 MiQ,https://www.wearemiq.com/careers/,Hyderabad,yes,Adtech/data
 Harbinger Group,https://www.harbingergroup.com/careers/,Pune,yes,Product engineering
 Josh Software,https://www.joshsoftware.com/careers/,Pune,yes,Ruby/SDE
@@ -316,9 +315,9 @@ Orion Innovation,https://www.orioninc.com/careers/,Chennai,yes,Digital engineeri
 Photon,https://www.photon.com/careers,Chennai,yes,Digital/AI
 Shiprocket,https://careers.shiprocket.in/,Gurugram,yes,Logistics SaaS SDE
 Square Yards,https://www.squareyards.com/careers,Gurugram,yes,PropTech SDE
-Info Edge (Naukri),https://www.infoedge.in/careers.php,Noida,yes,Internet SDE
+Info Edge (Naukri),https://careers.infoedge.com/infoedge/jobslist,Noida,yes,Internet SDE
 Tata 1mg,https://www.1mg.com/jobs,Gurugram,yes,Healthtech SDE
-Mamaearth (Honasa),https://careers.mamaearth.in/,Gurugram,yes,D2C tech
+Mamaearth (Honasa),https://honasa.in/pages/careers,Gurugram,yes,D2C tech
 Techtic Solutions,https://www.techtic.com/careers/,Ahmedabad,yes,Web/app dev
 Peerbits,https://www.peerbits.com/careers.html,Ahmedabad,yes,App dev
 BiztechCS,https://www.biztechcs.com/careers/,Ahmedabad,yes,Web/app dev
@@ -327,7 +326,7 @@ TruKKer,https://trukker.com/careers/,Dubai,yes,Logistics tech
 YAP,https://www.yap.com/careers,Dubai,yes,Fintech SDE
 Baraka,https://getbaraka.com/careers,Dubai,yes,Wealthtech
 Pure Harvest,https://pureharvest.ag/careers/,Dubai,yes,Agritech
-Circles.life,https://careers.circles.life/,Singapore,yes,Telco SaaS SDE
+Circles.life,https://boards.greenhouse.io/embed/job_board?for=circleslife,Singapore,yes,Telco SaaS SDE
 M-DAQ,https://www.m-daq.com/careers/,Singapore,yes,Fintech SDE
 Kredivo (FinAccel),https://www.kredivo.com/careers,Singapore,yes,Fintech SDE
 MoneySmart,https://www.moneysmart.sg/careers,Singapore,yes,Fintech SDE
@@ -365,7 +364,6 @@ OfBusiness,https://www.ofbusiness.com/careers,Gurugram,yes,B2B fintech SDE
 HealthKart,https://www.healthkart.com/careers,Gurugram,yes,D2C healthtech SDE
 Groovy Web,https://www.groovyweb.co/careers/,Ahmedabad,yes,Web/app dev
 Prakash Software,https://www.prakashinfotech.com/career.html,Ahmedabad,yes,Software dev
-Postpay,https://postpay.io/careers,Dubai,yes,Fintech BNPL
 Ziina,https://ziina.com/careers,Dubai,yes,Fintech SDE
 Mamo,https://mamopay.com/careers,Dubai,yes,Fintech SDE
 Trust Bank,https://www.trustbank.sg/careers,Singapore,yes,Digital bank SDE
