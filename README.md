@@ -1,5 +1,4 @@
 # Internship Outreach - Email Database
-
 Private repository containing all scraped company emails and HR contacts for paid internship outreach.
 
 ## Files
