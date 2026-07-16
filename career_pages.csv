@@ -9,9 +9,6 @@ Silver Touch Technologies,https://www.silvertouch.com/career/,Gandhinagar,no,Gan
 Dev Information Technology,https://www.devitpl.com/careers/,Gandhinagar,no,Infocity Gandhinagar
 Infosys,https://www.infosys.com/careers/graduates.html,India,yes,Graduate/entry-level landing
 Infosys,https://career.infosys.com/joblist,Bengaluru,yes,Job list (SPA - needs RENDER)
-Infosys,https://career.infosys.com/joblist,Pune,yes,Job list (SPA - needs RENDER)
-Infosys,https://career.infosys.com/joblist,Hyderabad,yes,Job list (SPA - needs RENDER)
-Infosys,https://career.infosys.com/joblist,Chandigarh,yes,Job list (SPA - needs RENDER)
 Accenture,https://www.accenture.com/in-en/careers/life-at-accenture/entry-level,India,yes,Early-career landing
 Accenture,https://www.accenture.com/in-en/careers/jobsearch?fl=Bengaluru,Bengaluru,yes,Job search (SPA - needs RENDER)
 Accenture,https://www.accenture.com/in-en/careers/jobsearch?fl=Hyderabad,Hyderabad,yes,Job search (SPA - needs RENDER)
@@ -33,7 +30,7 @@ Azilen Technologies,https://www.azilen.com/careers/,Ahmedabad,no,Product/AI
 Brainvire,https://www.brainvire.com/freshers/,Ahmedabad,yes,Freshers page
 Tech Mahindra,https://careers.techmahindra.com/,India,yes,SPA - needs RENDER
 Mphasis,https://careers.mphasis.com/home/hot-jobs/location-search/india.html,India,yes,India hot jobs
-LTIMindtree,https://www.ltm.com/india-careers,India,yes,India careers
+LTIMindtree,https://careers.ltimindtree.com/,India,yes,India careers
 Zoho,https://careers.zohocorp.com/jobs/Careers,India,yes,SPA - needs RENDER
 Cognizant,https://careers.cognizant.com/india-en/jobs/,India,yes,India jobs (SPA)
 Persistent Systems,https://careers.persistent.com/,India,yes,SPA - needs RENDER
@@ -100,7 +97,7 @@ CRED,https://careers.cred.club/,Bengaluru,yes,SDE/AI (SPA)
 Arcesium,https://careers.arcesium.com/,Bengaluru,yes,SDE (SPA)
 D. E. Shaw India,https://www.deshawindia.com/careers,Hyderabad,yes,SDE/quant (SPA)
 Sarvam AI,https://www.sarvam.ai/careers,Bengaluru,yes,GenAI/LLM
-Krutrim,https://www.olakrutrim.com/careers,Bengaluru,yes,AI/LLM (SPA)
+Krutrim,https://olakrutrim.com/careers,Bengaluru,yes,AI/LLM (SPA)
 Fractal Analytics,https://fractal.ai/careers/,India,yes,AI/ML/data (SPA)
 Mu Sigma,https://www.mu-sigma.com/careers,Bengaluru,yes,Data science
 Wadhwani AI,https://www.wadhwaniai.org/careers/,India,yes,AI-for-good
@@ -503,7 +500,6 @@ Sparx IT Solutions,https://www.sparxitsolutions.com/careers.html,Noida,yes,Web/a
 Metizsoft Solutions,https://www.metizsoft.com/careers,Ahmedabad,yes,Ecommerce/app dev
 Aegis Softtech,https://www.aegissofttech.com/careers.html,Ahmedabad,yes,Software dev
 Krish TechnoLabs,https://www.krishtechnolabs.com/careers,Ahmedabad,yes,Ecommerce dev
-Krish TechnoLabs,https://www.krishtechnolabs.com/careers/,Ahmedabad,yes,Ecommerce dev
 iByte Infomatics,https://www.ibyteinfomatics.com/careers,Ahmedabad,yes,Web/app dev
 Radixweb,https://radixweb.com/current-openings,Ahmedabad,yes,Software dev openings
 Trank Technologies,https://tranktechnologies.com/careers/,Ahmedabad,yes,Web/app dev
@@ -515,7 +511,6 @@ Inheaden,https://inheaden.com/careers,Ahmedabad,yes,Software/cloud dev
 Nettechnocrats,https://www.nettechnocrats.com/careers/,Ahmedabad,yes,Web/app dev
 Ecosmob,https://www.ecosmob.com/careers/,Ahmedabad,yes,VoIP/telecom dev
 Inextrix,https://www.inextrix.com/careers/,Ahmedabad,yes,VoIP dev
-Signity Solutions,https://www.signitysolutions.com/careers/,Mohali,yes,AI/software dev
 iByte Infomatics,https://ibyteinfomatics.com/careers,Ahmedabad,yes,App dev
 WebMob Technologies,https://webmobtech.com/careers/,Ahmedabad,yes,Web/app dev
 Nextbrain Technologies,https://www.nextbraintech.com/careers,Ahmedabad,yes,Web/app/AI dev
@@ -617,7 +612,6 @@ Third Rock Media,https://www.thirdrockmedia.com/careers/,Ahmedabad,yes,Web/digit
 Radus Software,https://www.radussoftware.com/careers,Ahmedabad,yes,Software dev
 Vindaloo Softtech,https://www.vindaloosofttech.com/careers/,Ahmedabad,yes,VoIP/telecom dev
 iBoson Innovations,https://ibosoninnovations.com/careers/,Ahmedabad,yes,Web/app dev
-Ecosmob (Vindaloo group),https://www.vindaloosofttech.com/careers,Ahmedabad,yes,VoIP dev
 Groovy Web (openings),https://www.groovyweb.co/current-openings/,Ahmedabad,yes,Web/app openings
 CMARIX TechnoLabs,https://www.cmarix.com/careers/,Ahmedabad,yes,Web/app/AI dev
 Intuz,https://www.intuz.com/careers,Ahmedabad,yes,Cloud/app dev
@@ -737,3 +731,14 @@ Anupam Rasayan,https://www.anupamrasayan.com/careers,Surat,yes,Specialty chemica
 Transpek Industry,https://www.transpek.com/careers/,Vadodara,yes,Specialty chemicals
 Sudarshan Chemical,https://www.sudarshan.com/careers,Gujarat,yes,Pigments; Gujarat plants
 Navin Fluorine,https://www.navinfluorine.com/careers/,Gujarat,yes,Fluorochemicals; Dahej
+Adani Group,https://careers.adani.com/,Ahmedabad,yes,Conglomerate; India-wide
+Adani Ports,https://www.adaniports.com/Careers,Ahmedabad,yes,Ports/logistics
+Zydus Lifesciences,https://www.zyduslife.com/career/,Ahmedabad,yes,Pharma
+Upstox,https://upstox.com/careers/,Mumbai,yes,Fintech/broking
+Practo,https://www.practo.com/careers,Bengaluru,yes,HealthTech
+ICICI Direct,https://www.icicisecurities.com/careers,Mumbai,yes,Broking/fintech
+Tata Digital,https://www.tatadigital.com/careers,Mumbai,yes,Consumer tech
+Persistent Systems,https://www.persistent.com/careers/,Pune,yes,IT services
+Mphasis,https://careers.mphasis.com/,Bengaluru,yes,IT services
+Zensar,https://www.zensar.com/careers,Pune,yes,IT services
+Quantiphi,https://quantiphi.com/careers/,Mumbai,yes,AI/ML
