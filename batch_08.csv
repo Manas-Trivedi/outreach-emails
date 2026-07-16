@@ -1,10 +1,4 @@
 #,Company,Email,Person,Title,Region,Notes
-,Softqube Technologies,sales@softqubes.com,Sales Team,Sales,Gandhinagar/Ahmedabad,Ahmedabad; VERIFIED sales email (published); MX OK
-,Nimblechapps,contact@nimblechapps.com,Contact Team,General,Gandhinagar/Ahmedabad,"Ahmedabad; VERIFIED general email (published, anti-bot obfuscated); MX OK"
-,Crest Data,careers@crestdata.ai,Careers Team,Recruitment,Gandhinagar/Ahmedabad,Ahmedabad/GIFT; VERIFIED careers email (published); MX OK
-,MindInventory,sales@mindinventory.com,Sales Team,Sales,Gandhinagar/Ahmedabad,Ahmedabad; VERIFIED sales email (published on contact page); MX OK
-,iFour Technolab,info@ifourtechnolab.com,Contact Team,General,Gandhinagar/Ahmedabad,Ahmedabad; VERIFIED general email (published on contact page); MX OK
-,Softweb Solutions,info@softwebsolutions.com,Contact Team,General,Gandhinagar/Ahmedabad,Ahmedabad; VERIFIED general email (published on contact page); MX OK
 ,Digicorp,sanket.patel@digicorphealth.com,Sanket Patel,Contact,Gandhinagar/Ahmedabad,Ahmedabad; VERIFIED named email (published on digi-corp.com/contact); MX OK
 ,Kody Technolab,sales@kodytechnolab.com,Sales Team,Sales,Gandhinagar/Ahmedabad,Ahmedabad; VERIFIED sales email (published on kodytechnolab.com/contactus); listed robotics/AI; MX OK
 ,Cygnet.One,enquiry@cygnet.one,Enquiry Team,General,Gandhinagar/Ahmedabad,Ahmedabad; VERIFIED general email (published on cygnet.one/contact-us); MX OK
@@ -99,3 +93,9 @@
 ,Thinkwik,hello@thinkwik.com,Contact Team,Sales/General,Gandhinagar/Ahmedabad,Ahmedabad; VERIFIED general email (published); MX OK
 ,Bacancy,career@bacancy.com,Careers Team,Recruitment,Gandhinagar/Ahmedabad,Ahmedabad; VERIFIED careers email (published); MX OK
 ,Sapizon Technologies,careers@sapizon.com,Careers Team,Recruitment,Other,VERIFIED careers email (published on sapizon.com/careers); MX OK
+,Sapizon Technologies,contact@sapizon.com,Contact Team,General,Other,VERIFIED general email (published); MX OK
+,Mobiloitte,connect@mobiloitte.com,Connect Team,General,Other,Delhi; VERIFIED general email (published on mobiloitte.com/contact-us); MX OK
+,Quy Technology,sales@quytech.com,Sales Team,Sales,Other,Noida; VERIFIED sales email (published); MX OK
+,Crest Infosystems,hr@crestinfosystems.com,HR Team,Recruitment,Other,Surat; VERIFIED CV inbox (published 'send CV to hr@'); MX OK
+,Gujarat Infotech Limited,info@gujaratinfotech.com,Info Team,General,Gandhinagar/Ahmedabad,Ahmedabad; VERIFIED general email (published; BSE-listed U72200GJ1995PLC025454); MX OK
+,Credencys Solutions,hello@credencys.com,Contact Team,General,Gandhinagar/Ahmedabad,Ahmedabad; VERIFIED general email (published on credencys.com/contact-us); MX OK
