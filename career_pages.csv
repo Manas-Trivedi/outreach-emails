@@ -1,12 +1,12 @@
 Company,URL,Location,EntryLevel,Notes
-GIFT City (aggregator),https://giftgujarat.in/company-job-openings,Gandhinagar,no,Central GIFT City openings board
-DRC Systems,https://careers.drcsystems.com/,Gandhinagar,no,GIFT City 24th Fl
-Argusoft,https://careers.argusoft.com/,Gandhinagar,no,GIDC Sector-25 (SPA - needs RENDER)
-Infibeam AvenuesAI,https://www.avenuesai.com/career-opportunities,Gandhinagar,no,GIFT Two 28th Fl
-SmartSense Consulting Solutions,https://www.smartsensesolutions.com/career,Gandhinagar,no,GIFT One 9th Fl (SPA - needs RENDER)
-eInfochips,https://www.einfochips.com/careers/,Gandhinagar,no,Arrow company
-Silver Touch Technologies,https://www.silvertouch.com/career/,Gandhinagar,no,Gandhinagar
-Dev Information Technology,https://www.devitpl.com/careers/,Gandhinagar,no,Infocity Gandhinagar
+GIFT City (aggregator),https://giftgujarat.in/company-job-openings,Gandhinagar,yes,Central GIFT City openings board
+DRC Systems,https://careers.drcsystems.com/,Gandhinagar,yes,GIFT City 24th Fl
+Argusoft,https://careers.argusoft.com/,Gandhinagar,yes,GIDC Sector-25 (SPA - needs RENDER)
+Infibeam AvenuesAI,https://www.avenuesai.com/career-opportunities,Gandhinagar,yes,GIFT Two 28th Fl
+SmartSense Consulting Solutions,https://www.smartsensesolutions.com/career,Gandhinagar,yes,GIFT One 9th Fl (SPA - needs RENDER)
+eInfochips,https://www.einfochips.com/careers/,Gandhinagar,yes,Arrow company
+Silver Touch Technologies,https://www.silvertouch.com/career/,Gandhinagar,yes,Gandhinagar
+Dev Information Technology,https://www.devitpl.com/careers/,Gandhinagar,yes,Infocity Gandhinagar
 Infosys,https://www.infosys.com/careers/graduates.html,India,yes,Graduate/entry-level landing
 Infosys,https://career.infosys.com/joblist,Bengaluru,yes,Job list (SPA - needs RENDER)
 Accenture,https://www.accenture.com/in-en/careers/life-at-accenture/entry-level,India,yes,Early-career landing
@@ -21,12 +21,12 @@ IBM,https://www.ibm.com/in-en/careers/search,India,yes,Job search (SPA - needs R
 Cognizant,https://careers.cognizant.com/global-en/jobs/,India,yes,Job search (SPA - needs RENDER)
 Wipro,https://careers.wipro.com/careers-home/jobs,India,yes,Job search (SPA - needs RENDER)
 HCLTech,https://www.hcltech.com/careers/jobs,India,yes,Job search (SPA - needs RENDER)
-TatvaSoft,https://www.tatvasoft.com/career,Ahmedabad,no,Custom software
-Simform,https://www.simform.com/careers/,Ahmedabad,no,Product engineering
-OpenXcell,https://www.openxcell.com/company/career-and-culture/,Ahmedabad,no,Web/app dev
-Bacancy Technology,https://www.bacancytechnology.com/careers,Ahmedabad,no,Product engineering
-Yudiz Solutions,https://www.yudiz.com/join-our-team/,Ahmedabad,no,Game/web/AI
-Azilen Technologies,https://www.azilen.com/careers/,Ahmedabad,no,Product/AI
+TatvaSoft,https://www.tatvasoft.com/career,Ahmedabad,yes,Custom software
+Simform,https://www.simform.com/careers/,Ahmedabad,yes,Product engineering
+OpenXcell,https://www.openxcell.com/company/career-and-culture/,Ahmedabad,yes,Web/app dev
+Bacancy Technology,https://www.bacancytechnology.com/careers,Ahmedabad,yes,Product engineering
+Yudiz Solutions,https://www.yudiz.com/join-our-team/,Ahmedabad,yes,Game/web/AI
+Azilen Technologies,https://www.azilen.com/careers/,Ahmedabad,yes,Product/AI
 Brainvire,https://www.brainvire.com/freshers/,Ahmedabad,yes,Freshers page
 Tech Mahindra,https://careers.techmahindra.com/,India,yes,SPA - needs RENDER
 Mphasis,https://careers.mphasis.com/home/hot-jobs/location-search/india.html,India,yes,India hot jobs
@@ -35,33 +35,33 @@ Zoho,https://careers.zohocorp.com/jobs/Careers,India,yes,SPA - needs RENDER
 Cognizant,https://careers.cognizant.com/india-en/jobs/,India,yes,India jobs (SPA)
 Persistent Systems,https://careers.persistent.com/,India,yes,SPA - needs RENDER
 Coforge,https://careers.coforge.com/,India,yes,SPA - needs RENDER
-Darwinbox,https://darwinbox.com/careers,Hyderabad,no,HR SaaS (SPA - needs RENDER)
-Keka HR,https://www.keka.com/careers,Hyderabad,no,HR SaaS (SPA - needs RENDER)
-Zenskar,https://www.zenskar.com/careers,Bengaluru,no,Revenue automation SaaS
-Peoplebox,https://www.peoplebox.ai/careers,Bengaluru,no,Talent SaaS
-Swiggy,https://careers.swiggy.com/,Bengaluru,no,SPA - needs RENDER
-Groww,https://groww.in/careers,Bengaluru,no,Fintech (SPA)
-Urban Company,https://www.urbancompany.com/careers,Gurugram,no,SPA - needs RENDER
-Delhivery,https://www.delhivery.com/careers,Gurugram,no,Logistics (SPA)
-MakeMyTrip,https://careers.makemytrip.com/,Gurugram,no,SPA - needs RENDER
-Zomato,https://www.zomato.com/careers,Gurugram,no,SPA - needs RENDER
-PolicyBazaar,https://www.policybazaar.com/careers/,Gurugram,no,Insurtech (SPA)
-Paytm,https://paytm.com/careers,Noida,no,Fintech (SPA)
-Sprinklr,https://www.sprinklr.com/careers/,Gurugram,no,CX SaaS (SPA)
-Cars24,https://www.cars24.com/careers/,Gurugram,no,Auto marketplace (SPA)
-Spinny,https://www.spinny.com/careers/,Gurugram,no,Auto (SPA)
-Innovaccer,https://innovaccer.com/careers,Noida,no,Healthtech SaaS (SPA)
-Pristyn Care,https://www.pristyncare.com/careers/,Gurugram,no,Healthtech (SPA)
-MoEngage,https://www.moengage.com/careers/,Bengaluru,no,Martech SaaS (SPA)
-ShareChat,https://sharechat.com/careers,Bengaluru,no,Social (SPA)
-Meesho,https://www.meesho.io/jobs,Bengaluru,no,Ecommerce (SPA)
+Darwinbox,https://darwinbox.com/careers,Hyderabad,yes,HR SaaS (SPA - needs RENDER)
+Keka HR,https://www.keka.com/careers,Hyderabad,yes,HR SaaS (SPA - needs RENDER)
+Zenskar,https://www.zenskar.com/careers,Bengaluru,yes,Revenue automation SaaS
+Peoplebox,https://www.peoplebox.ai/careers,Bengaluru,yes,Talent SaaS
+Swiggy,https://careers.swiggy.com/,Bengaluru,yes,SPA - needs RENDER
+Groww,https://groww.in/careers,Bengaluru,yes,Fintech (SPA)
+Urban Company,https://www.urbancompany.com/careers,Gurugram,yes,SPA - needs RENDER
+Delhivery,https://www.delhivery.com/careers,Gurugram,yes,Logistics (SPA)
+MakeMyTrip,https://careers.makemytrip.com/,Gurugram,yes,SPA - needs RENDER
+Zomato,https://www.zomato.com/careers,Gurugram,yes,SPA - needs RENDER
+PolicyBazaar,https://www.policybazaar.com/careers/,Gurugram,yes,Insurtech (SPA)
+Paytm,https://paytm.com/careers,Noida,yes,Fintech (SPA)
+Sprinklr,https://www.sprinklr.com/careers/,Gurugram,yes,CX SaaS (SPA)
+Cars24,https://www.cars24.com/careers/,Gurugram,yes,Auto marketplace (SPA)
+Spinny,https://www.spinny.com/careers/,Gurugram,yes,Auto (SPA)
+Innovaccer,https://innovaccer.com/careers,Noida,yes,Healthtech SaaS (SPA)
+Pristyn Care,https://www.pristyncare.com/careers/,Gurugram,yes,Healthtech (SPA)
+MoEngage,https://www.moengage.com/careers/,Bengaluru,yes,Martech SaaS (SPA)
+ShareChat,https://sharechat.com/careers,Bengaluru,yes,Social (SPA)
+Meesho,https://www.meesho.io/jobs,Bengaluru,yes,Ecommerce (SPA)
 CRIS,https://cris.org.in/loadpage?page=indexcareer,New Delhi,yes,Railway IT PSU; ASE via GATE
-IRCTC,https://www.irctc.com/new-openings.php,New Delhi,no,Railway PSU; notifications
+IRCTC,https://www.irctc.com/new-openings.php,New Delhi,yes,Railway PSU; notifications
 RailTel,https://www.railtel.in/en/careers,New Delhi,yes,Railway telecom PSU
-Tata group,https://www.tata.com/careers/jobs/joblisting,India,no,Group careers (SPA)
-Tata Elxsi,https://www.tataelxsi.com/careers,Bengaluru,no,Design/embedded (SPA)
-Tata Technologies,https://www.tatatechnologies.com/in/careers/,Pune,no,Engineering (SPA)
-Tata Digital,https://www.tatadigital.in/work-with-us,Bengaluru,no,Consumer tech (SPA)
+Tata group,https://www.tata.com/careers/jobs/joblisting,India,yes,Group careers (SPA)
+Tata Elxsi,https://www.tataelxsi.com/careers,Bengaluru,yes,Design/embedded (SPA)
+Tata Technologies,https://www.tatatechnologies.com/in/careers/,Pune,yes,Engineering (SPA)
+Tata Digital,https://www.tatadigital.in/work-with-us,Bengaluru,yes,Consumer tech (SPA)
 BEL,https://bel-india.in/career/,India,yes,Defence PSU
 BHEL,https://careers.bhel.in/,India,yes,Heavy engineering PSU
 NTPC,https://careers.ntpc.co.in/,India,yes,Power PSU
@@ -834,14 +834,11 @@ Apna,https://apna.co/careers,Bengaluru,yes,Jobs platform
 Josh Talks,https://joshtalks.com/careers,Gurugram,yes,EdTech
 Systango Technologies,https://www.systango.com/careers,Indore,yes,SME; software dev
 Antier Solutions,https://www.antiersolutions.com/careers/,Mohali,yes,SME; blockchain
-ValueLabs,https://www.valuelabs.com/careers/,Hyderabad,yes,IT services
-Gramener,https://gramener.com/careers/,Hyderabad,yes,Data/AI
 Talentelgia Technologies,https://www.talentelgia.com/careers/,Mohali,yes,SME; software dev
 Ranosys Technologies,https://www.ranosys.com/careers/,Jaipur,yes,SME; ecommerce dev
 Debut Infotech,https://www.debutinfotech.com/careers,India,yes,SME; blockchain/app dev
 Apptunix,https://www.apptunix.com/careers/,Mohali,yes,SME; app dev
 Cigniti Technologies,https://www.cigniti.com/careers/,Hyderabad,yes,QA/testing services
-Successive Digital,https://successive.tech/careers/,Noida,yes,SME; digital engineering
 SRM Tech,https://www.srmtech.com/careers/,Chennai,yes,IT services
 Kellton Tech,https://www.kellton.com/careers,Hyderabad,yes,IT services
 Nineleaps Technology,https://www.nineleaps.com/careers/,Bengaluru,yes,SME; product engineering
@@ -919,3 +916,17 @@ Armia Systems,https://www.armia.com/careers/,Kochi,yes,Software dev; lists vacan
 RapidValue Solutions,https://www.rapidvaluesolutions.com/careers/,Kochi,yes,Digital/mobility consulting
 Gadgeon,https://www.gadgeon.com/join-us/,Kochi,yes,IoT/embedded engineering
 Nuvento,https://nuvento.com/careers/,Kochi,yes,Cloud/data engineering
+Tessolve Semiconductor,https://www.tessolve.com/careers/,Bengaluru,yes,Semiconductor/VLSI
+Robosoft Technologies,https://www.robosoftin.com/careers,Bengaluru,yes,Product/app engineering
+Ittiam Systems,https://www.ittiam.com/careers,Bengaluru,yes,Embedded/multimedia R&D
+Avekshaa Technologies,https://www.avekshaa.com/careers/,Bengaluru,yes,Performance engineering
+Aurigo Software,https://www.aurigo.com/company/careers/,Bengaluru,yes,Construction SaaS
+Mistral Solutions,https://mistralsolutions.com/career/careers-job-listings/,Bengaluru,yes,Embedded/defence electronics
+Torry Harris Integration,https://www.torryharris.com/careers,Bengaluru,yes,API/integration services
+Entrans Technologies,https://www.entrans.ai/career,Hyderabad,yes,AI/data engineering
+Pennant Technologies,https://www.pennanttech.com/careers/,Hyderabad,yes,Lending fintech product
+Sagarsoft,https://www.sagarsoft.in/careers/,Hyderabad,yes,IT services; lists openings
+iLink Digital,https://www.ilink-digital.com/careers/,Chennai,yes,Digital/cloud services
+Zuci Systems,https://www.zucisystems.com/careers/,Chennai,yes,Data/QA engineering
+Intellect Design Arena,https://www.intellectdesign.com/careers/,Chennai,yes,BFSI product
+Hexaware Technologies,https://jobs.hexaware.com/,Chennai,yes,IT services; own ATS

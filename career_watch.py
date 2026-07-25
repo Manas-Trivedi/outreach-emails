@@ -9,10 +9,14 @@ written to career_alerts.md (consumed by the GitHub Action to open an issue) and
 appended to career_alerts.log. State is updated in place so the next run only
 reports genuinely new postings.
 
-Entry-level focus:
+Fresher focus:
   - Entries that look like 0-experience roles (fresher/graduate/trainee/intern/
     entry level/0-1 yr/campus) are flagged with 🎓.
-  - If a row sets EntryLevel=yes, ONLY entry-level new entries are alerted.
+  - If a row sets EntryLevel=yes (the default for every page), ONLY those
+    fresher entries are alerted. A title is dropped even when it matches the
+    fresher wording if it also carries a seniority marker (senior/lead/manager/
+    architect/...) or asks for 2+ years of experience — so "Senior Associate"
+    and "Graduate Engineer, 3-5 years" stay out of the inbox.
 
 Rendering:
   - Default: static fetch (requests). Fast, but JS-rendered/SPA career pages
@@ -76,6 +80,19 @@ AIML_RE = re.compile(
 SDE_RE = re.compile(
     r"\b(sde|sdet|software (engineer|developer|development)|back[ -]?end|"
     r"front[ -]?end|full[ -]?stack|web developer|programmer)\b",
+    re.I,
+)
+# Seniority markers — disqualify an entry even if it matches ENTRY_RE
+# ("Senior Associate", "Associate Director", "Lead Graduate Engineer").
+SENIOR_RE = re.compile(
+    r"\b(sr\.?|senior|lead|leader|principal|staff engineer|manager|head of|"
+    r"director|vice[ -]president|vp|architect|chief|expert|mentor|"
+    r"experienced|mid[ -]level)\b",
+    re.I,
+)
+# Any "N years" / "N-M yrs" ask in the title.
+EXP_RE = re.compile(
+    r"\b(\d{1,2})\s*(?:\+|-|–|to)?\s*(\d{1,2})?\s*(?:\+)?\s*(?:years?|yrs?)\b",
     re.I,
 )
 NOISE_RE = re.compile(
@@ -147,9 +164,22 @@ def is_entry_level(s):
     return bool(ENTRY_RE.search(s))
 
 
-def is_focus(s):
-    """Role the user cares about: entry-level OR SDE OR AI/ML."""
-    return bool(ENTRY_RE.search(s) or SDE_RE.search(s) or AIML_RE.search(s))
+def demands_experience(s):
+    """True if the entry asks for 2+ years — "0-1 years" and "1 year" stay in."""
+    for m in EXP_RE.finditer(s):
+        nums = [int(n) for n in m.groups() if n]
+        if nums and max(nums) >= 2:
+            return True
+    return False
+
+
+def is_fresher(s):
+    """0-experience role: fresher wording, no seniority marker, no 2+ yr ask."""
+    if s.rstrip().endswith("?"):
+        return False  # FAQ boilerplate on aggregator/portal pages
+    return (bool(ENTRY_RE.search(s))
+            and not SENIOR_RE.search(s)
+            and not demands_experience(s))
 
 
 def tags(s):
@@ -291,7 +321,7 @@ def main():
         first_run = url not in state
         new = [e for e in entries if e not in prev]
         if entry_only:
-            new = [e for e in new if is_focus(e)]
+            new = [e for e in new if is_fresher(e)]
 
         if new and not first_run:
             alerts.append((label, url, new))
