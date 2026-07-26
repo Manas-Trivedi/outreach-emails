@@ -1,11 +1,18 @@
 name: career-watch
 
 # Monitors career pages in career_pages.csv and opens a GitHub issue when new
-# postings appear. Runs every 6 hours; also runnable manually.
+# postings appear. Runs every 12 hours; also runnable manually.
+#
+# Cadence is a billing constraint, not a preference. A run renders JS for every
+# career page and takes ~21 min, and this is a private repo, so it draws on the
+# account's 2,000 free Actions minutes/month. At 4x/day it cost ~2,520 min and
+# exhausted the whole account allowance mid-July, which stopped OTHER repos'
+# workflows (pr-scheduler) from starting at all. 2x/day is ~1,260 min/month and
+# leaves room for them. Do not raise this without checking the minutes budget.
 
 on:
   schedule:
-    - cron: "0 */6 * * *"
+    - cron: "0 */12 * * *"
   workflow_dispatch:
 
 permissions:
@@ -15,6 +22,10 @@ permissions:
 jobs:
   watch:
     runs-on: ubuntu-latest
+    # A normal run is ~21 min. This caps a hung scrape (an unresponsive career
+    # portal, a Playwright wait that never resolves) at 40 min instead of
+    # letting it sit for the default 6 hours and eat the monthly allowance.
+    timeout-minutes: 40
     steps:
       - uses: actions/checkout@v4
 
