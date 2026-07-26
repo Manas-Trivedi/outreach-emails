@@ -46,7 +46,6 @@ Delhivery,https://www.delhivery.com/careers,Gurugram,yes,Logistics (SPA)
 MakeMyTrip,https://careers.makemytrip.com/,Gurugram,yes,SPA - needs RENDER
 Zomato,https://www.zomato.com/careers,Gurugram,yes,SPA - needs RENDER
 PolicyBazaar,https://www.policybazaar.com/careers/,Gurugram,yes,Insurtech (SPA)
-Paytm,https://paytm.com/careers,Noida,yes,Fintech (SPA)
 Sprinklr,https://www.sprinklr.com/careers/,Gurugram,yes,CX SaaS (SPA)
 Cars24,https://www.cars24.com/careers/,Gurugram,yes,Auto marketplace (SPA)
 Spinny,https://www.spinny.com/careers/,Gurugram,yes,Auto (SPA)
@@ -126,7 +125,6 @@ Analog Devices,https://analogdevices.wd1.myworkdayjobs.com/External,Bengaluru,ye
 NXP India,https://nxp.wd3.myworkdayjobs.com/careers,Noida,yes,Semiconductors (SPA)
 Synopsys,https://careers.synopsys.com/,Bengaluru,yes,EDA/VLSI (SPA)
 Cadence,https://cadence.wd1.myworkdayjobs.com/External_Careers,Noida,yes,EDA/VLSI (SPA)
-MediaTek India,https://www.mediatek.com/careers,Noida,yes,Chipsets (SPA)
 Marvell India,https://www.marvell.com/company/careers.html,Pune,yes,Semiconductors (SPA)
 TCS,https://www.tcs.com/careers/india,India,yes,Main careers (SPA)
 L&T Technology Services,https://www.ltts.com/careers,India,yes,Engineering R&D
@@ -267,7 +265,6 @@ Newgen Software,https://newgensoft.com/company/careers/,Noida,yes,Low-code ECM
 To The New,https://www.tothenew.com/careers,Noida,yes,Digital engineering
 Times Internet,https://timesinternet.in/careers,Noida,yes,Consumer tech SDE
 Airtel,https://www.airtel.in/careers/,Gurugram,yes,Telecom/AI
-R Systems,https://www.rsystems.com/careers/,Noida,yes,Product engineering
 RateGain,https://rategain.com/careers/,Noida,yes,Travel SaaS/AI
 Elsner Technologies,https://www.elsner.com/careers/,Ahmedabad,yes,Web/app dev
 Rlogical Techsoft,https://www.rlogical.com/careers/,Ahmedabad,yes,Software dev
@@ -355,7 +352,7 @@ Anblicks,https://anblicks.com/careers/,Hyderabad,yes,Data/cloud/AI
 Talentica,https://www.talentica.com/careers/,Pune,yes,Product engineering
 Payoda,https://www.payoda.com/careers/,Chennai,yes,Digital engineering
 RootQuotient,https://www.rootquotient.com/careers,Chennai,yes,Product engineering
-Moglix,https://www.moglix.com/careers,Noida,yes,B2B commerce SDE
+Moglix,https://www.moglix.com/career,Noida,yes,B2B commerce SDE
 OfBusiness,https://www.ofbusiness.com/careers,Gurugram,yes,B2B fintech SDE
 HealthKart,https://www.healthkart.com/careers,Gurugram,yes,D2C healthtech SDE
 Groovy Web,https://www.groovyweb.co/careers/,Ahmedabad,yes,Web/app dev
@@ -460,7 +457,6 @@ Nevina Infotech,https://nevinainfotech.com/career,Ahmedabad,yes,App dev
 Shiv Technolabs,https://shivlab.com/career/,Ahmedabad,yes,Web/app dev
 Zignuts Technolab,https://www.zignuts.com/career,Ahmedabad,yes,Python/web/app dev
 Systematix Infotech,https://www.systematixinfotech.com/careers,Indore,yes,Software dev
-Grepix Infotech,https://www.grepixit.com/careers,Noida,yes,App dev
 Openwave Computing,https://www.openwavecomp.com/career-india,Ahmedabad,yes,Web/app dev
 Prompt Softech,https://www.promptsoftech.com/career.html,Ahmedabad,yes,IoT/software dev
 Elluminati Inc,https://www.elluminatiinc.com/careers/,Ahmedabad,yes,On-demand app dev
@@ -496,7 +492,6 @@ iFlair Web Technologies,https://www.iflair.com/career/,Ahmedabad,yes,Web/app dev
 Sunarc Technologies,https://www.sunarctechnologies.com/careers,Ahmedabad,yes,Web/app dev
 Techify Solutions,https://techifysolutions.com/careers/,Ahmedabad,yes,Product/software dev
 The Sunflower Lab,https://www.thesunflowerlab.com/careers/,Vadodara,yes,Software/data dev
-Sparx IT Solutions,https://www.sparxitsolutions.com/careers.html,Noida,yes,Web/app dev
 Metizsoft Solutions,https://www.metizsoft.com/careers,Ahmedabad,yes,Ecommerce/app dev
 Aegis Softtech,https://www.aegissofttech.com/careers.html,Ahmedabad,yes,Software dev
 Krish TechnoLabs,https://www.krishtechnolabs.com/careers,Ahmedabad,yes,Ecommerce dev
@@ -557,7 +552,6 @@ Endive Software,https://www.endivesoftware.com/careers/,Jaipur,yes,App/web dev
 SPEC INDIA,https://www.spec-india.com/careers,Ahmedabad,yes,Software/BI dev
 Chirpn IT Solutions,https://www.chirpn.com/careers/,Ahmedabad,yes,Web/app dev
 Nascentvision,https://www.nascentvision.com/careers,Ahmedabad,yes,Software dev
-Grepix Infotech,https://www.grepixit.com/career.php,Noida,yes,App dev
 Pixxelznet,https://www.pixxelznet.com/careers,Ahmedabad,yes,Web dev
 Narola Infotech,https://www.narolainfotech.com/careers/,Surat,yes,Web/app dev
 Zaptas Technologies,https://www.zaptas.com/careers/,Ahmedabad,yes,App/web dev
@@ -678,7 +672,7 @@ Hexadecimal Software,https://www.hexadecimalsoftware.com/careers/,Ahmedabad,yes,
 Volumetree,https://www.volumetree.com/careers/,Ahmedabad,yes,App/web dev
 Alphabin Technology,https://alphabin.co/careers,Ahmedabad,yes,QA/automation dev
 Zappian,https://zappian.com/careers,Ahmedabad,yes,Web/app dev
-Nexthoughts,https://www.nexthoughts.com/careers,Noida,yes,Software dev
+Nexthoughts,https://nexthoughts.com/career/,Noida,yes,Software dev
 Zappian (jobs),https://zappian.com/current-openings/,Ahmedabad,yes,Web/app openings
 Concept Infoway,https://www.conceptinfoway.net/careers,Ahmedabad,yes,Web/app dev
 Astral Ltd,https://www.astralpipes.com/careers,Ahmedabad,yes,Pipes/manufacturing; corporate roles
@@ -758,7 +752,6 @@ Shiv Technolabs,https://www.shivlab.com/careers/,Ahmedabad,yes,SME; web/mobile d
 Primo Works,https://primoworks.io/careers,Ahmedabad,yes,SME; software
 Quixotic Technosoft,https://quixotictech.com/careers,Ahmedabad,yes,SME; software dev
 SolGuruz,https://solguruz.com/careers/,Ahmedabad,yes,SME; software dev
-HashStudioz,https://www.hashstudioz.com/careers.html,Noida,yes,SME; IoT/software
 Promatics India,https://www.promaticsindia.com/careers,Ludhiana,yes,SME; app dev
 Habilelabs,https://habilelabs.io/careers,Jaipur,yes,SME; software dev
 Antino Labs,https://www.antino.com/careers,Gurugram,yes,SME; product engineering
@@ -777,7 +770,7 @@ Biz4Solutions,https://www.biz4solutions.com/careers/,Pune,yes,SME; software dev
 Unified Infotech,https://www.unifiedinfotech.net/careers/,India,yes,SME; product engineering
 Technostacks Infotech,https://technostacks.com/careers/,Ahmedabad,yes,SME; software dev
 Dotsquares,https://www.dotsquares.com/careers,Jaipur,yes,SME; web dev
-Xicom Technologies,https://www.xicomtechnologies.com/careers.html,Noida,yes,SME; app dev
+Xicom Technologies,https://www.xicom.biz/careers,Noida,yes,SME; app dev
 eSparkBiz,https://www.esparkbiz.com/careers/,Ahmedabad,yes,SME; software dev
 Hidden Brains,https://www.hidden-brains.com/careers.html,Ahmedabad,yes,SME; software dev
 Tridhya Tech,https://www.tridhya.com/careers,Ahmedabad,yes,SME; software dev
@@ -794,14 +787,12 @@ Slice,https://www.slice.co/careers,Bengaluru,yes,Fintech
 Jar,https://www.jar-app.com/careers,Bengaluru,yes,Fintech/savings
 InsuranceDekho,https://www.insurancedekho.com/careers,Gurugram,yes,Insurtech
 AppSquadz Software,https://www.appsquadz.com/career,Noida,yes,SME; app dev
-Quytech,https://www.quytech.com/career.php,Noida,yes,SME; AR/VR/app dev
 Algoscale,https://algoscale.com/careers/,Noida,yes,SME; data/AI
 KANINI Software,https://www.kanini.com/careers/,Chennai,yes,IT services
 Techwave,https://techwave.net/careers/,Hyderabad,yes,IT services
 Pramati Technologies,https://www.pramati.com/careers,Hyderabad,yes,Product engineering
 Velotio Technologies,https://www.velotio.com/careers,Pune,yes,Product engineering
 Grazitti Interactive,https://www.grazitti.com/careers/,Delhi,yes,Marketing tech
-Damco Group,https://www.damcogroup.com/careers,Noida,yes,IT services
 Infra.Market,https://www.infra.market/careers,Mumbai,yes,Construction commerce
 Zoho Chennai,https://www.zoho.com/careers/,Chennai,yes,SaaS
 Postman India,https://www.postman.com/company/careers/,Bengaluru,yes,Dev tools
@@ -850,7 +841,7 @@ Fingent,https://www.fingent.com/careers/,Kochi,yes,SME; software dev
 Cabot Solutions,https://www.cabotsolutions.com/careers,Kochi,yes,SME; app dev
 QBurst,https://www.qburst.com/careers/,Kochi,yes,SME; software dev
 Chetu India,https://www.chetu.com/careers.php,Noida,yes,Software dev
-Impressico Business Solutions,https://www.impressico.com/careers/,Noida,yes,SME; IT services
+Impressico Business Solutions,https://www.impressico.com/career/,Noida,yes,SME; IT services
 CSM Technologies,https://csm.tech/careers,Bhubaneswar,yes,IT services; e-governance
 Webandcrafts,https://webandcrafts.com/careers,Thrissur,yes,SME; web dev
 VertexPlus Technologies,https://www.vertexplus.com/careers,Jaipur,yes,SME; IT services
@@ -870,7 +861,7 @@ Teksun,https://www.teksun.com/careers/,Ahmedabad,yes,SME; IoT/embedded
 Thinkitive Technologies,https://www.thinkitive.com/careers/,Pune,yes,SME; healthtech dev
 Techno Exponent,https://www.technoexponent.com/careers,Kolkata,yes,SME; software dev
 Tekdi Technologies,https://www.tekditechnologies.com/careers/,Pune,yes,SME; open source dev
-Quokka Labs,https://quokkalabs.com/careers/,Noida,yes,SME; app dev
+Quokka Labs,https://quokkalabs.com/careers,Noida,yes,SME; app dev
 Cybernetik,https://www.cybernetik.com/careers/,Pune,yes,Automation engineering
 Sportz Interactive,https://www.sportz.io/careers,Mumbai,yes,Sports tech
 Clustox,https://clustox.com/careers/,India,yes,SME; software dev
@@ -964,7 +955,6 @@ SoftGrid Computers,https://softgridcomputers.com/career,Gwalior,yes,Software/web
 Girikon,https://girikon.com/career,Noida,yes,Salesforce/software dev
 iView Labs,https://iviewlabs.com/career,Ahmedabad,yes,Software/product dev
 Cyber Help India,https://cyberhelpindia.com/career,Meerut,yes,Software/web dev
-Mobcoder Technologies,https://mobcoder.com/careers,Noida,yes,App dev
 Nickelfox Technologies,https://nickelfox.com/careers,Noida,yes,Software/product dev
 Weboccult Technologies,https://weboccult.com/career,Ahmedabad,yes,AI/software dev
 SilverWebBuzz,https://silverwebbuzz.com/career,Ahmedabad,yes,Web/digital dev
