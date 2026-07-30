@@ -43,10 +43,10 @@ Monitors company career pages and alerts when **new postings** appear.
 
 - `career_pages.csv` — pages to watch (`Company, URL, Notes`)
 - `career_watch.py` — fetches each page, extracts job-like entries, diffs vs `career_state.json`, writes new entries to `career_alerts.md` / `career_alerts.log`
-- `.github/workflows/career-watch.yml` — runs every 6h, opens a GitHub **issue** on new entries, commits updated state
+- `.github/workflows/career-watch.yml` — runs every 12h, opens a GitHub **issue** on new entries, commits updated state
 
 ```bash
-pip install requests
+pip install requests playwright && playwright install chromium
 python career_watch.py          # first run seeds state silently
 ```
 

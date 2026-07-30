@@ -1,4 +1,7 @@
 import csv
+import re
+
+EMAIL_RE = re.compile(r"^[^@\s]+@[^@\s]+\.[^@\s]+$")
 
 # One-off: user-pasted email list (Bengaluru tech companies), appended to extra_contacts.csv
 
@@ -192,7 +195,7 @@ added = 0
 out = []
 for email in EMAILS.split():
     email = email.strip()
-    if "@" not in email or email.lower() in existing:
+    if not EMAIL_RE.match(email) or email.lower() in existing:
         continue
     existing.add(email.lower())
     local, domain = email.split("@", 1)
