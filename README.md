@@ -53,7 +53,7 @@ python career_watch.py          # first run seeds state silently
 
 Optional email alerts: set repo secrets `SMTP_HOST`, `SMTP_PORT`, `SMTP_USER`, `SMTP_PASS`, `ALERT_TO`.
 
-**Coverage** — `career_pages.csv` columns: `Company, URL, Location, EntryLevel, Notes`
+**Coverage** - `career_pages.csv` columns: `Company, URL, Location, EntryLevel, Notes`
 - GIFT City / Gandhinagar SMEs (DRC, Infibeam/AvenuesAI, Silver Touch, Dev IT, eInfochips, TIS…)
 - Well-established MNCs across multiple locations: **Infosys, Accenture, Capgemini, IBM, TCS, Cognizant, Wipro, HCLTech** (Bengaluru, Hyderabad, Pune, Gurugram, Chandigarh, India-wide).
 
