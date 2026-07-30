@@ -1,6 +1,6 @@
 # Internship Outreach - Email Database
 Private repository containing all scraped company emails and HR contacts for paid internship outreach.
-
+Designed to streamline internship outreach by combining verified contact data with automated career-page monitoring for faster application opportunities.
 ## Files
 
 - `emails.csv` — 198 companies with general contact emails, categories, priority levels
