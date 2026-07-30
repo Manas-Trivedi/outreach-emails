@@ -3,9 +3,9 @@ Private repository containing all scraped company emails and HR contacts for pai
 Designed to streamline internship outreach by combining verified contact data with automated career-page monitoring for faster application opportunities.
 ## Files
 
-- `emails.csv` — 198 companies with general contact emails, categories, priority levels
-- `hr_contacts.csv` — 53 named HR/TA/founder contacts with direct emails and LinkedIn profiles
-- `make_sheet.py` — Python script to generate formatted Excel spreadsheet
+- `emails.csv` - 198 companies with general contact emails, categories, priority levels
+- `hr_contacts.csv` - 53 named HR/TA/founder contacts with direct emails and LinkedIn profiles
+- `make_sheet.py` - Python script to generate formatted Excel spreadsheet
 
 ## Stats
 
