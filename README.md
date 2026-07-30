@@ -3,9 +3,9 @@ Public repository containing scraped company emails and HR contacts for paid int
 Designed to streamline internship outreach by combining verified contact data with automated career-page monitoring for faster application opportunities.
 ## Files
 
-- `emails.csv` — 402 companies with general contact emails, categories, priority levels
-- `hr_contacts.csv` — 1,305 named HR/TA/founder contacts with direct emails and LinkedIn profiles
-- `make_sheet.py` — Python script to generate formatted Excel spreadsheet
+- `emails.csv` - 198 companies with general contact emails, categories, priority levels
+- `hr_contacts.csv` - 53 named HR/TA/founder contacts with direct emails and LinkedIn profiles
+- `make_sheet.py` - Python script to generate formatted Excel spreadsheet
 
 ## Stats
 
@@ -42,9 +42,9 @@ Generates `Dubai_Internship_Outreach.xlsx` with 4 sheets:
 
 Monitors company career pages and alerts when **new postings** appear.
 
-- `career_pages.csv` — pages to watch (`Company, URL, Location, EntryLevel, Notes`)
-- `career_watch.py` — fetches each page, extracts job-like entries, diffs vs `career_state.json`, writes new entries to `career_alerts.md` / `career_alerts.log`
-- `.github/workflows/career-watch.yml` — runs every 12h, opens a GitHub **issue** on new entries, commits updated state
+- `career_pages.csv` - pages to watch (`Company, URL, Notes`)
+- `career_watch.py` - fetches each page, extracts job-like entries, diffs vs `career_state.json`, writes new entries to `career_alerts.md` / `career_alerts.log`
+- `.github/workflows/career-watch.yml` - runs every 12h, opens a GitHub **issue** on new entries, commits updated state
 
 ```bash
 pip install requests playwright && playwright install chromium
