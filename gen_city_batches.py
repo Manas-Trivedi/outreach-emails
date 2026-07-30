@@ -65,8 +65,9 @@ CITY_RULES = [
 def city_of(*texts):
     blob = " ".join(t or "" for t in texts).lower()
     for city, markers in CITY_RULES:
-        if any(m in blob for m in markers):
-            return city
+        for m in markers:
+            if re.search(r'\b' + re.escape(m) + r'\b', blob):
+                return city
     return "Other"
 
 
