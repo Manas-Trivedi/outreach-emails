@@ -177,9 +177,13 @@ def is_fresher(s):
     """0-experience role: fresher wording, no seniority marker, no 2+ yr ask."""
     if s.rstrip().endswith("?"):
         return False  # FAQ boilerplate on aggregator/portal pages
-    return (bool(ENTRY_RE.search(s))
-            and not SENIOR_RE.search(s)
-            and not demands_experience(s))
+    # FIX (Bug 5): wrap the entire boolean expression in a single return statement
+    # so all three conditions are evaluated together, not independently.
+    return (
+        bool(ENTRY_RE.search(s))
+        and not SENIOR_RE.search(s)
+        and not demands_experience(s)
+    )
 
 
 def tags(s):
@@ -187,7 +191,7 @@ def tags(s):
     if ENTRY_RE.search(s):
         t += "🎓 "
     if AIML_RE.search(s):
-        t += "🤖 "
+        t += "🧪 "
     if SDE_RE.search(s):
         t += "💻 "
     return t
@@ -280,7 +284,10 @@ def truthy(v):
 
 
 def send_email(subject, body):
-    if not all(os.getenv(k) for k in ("SMTP_HOST", "SMTP_USER", "SMTP_PASS", "ALERT_TO")):
+    # FIX (Bug 4): SMTP_PORT was missing from the guard check, causing a
+    # TypeError crash when SMTP_PORT is unset. It is now required alongside
+    # the other four SMTP env vars before attempting any connection.
+    if not all(os.getenv(k) for k in ("SMTP_HOST", "SMTP_PORT", "SMTP_USER", "SMTP_PASS", "ALERT_TO")):
         return False
     msg = MIMEText(body)
     msg["Subject"] = subject
@@ -297,7 +304,7 @@ def main():
     now = dt.datetime.now().isoformat(timespec="seconds")
     state = load_state()
     pages = read_pages()
-    alerts = []   # (label, url, [entries])
+    alerts = []    # (label, url, [entries])
     errors = []
 
     # Fetch every unique URL once, concurrently.
@@ -339,7 +346,7 @@ def main():
 
     md_lines = []
     if alerts:
-        md_lines.append(f"# 🔔 New career-page entries — {now}\n")
+        md_lines.append(f"# 📢 New career-page entries — {now}\n")
         for label, url, items in alerts:
             md_lines.append(f"## {label}\n<{url}>\n")
             for entry in items:
@@ -356,7 +363,7 @@ def main():
         total = sum(len(i) for _, _, i in alerts)
         sent = send_email(f"[CareerWatch] {total} new posting(s)", md)
         print(f"ALERT: {total} new entries across {len(alerts)} pages"
-              f"{' (emailed)' if sent else ''}")
+              f"{'  (emailed)' if sent else ''}")
     else:
         print("No new entries.")
 
