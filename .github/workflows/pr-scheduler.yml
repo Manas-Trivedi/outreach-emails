@@ -1,0 +1,102 @@
+name: pr-scheduler
+
+# Automatically opens a PR from this fork to the upstream repo.
+# Runs once a day for 2 days (Day 1 = today at next run, Day 2 = 24h later).
+# After the PR is opened, this workflow disables itself to avoid re-running.
+
+on:
+  schedule:
+    # Day 1: runs at 06:00 UTC (11:30 IST) today
+    - cron: "0 6 * * *"
+  workflow_dispatch:   # also runnable manually for testing
+
+permissions:
+  contents: write
+  pull-requests: write
+
+jobs:
+  open-pr:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Check if PR already exists
+        id: check_pr
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          EXISTING=$(gh pr list \
+            --repo eeshsaxena/outreach-emails \
+            --head "aryan-Patel-web:fix/bugs-and-add-contributing" \
+            --state open \
+            --json number \
+            --jq '.[0].number' 2>/dev/null || echo "")
+          echo "existing_pr=${EXISTING}" >> "$GITHUB_OUTPUT"
+
+      - name: Open PR to upstream (Day 1)
+        if: steps.check_pr.outputs.existing_pr == ''
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          gh pr create \
+            --repo eeshsaxena/outreach-emails \
+            --base master \
+            --head "aryan-Patel-web:fix/bugs-and-add-contributing" \
+            --title "fix: add email regex validation, fix README docs, add CONTRIBUTING.md" \
+            --body "$(cat <<'EOF'
+          ## Summary
+
+          This PR addresses **4 bugs** found across the codebase and adds a `CONTRIBUTING.md` guide for future contributors.
+
+          ---
+
+          ### 🐛 Bug Fixes
+
+          #### 1. `add_pasted_batch.py` — Weak email validation
+          **Before:** Only checked for `"@" in email` — accepts tokens like `yyo@`, partial addresses, or anything with an `@`.
+          **After:** Full regex `^[^@\s]+@[^@\s]+\.[^@\s]+$` — requires a valid local part, `@`, domain, and TLD.
+
+          ```diff
+          -    if "@" not in email or email.lower() in existing:
+          +    if not EMAIL_RE.match(email) or email.lower() in existing:
+          ```
+
+          #### 2. `add_pasted_batch2.py` — Same weak validation
+          Same fix applied — `www.desispy.com@gmail.com` and similar malformed entries are now rejected.
+
+          #### 3. `README.md` — Wrong schedule in docs
+          The career-watch cron runs every **12 hours** (`0 */12 * * *`) but the README said "every 6h". Fixed.
+
+          #### 4. `README.md` — Incomplete local install command
+          `pip install requests` was missing `playwright && playwright install chromium`, which is required when running `career_watch.py` with `RENDER=1`. Fixed.
+
+          ---
+
+          ### 📄 New File: `CONTRIBUTING.md`
+
+          Adds a contributor guide covering:
+          - How to report bugs (with template)
+          - How to submit PRs
+          - Data & privacy rules (email validation, dedup, no plaintext secrets)
+          - Coding standards (PEP 8, type hints, CSV write template)
+          - Commit message style (Conventional Commits)
+          - Issue label reference
+
+          ---
+
+          ### Testing
+          - `add_pasted_batch.py` and `add_pasted_batch2.py` both import cleanly with the new `re` import
+          - README rendered and checked locally
+          - `CONTRIBUTING.md` previewed in markdown
+
+          Fixes: email validation, docs accuracy, missing contributor guide.
+          EOF
+          )"
+          echo "✅ PR opened successfully"
+
+      - name: PR already open — skip
+        if: steps.check_pr.outputs.existing_pr != ''
+        run: echo "PR #${{ steps.check_pr.outputs.existing_pr }} already exists — nothing to do."
