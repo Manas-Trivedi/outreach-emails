@@ -1,5 +1,5 @@
 # Internship Outreach - Email Database
-Private repository containing all scraped company emails and HR contacts for paid internship outreach.
+Public repository containing scraped company emails and HR contacts for paid internship outreach.
 Designed to streamline internship outreach by combining verified contact data with automated career-page monitoring for faster application opportunities.
 ## Files
 
@@ -9,8 +9,8 @@ Designed to streamline internship outreach by combining verified contact data wi
 
 ## Stats
 
-- **198** companies (Dubai/UAE + Gandhinagar/GIFT City/Infocity)
-- **53** named HR contacts with direct emails
+- **402** companies (Dubai/UAE, Gandhinagar/GIFT City, and pan-India)
+- **1,305** named HR contacts with direct emails
 - **~130** High-priority targets
 - **~25** verified direct HR/careers/recruitment inboxes
 
@@ -19,6 +19,7 @@ Designed to streamline internship outreach by combining verified contact data wi
 - **Rounds 1-3**: Dubai/UAE tech companies (#1-143)
 - **Rounds 4-8**: GIFT City, Infocity, Kudasan, Sargasan, Gandhinagar (#144-191)
 - **Round 9**: PDPU corridor, Infocity expansion, Arrow/eInfochips (#192-198)
+- **Round 10+**: pan-India expansion — Bengaluru, Hyderabad, Pune, Jaipur, Lucknow, Kota, and other metros (see `city_*.csv` batches)
 
 ## Categories
 
