@@ -70,3 +70,9 @@ Optional email alerts: set repo secrets `SMTP_HOST`, `SMTP_PORT`, `SMTP_USER`, `
 - Heuristic role-keyword matching; per-page state means stable noise won't re-alert.
 - Some portals bot-block (HTTP 403) even with rendering; swap to their public job-search API or an aggregator URL if so.
 - Add/maintain URLs in `career_pages.csv`.
+
+## Best Practices
+
+- Personalize your outreach emails for higher response rates.
+- Verify contact information before sending emails.
+- Avoid sending bulk or spam emails.
