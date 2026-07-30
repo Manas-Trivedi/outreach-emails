@@ -1,0 +1,7 @@
+# Core dependencies
+requests>=2.31        # career_watch.py — fetch career pages
+openpyxl>=3.1         # make_sheet.py / import_external.py — read & write .xlsx
+
+# Optional: JS rendering for SPA / MNC job portals (career_watch.py with RENDER=1)
+# Install with:  pip install playwright && playwright install chromium
+playwright>=1.40 ; extra == "render"
