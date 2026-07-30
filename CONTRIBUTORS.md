@@ -6,6 +6,7 @@ Thank you to everyone who has contributed data, scripts, and improvements to thi
 |------|--------|--------------|
 | Eesh Saxena | [@eeshsaxena](https://github.com/eeshsaxena) | Project creator & maintainer |
 | Govind Choudhary | [@govindaaaaa](https://github.com/govindaaaaa) | Jodhpur & Jaipur IT companies batch (30 contacts) |
+| Pawan | [@pwnFirstGit](https://github.com/pwnFirstGit) | Rajasthan (rajRH) IT companies batch (20 contacts) |
 
 ---
 
