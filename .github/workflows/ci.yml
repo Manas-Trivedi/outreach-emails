@@ -35,3 +35,6 @@ jobs:
 
       - name: Validate research data schemas
         run: python scripts/validate_data.py
+
+      - name: Check repo structure (no stray data files at root)
+        run: python scripts/check_structure.py

@@ -7,6 +7,7 @@ Thank you for taking the time to contribute! This document outlines how to parti
 ## Table of Contents
 
 - [Code of Conduct](#code-of-conduct)
+- [Repository Layout](#repository-layout)
 - [How to Contribute](#how-to-contribute)
   - [Reporting Bugs](#reporting-bugs)
   - [Suggesting Enhancements](#suggesting-enhancements)
@@ -22,6 +23,36 @@ Thank you for taking the time to contribute! This document outlines how to parti
 ## Code of Conduct
 
 This project follows a simple rule: **be respectful**. Harassment, discrimination, or hostile communication of any kind will not be tolerated. Violations may result in being banned from contributing.
+
+---
+
+## Repository Layout
+
+**Do not add data files to the repository root.** The repo is organized into two
+tracks, and CI (`scripts/check_structure.py`) will fail your PR if a data file
+lands at the root. Put new files where they belong:
+
+| What you're adding | Where it goes |
+|--------------------|---------------|
+| City contact batch (`city_<city>_NN.csv`) | `industry/city/` |
+| Numbered send batch (`batch_NN.csv`) | `industry/batches/` |
+| Location-less batch (`unsorted_NN.csv`) | `industry/unsorted/` |
+| A source/company sheet (`*.csv`) | `industry/` |
+| A batch-appender script (`add_*.py`) or any script | `scripts/` |
+| Faculty data (research track) | `research/faculty/<iits\|nits\|iiits>/<state>/<city>/<institute>.csv` |
+
+- Generated outputs (`industry/batches/`, `industry/city/`, `industry/unsorted/`)
+  are produced by `scripts/gen_batches.py` / `scripts/gen_city_batches.py`. Run those
+  from anywhere; they resolve their own paths.
+- Research faculty CSVs must keep the canonical header (see
+  [`research/README.md`](research/README.md)); `scripts/validate_data.py` enforces it.
+
+Run the same checks CI runs before you push:
+
+```bash
+python scripts/check_structure.py
+python scripts/validate_data.py
+```
 
 ---
 
