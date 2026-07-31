@@ -21,8 +21,8 @@ A database and toolkit for **paid-internship cold outreach**: a curated set of c
 |-------|-------|
 | **Source data** | `emails.csv`, `hr_contacts.csv`, `extra_contacts.csv`, `career_pages.csv` |
 | **Reference / imports** | `location_sheets/`, `all_emails.csv`, `dataniti_contacts.csv`, `*_companies.csv`, `dead_removed.csv` |
-| **Scripts** | `gen_csv.py`, `import_external.py`, `add_pasted_batch*.py`, `gen_batches.py`, `gen_city_batches.py`, `make_sheet.py`, `career_watch.py` |
-| **Generated output** | `batch_*.csv`, `city_*.csv`, `unsorted_*.csv`, `Dubai_Internship_Outreach.xlsx` |
+| **Scripts** | `gen_csv.py`, `import_external.py`, `add_pasted_batch*.py`, `gen_batches.py`, `gen_city_batches.py`, `email_sync_prep.py`, `make_sheet.py`, `career_watch.py` |
+| **Generated output** | `batch_*.csv`, `city_*.csv`, `unsorted_*.csv`, `email_sync_prep.csv`, `Dubai_Internship_Outreach.xlsx` |
 | **Automation** | `.github/workflows/career-watch.yml`, `career_state.json`, `career_alerts.md/.log` |
 
 ---
@@ -57,11 +57,11 @@ pasted lists ────add_pasted_batch*.py─┤──► extra_contacts.csv
                                       │
 emails.csv + hr_contacts.csv + extra_contacts.csv
                                       │
-              ┌───────────────────────┼───────────────────────┐
-       gen_batches.py          gen_city_batches.py        make_sheet.py
-              │                        │                        │
-        batch_NN.csv          city_<city>_NN.csv     Dubai_Internship_Outreach.xlsx
-     (100/contacts, flat)   (100/contacts, per city)      (4-sheet workbook)
+              ┌───────────────────────┼───────────────────────┬────────────────────────┐
+       gen_batches.py          gen_city_batches.py    email_sync_prep.py         make_sheet.py
+              │                        │                      │                        │
+        batch_NN.csv          city_<city>_NN.csv     email_sync_prep.csv    Dubai_Internship_Outreach.xlsx
+     (100/contacts, flat)   (100/contacts, per city)  (mail-merge ready)         (4-sheet workbook)
 ```
 
 | Script | What it does |
@@ -71,6 +71,7 @@ emails.csv + hr_contacts.csv + extra_contacts.csv
 | `add_pasted_batch.py` / `add_pasted_batch2.py` | One-off appenders for hand-pasted email lists → `extra_contacts.csv`. |
 | `gen_batches.py` | Splits the merged contact pool into `batch_NN.csv` of 100 each (best email per company: HR/CEO direct if present, else general). |
 | `gen_city_batches.py` | Same pool, split **per city** into `city_<city>_NN.csv` for targeted sends. |
+| `email_sync_prep.py` | Preprocesses, cleans, validates, and deduplicates all contacts into `email_sync_prep.csv` for mail-merge syncing. |
 | `make_sheet.py` | Builds `Dubai_Internship_Outreach.xlsx` (All Companies · Priority · Named HR Contacts · Email Template). |
 | `career_watch.py` | Career-page watcher — see below. |
 
@@ -82,11 +83,12 @@ emails.csv + hr_contacts.csv + extra_contacts.csv
 pip install -r requirements.txt
 ```
 
-Generate the sendable batches / spreadsheet:
+Generate the sendable batches / spreadsheet / email sync prep:
 
 ```bash
 python gen_batches.py        # -> batch_01.csv, batch_02.csv, ...
 python gen_city_batches.py   # -> city_bengaluru_01.csv, ...
+python email_sync_prep.py    # -> email_sync_prep.csv
 python make_sheet.py         # -> Dubai_Internship_Outreach.xlsx
 ```
 

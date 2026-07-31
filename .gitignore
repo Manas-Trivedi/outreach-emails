@@ -1,1 +1,4 @@
 known_domains.txt
+email_sync_prep.csv
+email_sync_prep_part_*.csv
+
