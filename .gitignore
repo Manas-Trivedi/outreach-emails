@@ -1,1 +1,30 @@
+# repo-specific
 known_domains.txt
+
+# python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.eggs/
+build/
+dist/
+.venv/
+venv/
+env/
+.pytest_cache/
+.ruff_cache/
+
+# playwright / browsers
+playwright-report/
+.cache/
+
+# os / editor
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
+
+# local secrets / env
+.env
+.env.*

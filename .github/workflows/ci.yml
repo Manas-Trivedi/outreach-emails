@@ -1,0 +1,37 @@
+name: ci
+
+# Lightweight checks on every push / PR: scripts must compile, must be free of
+# fatal lint errors, and the research data must keep its canonical schema.
+# Deliberately installs no heavy deps (no requests/playwright) so it runs fast
+# and does not draw meaningfully on the Actions minutes budget.
+
+on:
+  push:
+    branches: [master, main]
+  pull_request:
+
+permissions:
+  contents: read
+
+jobs:
+  checks:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Compile all scripts
+        run: python -m py_compile scripts/*.py
+
+      - name: Lint (fatal errors only)
+        run: |
+          pip install ruff
+          # E9 = syntax, F63/F7 = logic, F82 = undefined names. Fatal-only so
+          # style nits never block a merge.
+          ruff check --select E9,F63,F7,F82 scripts
+
+      - name: Validate research data schemas
+        run: python scripts/validate_data.py

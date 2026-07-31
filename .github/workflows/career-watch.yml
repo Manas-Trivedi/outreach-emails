@@ -47,7 +47,7 @@ jobs:
           SMTP_USER: ${{ secrets.SMTP_USER }}
           SMTP_PASS: ${{ secrets.SMTP_PASS }}
           ALERT_TO: ${{ secrets.ALERT_TO }}
-        run: python career_watch.py
+        run: python scripts/career_watch.py
 
       - name: Open issue on new entries
         if: success()
@@ -55,12 +55,12 @@ jobs:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           OWNER: ${{ github.repository_owner }}
         run: |
-          if [ -s career_alerts.md ]; then
+          if [ -s state/career_alerts.md ]; then
             title="🔔 New career-page postings — $(date -u +%Y-%m-%d\ %H:%M\ UTC)"
             # Assign to the repo owner so GitHub emails them automatically.
-            gh issue create --title "$title" --body-file career_alerts.md \
+            gh issue create --title "$title" --body-file state/career_alerts.md \
               --assignee "$OWNER" --label career-alert \
-            || gh issue create --title "$title" --body-file career_alerts.md \
+            || gh issue create --title "$title" --body-file state/career_alerts.md \
               --assignee "$OWNER"
           else
             echo "No new entries — no issue created."
@@ -71,7 +71,7 @@ jobs:
         run: |
           git config user.name "career-watch[bot]"
           git config user.email "actions@github.com"
-          git add career_state.json career_alerts.log 2>/dev/null || true
+          git add state/career_state.json state/career_alerts.log 2>/dev/null || true
           if ! git diff --cached --quiet; then
             git commit -m "career-watch: update state [skip ci]"
             git push

@@ -1,0 +1,5 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Contributing guide
+    url: https://github.com/eeshsaxena/outreach-emails/blob/master/CONTRIBUTING.md
+    about: Read this before submitting data or code.
