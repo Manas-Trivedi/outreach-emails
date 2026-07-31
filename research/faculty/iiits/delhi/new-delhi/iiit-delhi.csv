@@ -1,1 +1,95 @@
 name,state,city,institute,institute_type,department,email,research_area,personal_site,priority,status,notes
+A V Subramanyam,delhi,new-delhi,IIIT Delhi,IIIT,"ECE, CSE",subramanyam@iiitd.ac.in,"Ph.D. (2012), Nanyang Technological University, Singapore",https://iiitd.ac.in/subramanyam,,queued,"Professor (ECE, CSE)"
+Aasim Khan,delhi,new-delhi,IIIT Delhi,IIIT,SSH,aasim@iiitd.ac.in,"Ph.D. (2018), King's College, London",https://iiitd.ac.in/aasim,,queued,Assistant Professor (SSH)
+Abhijit Mitra,delhi,new-delhi,IIIT Delhi,IIIT,ECE,abhijit@iiitd.ac.in,"Ph.D. (2017), under joint Indo-UK collaboration between IIT Delhi and British Telecom (BT), UK in the area of Elastic Optical Networks.",https://iiitd.ac.in/abhijit,,queued,Assistant Professor (ECE)
+Angshul Majumdar,delhi,new-delhi,IIIT Delhi,IIIT,"ECE, CSE",angshul@iiitd.ac.in,"Ph.D. (2012), University of British Columbia",https://iiitd.ac.in/angshul,,queued,"Professor (ECE, CSE)"
+Anmol Srivastava,delhi,new-delhi,IIIT Delhi,IIIT,HCD,anmol@iiitd.ac.in,"Ph.D. (2019), IIT Guwahati, India",https://iiitd.ac.in/anmol,,queued,"Head (HCD),"
+Anubha Gupta,delhi,new-delhi,IIIT Delhi,IIIT,ECE,anubha@iiitd.ac.in,"Ph.D. (2006), IIT Delhi, India",https://iiitd.ac.in/anubha,,queued,"Head (ECE),"
+Anuj Grover,delhi,new-delhi,IIIT Delhi,IIIT,ECE,anuj@iiitd.ac.in,"Ph.D. (2015), IIT Delhi, India",https://iiitd.ac.in/anujg,,queued,Associate Professor (ECE)
+Anuj Kumar,delhi,new-delhi,IIIT Delhi,IIIT,ECE,anuj.kumar@iiitd.ac.in,"Ph.D. (2021), Indian Institute of Technology, Roorkee",https://iiitd.ac.in/anujkumar,,queued,Assistant Professor (ECE)
+Anuradha Sharma,delhi,new-delhi,IIIT Delhi,IIIT,Math,anuradha@iiitd.ac.in,"Ph.D. (2006), Panjab University, Chandigarh, India",https://iiitd.ac.in/anuradha,,queued,"Head (Math),"
+Arani Bhattacharya,delhi,new-delhi,IIIT Delhi,IIIT,"CSE, ECE",arani@iiitd.ac.in,"Ph.D. (2019), Stony Brook University",https://iiitd.ac.in/arani,,queued,"Assistant Professor (CSE, ECE)"
+Arjun Ray,delhi,new-delhi,IIIT Delhi,IIIT,CB,arjun@iiitd.ac.in,"Ph.D. (2018), CSIR-IGIB",https://iiitd.ac.in/arjun,,queued,Assistant Professor (CB)
+Arun Balaji Buduru,delhi,new-delhi,IIIT Delhi,IIIT,"CSE, HCD",arunb@iiitd.ac.in,"Ph.D. (2016), Arizona State University, USA",https://iiitd.ac.in/arunb,,queued,"Associate Professor (CSE, HCD)"
+Ashish Kumar Pandey,delhi,new-delhi,IIIT Delhi,IIIT,Math,ashish.pandey@iiitd.ac.in,"Ph.D. (2018), The University of Illinois at Urbana-Champaign, USA.",https://iiitd.ac.in/ashishk,,queued,Associate Professor (Math)
+Bapi Chatterjee,delhi,new-delhi,IIIT Delhi,IIIT,CSE,bapi@iiitd.ac.in,"Ph.D. (2018), Chalmers University of Technology, Gothenburg, Sweden",https://iiitd.ac.in/bapi,,queued,Assistant Professor (CSE)
+Chanekar Prasad Vilas,delhi,new-delhi,IIIT Delhi,IIIT,ECE,prasad@iiitd.ac.in,"Ph.D. (2018), University of Maryland, USA",https://iiitd.ac.in/chanekar,,queued,Assistant Professor (ECE)
+Debajyoti Bera,delhi,new-delhi,IIIT Delhi,IIIT,CSE,dbera@iiitd.ac.in,"Ph.D. (2010), Boston University, USA",https://iiitd.ac.in/dbera,,queued,Associate Professor (CSE)
+Debarka Sengupta,delhi,new-delhi,IIIT Delhi,IIIT,"CB, CSE",debarka@iiitd.ac.in,"Ph.D. (2014), Jadavpur University",https://iiitd.ac.in/debarka,,queued,"Professor (CB, CSE)"
+Debika Banerjee,delhi,new-delhi,IIIT Delhi,IIIT,Math,debika@iiitd.ac.in,"Ph.D. (2017), Harish-Chandra Research Institute, Allahabad",https://iiitd.ac.in/debika,,queued,Associate Professor (Math)
+Deepak Prince,delhi,new-delhi,IIIT Delhi,IIIT,SSH,deepak@iiitd.ac.in,"Ph.D. (2022), Sociology, Shiv Nadar University",https://iiitd.ac.in/deepak,,queued,Assistant Professor (SSH)
+Diptapriyo Majumdar,delhi,new-delhi,IIIT Delhi,IIIT,"CSE, Math",diptapriyo@iiitd.ac.in,"Ph.D. (2018), The Institute of Mathematical Sciences (IMSc), Chennai",https://iiitd.ac.in/diptapriyo,,queued,"Assistant Professor (CSE, Math)"
+G.P.S. Raghava,delhi,new-delhi,IIIT Delhi,IIIT,CB,raghava@iiitd.ac.in,"Ph.D. (1996), Institute of Microbial Technology, Chandigarh.",https://iiitd.ac.in/raghava,,queued,Professor (CB)
+Ganesh Bagler,delhi,new-delhi,IIIT Delhi,IIIT,CB,bagler@iiitd.ac.in,"Ph.D. (2007), CSIR-Centre for Cellular and Molecular Biology",https://iiitd.ac.in/bagler,,queued,"Head (CB),"
+Gautam Shroff,delhi,new-delhi,IIIT Delhi,IIIT,CSE,gautam.shroff@iiitd.ac.in,"Ph.D. (1990), Rensselaer Polytechnic Institute Troy, NY",https://iiitd.ac.in/gautam,,queued,Professor (CSE)
+Gayatri Nair,delhi,new-delhi,IIIT Delhi,IIIT,SSH,gayatri@iiitd.ac.in,"Ph.D. (2016), Jawaharlal Nehru University, New Delhi",https://iiitd.ac.in/gayatri,,queued,Assistant Professor (SSH)
+J. V. Meenakshi,delhi,new-delhi,IIIT Delhi,IIIT,SSH,meena@iiitd.ac.in,"Ph.D. (1991), Cornell University",https://iiitd.ac.in/jvmeenakshi,,queued,"Head (SSH),"
+Jainendra Shukla,delhi,new-delhi,IIIT Delhi,IIIT,"CSE, HCD",jainendra@iiitd.ac.in,"Ph.D. (2018), Universitat Rovira i Virgili (URV), Spain",https://iiitd.ac.in/jainendra,,queued,"Associate Professor (CSE, HCD)"
+Jaspreet Kaur Dhanjal,delhi,new-delhi,IIIT Delhi,IIIT,CB,jaspreet@iiitd.ac.in,"Ph.D. (2019), IIT Delhi, India",https://iiitd.ac.in/jaspreet,,queued,Assistant Professor (CB)
+Kalpana Shankhwar,delhi,new-delhi,IIIT Delhi,IIIT,HCD,kalpana@iiitd.ac.in,"Ph.D. (2022), National Taiwan University",https://iiitd.ac.in/kalpana,,queued,Assistant Professor (HCD)
+Kaushik Kalyanaraman,delhi,new-delhi,IIIT Delhi,IIIT,Math,kaushik@iiitd.ac.in,"Ph.D. (2015), University of Illinois at Urbana-Champaign",https://iiitd.ac.in/kaushik,,queued,Assistant Professor (Math)
+Kiriti Kanjilal,delhi,new-delhi,IIIT Delhi,IIIT,SSH,kanjilal@iiitd.ac.in,"Ph.D. (2018), Washington State University",https://iiitd.ac.in/kanjilal,,queued,Assistant Professor (SSH)
+Manohar Kumar,delhi,new-delhi,IIIT Delhi,IIIT,SSH,manohar.kumar@iiitd.ac.in,"Ph.D. (2013), LUISS University, Rome",https://iiitd.ac.in/manohark,,queued,Assistant Professor (SSH)
+Manuj Mukherjee,delhi,new-delhi,IIIT Delhi,IIIT,"ECE, Math",manuj@iiitd.ac.in,"Ph.D. (2017), Indian Institute of Science, Bengaluru, India",https://iiitd.ac.in/manuj,,queued,"Assistant Professor (ECE, Math)"
+Md. Shad Akhtar,delhi,new-delhi,IIIT Delhi,IIIT,CSE,shad.akhtar@iiitd.ac.in,"Ph.D. (2019), IIT Patna, India",https://iiitd.ac.in/shad,,queued,Assistant Professor (CSE)
+Monika Arora,delhi,new-delhi,IIIT Delhi,IIIT,Math,monika@iiitd.ac.in,"Ph.D. (2018), Old Dominion University, Virginia, USA",https://iiitd.ac.in/monika,,queued,Assistant Professor (Math)
+Mrinmoy Chakrabarty,delhi,new-delhi,IIIT Delhi,IIIT,SSH,mrinmoy@iiitd.ac.in,"Ph.D. (2017), Osaka University School of Medicine, Japan",https://iiitd.ac.in/mrinmoy,,queued,Assistant Professor (SSH)
+Mukesh Mohania,delhi,new-delhi,IIIT Delhi,IIIT,CSE,mukesh@iiitd.ac.in,"Ph.D. (1995), Indian Institute of Technology - Bombay, India",https://iiitd.ac.in/mukesh,,queued,Professor (CSE)
+Mukulika Maity,delhi,new-delhi,IIIT Delhi,IIIT,CSE,mukulika@iiitd.ac.in,"Ph.D. (2017), IIT Bombay, India",https://iiitd.ac.in/mukulika,,queued,Associate Professor (CSE)
+N. Arul Murugan,delhi,new-delhi,IIIT Delhi,IIIT,CB,arul.murugan@iiitd.ac.in,"Ph.D. (2005), Indian Institute of Science, Bangalore, India",https://iiitd.ac.in/arulmurugan,,queued,Associate Professor (CB)
+Nabanita Ray,delhi,new-delhi,IIIT Delhi,IIIT,Math,nabanita@iiitd.ac.in,"Ph.D. (2020), The Institute of Mathematical Sciences Chennai",https://iiitd.ac.in/nabanita,,queued,Assistant Professor (Math)
+Nikhil Gupta,delhi,new-delhi,IIIT Delhi,IIIT,CSE,nikhil@iiitd.ac.in,"Ph.D. (2022), Indian Institute of Science, Bangalore",https://iiitd.ac.in/nikhil,,queued,Assistant Professor (CSE)
+Nishad Patnaik,delhi,new-delhi,IIIT Delhi,IIIT,SSH,nishad@iiitd.ac.in,"Ph.D. (2013), NSSR, New York, USA",https://iiitd.ac.in/nishad,,queued,Assistant Professor (SSH)
+Ojaswa Sharma,delhi,new-delhi,IIIT Delhi,IIIT,CSE,ojaswa@iiitd.ac.in,"Ph.D. (2010), Technical University of Denmark, Denmark",https://iiitd.ac.in/ojaswa,,queued,Associate Professor (CSE)
+Pankaj Jalote,delhi,new-delhi,IIIT Delhi,IIIT,CSE,jalote@iiitd.ac.in,"Ph.D. (1985), University of Illinois at Urbana Champaign, USA",,,queued,Emeritus Professor (CSE)
+Paro Mishra,delhi,new-delhi,IIIT Delhi,IIIT,SSH,paro.mishra@iiitd.ac.in,"Ph.D. (2017), IIT Delhi, India",https://iiitd.ac.in/paro,,queued,Assistant Professor (SSH)
+Piyus Kedia,delhi,new-delhi,IIIT Delhi,IIIT,CSE,piyus@iiitd.ac.in,"Ph.D. (2018), IIT Delhi, India",https://iiitd.ac.in/piyus,,queued,Assistant Professor (CSE)
+Pragma Kar,delhi,new-delhi,IIIT Delhi,IIIT,HCD,prgama@iiitd.ac.in,"Ph.D. (2023), Jadavpur University",https://iiitd.ac.in/pragma,,queued,Assistant Professor (HCD)
+Pragya Kosta,delhi,new-delhi,IIIT Delhi,IIIT,ECE,pragya@iiitd.ac.in,"Ph.D. (2020), University of Utah",https://iiitd.ac.in/pragya,,queued,Assistant Professor (ECE)
+Prahllad Deb,delhi,new-delhi,IIIT Delhi,IIIT,Math,prahllad@iiitd.ac.in,"Ph.D. (2020), Indian Institute of Science Education and Research Kolkata",https://iiitd.ac.in/prahllad,,queued,Assistant Professor (Math)
+Praveen Priyadarshi,delhi,new-delhi,IIIT Delhi,IIIT,SSH,praveen@iiitd.ac.in,"Ph.D. (2018), London School of Economics and Political Science, London",https://iiitd.ac.in/praveen,,queued,Assistant Professor (SSH)
+Pravesh Biyani,delhi,new-delhi,IIIT Delhi,IIIT,ECE,praveshb@iiitd.ac.in,"Ph.D. (2012), IIT Delhi, India",https://iiitd.ac.in/praveshb,,queued,Professor (ECE)
+Pushpendra Singh,delhi,new-delhi,IIIT Delhi,IIIT,CSE,psingh@iiitd.ac.in,"Ph.D. (2004), Inria-Rennes, University de Rennes 1, France",https://iiitd.ac.in/pushpendra,,queued,"Head (CSE),"
+Rajiv Raman,delhi,new-delhi,IIIT Delhi,IIIT,"CSE, Math",rajiv@iiitd.ac.in,"Ph.D. (2007), University of Iowa, USA",https://iiitd.ac.in/rajiv,,queued,"Associate Professor (CSE, Math)"
+Rajiv Ratn Shah,delhi,new-delhi,IIIT Delhi,IIIT,"CSE, HCD",rajivratn@iiitd.ac.in,"Ph.D. (2017),  National University of Singapore, Singapore",https://iiitd.ac.in/rajivratn,,queued,"Associate Professor (CSE, HCD)"
+Ram Krishna Ghosh,delhi,new-delhi,IIIT Delhi,IIIT,ECE,rkghosh@iiitd.ac.in,"Ph.D. (2013), Indian Institute of Science, Bangalore",https://iiitd.ac.in/rkghosh,,queued,Associate Professor (ECE)
+Ravi Anand,delhi,new-delhi,IIIT Delhi,IIIT,CSE,ravi.anand@iiitd.ac.in,"Ph.D. (2021), IIT Kharagpur",https://iiitd.ac.in/ravianand,,queued,Assistant Professor (CSE)
+Richa Gupta,delhi,new-delhi,IIIT Delhi,IIIT,HCD,richa.gupta@iiitd.ac.in,"Ph.D. (2020), IIT Delhi, India",https://iiitd.ac.in/richagupta,,queued,Assistant Professor (HCD)
+Rinku Shah,delhi,new-delhi,IIIT Delhi,IIIT,CSE,rinku@iiitd.ac.in,"Ph.D. (2021), IIT Bombay, India",https://iiitd.ac.in/rinku,,queued,Assistant Professor (CSE)
+Ruhi Sonal,delhi,new-delhi,IIIT Delhi,IIIT,SSH,ruhi@iiitd.ac.in,"Ph.D. (2020), IIT Delhi, India",https://iiitd.ac.in/ruhi,,queued,Assistant Professor (SSH)
+Sachchidanand Prasad,delhi,new-delhi,IIIT Delhi,IIIT,Math,sachchidanand@iiitd.ac.in,"Ph.D. (2022), IISER Kolkata",https://iiitd.ac.in/sachchidanand,,queued,Assistant Professor (Math)
+Saket Anand,delhi,new-delhi,IIIT Delhi,IIIT,"CSE, ECE",anands@iiitd.ac.in,"Ph.D. (2013), Rutgers University, NJ, USA",https://iiitd.ac.in/anands,,queued,"Associate Professor (CSE, ECE)"
+Sambuddho Chakravarty,delhi,new-delhi,IIIT Delhi,IIIT,CSE,sambuddho@iiitd.ac.in,"Ph.D. (2014), Columbia University, USA",https://iiitd.ac.in/sambuddho,,queued,Associate Professor (CSE)
+Sanat K Biswas,delhi,new-delhi,IIIT Delhi,IIIT,ECE,sanat@iiitd.ac.in,"Ph.D. (2017), University of New South Wales",https://iiitd.ac.in/sanat,,queued,Associate Professor (ECE)
+Sandeep Sen,delhi,new-delhi,IIIT Delhi,IIIT,CSE,ssen@iiitd.ac.in,Ph.D. Duke University,https://iiitd.ac.in/sandeep,,queued,Director and Professor (CSE)
+Sanjit Krishnan Kaul,delhi,new-delhi,IIIT Delhi,IIIT,ECE,skkaul@iiitd.ac.in,"Ph.D. (2011), Rutgers University, USA",https://iiitd.ac.in/skkaul,,queued,Professor (ECE)
+Sankha S Basu,delhi,new-delhi,IIIT Delhi,IIIT,Math,sankha@iiitd.ac.in,"Ph.D. (2013), The Pennsylvania State University",https://iiitd.ac.in/sankha,,queued,Assistant Professor (Math)
+Sarthok Sircar,delhi,new-delhi,IIIT Delhi,IIIT,Math,sarthok@iiitd.ac.in,"Ph.D. (2009), University of South Carolina.",https://iiitd.ac.in/sarthok,,queued,Professor (Math)
+Sayak Bhattacharya,delhi,new-delhi,IIIT Delhi,IIIT,ECE,sayak@iiitd.ac.in,"Ph.D. (2016), IIT Delhi, India",https://iiitd.ac.in/sayak,,queued,Assistant Professor (ECE)
+Sayan Basu Roy,delhi,new-delhi,IIIT Delhi,IIIT,ECE,sayan@iiitd.ac.in,"Ph.D. (2019), IIT Delhi, India",https://iiitd.ac.in/sayan,,queued,Associate Professor (ECE)
+Shamik Sarkar,delhi,new-delhi,IIIT Delhi,IIIT,ECE,shamik@iiitd.ac.in,"Ph.D. (2021), University of Utah",https://iiitd.ac.in/shamik,,queued,Assistant Professor (ECE)
+Shobha Sundar Ram,delhi,new-delhi,IIIT Delhi,IIIT,ECE,shobha@iiitd.ac.in,"Ph.D. (2009), University of Texas at Austin",https://iiitd.ac.in/shobha,,queued,Professor (ECE)
+Smriti Singh,delhi,new-delhi,IIIT Delhi,IIIT,SSH,smriti@iiitd.ac.in,"Ph.D. (2017), Jawaharlal Nehru University, New Delhi",https://iiitd.ac.in/smriti,,queued,Assistant Professor (SSH)
+Sneh Saurabh,delhi,new-delhi,IIIT Delhi,IIIT,ECE,sneh@iiitd.ac.in,"Ph.D. (2012), IIT Delhi, India",https://iiitd.ac.in/sneh,,queued,Professor (ECE)
+Sneha Chaubey,delhi,new-delhi,IIIT Delhi,IIIT,Math,sneha@iiitd.ac.in,"Ph.D. (2017), University of Illinois at Urbana-Champaign (UIUC)",https://iiitd.ac.in/sneha,,queued,Associate Professor (Math)
+Soibam Haripriya,delhi,new-delhi,IIIT Delhi,IIIT,SSH,soibam@iiitd.ac.in,"Ph.D. (2016), University of Delhi, India",https://iiitd.ac.in/soibam,,queued,Assistant Professor (SSH)
+Sonal Keshwani,delhi,new-delhi,IIIT Delhi,IIIT,HCD,sonal.keshwani@iiitd.ac.in,"Ph.D. (2018), Indian Institute of Science, Bangalore.",https://iiitd.ac.in/sonal,,queued,Assistant Professor (HCD)
+Sonia Baloni Ray,delhi,new-delhi,IIIT Delhi,IIIT,SSH,sonia@iiitd.ac.in,"Ph.D. (2012), Georg August University, Goettingen, Germany",https://iiitd.ac.in/sonia,,queued,Assistant Professor (SSH)
+Souvik Dutta,delhi,new-delhi,IIIT Delhi,IIIT,SSH,souvik@iiitd.ac.in,"Ph.D. (2014), Pennsylvania State University",https://iiitd.ac.in/souvik,,queued,Assistant Professor (SSH)
+Sriram K,delhi,new-delhi,IIIT Delhi,IIIT,CB,sriramk@iiitd.ac.in,"Ph.D. (2004), IIT Madras, India",https://iiitd.ac.in/sriram,,queued,Associate Professor (CB)
+Subhashree Mohapatra,delhi,new-delhi,IIIT Delhi,IIIT,Math,subhashree@iiitd.ac.in,"Ph.D. (2013), IIT Kanpur, India",https://iiitd.ac.in/subhashreem,,queued,Assistant Professor (Math)
+Sujay Deb,delhi,new-delhi,IIIT Delhi,IIIT,"ECE, CSE",sdeb@iiitd.ac.in,"Ph.D. (2012), Washington State University",https://iiitd.ac.in/sdeb,,queued,"Professor (ECE, CSE)"
+Sukanta Nandi,delhi,new-delhi,IIIT Delhi,IIIT,ECE,sukanta@iiitd.ac.in,"Ph.D. (2020), Indian Institute of Science, Bangalore, India",https://iiitd.ac.in/sukanta,,queued,Assistant Professor (ECE)
+Sumit J Darak,delhi,new-delhi,IIIT Delhi,IIIT,ECE,sumit@iiitd.ac.in,"Ph.D. (2013), Nanyang Technological University (NTU), Singapore",https://iiitd.ac.in/sumit,,queued,Professor (ECE)
+Supratim Shit,delhi,new-delhi,IIIT Delhi,IIIT,CSE,supratim@iiitd.ac.in,"Ph.D. (2021), IIT Gandhinagar, India",https://iiitd.ac.in/supratim,,queued,Assistant Professor (CSE)
+Syamantak Das,delhi,new-delhi,IIIT Delhi,IIIT,CSE,syamantak@iiitd.ac.in,"Ph.D. (2015), IIT Delhi, India",https://iiitd.ac.in/syamantak,,queued,Assistant Professor (CSE)
+Tanmoy Kundu,delhi,new-delhi,IIIT Delhi,IIIT,CSE,tanmoy.kundu@iiitd.ac.in,"Ph.D. (2022), IIT kanpur",https://iiitd.ac.in/tanmoykundu,,queued,Assistant Professor (CSE)
+Tarini Shankar Ghosh,delhi,new-delhi,IIIT Delhi,IIIT,CB,tarini.ghosh@iiitd.ac.in,"Ph.D. (2014), University of Hyderabad, India",https://iiitd.ac.in/tarini,,queued,Assistant Professor (CB)
+Tavpritesh Sethi,delhi,new-delhi,IIIT Delhi,IIIT,CB,tavpriteshsethi@iiitd.ac.in,"Ph.D. (2014), CSIR-IGIB,",https://iiitd.ac.in/tavpritesh,,queued,Professor (CB)
+V. Raghava Mutharaju,delhi,new-delhi,IIIT Delhi,IIIT,CSE,raghava.mutharaju@iiitd.ac.in,"Ph.D. (2016), Wright State University, Dayton, OH, USA",https://iiitd.ac.in/raghavam,,queued,Associate Professor (CSE)
+Venkata Ratnadeep Suri,delhi,new-delhi,IIIT Delhi,IIIT,SSH,ratan.suri@iiitd.ac.in,"Ph.D. (2013), Indiana University, Bloomington, Indiana",https://iiitd.ac.in/ratan,,queued,Assistant Professor (SSH)
+Vibhor Kumar,delhi,new-delhi,IIIT Delhi,IIIT,CB,vibhor@iiitd.ac.in,"Ph.D. (2007), Helsinki University of Technology (now Aalto), Finland",https://iiitd.ac.in/vibhork,,queued,Associate Professor (CB)
+Vikram Goyal,delhi,new-delhi,IIIT Delhi,IIIT,CSE,vikram@iiitd.ac.in,"Ph.D. (2009), IIT Delhi, India",https://iiitd.ac.in/vikram,,queued,Professor (CSE)
+Vinayak Abrol,delhi,new-delhi,IIIT Delhi,IIIT,CSE,abrol@iiitd.ac.in,"Ph.D. (2018), IIT Mandi, India",https://iiitd.ac.in/vabrol,,queued,Assistant Professor (CSE)
+Vivek Bohara,delhi,new-delhi,IIIT Delhi,IIIT,ECE,vivek.b@iiitd.ac.in,"Ph.D. (2011),  Nanyang Technological University, Singapore",https://iiitd.ac.in/vivek,,queued,Professor (ECE)
+Vivek Kumar,delhi,new-delhi,IIIT Delhi,IIIT,CSE,vivekk@iiitd.ac.in,"Ph.D. (2014), Research School of Computer Science, Australian National University",https://iiitd.ac.in/vivekk,,queued,Assistant Professor (CSE)
