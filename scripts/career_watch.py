@@ -9,6 +9,13 @@ written to career_alerts.md (consumed by the GitHub Action to open an issue) and
 appended to career_alerts.log. State is updated in place so the next run only
 reports genuinely new postings.
 
+Region split:
+  - Every posting is classified from its Location (falling back to Company /
+    Notes) into 🇮🇳 India, 🌍 Outside India, or 📍 Unspecified, and the alert
+    is grouped under those headings so India and non-India roles are separated
+    at a glance. Outside-India markers (Dubai, Singapore, USA, ...) win over
+    India markers.
+
 Fresher focus:
   - Entries that look like 0-experience roles (fresher/graduate/trainee/intern/
     entry level/0-1 yr/campus) are flagged with 🎓.
@@ -101,6 +108,54 @@ NOISE_RE = re.compile(
     r"life at|why join|benefits|culture|search|apply now|view all|learn more)$",
     re.I,
 )
+
+# --- India vs outside-India classification -------------------------------
+# A page's Location (falling back to Company / Notes) decides which bucket its
+# new postings land in. Outside markers win over India markers, so "Dubai
+# office of an Indian firm" is correctly Outside India.
+OUTSIDE_RE = re.compile(
+    r"\b(dubai|u\.?a\.?e|united arab emirates|sharjah|abu dhabi|ajman|"
+    r"singapore|qatar|doha|saudi|riyadh|jeddah|oman|muscat|bahrain|manama|"
+    r"kuwait|usa|u\.?s\.?a|united states|new york|san francisco|silicon valley|"
+    r"uk|united kingdom|london|ireland|dublin|canada|toronto|vancouver|"
+    r"germany|berlin|munich|netherlands|amsterdam|france|paris|"
+    r"australia|sydney|melbourne|europe|remote[ -]?(us|usa|eu|global))\b",
+    re.I,
+)
+INDIA_RE = re.compile(
+    r"\b(india|bengaluru|bangalore|ahmedabad|gurugram|gurgaon|pune|hyderabad|"
+    r"chennai|noida|gandhinagar|mumbai|navi mumbai|jaipur|indore|delhi|new delhi|"
+    r"kolkata|kochi|cochin|lucknow|vadodara|baroda|kanpur|prayagraj|allahabad|"
+    r"mohali|chandigarh|surat|rajkot|kota|nashik|thiruvananthapuram|trivandrum|"
+    r"coimbatore|dehradun|nagpur|bhubaneswar|agra|anand|ludhiana|thrissur|"
+    r"visakhapatnam|vizag|madurai|varanasi|meerut|ghaziabad|tirupati|vijayawada|"
+    r"bhopal|gwalior|udaipur|jodhpur|deoria|gorakhpur|basti|bikaner|bhilwara|"
+    r"ajmer|biharsharif|mysuru|mysore|gujarat|maharashtra|karnataka|telangana|"
+    r"tamil nadu|kerala|rajasthan|uttar pradesh|west bengal|odisha|punjab|"
+    r"haryana|madhya pradesh|uttarakhand|andhra|bihar|jharkhand|chhattisgarh|"
+    r"goa|assam)\b",
+    re.I,
+)
+
+INDIA = "India"
+OUTSIDE = "Outside India"
+UNSPECIFIED = "Unspecified"
+REGION_ORDER = [INDIA, OUTSIDE, UNSPECIFIED]
+REGION_HDR = {
+    INDIA: "🇮🇳 India",
+    OUTSIDE: "🌍 Outside India",
+    UNSPECIFIED: "📍 Unspecified location",
+}
+
+
+def region_of(location, company="", notes=""):
+    """Classify a posting as India / Outside India / Unspecified."""
+    blob = " ".join(x for x in (location, company, notes) if x)
+    if OUTSIDE_RE.search(blob):
+        return OUTSIDE
+    if INDIA_RE.search(blob):
+        return INDIA
+    return UNSPECIFIED
 
 
 class TextLinkExtractor(HTMLParser):
@@ -318,6 +373,7 @@ def main():
         label = f"{company} — {location}" if location else company
         url = row["URL"].strip()
         entry_only = truthy(row.get("EntryLevel", ""))
+        region = region_of(location, company, row.get("Notes", ""))
 
         res = htmls.get(url)
         if not isinstance(res, str):
@@ -332,11 +388,12 @@ def main():
             new = [e for e in new if is_fresher(e)]
 
         if new and not first_run:
-            alerts.append((label, url, new))
+            alerts.append((region, label, url, new))
 
         state[url] = {
             "company": company,
             "location": location,
+            "region": region,
             "entry_only": entry_only,
             "entries": entries,
             "count": len(entries),
@@ -345,14 +402,27 @@ def main():
 
     save_state(state)
 
+    # Group new postings into India / Outside India / Unspecified sections.
+    by_region = {}
+    for region, label, url, items in alerts:
+        by_region.setdefault(region, []).append((label, url, items))
+
     md_lines = []
     if alerts:
         md_lines.append(f"# 📢 New career-page entries — {now}\n")
-        for label, url, items in alerts:
-            md_lines.append(f"## {label}\n<{url}>\n")
-            for entry in items:
-                md_lines.append(f"- {tags(entry)}{entry}")
-            md_lines.append("")
+        counts = {r: sum(len(i) for _, _, i in by_region.get(r, [])) for r in REGION_ORDER}
+        summary = " · ".join(f"{REGION_HDR[r]}: {counts[r]}" for r in REGION_ORDER if counts[r])
+        md_lines.append(f"**{summary}**\n")
+        for region in REGION_ORDER:
+            group = by_region.get(region)
+            if not group:
+                continue
+            md_lines.append(f"## {REGION_HDR[region]} — {counts[region]} new\n")
+            for label, url, items in group:
+                md_lines.append(f"### {label}\n<{url}>\n")
+                for entry in items:
+                    md_lines.append(f"- {tags(entry)}{entry}")
+                md_lines.append("")
     md = "\n".join(md_lines)
 
     with open(ALERTS_MD, "w", encoding="utf-8") as f:
@@ -361,10 +431,16 @@ def main():
     if alerts:
         with open(ALERTS_LOG, "a", encoding="utf-8") as f:
             f.write(md + "\n")
-        total = sum(len(i) for _, _, i in alerts)
+        total = sum(len(items) for _, _, _, items in alerts)
+        region_counts = {
+            r: sum(len(i) for _, _, i in by_region.get(r, [])) for r in REGION_ORDER
+        }
+        breakdown = ", ".join(
+            f"{r}: {region_counts[r]}" for r in REGION_ORDER if region_counts[r]
+        )
         sent = send_email(f"[CareerWatch] {total} new posting(s)", md)
-        print(f"ALERT: {total} new entries across {len(alerts)} pages"
-              f"{'  (emailed)' if sent else ''}")
+        print(f"ALERT: {total} new entries across {len(alerts)} pages "
+              f"({breakdown}){'  (emailed)' if sent else ''}")
     else:
         print("No new entries.")
 
