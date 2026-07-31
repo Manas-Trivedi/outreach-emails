@@ -98,26 +98,26 @@ python make_sheet.py         # -> Dubai_Internship_Outreach.xlsx
 
 Monitors company career pages and alerts when **new postings** appear, with a focus on **entry-level / fresher** roles.
 
-- `career_pages.csv` — pages to watch (`Company, URL, Location, EntryLevel, Notes`).
-- `career_watch.py` — fetches each page, extracts job-like entries, diffs against `career_state.json`, and writes new entries to `career_alerts.md` (consumed by the Action) and `career_alerts.log`.
-- `.github/workflows/career-watch.yml` — runs twice a day, opens a GitHub **issue** on new entries, and commits the updated state.
+- `career_pages.csv` - pages to watch (`Company, URL, Location, EntryLevel, Notes`).
+- `career_watch.py` - fetches each page, extracts job-like entries, diffs against `career_state.json`, and writes new entries to `career_alerts.md` (consumed by the Action) and `career_alerts.log`.
+- `.github/workflows/career-watch.yml` - runs twice a day, opens a GitHub **issue** on new entries, and commits the updated state.
 
 ```bash
 python career_watch.py          # first run seeds state silently
 ```
 
-**Entry-level focus** — postings that look like fresher/graduate/trainee/intern/0–1 yr are flagged 🎓. Rows with `EntryLevel=yes` only alert on entry-level postings.
+**Entry-level focus** - postings that look like fresher/graduate/trainee/intern/0–1 yr are flagged 🎓. Rows with `EntryLevel=yes` only alert on entry-level postings.
 
-**Rendering JS (SPA / MNC portals)** — static fetch can't read SPA portals (Infosys joblist, TCS iBegin, etc.). The Action installs Playwright and runs with `RENDER=1`. Locally:
+**Rendering JS (SPA / MNC portals)** - static fetch can't read SPA portals (Infosys joblist, TCS iBegin, etc.). The Action installs Playwright and runs with `RENDER=1`. Locally:
 
 ```bash
 pip install playwright && playwright install chromium
 RENDER=1 python career_watch.py
 ```
 
-**Optional email alerts** — set repo secrets `SMTP_HOST`, `SMTP_PORT`, `SMTP_USER`, `SMTP_PASS`, `ALERT_TO`.
+**Optional email alerts** - set repo secrets `SMTP_HOST`, `SMTP_PORT`, `SMTP_USER`, `SMTP_PASS`, `ALERT_TO`.
 
-**Known limits** — heuristic role-keyword matching; per-page state means stable noise won't re-alert; some portals bot-block (HTTP 403) even with rendering — swap to their public job-search API or an aggregator URL if so.
+**Known limits** - heuristic role-keyword matching; per-page state means stable noise won't re-alert; some portals bot-block (HTTP 403) even with rendering — swap to their public job-search API or an aggregator URL if so.
 
 ---
 
