@@ -45,7 +45,7 @@ A database and toolkit for **paid-internship cold outreach**: a curated set of c
 - **Rounds 1–3:** Dubai/UAE tech companies (#1–143)
 - **Rounds 4–8:** GIFT City, Infocity, Kudasan, Sargasan, Gandhinagar (#144–191)
 - **Round 9:** PDPU corridor, Infocity expansion, Arrow/eInfochips (#192–198)
-- **Round 10+:** pan-India expansion — Bengaluru, Hyderabad, Pune, Jaipur, Lucknow, Kota, and other metros (see `city_*.csv` batches)
+- **Round 10+:** pan-India expansion - Bengaluru, Hyderabad, Pune, Jaipur, Lucknow, Kota, and other metros (see `city_*.csv` batches)
 
 ---
 
@@ -131,5 +131,5 @@ RENDER=1 python career_watch.py
 
 ## Notes
 
-- `batch_*.csv`, `city_*.csv`, `unsorted_*.csv`, and the `.xlsx` are **generated** — recreate them any time from the source CSVs with the commands above.
+- `batch_*.csv`, `city_*.csv`, `unsorted_*.csv`, and the `.xlsx` are **generated** - recreate them any time from the source CSVs with the commands above.
 - `dead_removed.csv` tracks contacts pruned as dead/bounced.
