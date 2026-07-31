@@ -75,6 +75,7 @@ CITY_RULES = [
     ("Mohali", ("mohali", "chandigarh")),
     ("Ludhiana", ("ludhiana",)),
     ("Aurangabad", ("aurangabad", "chhatrapati sambhajinagar", "sambhajinagar")),
+    ("Basti", ("basti",)),
     ("Dubai/UAE", ("dubai", "uae", "sharjah", "abu dhabi")),
     ("Singapore", ("singapore",)),
 ]

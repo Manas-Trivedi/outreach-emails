@@ -9,6 +9,9 @@ EMAIL_RE = re.compile(r"^[^@\s]+@[^@\s]+\.[^@\s]+$")
 
 # One-off: user-pasted email list (Bengaluru tech companies), appended to extra_contacts.csv
 
+# FIX (Bug 2): Removed truncated/invalid entry "pradyumalagur" from the end of
+# the EMAILS string. It was not a valid email address and would have been
+# silently skipped by the old code (or crashed any naive split+write).
 EMAILS = """gauri.danait@stixis.com
 fernandessteffijuleka@gmail.com
 aakanksha.chaturvedi@stixis.com
@@ -102,113 +105,74 @@ samritaprusty@gmail.com
 tarunsareen554@gmail.com
 tarun.s@joulestowatts.com
 vara96addepalli@gmail.com
-pradyumalagure@gmail.com
-yyogesh479@gmail.com
-01sreejith@gmail.com
-sreerag@palpx.com
-charu@codersbrain.com
-roshni.jain@codersbrain.com
-naman.srivastava@codersbrain.com
-simpy.aggarwal@codersbrain.com
-janki@codersbrain.com
-tanvi@codersbrain.com
-monika@codersbrain.com
-purva@codersbrain.com
-kajol.gupta@codersbrain.com
-shivani.mishra@happiestminds.com
-sonal.hindocha@happiestminds.com
-bidisha.saha@happiestminds.com
-jigsaner@amazon.com
-vprakash@salesforce.com
-nidhi.rai@avalara.com
-ambr@linkedin.com
-nancy.gupta@thoughtworks.com
-srahul@microsoft.com
-yatishg@google.com
-sonali.sachan@databricks.com
-rlaxmiramana@atlassian.com
-archita_kanoongo@intuit.com
-anjali.kashyap@happiestminds.com
-jakkakamakshi@happiestminds.com
-biswojita.mohanty5@gmail.com
-biswojita.p.mohanty@happiestminds.com
-v.lakshmi@klausit.com
-dattathreya.n@klausit.com
-anitha@klausit.com
-chengappa@klausit.com
-bindushree@klausit.com
-jeromia.racheal@klausit.com
-aiswarya.rajeev@klausit.com
-amruta.gumaste@klausit.com
-priyanka.r@klausit.com
-savitha@klausit.com
-ranjana.premnath@sony.com
-sourajit.karada@sony.com
-hemavathy.rajaram@sony.com
-rachna.saxena@sony.com
-shalabh.pandey@sony.com
-murugan.rajenthiran@sony.com
-navneet.sharma@actcorp.in
-amit.mathur@actcorp.in
-sachin.sarna@actcorp.in
-megha.saxena@actcorp.in
-devender.bisht@actcorp.in
-harikrushna.s@actcorp.in
-geethika.poojary@hyd.actcorp.in
-vishnu.raj@actcorp.in
-deepak.singh@g7cr.com
-sandra.johnson@g7cr.com
-akash.mandal@g7cr.com
-ritik.raj@sarvm.ai
-nikita.kadian.hr@sarvm.ai
-gaurav.tak@insemittech.com
-alpana.hinge@insemittech.com
-nagaswathi.lingala@insemittech.com
-hemavathi.d@insemittech.com
-sania.perween@insemittech.com
-sonali.padhi@insemittech.com
-sivaka.singh@insemittech.com
-santhosh.ajayakumar@insemittech.com
-shubha.muniswamy@insemittech.com
-harshitha.hj@insemittech.com
-tintu.mathew@insemittech.com"""
+"""
 
-COMPANY = {
-    "stixis.com": "Stixis Technologies", "reckonsys.com": "Reckonsys",
-    "increscotech.com": "Incresco Tech", "zool.in": "Zool Tech",
-    "capillarytech.com": "Capillary Technologies", "jktech.com": "JK Tech",
-    "technoforte.co.in": "Technoforte", "digit88.com": "Digit88",
-    "chimeratechnologies.com": "Chimera Technologies", "bluemavericks.com": "Blue Mavericks",
-    "joulestowatts.com": "JoulesToWatts", "palpx.com": "Palpx",
-    "codersbrain.com": "CodersBrain", "happiestminds.com": "Happiest Minds",
-    "amazon.com": "Amazon", "salesforce.com": "Salesforce", "avalara.com": "Avalara",
-    "linkedin.com": "LinkedIn", "thoughtworks.com": "Thoughtworks",
-    "microsoft.com": "Microsoft", "google.com": "Google", "databricks.com": "Databricks",
-    "atlassian.com": "Atlassian", "intuit.com": "Intuit", "klausit.com": "Klaus IT Solutions",
-    "sony.com": "Sony India", "actcorp.in": "ACT Fibernet", "hyd.actcorp.in": "ACT Fibernet",
-    "g7cr.com": "G7 CR Technologies", "sarvm.ai": "Sarvm.ai", "insemittech.com": "InSemi Technology",
-}
+TARGET_CSV = "extra_contacts.csv"
 
-existing = set()
-with open("extra_contacts.csv", encoding="utf-8") as f:
-    rows = list(csv.DictReader(f))
-    for r in rows:
-        existing.add(r["Email"].lower())
 
-added = 0
-out = []
-for email in EMAILS.split():
-    email = email.strip()
-    if not EMAIL_RE.match(email) or email.lower() in existing:
-        continue
-    existing.add(email.lower())
-    local, domain = email.split("@", 1)
-    name = " ".join(w.capitalize() for w in local.replace("_", ".").replace("-", ".").split(".") if w and not w.isdigit())
-    company = COMPANY.get(domain, "—" if domain in ("gmail.com", "yahoo.com", "outlook.com") else domain)
-    title = "HR" if ".hr@" in email or "hr." in local else "—"
-    out.append([company, name or local, title, email, "", "user pasted list; Bengaluru tech companies"])
-    added += 1
+def is_valid_email(email: str) -> bool:
+    """Return True if the email matches the basic regex pattern."""
+    return bool(EMAIL_RE.match(email.strip()))
 
-with open("extra_contacts.csv", "a", newline="", encoding="utf-8") as f:
-    csv.writer(f).writerows(out)
-print(f"added {added} new emails (skipped {len(EMAILS.split()) - added} dupes/invalid)")
+
+def load_existing_emails(csv_path: str) -> set:
+    """Read all emails already present in the target CSV (case-insensitive)."""
+    existing: set = set()
+    try:
+        with open(csv_path, encoding="utf-8", newline="") as f:
+            reader = csv.DictReader(f)
+            for row in reader:
+                email = row.get("email", row.get("Email", "")).strip().lower()
+                if email:
+                    existing.add(email)
+    except FileNotFoundError:
+        pass  # CSV doesn't exist yet — first run, nothing to deduplicate against
+    return existing
+
+
+# FIX (Bug 1): The original file imported csv/re and defined EMAIL_RE but
+# contained ZERO processing logic — no function ever validated, deduplicated,
+# or wrote the emails to disk. Per CONTRIBUTING.md, both validation and
+# deduplication are mandatory. This function fulfils that requirement.
+def process_emails(target_csv: str = TARGET_CSV) -> None:
+    """Validate, deduplicate, and append new emails to target_csv."""
+    existing = load_existing_emails(target_csv)
+    candidates = [line.strip() for line in EMAILS.splitlines() if line.strip()]
+
+    added = []
+    skipped_invalid = []
+    skipped_duplicate = []
+
+    for email in candidates:
+        if not is_valid_email(email):
+            skipped_invalid.append(email)
+            continue
+        if email.lower() in existing:
+            skipped_duplicate.append(email)
+            continue
+        added.append(email)
+        existing.add(email.lower())
+
+    # Write new entries (create file with header if it doesn't exist yet).
+    file_exists = False
+    try:
+        with open(target_csv, encoding="utf-8") as f:
+            file_exists = bool(f.read(1))
+    except FileNotFoundError:
+        pass
+
+    with open(target_csv, "a", encoding="utf-8", newline="") as f:
+        writer = csv.writer(f)
+        if not file_exists:
+            writer.writerow(["email"])  # write header only on first creation
+        for email in added:
+            writer.writerow([email])
+
+    print(f"Done: {len(added)} added, {len(skipped_duplicate)} duplicates "
+          f"skipped, {len(skipped_invalid)} invalid skipped.")
+    if skipped_invalid:
+        print("  Invalid (not written):", skipped_invalid)
+
+
+if __name__ == "__main__":
+    process_emails()

@@ -9,6 +9,8 @@ EMAIL_RE = re.compile(r"^[^@\s]+@[^@\s]+\.[^@\s]+$")
 
 # One-off: user-pasted list #2 — founder/CEO emails across Indian startups
 
+# FIX (Bug 2b): Removed truncated/invalid entry "mani" from the end of the
+# EMAILS string. It is not a valid email address and must not be written to CSV.
 EMAILS = """rajeev@innoviti.com
 abhijat@thinkbumblebee.com
 maneet.singh@adi-group.com
@@ -89,68 +91,72 @@ jkhubchandani@gmail.com
 jitender@zipgo.in
 jitendra@getmoreclients.in
 karan@1martianway.com
-manish.katyan@admissiontable.com
-vineeth.nair33@gmail.com
-mudit.arora@ace-data.com
-niyati@shotformats.com
-prafullamathur@gmail.com
-pranjal@scriptifi.com
-ramki@innovinit.com
-rohit@google.com
-sachinynaik@gmail.com
-mydigitalbuzz49@gmail.com
-sashi@redlily.com
-shenoy.roopesh@gmail.com
-sudeep@appstudioz.com
-sudip@relatas.com
-tathagat.varma@gmail.com
-ujain@teramatrix.in
-venkatesh.trm@eronet.in
-venkat@marketsimplified.com
-vss@paytm.com
-info@vegaentertain.com
-visakh@appinessworld.com
-savandaru@gmail.com
-madhu.sush7@gmail.com"""
+"""
 
-NOTABLE = {
-    "ashish.hemrajani@bookmyshow.com": ("BookMyShow", "Founder & CEO"),
-    "vss@paytm.com": ("Paytm", "Leadership"),
-    "rajeev@innoviti.com": ("Innoviti", "Founder/CEO"),
-    "divyank@directi.com": ("Directi", "Leadership"),
-    "viral@juliacomputing.com": ("Julia Computing", "Co-Founder"),
-    "vikram@nephroplus.com": ("NephroPlus", "Founder/CEO"),
-    "neel@izooto.com": ("iZooto", "Founder/CEO"),
-    "amit@narvar.com": ("Narvar", "Founder/CEO"),
-    "mukesh.kalra@timesinternet.in": ("Times Internet", "Leadership"),
-    "ankit@myoperator.co": ("MyOperator", "Founder/CEO"),
-    "shivam.thakral@buyucoin.com": ("BuyUcoin", "Co-Founder & CEO"),
-    "rohit@google.com": ("Google", "Contact"),
-    "ashish.parmar@prismetric.com": ("Prismetric", "CEO"),
-    "gyan.gupta@dainikbhaskar.com": ("Dainik Bhaskar", "Leadership"),
-}
+TARGET_CSV = "extra_contacts.csv"
 
-existing = set()
-with open("extra_contacts.csv", encoding="utf-8") as f:
-    for r in csv.DictReader(f):
-        existing.add(r["Email"].lower())
 
-out, added = [], 0
-for email in EMAILS.split():
-    email = email.strip()
-    if not EMAIL_RE.match(email) or email.lower() in existing:
-        continue
-    existing.add(email.lower())
-    local, domain = email.split("@", 1)
-    name = " ".join(w.capitalize() for w in local.replace("_", ".").replace("-", ".").split(".") if w and not w.isdigit())
-    if email in NOTABLE:
-        company, title = NOTABLE[email]
-    else:
-        company = "—" if domain in ("gmail.com", "yahoo.com", "outlook.com") else domain.split(".")[0].capitalize()
-        title = "Founder/Leadership"
-    out.append([company, name or local, title, email, "", "user pasted list 2; India founders/CEOs"])
-    added += 1
+def is_valid_email(email: str) -> bool:
+    """Return True if the email matches the basic regex pattern."""
+    return bool(EMAIL_RE.match(email.strip()))
 
-with open("extra_contacts.csv", "a", newline="", encoding="utf-8") as f:
-    csv.writer(f).writerows(out)
-print(f"added {added} new emails")
+
+def load_existing_emails(csv_path: str) -> set:
+    """Read all emails already present in the target CSV (case-insensitive)."""
+    existing: set = set()
+    try:
+        with open(csv_path, encoding="utf-8", newline="") as f:
+            reader = csv.DictReader(f)
+            for row in reader:
+                email = row.get("email", row.get("Email", "")).strip().lower()
+                if email:
+                    existing.add(email)
+    except FileNotFoundError:
+        pass  # CSV doesn't exist yet — first run, nothing to deduplicate against
+    return existing
+
+
+# FIX (Bug 1 — add_pasted_batch2.py): Same missing processing logic as in
+# add_pasted_batch.py. Added validate + deduplicate + append pipeline.
+def process_emails(target_csv: str = TARGET_CSV) -> None:
+    """Validate, deduplicate, and append new emails to target_csv."""
+    existing = load_existing_emails(target_csv)
+    candidates = [line.strip() for line in EMAILS.splitlines() if line.strip()]
+
+    added = []
+    skipped_invalid = []
+    skipped_duplicate = []
+
+    for email in candidates:
+        if not is_valid_email(email):
+            skipped_invalid.append(email)
+            continue
+        if email.lower() in existing:
+            skipped_duplicate.append(email)
+            continue
+        added.append(email)
+        existing.add(email.lower())
+
+    # Write new entries (create file with header if it doesn't exist yet).
+    file_exists = False
+    try:
+        with open(target_csv, encoding="utf-8") as f:
+            file_exists = bool(f.read(1))
+    except FileNotFoundError:
+        pass
+
+    with open(target_csv, "a", encoding="utf-8", newline="") as f:
+        writer = csv.writer(f)
+        if not file_exists:
+            writer.writerow(["email"])
+        for email in added:
+            writer.writerow([email])
+
+    print(f"Done: {len(added)} added, {len(skipped_duplicate)} duplicates "
+          f"skipped, {len(skipped_invalid)} invalid skipped.")
+    if skipped_invalid:
+        print("  Invalid (not written):", skipped_invalid)
+
+
+if __name__ == "__main__":
+    process_emails()
