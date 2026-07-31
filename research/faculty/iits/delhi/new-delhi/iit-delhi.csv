@@ -1,1 +1,56 @@
 name,state,city,institute,institute_type,department,email,research_area,personal_site,priority,status,notes
+Abhradeep Guha Thakurta,delhi,new-delhi,IIT Delhi,IIT,CSE,athakurta@google.com,Machine Learning and Data Privacy...,,1,queued,Research Scientist at Google Deep Mind
+Adarsh Barik,delhi,new-delhi,IIT Delhi,IIT,CSE,adarshbarik1@cse.iitd.ac.in,"Optimization, Machine Learning, High-Dimensional Statistics, and ...",,1,queued,Assistant Professor
+Chetan Arora,delhi,new-delhi,IIT Delhi,IIT,CSE,chetan@cse.iitd.ac.in,Computer Vision and Machine Learning...,,1,queued,Professor
+Mausam,delhi,new-delhi,IIT Delhi,IIT,CSE,mausam@cse.iitd.ac.in,"Artificial Intelligence, Natural Language Processing...",,1,queued,Professor
+Parag Singla,delhi,new-delhi,IIT Delhi,IIT,CSE,parags@cse.iitd.ac.in,"Machine Learning, Social Network Analysis, Artificial Intelligence...",,1,queued,Professor
+Priyanka Golia,delhi,new-delhi,IIT Delhi,IIT,CSE,pgolia@cse.iitd.ac.in,Formal Methods and Artificial Intelligence...,,1,queued,Assistant Professor
+Rahul Garg,delhi,new-delhi,IIT Delhi,IIT,CSE,rahulgarg@cse.iitd.ac.in,"Machine Learning, Big Data Analytics, Neuroimaging, High Performance ...",,1,queued,Professor
+Rahul Narain,delhi,new-delhi,IIT Delhi,IIT,CSE,narain@cse.iitd.ac.in,"Computer Graphics, Animation, Numerical Simulation...",,1,queued,Associate Professor
+Rajeev Shorey,delhi,new-delhi,IIT Delhi,IIT,CSE,rajeevshorey@gmail.com,"Communication Networks,Data Analytics, Machine Learning and Artificial ...",,1,queued,
+Rohan Paul,delhi,new-delhi,IIT Delhi,IIT,CSE,rohan@cse.iitd.ac.in,"Human Robot Interaction, Language Grounding, Symbolic Reasoning...",,1,queued,Associate Professor
+Rohit Vaish,delhi,new-delhi,IIT Delhi,IIT,CSE,rvaish@cse.iitd.ac.in,"Algorithms and Economics, Artificial Intelligence, Computational ...",,1,queued,Assistant Professor
+Sayan Ranu,delhi,new-delhi,IIT Delhi,IIT,CSE,sayanranu@cse.iitd.ac.in,"Machine Learning and Data Mining for Graphs, Spatio-temporal Data ...",,1,queued,Professor
+Srikanta Bedathur,delhi,new-delhi,IIT Delhi,IIT,CSE,srikanta@cse.iitd.ac.in,"Data Management, Knowledge Discovery and Data Mining, Natural Language ...",,1,queued,Professor
+Subodh Kumar,delhi,new-delhi,IIT Delhi,IIT,CSE,subodh@cse.iitd.ac.in,"Computer Graphics, Virtual Reality, Geometry Processing, Parallel ...",,1,queued,Professor
+Aaditeshwar Seth,delhi,new-delhi,IIT Delhi,IIT,CSE,aseth@cse.iitd.ac.in,"Earth observation, networks and systems, social networks, ...",,,queued,Professor
+Abhijnan Chakraborty,delhi,new-delhi,IIT Delhi,IIT,CSE,abhijnan@cse.iitkgp.ac.in,,,,queued,
+Abhilash Jindal,delhi,new-delhi,IIT Delhi,IIT,CSE,ajindal@cse.iitd.ac.in,"Data systems, ML systems, Distributed systems, Mobile systems...",,,queued,Assistant Professor
+Amit Kumar,delhi,new-delhi,IIT Delhi,IIT,CSE,amitk@cse.iitd.ac.in,Algorithms...,,,queued,Professor
+Amitabha Bagchi,delhi,new-delhi,IIT Delhi,IIT,CSE,bagchi@cse.iitd.ac.in,"Structural Properties of Networks, Algorithms, Data Structures...",,,queued,Professor
+Anish Arora,delhi,new-delhi,IIT Delhi,IIT,CSE,anish@cse.ohio-state.edu,Dependable Distributed and Networked Systems...,,,queued,Professor
+Ashish Chiplunkar,delhi,new-delhi,IIT Delhi,IIT,CSE,ashishc@cse.iitd.ac.in,"Algorithm Design, Stochastic Problems...",,,queued,Assistant Professor
+Gautam Shroff,delhi,new-delhi,IIT Delhi,IIT,CSE,gautam.shroff@tcs.com,"Computing, Security Data Science, Artiﬁcial Intelligence...",,,queued,Vice President Chief Scientist and Head TCS Research
+Huzur Saran,delhi,new-delhi,IIT Delhi,IIT,CSE,saran@cse.iitd.ac.in,"High Speed Networks, Graph Theory, Algorithms...",,,queued,Emeritus Professor
+K.K. Biswas,delhi,new-delhi,IIT Delhi,IIT,CSE,kkb@cse.iitd.ac.in,,,,queued,
+Karthikeyan Bhargavan,delhi,new-delhi,IIT Delhi,IIT,CSE,karthik.bhargavan@inria.fr,"Security and Privacy, Formal Verification...",,,queued,Researcher @ Prosecco project
+Kaustubh Beedkar,delhi,new-delhi,IIT Delhi,IIT,CSE,kbeedkar@cse.iitd.ac.in,Database and Information Systems...,,,queued,Assistant Professor
+Keerti Choudhary,delhi,new-delhi,IIT Delhi,IIT,CSE,keerti@cse.iitd.ac.in,"Fault-Tolerant Algorithms, Extremal Graph Structures, Dynamic ...",,,queued,Assistant Professor
+Kolin Paul,delhi,new-delhi,IIT Delhi,IIT,CSE,kolin@cse.iitd.ac.in,Embedded Systems...,,,queued,Professor
+Kumar Madhukar,delhi,new-delhi,IIT Delhi,IIT,CSE,madhukar@cse.iitd.ac.in,"Program Verification, Model Checking, Syntax-Guided-Synthesis...",,,queued,Assistant Professor
+Maya Ramanath,delhi,new-delhi,IIT Delhi,IIT,CSE,amanath@cse.iitd.ac.in,Database and Information Retrieval Techniques for Semantic Web Data ...,,,queued,Associate Professor
+Naveen Garg,delhi,new-delhi,IIT Delhi,IIT,CSE,naveen@cse.iitd.ac.in,"Algorithms, Complexity, Optimization",http://www.cse.iitd.ernet.in/~naveen,,queued,Professor
+Nikhil Balaji,delhi,new-delhi,IIT Delhi,IIT,CSE,nbalaji@cse.iitd.ac.in,"Automata Theory, Quantitative Verification, Computational Complexity...",,,queued,Assistant Professor
+Pankaj Jalote,delhi,new-delhi,IIT Delhi,IIT,CSE,jalote@iiitd.ac.in,,,,queued,
+Piyush Kumar Sharma,delhi,new-delhi,IIT Delhi,IIT,CSE,piyush@cse.iitd.ac.in,"Network Security, Privacy and Computer Systems...",,,queued,Assistant Professor
+Preeti Ranjan Panda,delhi,new-delhi,IIT Delhi,IIT,CSE,panda@cse.iitd.ac.in,"Embedded Systems, Hardware Accelerators for AI/ML, Computer ...",,,queued,Professor
+Prem Kalra,delhi,new-delhi,IIT Delhi,IIT,CSE,pkalra@cse.iitd.ac.in,,,,queued,
+Ragesh Jaiswal,delhi,new-delhi,IIT Delhi,IIT,CSE,rjaiswal@cse.iitd.ac.in,"Algorithms, Complexity Analysis...",,,queued,Professor
+Rajendra Kumar,delhi,new-delhi,IIT Delhi,IIT,CSE,r_kumar@cse.iitd.ac.in,"Quantum Computing, Fine-grained Complexity and Cryptography...",,,queued,Assistant Professor
+Rijurekha Sen,delhi,new-delhi,IIT Delhi,IIT,CSE,riju@cse.iitd.ac.in,"Mobile and Embedded Systems (Hardware Architecture, OS, Sensing, ...",,,queued,Associate Professor
+S. Arun-Kumar,delhi,new-delhi,IIT Delhi,IIT,CSE,sak@cse.iitd.ac.in,,,,queued,
+S.K. Gupta,delhi,new-delhi,IIT Delhi,IIT,CSE,skg@cse.iitd.ac.in,,,,queued,
+Sandeep Sen,delhi,new-delhi,IIT Delhi,IIT,CSE,sandeep.sen@ashoka.edu.in,,,,queued,
+Sanjiva Prasad,delhi,new-delhi,IIT Delhi,IIT,CSE,sanjiva@cse.iitd.ac.in,"Semantics and Verification, Programming Languages, Concurrent Systems...",,,queued,Professor
+Saroj Kaushik,delhi,new-delhi,IIT Delhi,IIT,CSE,saroj.kaushik@snu.edu.in,,,,queued,
+Smruti Ranjan Sarangi,delhi,new-delhi,IIT Delhi,IIT,CSE,srsarangi@cse.iitd.ac.in,"Intelligent Systems, ML- and LLM-based System Design, AR/VR, ...",,,queued,Professor
+Sorav Bansal,delhi,new-delhi,IIT Delhi,IIT,CSE,sbansal@cse.iitd.ac.in,"Operating Systems, Compilers...",,,queued,Professor
+Subhashis Banerjee,delhi,new-delhi,IIT Delhi,IIT,CSE,suban@ashoka.edu.in,,,,queued,
+Subodh Vishnu Sharma,delhi,new-delhi,IIT Delhi,IIT,CSE,svs@cse.iitd.ac.in,"Formal Methods, Program Analysis, Concurrent Systems...",,,queued,Associate Professor
+Sumit Diware,delhi,new-delhi,IIT Delhi,IIT,CSE,sdiware@cse.iitd.ac.in,"Hardware systems, VLSI design, Computing architectures for AI...",,,queued,Assistant Professor
+Tarun Mangla,delhi,new-delhi,IIT Delhi,IIT,CSE,tmangla@cse.iitd.ac.in,Computer Network...,,,queued,Assistant Professor
+Vaishnavi Sundararajan,delhi,new-delhi,IIT Delhi,IIT,CSE,vaishnavi@cse.iitd.ac.in,"Formal methods, Verification and Security...",,,queued,Assistant Professor
+Venkata Vivek Kumar Koppula,delhi,new-delhi,IIT Delhi,IIT,CSE,kvenkata@cse.iitd.ac.in,"Theoretical Cryptography, Quantum Computing...",,,queued,Assistant Professor
+Vijay Keswani,delhi,new-delhi,IIT Delhi,IIT,CSE,vkeswani@cse.iitd.ac.in,"Algorithms and Society, Responsible AI and ML, Participatory Tech, ...",,,queued,Assistant Professor
+Vireshwar Kumar,delhi,new-delhi,IIT Delhi,IIT,CSE,viresh@cse.iitd.ac.in,"Security and Privacy in Cyber-Physical Systems, Applied Cryptography, ...",,,queued,Assistant Professor
+Yogish Sabharwal,delhi,new-delhi,IIT Delhi,IIT,CSE,ysabharwal@in.ibm.com,High Performance Computing Group IBM India Research ...,,,queued,STSM & Manager-HPC
