@@ -62,12 +62,12 @@ python scripts/validate_data.py
 
 If you find a bug, please [open an issue](https://github.com/eeshsaxena/outreach-emails/issues/new) with:
 
-1. **A clear, descriptive title** — e.g., `[Bug] add_pasted_batch.py does not write output to CSV`
-2. **Steps to reproduce** — exact commands, inputs, and environment
-3. **Expected behaviour** — what should have happened
-4. **Actual behaviour** — what actually happened, including error messages/tracebacks
-5. **File & line number** — pinpoint the location of the bug
-6. **Suggested fix** (optional) — if you already know the fix
+1. **A clear, descriptive title** - e.g., `[Bug] add_pasted_batch.py does not write output to CSV`
+2. **Steps to reproduce** - exact commands, inputs, and environment
+3. **Expected behaviour** - what should have happened
+4. **Actual behaviour** - what actually happened, including error messages/tracebacks
+5. **File & line number** - pinpoint the location of the bug
+6. **Suggested fix** (optional) - if you already know the fix
 
 > [!TIP]
 > Before filing a new issue, search existing issues to avoid duplicates.
@@ -86,7 +86,7 @@ Open an issue with the label `enhancement` and describe:
    git checkout -b fix/your-fix-description
    ```
 
-2. **Make your changes** — keep each PR focused on a single fix or feature.
+2. **Make your changes** - keep each PR focused on a single fix or feature.
 
 3. **Test your changes** locally before pushing.
 
@@ -137,9 +137,9 @@ python career_watch.py
 > [!IMPORTANT]
 > This repository handles **real personal email addresses**. Please follow these rules strictly.
 
-1. **Never commit credentials** — API keys, tokens, or passwords must never appear in source files or CSVs. Use environment variables or GitHub Secrets.
+1. **Never commit credentials** - API keys, tokens, or passwords must never appear in source files or CSVs. Use environment variables or GitHub Secrets.
 
-2. **Email validation is mandatory** — Any script that writes emails to a CSV must validate them first. Use the helper below or an equivalent:
+2. **Email validation is mandatory** - Any script that writes emails to a CSV must validate them first. Use the helper below or an equivalent:
 
    ```python
    import re
@@ -149,13 +149,13 @@ python career_watch.py
        return bool(EMAIL_RE.match(email.strip()))
    ```
 
-3. **Deduplication is mandatory** — Always check for existing entries before appending. Do not let the same email appear in a file more than once.
+3. **Deduplication is mandatory** - Always check for existing entries before appending. Do not let the same email appear in a file more than once.
 
-4. **No junk/placeholder data** — Strings like `yyo`, `test`, `example@` must not appear in any CSV or email list.
+4. **No junk/placeholder data** - Strings like `yyo`, `test`, `example@` must not appear in any CSV or email list.
 
-5. **If in doubt, leave it out** — When unsure whether an email belongs or is valid, skip it and document why.
+5. **If in doubt, leave it out** - When unsure whether an email belongs or is valid, skip it and document why.
 
-6. **`.gitignore` hygiene** — Do not commit local state files (e.g., `career_state.json`, `known_domains.txt`). Add them to `.gitignore`.
+6. **`.gitignore` hygiene** - Do not commit local state files (e.g., `career_state.json`, `known_domains.txt`). Add them to `.gitignore`.
 
 ---
 
@@ -164,7 +164,7 @@ python career_watch.py
 All Python contributions must follow these guidelines:
 
 ### Style
-- Follow [PEP 8](https://peps.python.org/pep-0008/) — use `black` for auto-formatting:
+- Follow [PEP 8](https://peps.python.org/pep-0008/) - use `black` for auto-formatting:
   ```bash
   pip install black
   black .
@@ -237,7 +237,7 @@ if __name__ == "__main__":
 - Every workflow step must have a **`name`** and a **`run`** command
 - Always set `timeout-minutes` to prevent hung jobs from consuming Actions minutes
 - Add comments explaining billing trade-offs if changing cron schedules
-- Never hard-code secrets — always use `${{ secrets.GITHUB_TOKEN }}` or custom secrets
+- Never hard-code secrets - always use `${{ secrets.GITHUB_TOKEN }}` or custom secrets
 
 ---
 
