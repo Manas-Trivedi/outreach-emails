@@ -1,0 +1,6 @@
+name,state,city,institute,institute_type,department,email,research_area,personal_site,priority,status,notes
+Anupam Baliyan,punjab,ropar,IIT Ropar,IIT,CSE,anupam@iitrpr.ac.in,"Machine Learning, Computer Vision",https://www.iitrpr.ac.in/anupam,1,queued,
+Deepak Gangadharan,punjab,ropar,IIT Ropar,IIT,CSE,deepakg@iitrpr.ac.in,"Real-time Systems, Embedded Systems",https://www.iitrpr.ac.in/deepakg,1,queued,
+Karamjit Singh,punjab,ropar,IIT Ropar,IIT,CSE,karamjit@iitrpr.ac.in,"Distributed Computing, Cloud",https://www.iitrpr.ac.in/karamjit,1,queued,
+Puneet Goyal,punjab,ropar,IIT Ropar,IIT,CSE,puneet@iitrpr.ac.in,"Machine Learning, Medical AI",https://www.iitrpr.ac.in/puneet,1,queued,
+Satwinder Singh,punjab,ropar,IIT Ropar,IIT,CSE,satwinder@iitrpr.ac.in,"VLSI, Computer Architecture",https://www.iitrpr.ac.in/satwinder,1,queued,

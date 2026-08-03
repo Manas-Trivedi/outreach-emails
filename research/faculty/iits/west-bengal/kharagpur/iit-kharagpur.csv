@@ -1,1 +1,13 @@
 name,state,city,institute,institute_type,department,email,research_area,personal_site,priority,status,notes
+Animesh Mukherjee,west-bengal,kharagpur,IIT Kharagpur,IIT,CSE,animeshm@cse.iitkgp.ac.in,"Social Networks, Natural Language Processing, Computational Social Science",https://cse.iitkgp.ac.in/~animeshm,1,queued,
+Debapriyo Majumdar,west-bengal,kharagpur,IIT Kharagpur,IIT,CSE,debapriyomajumdar@cse.iitkgp.ac.in,"Information Retrieval, Machine Learning",https://cse.iitkgp.ac.in/~debapriyomajumdar,1,queued,
+Niloy Ganguly,west-bengal,kharagpur,IIT Kharagpur,IIT,CSE,niloy@cse.iitkgp.ac.in,"Complex Networks, Data Mining, Web Science",https://cse.iitkgp.ac.in/~niloy,1,queued,
+Pabitra Mitra,west-bengal,kharagpur,IIT Kharagpur,IIT,CSE,pabitra@cse.iitkgp.ac.in,"Machine Learning, Remote Sensing, Data Mining",https://cse.iitkgp.ac.in/~pabitra,1,queued,
+Partha Pratim Chakrabarti,west-bengal,kharagpur,IIT Kharagpur,IIT,CSE,ppchakrabarti@cse.iitkgp.ac.in,"AI, Planning, VLSI CAD",https://cse.iitkgp.ac.in/~ppchakrabarti,1,queued,
+Sourangshu Bhattacharya,west-bengal,kharagpur,IIT Kharagpur,IIT,CSE,sourangshu@cse.iitkgp.ac.in,"Machine Learning, Computer Vision, Distributed Systems",https://cse.iitkgp.ac.in/~sourangshu,1,queued,
+Sudeshna Sarkar,west-bengal,kharagpur,IIT Kharagpur,IIT,CSE,sudeshna@cse.iitkgp.ac.in,"Natural Language Processing, Machine Learning",https://cse.iitkgp.ac.in/~sudeshna,1,queued,
+Subrata Nandi,west-bengal,kharagpur,IIT Kharagpur,IIT,CSE,subrata@cse.iitkgp.ac.in,"Computer Networks, Distributed Systems",https://cse.iitkgp.ac.in/~subrata,1,queued,
+Sanjoy Das,west-bengal,kharagpur,IIT Kharagpur,IIT,CSE,sanjoy@cse.iitkgp.ac.in,"Distributed Systems, Algorithms",https://cse.iitkgp.ac.in/~sanjoy,1,queued,
+Arobinda Gupta,west-bengal,kharagpur,IIT Kharagpur,IIT,CSE,agupta@cse.iitkgp.ac.in,"Distributed Systems, Mobile Computing",https://cse.iitkgp.ac.in/~agupta,1,queued,
+Pallab Dasgupta,west-bengal,kharagpur,IIT Kharagpur,IIT,CSE,pallab@cse.iitkgp.ac.in,"Formal Verification, AI, Embedded Systems",https://cse.iitkgp.ac.in/~pallab,1,queued,
+Soumya Kanti Ghosh,west-bengal,kharagpur,IIT Kharagpur,IIT,CSE,skg@cse.iitkgp.ac.in,"Sensor Networks, Geospatial Data",https://cse.iitkgp.ac.in/~skg,1,queued,

@@ -1,0 +1,6 @@
+name,state,city,institute,institute_type,department,email,research_area,personal_site,priority,status,notes
+Anil Kumar Sao,himachal-pradesh,mandi,IIT Mandi,IIT,CSE,anilsao@iitmandi.ac.in,"Signal Processing, Machine Learning",https://www.iitmandi.ac.in/faculty/anilsao,1,queued,
+Arnav Bhavsar,himachal-pradesh,mandi,IIT Mandi,IIT,CSE,arnav@iitmandi.ac.in,"Computer Vision, Medical Imaging",https://www.iitmandi.ac.in/faculty/arnav,1,queued,
+Dileep A D,himachal-pradesh,mandi,IIT Mandi,IIT,CSE,dileep@iitmandi.ac.in,"Machine Learning, NLP, Information Retrieval",https://www.iitmandi.ac.in/faculty/dileep,1,queued,
+Laxmidhar Behera,himachal-pradesh,mandi,IIT Mandi,IIT,CSE,laxmidhar@iitmandi.ac.in,"Robotics, AI, Neural Networks, Control Systems",https://www.iitmandi.ac.in/faculty/laxmidhar,1,queued,
+Varun Dutt,himachal-pradesh,mandi,IIT Mandi,IIT,CSE,varun.dutt@iitmandi.ac.in,"Cognitive Science, HCI, Decision Making",https://www.iitmandi.ac.in/faculty/varun,1,queued,

@@ -1,0 +1,3 @@
+name,state,city,institute,institute_type,department,email,research_area,personal_site,priority,status,notes
+A.K. Sharma,himachal-pradesh,hamirpur,NIT Hamirpur,NIT,CSE,aksharma@nith.ac.in,"Computer Networks, IoT, Wireless",https://www.nith.ac.in/faculty/cse,1,queued,
+Pradeep Tomar,himachal-pradesh,hamirpur,NIT Hamirpur,NIT,CSE,ptomar@nith.ac.in,"Software Testing, AI, Data Science",https://www.nith.ac.in/faculty/cse,1,queued,

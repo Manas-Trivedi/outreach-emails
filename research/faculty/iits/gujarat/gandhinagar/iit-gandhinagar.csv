@@ -1,0 +1,7 @@
+name,state,city,institute,institute_type,department,email,research_area,personal_site,priority,status,notes
+Anirban Dasgupta,gujarat,gandhinagar,IIT Gandhinagar,IIT,CSE,anirbandg@iitgn.ac.in,"Machine Learning, Algorithms, Data Science",https://iitgn.ac.in/faculty/cse/anirbandg,1,queued,
+Bireswar Das,gujarat,gandhinagar,IIT Gandhinagar,IIT,CSE,bireswar@iitgn.ac.in,"Complexity Theory, Algorithms, Graph Theory",https://iitgn.ac.in/faculty/cse/bireswar,1,queued,
+Manish K. Gupta,gujarat,gandhinagar,IIT Gandhinagar,IIT,CSE,manishg@iitgn.ac.in,"Cryptography, Algebra, Information Theory",https://iitgn.ac.in/faculty/cse/manishg,1,queued,
+Nipun Batra,gujarat,gandhinagar,IIT Gandhinagar,IIT,CSE,nipun.batra@iitgn.ac.in,"Machine Learning, Energy, Sustainability AI",https://nipunbatra.github.io,1,queued,
+Shanmuganathan Raman,gujarat,gandhinagar,IIT Gandhinagar,IIT,CSE,shanmuga@iitgn.ac.in,"Computational Photography, Computer Vision, HDR",https://iitgn.ac.in/faculty/cse/shanmuga,1,queued,
+Siva Ram Murthy C,gujarat,gandhinagar,IIT Gandhinagar,IIT,CSE,sivaramm@iitgn.ac.in,"Wireless Networks, IoT, 5G",https://iitgn.ac.in/faculty/cse/sivaramm,1,queued,

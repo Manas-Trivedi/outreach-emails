@@ -1,1 +1,13 @@
 name,state,city,institute,institute_type,department,email,research_area,personal_site,priority,status,notes
+C.V. Jawahar,telangana,hyderabad,IIIT Hyderabad,IIIT,CSE,jawahar@iiit.ac.in,"Computer Vision, Robotics, Document Analysis",https://faculty.iiit.ac.in/~jawahar,1,queued,
+Girish Varma,telangana,hyderabad,IIIT Hyderabad,IIIT,CSE,girish.varma@iiit.ac.in,"Machine Learning Theory, Graph Neural Networks",https://faculty.iiit.ac.in/~girish.varma,1,queued,
+Madhava Krishna,telangana,hyderabad,IIIT Hyderabad,IIIT,CSE,madhava.krishna@iiit.ac.in,"Robotics, Autonomous Vehicles, SLAM",https://faculty.iiit.ac.in/~mkrishna,1,queued,
+Manish Singh,telangana,hyderabad,IIIT Hyderabad,IIIT,CSE,manish.singh@iiit.ac.in,"Algorithms, Complexity, Combinatorics",https://faculty.iiit.ac.in/~manish.singh,1,queued,
+Manohar Swaminathan,telangana,hyderabad,IIIT Hyderabad,IIIT,CSE,manohar.swaminathan@iiit.ac.in,"Accessibility, HCI, Low-Resource NLP",https://faculty.iiit.ac.in/~manohar,1,queued,
+Naresh Manwani,telangana,hyderabad,IIIT Hyderabad,IIIT,CSE,naresh.manwani@iiit.ac.in,"Machine Learning, Learning with Label Noise",https://faculty.iiit.ac.in/~naresh.manwani,1,queued,
+P.J. Narayanan,telangana,hyderabad,IIIT Hyderabad,IIIT,CSE,pjn@iiit.ac.in,"Computer Vision, High Performance Computing, 3D Reconstruction",https://faculty.iiit.ac.in/~pjn,1,queued,
+Priyanka Srivastava,telangana,hyderabad,IIIT Hyderabad,IIIT,CSE,priyanka.srivastava@iiit.ac.in,"NLP, Dialogue Systems, Conversational AI",https://faculty.iiit.ac.in/~priyanka.srivastava,1,queued,
+Radhika Mamidi,telangana,hyderabad,IIIT Hyderabad,IIIT,CSE,radhika.mamidi@iiit.ac.in,"Computational Linguistics, NLP, Discourse",https://faculty.iiit.ac.in/~radhika.mamidi,1,queued,
+Srinath Srinivasa,telangana,hyderabad,IIIT Hyderabad,IIIT,CSE,srinath@iiit.ac.in,"Web Science, Knowledge Graphs, Data Analytics",https://faculty.iiit.ac.in/~srinath,1,queued,
+Vasudeva Varma,telangana,hyderabad,IIIT Hyderabad,IIIT,CSE,vv@iiit.ac.in,"Information Retrieval, NLP, Knowledge Graphs",https://faculty.iiit.ac.in/~vv,1,queued,
+Vineet Gandhi,telangana,hyderabad,IIIT Hyderabad,IIIT,CSE,vineet.gandhi@iiit.ac.in,"Computer Vision, Autonomous Driving",https://faculty.iiit.ac.in/~vineet.gandhi,1,queued,

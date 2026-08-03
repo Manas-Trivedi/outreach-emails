@@ -1,0 +1,5 @@
+name,state,city,institute,institute_type,department,email,research_area,personal_site,priority,status,notes
+Aurobinda Routray,odisha,bhubaneswar,IIT Bhubaneswar,IIT,CSE,aroutray@iitbbs.ac.in,"Signal Processing, Computer Vision, Brain-Computer Interface",https://www.iitbbs.ac.in/profile.php/aroutray,1,queued,
+Bidyut Kumar Patra,odisha,bhubaneswar,IIT Bhubaneswar,IIT,CSE,bidyut@iitbbs.ac.in,"Machine Learning, Recommender Systems",https://www.iitbbs.ac.in/profile.php/bidyut,1,queued,
+Gopal Krishna Nayak,odisha,bhubaneswar,IIT Bhubaneswar,IIT,CSE,gknayak@iitbbs.ac.in,"Distributed Systems, Network Security",https://www.iitbbs.ac.in/profile.php/gknayak,1,queued,
+Shiv Ram Dubey,odisha,bhubaneswar,IIT Bhubaneswar,IIT,CSE,srdubey@iitbbs.ac.in,"Computer Vision, Deep Learning, Medical AI",https://www.iitbbs.ac.in/profile.php/srdubey,1,queued,

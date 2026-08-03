@@ -1,0 +1,5 @@
+name,state,city,institute,institute_type,department,email,research_area,personal_site,priority,status,notes
+Arijit Patra,bihar,patna,IIT Patna,IIT,CSE,arijit@iitp.ac.in,"NLP, Machine Learning, Text Mining",https://www.iitp.ac.in/~arijit,1,queued,
+Jimson Mathew,bihar,patna,IIT Patna,IIT,CSE,jimson@iitp.ac.in,"Computer Vision, Deep Learning, Medical Imaging",https://www.iitp.ac.in/~jimson,1,queued,
+Rajiv Misra,bihar,patna,IIT Patna,IIT,CSE,rajiv@iitp.ac.in,"Wireless Networks, IoT, Distributed Systems",https://www.iitp.ac.in/~rajiv,1,queued,
+Samar Shailendra,bihar,patna,IIT Patna,IIT,CSE,samar@iitp.ac.in,"VLSI Design, Embedded Systems",https://www.iitp.ac.in/~samar,1,queued,

@@ -1,0 +1,3 @@
+name,state,city,institute,institute_type,department,email,research_area,personal_site,priority,status,notes
+Abhijit A.M.,maharashtra,pune,IIIT Pune,IIIT,CSE,abhijit@iiitp.ac.in,"Computer Vision, Robotics, Deep Learning",https://www.iiitp.ac.in/index.php/faculty,1,queued,
+Nitin Rakesh,maharashtra,pune,IIIT Pune,IIIT,CSE,nitin@iiitp.ac.in,"Networks, Security, Cloud",https://www.iiitp.ac.in/index.php/faculty,1,queued,

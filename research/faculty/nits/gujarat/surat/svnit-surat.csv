@@ -1,0 +1,4 @@
+name,state,city,institute,institute_type,department,email,research_area,personal_site,priority,status,notes
+Amit Ganatra,gujarat,surat,SVNIT Surat,NIT,CSE,amit_ganatra@cse.svnit.ac.in,"Machine Learning, Data Mining, Bioinformatics",https://www.svnit.ac.in/web/department/cse/,1,queued,
+Dipti Shah,gujarat,surat,SVNIT Surat,NIT,CSE,dipti@cse.svnit.ac.in,"Computer Vision, Image Processing",https://www.svnit.ac.in/web/department/cse/,1,queued,
+Prashant P. Bhatt,gujarat,surat,SVNIT Surat,NIT,CSE,ppbhatt@cse.svnit.ac.in,"Cryptography, Network Security",https://www.svnit.ac.in/web/department/cse/,1,queued,

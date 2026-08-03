@@ -1,0 +1,4 @@
+name,state,city,institute,institute_type,department,email,research_area,personal_site,priority,status,notes
+Deepak Singh Tomar,madhya-pradesh,bhopal,MANIT Bhopal,NIT,CSE,dstomar@manit.ac.in,"Machine Learning, Neural Networks, Data Mining",https://www.manit.ac.in/content/deepak-singh-tomar,1,queued,
+Rekha Pandit,madhya-pradesh,bhopal,MANIT Bhopal,NIT,CSE,rekha@manit.ac.in,"Computer Vision, Image Processing",https://www.manit.ac.in/content/rekha-pandit,1,queued,
+Sanjay Silakari,madhya-pradesh,bhopal,MANIT Bhopal,NIT,CSE,ssilakari@manit.ac.in,"Data Mining, Machine Learning, Cloud Computing",https://www.manit.ac.in/content/sanjay-silakari,1,queued,

@@ -1,0 +1,5 @@
+name,state,city,institute,institute_type,department,email,research_area,personal_site,priority,status,notes
+Aparajita Ojha,madhya-pradesh,gwalior,IIIT Gwalior,IIIT,CSE,aojha@iiitm.ac.in,"Image Processing, Biometrics, Pattern Recognition",https://www.iiitm.ac.in/faculty/aojha,1,queued,
+M.K. Gupta,madhya-pradesh,gwalior,IIIT Gwalior,IIIT,CSE,mkgupta@iiitm.ac.in,"Cryptography, Network Security",https://www.iiitm.ac.in/faculty/mkgupta,1,queued,
+S. Abirami,madhya-pradesh,gwalior,IIIT Gwalior,IIIT,CSE,abirami@iiitm.ac.in,"Data Mining, Machine Learning, Knowledge Graphs",https://www.iiitm.ac.in/faculty/abirami,1,queued,
+Vineet Sahula,madhya-pradesh,gwalior,IIIT Gwalior,IIIT,CSE,vsahula@iiitm.ac.in,"VLSI, Embedded Systems, Signal Processing",https://www.iiitm.ac.in/faculty/vsahula,1,queued,

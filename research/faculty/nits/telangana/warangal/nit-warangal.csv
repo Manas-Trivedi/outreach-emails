@@ -1,1 +1,7 @@
 name,state,city,institute,institute_type,department,email,research_area,personal_site,priority,status,notes
+Atul Negi,telangana,warangal,NIT Warangal,NIT,CSE,atulnegi@nitw.ac.in,"Image Processing, Computer Vision, Pattern Recognition",https://nitw.ac.in/faculty/cse/atulnegi,1,queued,
+C.D. Naidu,telangana,warangal,NIT Warangal,NIT,CSE,cdnaidu@nitw.ac.in,"Machine Learning, Signal Processing",https://nitw.ac.in/faculty/cse/cdnaidu,1,queued,
+J. Murali Krishnan,telangana,warangal,NIT Warangal,NIT,CSE,jmk@nitw.ac.in,"Computer Graphics, Visualization",https://nitw.ac.in/faculty/cse/jmk,1,queued,
+P.V.S. Lakshmi,telangana,warangal,NIT Warangal,NIT,CSE,pvslakshmi@nitw.ac.in,"Distributed Systems, Cloud Computing",https://nitw.ac.in/faculty/cse/pvslakshmi,1,queued,
+Radhika Mamidi,telangana,warangal,NIT Warangal,NIT,CSE,radhika@nitw.ac.in,"Natural Language Processing, Computational Linguistics",https://nitw.ac.in/faculty/cse/radhika,1,queued,
+Ravi Kishore Kodali,telangana,warangal,NIT Warangal,NIT,CSE,ravikishore@nitw.ac.in,"IoT, Embedded Systems, Wireless Sensor Networks",https://nitw.ac.in/faculty/cse/ravikishore,1,queued,

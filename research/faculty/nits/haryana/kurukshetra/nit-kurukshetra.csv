@@ -1,0 +1,4 @@
+name,state,city,institute,institute_type,department,email,research_area,personal_site,priority,status,notes
+Anil Saini,haryana,kurukshetra,NIT Kurukshetra,NIT,CSE,anilsaini@nitkkr.ac.in,"Computer Vision, Image Processing, Deep Learning",https://nitkkr.ac.in/faculty/cse,1,queued,
+Pawan Kumar Dahiya,haryana,kurukshetra,NIT Kurukshetra,NIT,CSE,pkdahiya@nitkkr.ac.in,"Network Security, Cryptography, IoT",https://nitkkr.ac.in/faculty/cse,1,queued,
+Shailendra Singh,haryana,kurukshetra,NIT Kurukshetra,NIT,CSE,ssingh@nitkkr.ac.in,"Machine Learning, Big Data, Algorithms",https://nitkkr.ac.in/faculty/cse,1,queued,

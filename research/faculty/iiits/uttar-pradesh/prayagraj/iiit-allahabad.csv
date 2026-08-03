@@ -1,1 +1,8 @@
 name,state,city,institute,institute_type,department,email,research_area,personal_site,priority,status,notes
+A.K. Singh,uttar-pradesh,prayagraj,IIIT Allahabad,IIIT,CSE,aksingh@iiita.ac.in,"Computer Vision, Pattern Recognition, Biometrics",https://profile.iiita.ac.in/aksingh,1,queued,
+Anupam Agrawal,uttar-pradesh,prayagraj,IIIT Allahabad,IIIT,CSE,anupam@iiita.ac.in,"Computer Vision, Medical Imaging, Gesture Recognition",https://profile.iiita.ac.in/anupam,1,queued,
+Arup Kumar Pal,uttar-pradesh,prayagraj,IIIT Allahabad,IIIT,CSE,arup@iiita.ac.in,"Cryptography, Steganography, Security",https://profile.iiita.ac.in/arup,1,queued,
+M.K. Dutta,uttar-pradesh,prayagraj,IIIT Allahabad,IIIT,CSE,mkdutta@iiita.ac.in,"Biometrics, Image Processing, Deep Learning",https://profile.iiita.ac.in/mkdutta,1,queued,
+Nishchal K. Verma,uttar-pradesh,prayagraj,IIIT Allahabad,IIIT,CSE,nkverma@iiita.ac.in,"Machine Learning, Intelligent Systems, Fuzzy Logic",https://profile.iiita.ac.in/nkverma,1,queued,
+Partha Pratim Roy,uttar-pradesh,prayagraj,IIIT Allahabad,IIIT,CSE,ppr@iiita.ac.in,"Computer Vision, NLP, Pattern Recognition",https://profile.iiita.ac.in/ppr,1,queued,
+Shekhar Verma,uttar-pradesh,prayagraj,IIIT Allahabad,IIIT,CSE,sverma@iiita.ac.in,"Machine Learning, Networks, IoT",https://profile.iiita.ac.in/sverma,1,queued,

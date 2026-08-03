@@ -1,0 +1,5 @@
+name,state,city,institute,institute_type,department,email,research_area,personal_site,priority,status,notes
+Anil Kumar Singh,uttar-pradesh,allahabad,MNNIT Allahabad,NIT,CSE,anil@mnnit.ac.in,"NLP, Machine Translation, Deep Learning",https://www.mnnit.ac.in/profile/anilkumar,1,queued,
+Dhirendra Kumar,uttar-pradesh,allahabad,MNNIT Allahabad,NIT,CSE,dkumar@mnnit.ac.in,"Bioinformatics, Machine Learning",https://www.mnnit.ac.in/profile/dhirendra,1,queued,
+G.C. Nandi,uttar-pradesh,allahabad,MNNIT Allahabad,NIT,CSE,gcn@mnnit.ac.in,"Robotics, AI, Cognitive Computing, HRI",https://www.mnnit.ac.in/profile/gcnandi,1,queued,
+Pradeep Kumar,uttar-pradesh,allahabad,MNNIT Allahabad,NIT,CSE,pradeep@mnnit.ac.in,"Algorithms, Data Structures, Complexity",https://www.mnnit.ac.in/profile/pradeepkumar,1,queued,
