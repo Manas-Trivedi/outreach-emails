@@ -1,0 +1,4 @@
+name,state,city,institute,institute_type,department,email,research_area,personal_site,priority,status,notes
+Renu Rameshan,chhattisgarh,raipur,IIT Bhilai,IIT,CSE,renu@iitbhilai.ac.in,"Computer Vision, Image Processing",https://www.iitbhilai.ac.in/faculty/renu,1,queued,
+Saurabh Tiwari,chhattisgarh,raipur,IIT Bhilai,IIT,CSE,stiwari@iitbhilai.ac.in,"Machine Learning, Data Mining",https://www.iitbhilai.ac.in/faculty/stiwari,1,queued,
+Shailendra Jain,chhattisgarh,raipur,IIT Bhilai,IIT,CSE,sjain@iitbhilai.ac.in,"Networks, Security",https://www.iitbhilai.ac.in/faculty/sjain,1,queued,

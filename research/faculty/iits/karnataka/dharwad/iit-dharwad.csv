@@ -1,0 +1,4 @@
+name,state,city,institute,institute_type,department,email,research_area,personal_site,priority,status,notes
+Manjunath Kounte,karnataka,dharwad,IIT Dharwad,IIT,CSE,mkounte@iitdh.ac.in,"Machine Learning, Signal Processing, IoT",https://www.iitdh.ac.in/faculty/mkounte,1,queued,
+Priyanka Bagade,karnataka,dharwad,IIT Dharwad,IIT,CSE,pbagade@iitdh.ac.in,"Wearable Computing, Health IoT, Machine Learning",https://www.iitdh.ac.in/faculty/pbagade,1,queued,
+Rahul Vaze,karnataka,dharwad,IIT Dharwad,IIT,CSE,rvaze@iitdh.ac.in,"Wireless Networks, Stochastic Systems",https://www.iitdh.ac.in/faculty/rvaze,1,queued,

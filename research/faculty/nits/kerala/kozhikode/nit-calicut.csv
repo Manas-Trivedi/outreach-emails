@@ -1,1 +1,7 @@
 name,state,city,institute,institute_type,department,email,research_area,personal_site,priority,status,notes
+Abdul Nizar K.,kerala,kozhikode,NIT Calicut,NIT,CSE,nizar@nitc.ac.in,"Computer Networks, Wireless Sensor Networks",https://minerva.nitc.ac.in/nizar,1,queued,
+Achuthsankar S. Nair,kerala,kozhikode,NIT Calicut,NIT,CSE,achuth@nitc.ac.in,"Bioinformatics, Computational Biology, NLP",https://minerva.nitc.ac.in/achuth,1,queued,
+Asharaf S,kerala,kozhikode,NIT Calicut,NIT,CSE,asharaf@nitc.ac.in,"Machine Learning, Deep Learning, NLP",https://minerva.nitc.ac.in/asharaf,1,queued,
+Deepak P,kerala,kozhikode,NIT Calicut,NIT,CSE,deepakp@nitc.ac.in,"Machine Learning, Data Mining, Fairness in AI",https://minerva.nitc.ac.in/deepakp,1,queued,
+Manu V.T.,kerala,kozhikode,NIT Calicut,NIT,CSE,manu@nitc.ac.in,"Distributed Systems, Cloud, Security",https://minerva.nitc.ac.in/manu,1,queued,
+P. Vinod,kerala,kozhikode,NIT Calicut,NIT,CSE,vinod@nitc.ac.in,"Malware Analysis, Cyber Security, Software Testing",https://minerva.nitc.ac.in/vinod,1,queued,

@@ -1,0 +1,5 @@
+name,state,city,institute,institute_type,department,email,research_area,personal_site,priority,status,notes
+Anirban Mukhopadhyay,west-bengal,durgapur,NIT Durgapur,NIT,CSE,anirban.mukhopadhyay@cse.nitdgp.ac.in,"Bioinformatics, Machine Learning",https://nitdgp.ac.in/department/CS/faculty/anirban,1,queued,
+Chandreyee Chowdhury,west-bengal,durgapur,NIT Durgapur,NIT,CSE,chandreyee@cse.nitdgp.ac.in,"IoT, Smart City, Data Analytics",https://nitdgp.ac.in/department/CS/faculty/chandreyee,1,queued,
+Debdatta Kandar,west-bengal,durgapur,NIT Durgapur,NIT,CSE,debdatta@cse.nitdgp.ac.in,"Image Processing, Computer Vision",https://nitdgp.ac.in/department/CS/faculty/debdatta,1,queued,
+Soumya Sen,west-bengal,durgapur,NIT Durgapur,NIT,CSE,soumya.sen@cse.nitdgp.ac.in,"Networks, Cloud Computing, Cybersecurity",https://nitdgp.ac.in/department/CS/faculty/soumyasen,1,queued,

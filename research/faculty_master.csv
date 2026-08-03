@@ -1,1 +1,601 @@
 name,state,city,institute,institute_type,department,email,research_area,personal_site,priority,status,notes
+Phani Kumar P.V.S.S.R,andhra-pradesh,nuzvid,IIIT Nuzvid,IIIT,CSE,phani@rguktrkv.ac.in,"Deep Learning, NLP",https://rgukt.ac.in/academics/faculty/cse,1,queued,
+Satya Pranav P,andhra-pradesh,ongole,IIIT Ongole,IIIT,CSE,satya@rguktn.ac.in,"Distributed Systems, Networks",https://rguktn.ac.in/academics/faculty/cse,1,queued,
+Rajesh K,andhra-pradesh,srikakulam,IIIT Srikakulam,IIIT,CSE,rajesh@rguktrkv.ac.in,"Machine Learning, Computer Vision",https://rguktrkv.ac.in/Academics/faculty/cse,1,queued,
+Sanjoy Das,assam,guwahati,IIIT Assam,IIIT,CSE,sanjoy@iiitassam.ac.in,"Machine Learning, Algorithms",https://www.iiitassam.ac.in/faculty/cse,1,queued,
+A V Subramanyam,delhi,new-delhi,IIIT Delhi,IIIT,"ECE, CSE",subramanyam@iiitd.ac.in,"Ph.D. (2012), Nanyang Technological University, Singapore",https://iiitd.ac.in/subramanyam,,queued,"Professor (ECE, CSE)"
+Aasim Khan,delhi,new-delhi,IIIT Delhi,IIIT,SSH,aasim@iiitd.ac.in,"Ph.D. (2018), King's College, London",https://iiitd.ac.in/aasim,,queued,Assistant Professor (SSH)
+Abhijit Mitra,delhi,new-delhi,IIIT Delhi,IIIT,ECE,abhijit@iiitd.ac.in,"Ph.D. (2017), under joint Indo-UK collaboration between IIT Delhi and British Telecom (BT), UK in the area of Elastic Optical Networks.",https://iiitd.ac.in/abhijit,,queued,Assistant Professor (ECE)
+Angshul Majumdar,delhi,new-delhi,IIIT Delhi,IIIT,"ECE, CSE",angshul@iiitd.ac.in,"Ph.D. (2012), University of British Columbia",https://iiitd.ac.in/angshul,,queued,"Professor (ECE, CSE)"
+Anmol Srivastava,delhi,new-delhi,IIIT Delhi,IIIT,HCD,anmol@iiitd.ac.in,"Ph.D. (2019), IIT Guwahati, India",https://iiitd.ac.in/anmol,,queued,"Head (HCD),"
+Anubha Gupta,delhi,new-delhi,IIIT Delhi,IIIT,ECE,anubha@iiitd.ac.in,"Ph.D. (2006), IIT Delhi, India",https://iiitd.ac.in/anubha,,queued,"Head (ECE),"
+Anuj Grover,delhi,new-delhi,IIIT Delhi,IIIT,ECE,anuj@iiitd.ac.in,"Ph.D. (2015), IIT Delhi, India",https://iiitd.ac.in/anujg,,queued,Associate Professor (ECE)
+Anuj Kumar,delhi,new-delhi,IIIT Delhi,IIIT,ECE,anuj.kumar@iiitd.ac.in,"Ph.D. (2021), Indian Institute of Technology, Roorkee",https://iiitd.ac.in/anujkumar,,queued,Assistant Professor (ECE)
+Anuradha Sharma,delhi,new-delhi,IIIT Delhi,IIIT,Math,anuradha@iiitd.ac.in,"Ph.D. (2006), Panjab University, Chandigarh, India",https://iiitd.ac.in/anuradha,,queued,"Head (Math),"
+Arani Bhattacharya,delhi,new-delhi,IIIT Delhi,IIIT,"CSE, ECE",arani@iiitd.ac.in,"Ph.D. (2019), Stony Brook University",https://iiitd.ac.in/arani,,queued,"Assistant Professor (CSE, ECE)"
+Arjun Ray,delhi,new-delhi,IIIT Delhi,IIIT,CB,arjun@iiitd.ac.in,"Ph.D. (2018), CSIR-IGIB",https://iiitd.ac.in/arjun,,queued,Assistant Professor (CB)
+Arun Balaji Buduru,delhi,new-delhi,IIIT Delhi,IIIT,"CSE, HCD",arunb@iiitd.ac.in,"Ph.D. (2016), Arizona State University, USA",https://iiitd.ac.in/arunb,,queued,"Associate Professor (CSE, HCD)"
+Ashish Kumar Pandey,delhi,new-delhi,IIIT Delhi,IIIT,Math,ashish.pandey@iiitd.ac.in,"Ph.D. (2018), The University of Illinois at Urbana-Champaign, USA.",https://iiitd.ac.in/ashishk,,queued,Associate Professor (Math)
+Bapi Chatterjee,delhi,new-delhi,IIIT Delhi,IIIT,CSE,bapi@iiitd.ac.in,"Ph.D. (2018), Chalmers University of Technology, Gothenburg, Sweden",https://iiitd.ac.in/bapi,,queued,Assistant Professor (CSE)
+Chanekar Prasad Vilas,delhi,new-delhi,IIIT Delhi,IIIT,ECE,prasad@iiitd.ac.in,"Ph.D. (2018), University of Maryland, USA",https://iiitd.ac.in/chanekar,,queued,Assistant Professor (ECE)
+Debajyoti Bera,delhi,new-delhi,IIIT Delhi,IIIT,CSE,dbera@iiitd.ac.in,"Ph.D. (2010), Boston University, USA",https://iiitd.ac.in/dbera,,queued,Associate Professor (CSE)
+Debarka Sengupta,delhi,new-delhi,IIIT Delhi,IIIT,"CB, CSE",debarka@iiitd.ac.in,"Ph.D. (2014), Jadavpur University",https://iiitd.ac.in/debarka,,queued,"Professor (CB, CSE)"
+Debika Banerjee,delhi,new-delhi,IIIT Delhi,IIIT,Math,debika@iiitd.ac.in,"Ph.D. (2017), Harish-Chandra Research Institute, Allahabad",https://iiitd.ac.in/debika,,queued,Associate Professor (Math)
+Deepak Prince,delhi,new-delhi,IIIT Delhi,IIIT,SSH,deepak@iiitd.ac.in,"Ph.D. (2022), Sociology, Shiv Nadar University",https://iiitd.ac.in/deepak,,queued,Assistant Professor (SSH)
+Diptapriyo Majumdar,delhi,new-delhi,IIIT Delhi,IIIT,"CSE, Math",diptapriyo@iiitd.ac.in,"Ph.D. (2018), The Institute of Mathematical Sciences (IMSc), Chennai",https://iiitd.ac.in/diptapriyo,,queued,"Assistant Professor (CSE, Math)"
+G.P.S. Raghava,delhi,new-delhi,IIIT Delhi,IIIT,CB,raghava@iiitd.ac.in,"Ph.D. (1996), Institute of Microbial Technology, Chandigarh.",https://iiitd.ac.in/raghava,,queued,Professor (CB)
+Ganesh Bagler,delhi,new-delhi,IIIT Delhi,IIIT,CB,bagler@iiitd.ac.in,"Ph.D. (2007), CSIR-Centre for Cellular and Molecular Biology",https://iiitd.ac.in/bagler,,queued,"Head (CB),"
+Gautam Shroff,delhi,new-delhi,IIIT Delhi,IIIT,CSE,gautam.shroff@iiitd.ac.in,"Ph.D. (1990), Rensselaer Polytechnic Institute Troy, NY",https://iiitd.ac.in/gautam,,queued,Professor (CSE)
+Gayatri Nair,delhi,new-delhi,IIIT Delhi,IIIT,SSH,gayatri@iiitd.ac.in,"Ph.D. (2016), Jawaharlal Nehru University, New Delhi",https://iiitd.ac.in/gayatri,,queued,Assistant Professor (SSH)
+J. V. Meenakshi,delhi,new-delhi,IIIT Delhi,IIIT,SSH,meena@iiitd.ac.in,"Ph.D. (1991), Cornell University",https://iiitd.ac.in/jvmeenakshi,,queued,"Head (SSH),"
+Jainendra Shukla,delhi,new-delhi,IIIT Delhi,IIIT,"CSE, HCD",jainendra@iiitd.ac.in,"Ph.D. (2018), Universitat Rovira i Virgili (URV), Spain",https://iiitd.ac.in/jainendra,,queued,"Associate Professor (CSE, HCD)"
+Jaspreet Kaur Dhanjal,delhi,new-delhi,IIIT Delhi,IIIT,CB,jaspreet@iiitd.ac.in,"Ph.D. (2019), IIT Delhi, India",https://iiitd.ac.in/jaspreet,,queued,Assistant Professor (CB)
+Kalpana Shankhwar,delhi,new-delhi,IIIT Delhi,IIIT,HCD,kalpana@iiitd.ac.in,"Ph.D. (2022), National Taiwan University",https://iiitd.ac.in/kalpana,,queued,Assistant Professor (HCD)
+Kaushik Kalyanaraman,delhi,new-delhi,IIIT Delhi,IIIT,Math,kaushik@iiitd.ac.in,"Ph.D. (2015), University of Illinois at Urbana-Champaign",https://iiitd.ac.in/kaushik,,queued,Assistant Professor (Math)
+Kiriti Kanjilal,delhi,new-delhi,IIIT Delhi,IIIT,SSH,kanjilal@iiitd.ac.in,"Ph.D. (2018), Washington State University",https://iiitd.ac.in/kanjilal,,queued,Assistant Professor (SSH)
+Manohar Kumar,delhi,new-delhi,IIIT Delhi,IIIT,SSH,manohar.kumar@iiitd.ac.in,"Ph.D. (2013), LUISS University, Rome",https://iiitd.ac.in/manohark,,queued,Assistant Professor (SSH)
+Manuj Mukherjee,delhi,new-delhi,IIIT Delhi,IIIT,"ECE, Math",manuj@iiitd.ac.in,"Ph.D. (2017), Indian Institute of Science, Bengaluru, India",https://iiitd.ac.in/manuj,,queued,"Assistant Professor (ECE, Math)"
+Md. Shad Akhtar,delhi,new-delhi,IIIT Delhi,IIIT,CSE,shad.akhtar@iiitd.ac.in,"Ph.D. (2019), IIT Patna, India",https://iiitd.ac.in/shad,,queued,Assistant Professor (CSE)
+Monika Arora,delhi,new-delhi,IIIT Delhi,IIIT,Math,monika@iiitd.ac.in,"Ph.D. (2018), Old Dominion University, Virginia, USA",https://iiitd.ac.in/monika,,queued,Assistant Professor (Math)
+Mrinmoy Chakrabarty,delhi,new-delhi,IIIT Delhi,IIIT,SSH,mrinmoy@iiitd.ac.in,"Ph.D. (2017), Osaka University School of Medicine, Japan",https://iiitd.ac.in/mrinmoy,,queued,Assistant Professor (SSH)
+Mukesh Mohania,delhi,new-delhi,IIIT Delhi,IIIT,CSE,mukesh@iiitd.ac.in,"Ph.D. (1995), Indian Institute of Technology - Bombay, India",https://iiitd.ac.in/mukesh,,queued,Professor (CSE)
+Mukulika Maity,delhi,new-delhi,IIIT Delhi,IIIT,CSE,mukulika@iiitd.ac.in,"Ph.D. (2017), IIT Bombay, India",https://iiitd.ac.in/mukulika,,queued,Associate Professor (CSE)
+N. Arul Murugan,delhi,new-delhi,IIIT Delhi,IIIT,CB,arul.murugan@iiitd.ac.in,"Ph.D. (2005), Indian Institute of Science, Bangalore, India",https://iiitd.ac.in/arulmurugan,,queued,Associate Professor (CB)
+Nabanita Ray,delhi,new-delhi,IIIT Delhi,IIIT,Math,nabanita@iiitd.ac.in,"Ph.D. (2020), The Institute of Mathematical Sciences Chennai",https://iiitd.ac.in/nabanita,,queued,Assistant Professor (Math)
+Nikhil Gupta,delhi,new-delhi,IIIT Delhi,IIIT,CSE,nikhil@iiitd.ac.in,"Ph.D. (2022), Indian Institute of Science, Bangalore",https://iiitd.ac.in/nikhil,,queued,Assistant Professor (CSE)
+Nishad Patnaik,delhi,new-delhi,IIIT Delhi,IIIT,SSH,nishad@iiitd.ac.in,"Ph.D. (2013), NSSR, New York, USA",https://iiitd.ac.in/nishad,,queued,Assistant Professor (SSH)
+Ojaswa Sharma,delhi,new-delhi,IIIT Delhi,IIIT,CSE,ojaswa@iiitd.ac.in,"Ph.D. (2010), Technical University of Denmark, Denmark",https://iiitd.ac.in/ojaswa,,queued,Associate Professor (CSE)
+Pankaj Jalote,delhi,new-delhi,IIIT Delhi,IIIT,CSE,jalote@iiitd.ac.in,"Ph.D. (1985), University of Illinois at Urbana Champaign, USA",,,queued,Emeritus Professor (CSE)
+Paro Mishra,delhi,new-delhi,IIIT Delhi,IIIT,SSH,paro.mishra@iiitd.ac.in,"Ph.D. (2017), IIT Delhi, India",https://iiitd.ac.in/paro,,queued,Assistant Professor (SSH)
+Piyus Kedia,delhi,new-delhi,IIIT Delhi,IIIT,CSE,piyus@iiitd.ac.in,"Ph.D. (2018), IIT Delhi, India",https://iiitd.ac.in/piyus,,queued,Assistant Professor (CSE)
+Pragma Kar,delhi,new-delhi,IIIT Delhi,IIIT,HCD,prgama@iiitd.ac.in,"Ph.D. (2023), Jadavpur University",https://iiitd.ac.in/pragma,,queued,Assistant Professor (HCD)
+Pragya Kosta,delhi,new-delhi,IIIT Delhi,IIIT,ECE,pragya@iiitd.ac.in,"Ph.D. (2020), University of Utah",https://iiitd.ac.in/pragya,,queued,Assistant Professor (ECE)
+Prahllad Deb,delhi,new-delhi,IIIT Delhi,IIIT,Math,prahllad@iiitd.ac.in,"Ph.D. (2020), Indian Institute of Science Education and Research Kolkata",https://iiitd.ac.in/prahllad,,queued,Assistant Professor (Math)
+Praveen Priyadarshi,delhi,new-delhi,IIIT Delhi,IIIT,SSH,praveen@iiitd.ac.in,"Ph.D. (2018), London School of Economics and Political Science, London",https://iiitd.ac.in/praveen,,queued,Assistant Professor (SSH)
+Pravesh Biyani,delhi,new-delhi,IIIT Delhi,IIIT,ECE,praveshb@iiitd.ac.in,"Ph.D. (2012), IIT Delhi, India",https://iiitd.ac.in/praveshb,,queued,Professor (ECE)
+Pushpendra Singh,delhi,new-delhi,IIIT Delhi,IIIT,CSE,psingh@iiitd.ac.in,"Ph.D. (2004), Inria-Rennes, University de Rennes 1, France",https://iiitd.ac.in/pushpendra,,queued,"Head (CSE),"
+Rajiv Raman,delhi,new-delhi,IIIT Delhi,IIIT,"CSE, Math",rajiv@iiitd.ac.in,"Ph.D. (2007), University of Iowa, USA",https://iiitd.ac.in/rajiv,,queued,"Associate Professor (CSE, Math)"
+Rajiv Ratn Shah,delhi,new-delhi,IIIT Delhi,IIIT,"CSE, HCD",rajivratn@iiitd.ac.in,"Ph.D. (2017),  National University of Singapore, Singapore",https://iiitd.ac.in/rajivratn,,queued,"Associate Professor (CSE, HCD)"
+Ram Krishna Ghosh,delhi,new-delhi,IIIT Delhi,IIIT,ECE,rkghosh@iiitd.ac.in,"Ph.D. (2013), Indian Institute of Science, Bangalore",https://iiitd.ac.in/rkghosh,,queued,Associate Professor (ECE)
+Ravi Anand,delhi,new-delhi,IIIT Delhi,IIIT,CSE,ravi.anand@iiitd.ac.in,"Ph.D. (2021), IIT Kharagpur",https://iiitd.ac.in/ravianand,,queued,Assistant Professor (CSE)
+Richa Gupta,delhi,new-delhi,IIIT Delhi,IIIT,HCD,richa.gupta@iiitd.ac.in,"Ph.D. (2020), IIT Delhi, India",https://iiitd.ac.in/richagupta,,queued,Assistant Professor (HCD)
+Rinku Shah,delhi,new-delhi,IIIT Delhi,IIIT,CSE,rinku@iiitd.ac.in,"Ph.D. (2021), IIT Bombay, India",https://iiitd.ac.in/rinku,,queued,Assistant Professor (CSE)
+Ruhi Sonal,delhi,new-delhi,IIIT Delhi,IIIT,SSH,ruhi@iiitd.ac.in,"Ph.D. (2020), IIT Delhi, India",https://iiitd.ac.in/ruhi,,queued,Assistant Professor (SSH)
+Sachchidanand Prasad,delhi,new-delhi,IIIT Delhi,IIIT,Math,sachchidanand@iiitd.ac.in,"Ph.D. (2022), IISER Kolkata",https://iiitd.ac.in/sachchidanand,,queued,Assistant Professor (Math)
+Saket Anand,delhi,new-delhi,IIIT Delhi,IIIT,"CSE, ECE",anands@iiitd.ac.in,"Ph.D. (2013), Rutgers University, NJ, USA",https://iiitd.ac.in/anands,,queued,"Associate Professor (CSE, ECE)"
+Sambuddho Chakravarty,delhi,new-delhi,IIIT Delhi,IIIT,CSE,sambuddho@iiitd.ac.in,"Ph.D. (2014), Columbia University, USA",https://iiitd.ac.in/sambuddho,,queued,Associate Professor (CSE)
+Sanat K Biswas,delhi,new-delhi,IIIT Delhi,IIIT,ECE,sanat@iiitd.ac.in,"Ph.D. (2017), University of New South Wales",https://iiitd.ac.in/sanat,,queued,Associate Professor (ECE)
+Sandeep Sen,delhi,new-delhi,IIIT Delhi,IIIT,CSE,ssen@iiitd.ac.in,Ph.D. Duke University,https://iiitd.ac.in/sandeep,,queued,Director and Professor (CSE)
+Sanjit Krishnan Kaul,delhi,new-delhi,IIIT Delhi,IIIT,ECE,skkaul@iiitd.ac.in,"Ph.D. (2011), Rutgers University, USA",https://iiitd.ac.in/skkaul,,queued,Professor (ECE)
+Sankha S Basu,delhi,new-delhi,IIIT Delhi,IIIT,Math,sankha@iiitd.ac.in,"Ph.D. (2013), The Pennsylvania State University",https://iiitd.ac.in/sankha,,queued,Assistant Professor (Math)
+Sarthok Sircar,delhi,new-delhi,IIIT Delhi,IIIT,Math,sarthok@iiitd.ac.in,"Ph.D. (2009), University of South Carolina.",https://iiitd.ac.in/sarthok,,queued,Professor (Math)
+Sayak Bhattacharya,delhi,new-delhi,IIIT Delhi,IIIT,ECE,sayak@iiitd.ac.in,"Ph.D. (2016), IIT Delhi, India",https://iiitd.ac.in/sayak,,queued,Assistant Professor (ECE)
+Sayan Basu Roy,delhi,new-delhi,IIIT Delhi,IIIT,ECE,sayan@iiitd.ac.in,"Ph.D. (2019), IIT Delhi, India",https://iiitd.ac.in/sayan,,queued,Associate Professor (ECE)
+Shamik Sarkar,delhi,new-delhi,IIIT Delhi,IIIT,ECE,shamik@iiitd.ac.in,"Ph.D. (2021), University of Utah",https://iiitd.ac.in/shamik,,queued,Assistant Professor (ECE)
+Shobha Sundar Ram,delhi,new-delhi,IIIT Delhi,IIIT,ECE,shobha@iiitd.ac.in,"Ph.D. (2009), University of Texas at Austin",https://iiitd.ac.in/shobha,,queued,Professor (ECE)
+Smriti Singh,delhi,new-delhi,IIIT Delhi,IIIT,SSH,smriti@iiitd.ac.in,"Ph.D. (2017), Jawaharlal Nehru University, New Delhi",https://iiitd.ac.in/smriti,,queued,Assistant Professor (SSH)
+Sneh Saurabh,delhi,new-delhi,IIIT Delhi,IIIT,ECE,sneh@iiitd.ac.in,"Ph.D. (2012), IIT Delhi, India",https://iiitd.ac.in/sneh,,queued,Professor (ECE)
+Sneha Chaubey,delhi,new-delhi,IIIT Delhi,IIIT,Math,sneha@iiitd.ac.in,"Ph.D. (2017), University of Illinois at Urbana-Champaign (UIUC)",https://iiitd.ac.in/sneha,,queued,Associate Professor (Math)
+Soibam Haripriya,delhi,new-delhi,IIIT Delhi,IIIT,SSH,soibam@iiitd.ac.in,"Ph.D. (2016), University of Delhi, India",https://iiitd.ac.in/soibam,,queued,Assistant Professor (SSH)
+Sonal Keshwani,delhi,new-delhi,IIIT Delhi,IIIT,HCD,sonal.keshwani@iiitd.ac.in,"Ph.D. (2018), Indian Institute of Science, Bangalore.",https://iiitd.ac.in/sonal,,queued,Assistant Professor (HCD)
+Sonia Baloni Ray,delhi,new-delhi,IIIT Delhi,IIIT,SSH,sonia@iiitd.ac.in,"Ph.D. (2012), Georg August University, Goettingen, Germany",https://iiitd.ac.in/sonia,,queued,Assistant Professor (SSH)
+Souvik Dutta,delhi,new-delhi,IIIT Delhi,IIIT,SSH,souvik@iiitd.ac.in,"Ph.D. (2014), Pennsylvania State University",https://iiitd.ac.in/souvik,,queued,Assistant Professor (SSH)
+Sriram K,delhi,new-delhi,IIIT Delhi,IIIT,CB,sriramk@iiitd.ac.in,"Ph.D. (2004), IIT Madras, India",https://iiitd.ac.in/sriram,,queued,Associate Professor (CB)
+Subhashree Mohapatra,delhi,new-delhi,IIIT Delhi,IIIT,Math,subhashree@iiitd.ac.in,"Ph.D. (2013), IIT Kanpur, India",https://iiitd.ac.in/subhashreem,,queued,Assistant Professor (Math)
+Sujay Deb,delhi,new-delhi,IIIT Delhi,IIIT,"ECE, CSE",sdeb@iiitd.ac.in,"Ph.D. (2012), Washington State University",https://iiitd.ac.in/sdeb,,queued,"Professor (ECE, CSE)"
+Sukanta Nandi,delhi,new-delhi,IIIT Delhi,IIIT,ECE,sukanta@iiitd.ac.in,"Ph.D. (2020), Indian Institute of Science, Bangalore, India",https://iiitd.ac.in/sukanta,,queued,Assistant Professor (ECE)
+Sumit J Darak,delhi,new-delhi,IIIT Delhi,IIIT,ECE,sumit@iiitd.ac.in,"Ph.D. (2013), Nanyang Technological University (NTU), Singapore",https://iiitd.ac.in/sumit,,queued,Professor (ECE)
+Supratim Shit,delhi,new-delhi,IIIT Delhi,IIIT,CSE,supratim@iiitd.ac.in,"Ph.D. (2021), IIT Gandhinagar, India",https://iiitd.ac.in/supratim,,queued,Assistant Professor (CSE)
+Syamantak Das,delhi,new-delhi,IIIT Delhi,IIIT,CSE,syamantak@iiitd.ac.in,"Ph.D. (2015), IIT Delhi, India",https://iiitd.ac.in/syamantak,,queued,Assistant Professor (CSE)
+Tanmoy Kundu,delhi,new-delhi,IIIT Delhi,IIIT,CSE,tanmoy.kundu@iiitd.ac.in,"Ph.D. (2022), IIT kanpur",https://iiitd.ac.in/tanmoykundu,,queued,Assistant Professor (CSE)
+Tarini Shankar Ghosh,delhi,new-delhi,IIIT Delhi,IIIT,CB,tarini.ghosh@iiitd.ac.in,"Ph.D. (2014), University of Hyderabad, India",https://iiitd.ac.in/tarini,,queued,Assistant Professor (CB)
+Tavpritesh Sethi,delhi,new-delhi,IIIT Delhi,IIIT,CB,tavpriteshsethi@iiitd.ac.in,"Ph.D. (2014), CSIR-IGIB,",https://iiitd.ac.in/tavpritesh,,queued,Professor (CB)
+V. Raghava Mutharaju,delhi,new-delhi,IIIT Delhi,IIIT,CSE,raghava.mutharaju@iiitd.ac.in,"Ph.D. (2016), Wright State University, Dayton, OH, USA",https://iiitd.ac.in/raghavam,,queued,Associate Professor (CSE)
+Venkata Ratnadeep Suri,delhi,new-delhi,IIIT Delhi,IIIT,SSH,ratan.suri@iiitd.ac.in,"Ph.D. (2013), Indiana University, Bloomington, Indiana",https://iiitd.ac.in/ratan,,queued,Assistant Professor (SSH)
+Vibhor Kumar,delhi,new-delhi,IIIT Delhi,IIIT,CB,vibhor@iiitd.ac.in,"Ph.D. (2007), Helsinki University of Technology (now Aalto), Finland",https://iiitd.ac.in/vibhork,,queued,Associate Professor (CB)
+Vikram Goyal,delhi,new-delhi,IIIT Delhi,IIIT,CSE,vikram@iiitd.ac.in,"Ph.D. (2009), IIT Delhi, India",https://iiitd.ac.in/vikram,,queued,Professor (CSE)
+Vinayak Abrol,delhi,new-delhi,IIIT Delhi,IIIT,CSE,abrol@iiitd.ac.in,"Ph.D. (2018), IIT Mandi, India",https://iiitd.ac.in/vabrol,,queued,Assistant Professor (CSE)
+Vivek Bohara,delhi,new-delhi,IIIT Delhi,IIIT,ECE,vivek.b@iiitd.ac.in,"Ph.D. (2011),  Nanyang Technological University, Singapore",https://iiitd.ac.in/vivek,,queued,Professor (ECE)
+Vivek Kumar,delhi,new-delhi,IIIT Delhi,IIIT,CSE,vivekk@iiitd.ac.in,"Ph.D. (2014), Research School of Computer Science, Australian National University",https://iiitd.ac.in/vivekk,,queued,Assistant Professor (CSE)
+Sanjay Chaudhary,gujarat,vadodara,IIIT Vadodara,IIIT,CSE,sanjayc@iiitvadodara.ac.in,"Cloud Computing, Big Data, Machine Learning",https://www.iiitvadodara.ac.in/faculty/cse,1,queued,
+Rahul Dubey,gujarat,vadodara,IIIT Vadodara,IIIT,CSE,rahuldubey@iiitvadodara.ac.in,"Computer Vision, Deep Learning",https://www.iiitvadodara.ac.in/faculty/cse,1,queued,
+Ahana Pradhan,karnataka,bengaluru,IIIT Bangalore,IIIT,,ahana.pradhan@iiitb.ac.in,,https://www.iiitb.ac.in/faculty/dr-ahana-pradhan,,queued,"Ph.D. (IIT Bombay); email from faculty listing, verify"
+Ajay Bakre,karnataka,bengaluru,IIIT Bangalore,IIIT,,ajay.bakre@iiitb.ac.in,,https://www.iiitb.ac.in/faculty/ajay-bakre,,queued,"Ph.D. (Rutgers University, NJ); email from faculty listing, verify"
+Amit Chattopadhyay,karnataka,bengaluru,IIIT Bangalore,IIIT,,a.chattopadhyay@iiitb.ac.in,,https://www.iiitb.ac.in/faculty/amit-chattopadhyay,,queued,"Ph.D. (University of Groningen); email from faculty listing, verify"
+Amit Prakash,karnataka,bengaluru,IIIT Bangalore,IIIT,,amitprakash@iiitb.ac.in,,https://www.iiitb.ac.in/faculty/amit-prakash,,queued,"FPM (IIM Bangalore); email from faculty listing, verify"
+Amrita Mishra,karnataka,bengaluru,IIIT Bangalore,IIIT,,amrita.mishra@iiitb.ac.in,,https://www.iiitb.ac.in/faculty/amrita-mishra,,queued,"Ph.D. (IIT Kanpur); email from faculty listing, verify"
+Anuj Verma,karnataka,bengaluru,IIIT Bangalore,IIIT,,anuj.verma@iiitb.ac.in,,https://www.iiitb.ac.in/faculty/anuj-verma,,queued,"Ph.D. (IIT Mandi); email from faculty listing, verify"
+Ashish Choudhury,karnataka,bengaluru,IIIT Bangalore,IIIT,,ashish.choudhury@iiitb.ac.in,,https://www.iiitb.ac.in/faculty/ashish-choudhury,,queued,"Ph.D. (IIT Madras); email from faculty listing, verify"
+Aswin Kannan,karnataka,bengaluru,IIIT Bangalore,IIIT,,aswin.kannan@iiitb.ac.in,,https://www.iiitb.ac.in/faculty/aswin-kannan,,queued,"Ph.D. (Pennsylvania State University); email from faculty listing, verify"
+Badrinath Ramamurthy,karnataka,bengaluru,IIIT Bangalore,IIIT,,badrinath.r@iiitb.ac.in,,https://www.iiitb.ac.in/faculty/dr-badrinath-ramamurthy,,queued,"Ph.D. (Rensselaer Polytechnic Institute, NY USA); email from faculty listing, verify"
+Balaji Parthasarathy,karnataka,bengaluru,IIIT Bangalore,IIIT,,pbalaji@iiitb.ac.in,,https://www.iiitb.ac.in/faculty/balaji-parthasarathy,,queued,"Ph.D. (University of California Berkeley); email from faculty listing, verify"
+Balakrishnan Ashok,karnataka,bengaluru,IIIT Bangalore,IIIT,,bashok@iiitb.ac.in,,https://www.iiitb.ac.in/faculty/balakrishnan-ashok,,queued,"Ph.D. (University of Massachusetts Amherst); email from faculty listing, verify"
+Chandrashekar Ramanathan,karnataka,bengaluru,IIIT Bangalore,IIIT,,rc@iiitb.ac.in,,https://www.iiitb.ac.in/faculty/chandrashekar-ramanathan,,queued,"Ph.D. (Mississippi State University); email from faculty listing, verify"
+Chinar  Mehta,karnataka,bengaluru,IIIT Bangalore,IIIT,,chinar.mehta@iiitb.ac.in,,https://www.iiitb.ac.in/faculty/chinar-mehta,,queued,"Ph.D. (University of Hyderabad); email from faculty listing, verify"
+Debabrata Das,karnataka,bengaluru,IIIT Bangalore,IIIT,,ddas@iiitb.ac.in,,https://www.iiitb.ac.in/faculty/debabrata-das,,queued,"Ph.D. (IIT Kharagpur); email from faculty listing, verify"
+Dinesh Babu Jayagopi,karnataka,bengaluru,IIIT Bangalore,IIIT,,jdinesh@iiitb.ac.in,,https://www.iiitb.ac.in/faculty/dinesh-babu-jayagopi,,queued,"Ph.D. (École Polytechnique Fédérale de Lausanne); email from faculty listing, verify"
+Jaya  Sreevalsan Nair,karnataka,bengaluru,IIIT Bangalore,IIIT,,jnair@iiitb.ac.in,,https://www.iiitb.ac.in/faculty/jaya-sreevalsan-nair,,queued,"Ph.D. (University of California Davis); email from faculty listing, verify"
+Jyotsna Bapat,karnataka,bengaluru,IIIT Bangalore,IIIT,,jbapat@iiitb.ac.in,,https://www.iiitb.ac.in/faculty/jyotsna-bapat,,queued,"Ph.D. (Pennsylvania State University); email from faculty listing, verify"
+Kurian Polachan,karnataka,bengaluru,IIIT Bangalore,IIIT,,kurian.polachan@iiitb.ac.in,,https://www.iiitb.ac.in/faculty/kurian-polachan,,queued,"email from faculty listing, verify"
+Madhav Rao,karnataka,bengaluru,IIIT Bangalore,IIIT,,mr@iiitb.ac.in,,https://www.iiitb.ac.in/faculty/madhav-rao,,queued,"Ph.D. (University of Alabama); email from faculty listing, verify"
+Manisha Kulkarni,karnataka,bengaluru,IIIT Bangalore,IIIT,,manisha.kulkarni@iiitb.ac.in,,https://www.iiitb.ac.in/faculty/manisha-kulkarni,,queued,"Ph.D. (IMSc Chennai); email from faculty listing, verify"
+Meenakshi D'Souza,karnataka,bengaluru,IIIT Bangalore,IIIT,,meenakshi@iiitb.ac.in,,https://www.iiitb.ac.in/faculty/meenakshi-dsouza,,queued,"Ph.D (IMSc Chennai); email from faculty listing, verify"
+Naganand  Yadati,karnataka,bengaluru,IIIT Bangalore,IIIT,,naganand.yadati@iiitb.ac.in,,https://www.iiitb.ac.in/faculty/naganand,,queued,"Ph.D. (IISc Bangalore); email from faculty listing, verify"
+Narayanan P. P.,karnataka,bengaluru,IIIT Bangalore,IIIT,,narayanan.pp@iiitb.ac.in,,https://www.iiitb.ac.in/faculty/narayanan-p-p,,queued,"Ph.D. (IIT Palakkad); email from faculty listing, verify"
+Pradeesha Ashok,karnataka,bengaluru,IIIT Bangalore,IIIT,,pradeesha@iiitb.ac.in,,https://www.iiitb.ac.in/faculty/pradeesha-ashok1,,queued,"Ph.D. (IISC Bangalore); email from faculty listing, verify"
+Pranesh Santikellur,karnataka,bengaluru,IIIT Bangalore,IIIT,,pranesh.santikellur@iiitb.ac.in,,https://www.iiitb.ac.in/faculty/pranesh-santikellur,,queued,"Ph.D. (IIT Kharagpur); email from faculty listing, verify"
+Prem Singh,karnataka,bengaluru,IIIT Bangalore,IIIT,,prem.singh@iiitb.ac.in,,https://www.iiitb.ac.in/faculty/prem-singh,,queued,"Ph.D. (IIT Kanpur); email from faculty listing, verify"
+Priyanka Das,karnataka,bengaluru,IIIT Bangalore,IIIT,,priyanka.das@iiitb.ac.in,,https://www.iiitb.ac.in/faculty/priyanka-das,,queued,"Ph.D. (IISc Bangalore); email from faculty listing, verify"
+Raghuram Bharadwaj,karnataka,bengaluru,IIIT Bangalore,IIIT,,raghuram.bharadwaj@iiitb.ac.in,,https://www.iiitb.ac.in/faculty/raghuram-bharadwaj,,queued,"Ph.D. (IISc Bangalore); email from faculty listing, verify"
+Sachit Rao,karnataka,bengaluru,IIIT Bangalore,IIIT,,sachit@iiitb.ac.in,,https://www.iiitb.ac.in/faculty/sachit-rao,,queued,"Ph.D. (Ohio State University); email from faculty listing, verify"
+Sahana M. Prabhu,karnataka,bengaluru,IIIT Bangalore,IIIT,,sahana.prabhu@iiitb.ac.in,,https://www.iiitb.ac.in/faculty/sahana-m-prabhu,,queued,"Ph.D. (IIT Madras); email from faculty listing, verify"
+Sakshi Arora,karnataka,bengaluru,IIIT Bangalore,IIIT,,sakshi.arora@iiitb.ac.in,,https://www.iiitb.ac.in/faculty/sakshi-arora,,queued,"Ph.D. (Stanford University); email from faculty listing, verify"
+Sanghasri Mukhopadhyay,karnataka,bengaluru,IIIT Bangalore,IIIT,,sanghasri.m@iiitb.ac.in,,https://www.iiitb.ac.in/faculty/sanghasri-mukhopadhyay,,queued,"Ph.D (Université Grenoble Alphs, France & Université Savoie Mont Blanc, France); email from faculty listing, verify"
+Sanju Ahuja,karnataka,bengaluru,IIIT Bangalore,IIIT,,sanju.ahuja@iiitb.ac.in,,https://www.iiitb.ac.in/faculty/sanju-ahuja,,queued,"Ph.D. (IIT Delhi); email from faculty listing, verify"
+Saumya Shankar,karnataka,bengaluru,IIIT Bangalore,IIIT,,saumya.shankar@iiitb.ac.in,,https://www.iiitb.ac.in/faculty/saumya-shankar,,queued,"Ph.D. (IIT Bhubaneswar); email from faculty listing, verify"
+Shiva Kumar Malapaka,karnataka,bengaluru,IIIT Bangalore,IIIT,,malapaka@iiitb.ac.in,,https://www.iiitb.ac.in/faculty/shiva-kumar-malapaka,,queued,"Ph.D. (Universitat Bayreuth); email from faculty listing, verify"
+Shrisha Rao,karnataka,bengaluru,IIIT Bangalore,IIIT,,srao@iiitb.ac.in,,https://www.iiitb.ac.in/faculty/shrisha-rao,,queued,"Ph.D. (University of Iowa); email from faculty listing, verify"
+Shubha Krishnamurthy,karnataka,bengaluru,IIIT Bangalore,IIIT,,shubha.krishnamurthy@iiitb.ac.in,,https://www.iiitb.ac.in/faculty/shubha-krishnamurthy,,queued,"Ph.D. (IIM Bangalore); email from faculty listing, verify"
+Srinath Srinivasa,karnataka,bengaluru,IIIT Bangalore,IIIT,,sri@iiitb.ac.in,,https://www.iiitb.ac.in/faculty/srinath-srinivasa,,queued,"Ph.D. (Brandenburg Technical University Cottbus); email from faculty listing, verify"
+Srinivas Vivek,karnataka,bengaluru,IIIT Bangalore,IIIT,,srinivas.vivek@iiitb.ac.in,,https://www.iiitb.ac.in/faculty/srinivasvivek,,queued,"Ph.D. (University of Luxembourg); email from faculty listing, verify"
+Sujit Kumar Chakrabarti,karnataka,bengaluru,IIIT Bangalore,IIIT,,sujitkc@iiitb.ac.in,,https://www.iiitb.ac.in/faculty/sujit-kumar-chakrabarti,,queued,"Ph.D. (IISc Bangalore); email from faculty listing, verify"
+Sushree Sangeeta Behera,karnataka,bengaluru,IIIT Bangalore,IIIT,,sushree.behera@iiitb.ac.in,,https://www.iiitb.ac.in/faculty/sushree-sangeeta-behera,,queued,"Ph.D. (IIT Bhubaneswar); email from faculty listing, verify"
+T K Srikanth,karnataka,bengaluru,IIIT Bangalore,IIIT,,tk.srikanth@iiitb.ac.in,,https://www.iiitb.ac.in/faculty/t-k-srikanth,,queued,"Ph.D. (Cornell University); email from faculty listing, verify"
+Thangaraju B,karnataka,bengaluru,IIIT Bangalore,IIIT,,b.thangaraju@iiitb.ac.in,,https://www.iiitb.ac.in/faculty/thangaraju-b,,queued,"Ph.D. (Bharathidasan University); email from faculty listing, verify"
+Tulika Saha,karnataka,bengaluru,IIIT Bangalore,IIIT,,tulika.saha@iiitb.ac.in,,https://www.iiitb.ac.in/faculty/tulika-saha,,queued,"Ph. D. (Indian Institute of Technology Patna); email from faculty listing, verify"
+Uttam Kumar,karnataka,bengaluru,IIIT Bangalore,IIIT,,uttam@iiitb.ac.in,,https://www.iiitb.ac.in/faculty/uttam-kumar,,queued,"Ph.D. (IISc Bangalore); email from faculty listing, verify"
+V N Muralidhara,karnataka,bengaluru,IIIT Bangalore,IIIT,,murali@iiitb.ac.in,,https://www.iiitb.ac.in/faculty/v-n-muralidhara,,queued,"Ph.D. (IIT Delhi); email from faculty listing, verify"
+V Ramasubramanian,karnataka,bengaluru,IIIT Bangalore,IIIT,,v.ramasubramanian@iiitb.ac.in,,https://www.iiitb.ac.in/faculty/v-ramasubramanian,,queued,"Ph.D. (TIFR Bombay); email from faculty listing, verify"
+V Sridhar,karnataka,bengaluru,IIIT Bangalore,IIIT,,vsridhar@iiitb.ac.in,,https://www.iiitb.ac.in/faculty/v-sridhar,,queued,"Ph.D. (University of Iowa); email from faculty listing, verify"
+Vaishnavi Gujjula,karnataka,bengaluru,IIIT Bangalore,IIIT,,vaishnavi.gujjula@iiitb.ac.in,,https://www.iiitb.ac.in/faculty/vaishnavi-gujjula,,queued,"Ph.D. (IIT Madras); email from faculty listing, verify"
+Vinod Veera Reddy,karnataka,bengaluru,IIIT Bangalore,IIIT,,vinod.reddy@iiitb.ac.in,,https://www.iiitb.ac.in/faculty/vinod-veera-reddy,,queued,"Ph.D. (Nanyang Technological University Singapore); email from faculty listing, verify"
+Vinu E Venugopal,karnataka,bengaluru,IIIT Bangalore,IIIT,,vinu.ev@iiitb.ac.in,,https://www.iiitb.ac.in/faculty/dr-vinu-e-venugopal,,queued,"Ph.D. (IIT Madras); email from faculty listing, verify"
+Viswanath  Gopalakrishnan,karnataka,bengaluru,IIIT Bangalore,IIIT,,viswanath.g@iiitb.ac.in,,https://www.iiitb.ac.in/faculty/viswanath-gopalakrishnan,,queued,"Ph.D. (Nanyang Technological University Singapore); email from faculty listing, verify"
+John P. Sahoo,kerala,kottayam,IIIT Kottayam,IIIT,CSE,john@iiitkottayam.ac.in,"Machine Learning, Cloud Computing",https://www.iiitkottayam.ac.in/faculty/cse,1,queued,
+Aparajita Ojha,madhya-pradesh,gwalior,IIIT Gwalior,IIIT,CSE,aojha@iiitm.ac.in,"Image Processing, Biometrics, Pattern Recognition",https://www.iiitm.ac.in/faculty/aojha,1,queued,
+M.K. Gupta,madhya-pradesh,gwalior,IIIT Gwalior,IIIT,CSE,mkgupta@iiitm.ac.in,"Cryptography, Network Security",https://www.iiitm.ac.in/faculty/mkgupta,1,queued,
+S. Abirami,madhya-pradesh,gwalior,IIIT Gwalior,IIIT,CSE,abirami@iiitm.ac.in,"Data Mining, Machine Learning, Knowledge Graphs",https://www.iiitm.ac.in/faculty/abirami,1,queued,
+Vineet Sahula,madhya-pradesh,gwalior,IIIT Gwalior,IIIT,CSE,vsahula@iiitm.ac.in,"VLSI, Embedded Systems, Signal Processing",https://www.iiitm.ac.in/faculty/vsahula,1,queued,
+Abhijit A.M.,maharashtra,pune,IIIT Pune,IIIT,CSE,abhijit@iiitp.ac.in,"Computer Vision, Robotics, Deep Learning",https://www.iiitp.ac.in/index.php/faculty,1,queued,
+Nitin Rakesh,maharashtra,pune,IIIT Pune,IIIT,CSE,nitin@iiitp.ac.in,"Networks, Security, Cloud",https://www.iiitp.ac.in/index.php/faculty,1,queued,
+K. Hemanta Kumar Singh,manipur,imphal,IIIT Manipur,IIIT,CSE,hemanta@iiitmanipur.ac.in,"Computer Networks, Machine Learning",https://www.iiitmanipur.ac.in/faculties/cse,1,queued,
+Ashish Kumar Bhatia,rajasthan,kota,IIIT Kota,IIIT,CSE,ashishb@iiitkota.ac.in,"Computer Vision, Deep Learning",https://www.iiitkota.ac.in/faculty/cse,1,queued,
+Ch. Srinivasa Rao,telangana,basar,IIIT Basar,IIIT,CSE,csrao@rgukt.ac.in,"Machine Learning, Data Mining",https://rgukt.ac.in/academics/faculty,1,queued,
+V. Ravi Kumar,telangana,basar,IIIT Basar,IIIT,CSE,ravikumar@rgukt.ac.in,"Embedded Systems, IoT",https://rgukt.ac.in/academics/faculty,1,queued,
+C.V. Jawahar,telangana,hyderabad,IIIT Hyderabad,IIIT,CSE,jawahar@iiit.ac.in,"Computer Vision, Robotics, Document Analysis",https://faculty.iiit.ac.in/~jawahar,1,queued,
+Girish Varma,telangana,hyderabad,IIIT Hyderabad,IIIT,CSE,girish.varma@iiit.ac.in,"Machine Learning Theory, Graph Neural Networks",https://faculty.iiit.ac.in/~girish.varma,1,queued,
+Madhava Krishna,telangana,hyderabad,IIIT Hyderabad,IIIT,CSE,madhava.krishna@iiit.ac.in,"Robotics, Autonomous Vehicles, SLAM",https://faculty.iiit.ac.in/~mkrishna,1,queued,
+Manish Singh,telangana,hyderabad,IIIT Hyderabad,IIIT,CSE,manish.singh@iiit.ac.in,"Algorithms, Complexity, Combinatorics",https://faculty.iiit.ac.in/~manish.singh,1,queued,
+Manohar Swaminathan,telangana,hyderabad,IIIT Hyderabad,IIIT,CSE,manohar.swaminathan@iiit.ac.in,"Accessibility, HCI, Low-Resource NLP",https://faculty.iiit.ac.in/~manohar,1,queued,
+Naresh Manwani,telangana,hyderabad,IIIT Hyderabad,IIIT,CSE,naresh.manwani@iiit.ac.in,"Machine Learning, Learning with Label Noise",https://faculty.iiit.ac.in/~naresh.manwani,1,queued,
+P.J. Narayanan,telangana,hyderabad,IIIT Hyderabad,IIIT,CSE,pjn@iiit.ac.in,"Computer Vision, High Performance Computing, 3D Reconstruction",https://faculty.iiit.ac.in/~pjn,1,queued,
+Priyanka Srivastava,telangana,hyderabad,IIIT Hyderabad,IIIT,CSE,priyanka.srivastava@iiit.ac.in,"NLP, Dialogue Systems, Conversational AI",https://faculty.iiit.ac.in/~priyanka.srivastava,1,queued,
+Radhika Mamidi,telangana,hyderabad,IIIT Hyderabad,IIIT,CSE,radhika.mamidi@iiit.ac.in,"Computational Linguistics, NLP, Discourse",https://faculty.iiit.ac.in/~radhika.mamidi,1,queued,
+Srinath Srinivasa,telangana,hyderabad,IIIT Hyderabad,IIIT,CSE,srinath@iiit.ac.in,"Web Science, Knowledge Graphs, Data Analytics",https://faculty.iiit.ac.in/~srinath,1,queued,
+Vasudeva Varma,telangana,hyderabad,IIIT Hyderabad,IIIT,CSE,vv@iiit.ac.in,"Information Retrieval, NLP, Knowledge Graphs",https://faculty.iiit.ac.in/~vv,1,queued,
+Vineet Gandhi,telangana,hyderabad,IIIT Hyderabad,IIIT,CSE,vineet.gandhi@iiit.ac.in,"Computer Vision, Autonomous Driving",https://faculty.iiit.ac.in/~vineet.gandhi,1,queued,
+Sushanta Kumar Sahu,tripura,agartala,IIIT Agartala,IIIT,CSE,sksahu@iiitagartala.ac.in,"Machine Learning, Pattern Recognition",https://www.iiitagartala.ac.in/faculty/cse,1,queued,
+Rohit Agarwal,uttar-pradesh,lucknow,IIIT Lucknow,IIIT,CSE,rohit@iiitl.ac.in,"Machine Learning, Computer Vision",https://www.iiitl.ac.in/faculty/cse,1,queued,
+Anand Singh Jalal,uttar-pradesh,lucknow,IIIT Lucknow,IIIT,CSE,anandjalal@iiitl.ac.in,"Computer Vision, Biometrics, Image Processing",https://www.iiitl.ac.in/faculty/cse,1,queued,
+A.K. Singh,uttar-pradesh,prayagraj,IIIT Allahabad,IIIT,CSE,aksingh@iiita.ac.in,"Computer Vision, Pattern Recognition, Biometrics",https://profile.iiita.ac.in/aksingh,1,queued,
+Anupam Agrawal,uttar-pradesh,prayagraj,IIIT Allahabad,IIIT,CSE,anupam@iiita.ac.in,"Computer Vision, Medical Imaging, Gesture Recognition",https://profile.iiita.ac.in/anupam,1,queued,
+Arup Kumar Pal,uttar-pradesh,prayagraj,IIIT Allahabad,IIIT,CSE,arup@iiita.ac.in,"Cryptography, Steganography, Security",https://profile.iiita.ac.in/arup,1,queued,
+M.K. Dutta,uttar-pradesh,prayagraj,IIIT Allahabad,IIIT,CSE,mkdutta@iiita.ac.in,"Biometrics, Image Processing, Deep Learning",https://profile.iiita.ac.in/mkdutta,1,queued,
+Nishchal K. Verma,uttar-pradesh,prayagraj,IIIT Allahabad,IIIT,CSE,nkverma@iiita.ac.in,"Machine Learning, Intelligent Systems, Fuzzy Logic",https://profile.iiita.ac.in/nkverma,1,queued,
+Partha Pratim Roy,uttar-pradesh,prayagraj,IIIT Allahabad,IIIT,CSE,ppr@iiita.ac.in,"Computer Vision, NLP, Pattern Recognition",https://profile.iiita.ac.in/ppr,1,queued,
+Shekhar Verma,uttar-pradesh,prayagraj,IIIT Allahabad,IIIT,CSE,sverma@iiita.ac.in,"Machine Learning, Networks, IoT",https://profile.iiita.ac.in/sverma,1,queued,
+Gaurav Harit,uttar-pradesh,una,IIIT Una,IIIT,CSE,gharit@iiituna.ac.in,"Computer Vision, Image Processing, Machine Learning",https://www.iiituna.ac.in/faculty/cse,1,queued,
+Subhojit Ghosh,west-bengal,kalyani,IIIT Kalyani,IIIT,CSE,subhojit@iiitkalyani.ac.in,"Biomedical Signal Processing, Machine Learning",https://www.iiitkalyani.ac.in/faculty/cse,1,queued,
+Ankit Mondal,andhra-pradesh,tirupati,IIT Tirupati,IIT,CSE,ankitm@iittp.ac.in,"Networks, Distributed Systems",https://www.iittp.ac.in/faculty/ankitm,1,queued,
+Aruna Malapati,andhra-pradesh,tirupati,IIT Tirupati,IIT,CSE,aruna@iittp.ac.in,"Machine Learning, NLP, Text Mining",https://www.iittp.ac.in/faculty/aruna,1,queued,
+Rekha Singhal,andhra-pradesh,tirupati,IIT Tirupati,IIT,CSE,rekha@iittp.ac.in,"Distributed Systems, Cloud, IoT",https://www.iittp.ac.in/faculty/rekha,1,queued,
+Amit Awekar,assam,guwahati,IIT Guwahati,IIT,CSE,awekar@iitg.ac.in,,http://www.iitg.ac.in/awekar,,queued,email = IITG homepage username convention; verify before sending
+Aryabartta Sahu,assam,guwahati,IIT Guwahati,IIT,CSE,asahu@iitg.ac.in,,https://www.iitg.ac.in/asahu,,queued,email = IITG homepage username convention; verify before sending
+Ashish Anand,assam,guwahati,IIT Guwahati,IIT,CSE,anand.ashish@iitg.ac.in,,https://www.iitg.ac.in/anand.ashish,,queued,email = IITG homepage username convention; verify before sending
+Benny George K,assam,guwahati,IIT Guwahati,IIT,CSE,ben@iitg.ac.in,,https://www.iitg.ac.in/ben,,queued,email = IITG homepage username convention; verify before sending
+Chandan Karfa,assam,guwahati,IIT Guwahati,IIT,CSE,ckarfa@iitg.ac.in,,http://www.iitg.ac.in/ckarfa,,queued,email = IITG homepage username convention; verify before sending
+Deepanjan Kesh,assam,guwahati,IIT Guwahati,IIT,CSE,deepkesh@iitg.ac.in,,https://www.iitg.ac.in/deepkesh,,queued,email = IITG homepage username convention; verify before sending
+G. Sajith,assam,guwahati,IIT Guwahati,IIT,CSE,sajith@iitg.ac.in,,https://www.iitg.ac.in/sajith,,queued,email = IITG homepage username convention; verify before sending
+Hemangee K. Kapoor,assam,guwahati,IIT Guwahati,IIT,CSE,hemangee@iitg.ac.in,,https://www.iitg.ac.in/hemangee,,queued,email = IITG homepage username convention; verify before sending
+Jatindra Kumar Deka,assam,guwahati,IIT Guwahati,IIT,CSE,dgoswami@iitg.ac.in,,https://www.iitg.ac.in/dgoswami,,queued,email = IITG homepage username convention; verify before sending
+John Jose,assam,guwahati,IIT Guwahati,IIT,CSE,johnjose@iitg.ac.in,,http://www.iitg.ac.in/johnjose,,queued,email = IITG homepage username convention; verify before sending
+Moumita Patra,assam,guwahati,IIT Guwahati,IIT,CSE,svrao@iitg.ac.in,,https://www.iitg.ac.in/svrao,,queued,email = IITG homepage username convention; verify before sending
+Phrangboklang Lyngton Thangkhiew,assam,guwahati,IIT Guwahati,IIT,CSE,t.venkat@iitg.ac.in,,http://www.iitg.ac.in/t.venkat,,queued,email = IITG homepage username convention; verify before sending
+Purandar Bhaduri,assam,guwahati,IIT Guwahati,IIT,CSE,pbhaduri@iitg.ac.in,,http://www.iitg.ac.in/pbhaduri,,queued,email = IITG homepage username convention; verify before sending
+Quick Links,assam,guwahati,IIT Guwahati,IIT,CSE,phones@iitg.ac.in,,https://www.iitg.ac.in/phones,,queued,email = IITG homepage username convention; verify before sending
+R. Inkulu,assam,guwahati,IIT Guwahati,IIT,CSE,rinkulu@iitg.ac.in,,https://www.iitg.ac.in/rinkulu,,queued,email = IITG homepage username convention; verify before sending
+Rashmi Dutta Baruah,assam,guwahati,IIT Guwahati,IIT,CSE,r.duttabaruah@iitg.ac.in,,https://www.iitg.ac.in/r.duttabaruah,,queued,email = IITG homepage username convention; verify before sending
+Samit Bhattacharya,assam,guwahati,IIT Guwahati,IIT,CSE,samit@iitg.ac.in,,https://www.iitg.ac.in/samit,,queued,email = IITG homepage username convention; verify before sending
+Sanasam Ranbir Singh,assam,guwahati,IIT Guwahati,IIT,CSE,arijit@iitg.ac.in,,http://www.iitg.ac.in/arijit,,queued,email = IITG homepage username convention; verify before sending
+Shivashankar B. Nair,assam,guwahati,IIT Guwahati,IIT,CSE,sukumar@iitg.ac.in,,http://www.iitg.ac.in/sukumar,,queued,email = IITG homepage username convention; verify before sending
+Sriram Bhyravarapu,assam,guwahati,IIT Guwahati,IIT,CSE,pkdas@iitg.ac.in,,http://www.iitg.ac.in/pkdas,,queued,email = IITG homepage username convention; verify before sending
+Sukanta Bhattacharjee,assam,guwahati,IIT Guwahati,IIT,CSE,sukantab@iitg.ac.in,,https://www.iitg.ac.in/sukantab,,queued,email = IITG homepage username convention; verify before sending
+Sushanta Karmakar,assam,guwahati,IIT Guwahati,IIT,CSE,sushantak@iitg.ac.in,,http://www.iitg.ac.in/sushantak,,queued,email = IITG homepage username convention; verify before sending
+V. Vijaya Saradhi,assam,guwahati,IIT Guwahati,IIT,CSE,saradhi@iitg.ac.in,,https://www.iitg.ac.in/saradhi,,queued,email = IITG homepage username convention; verify before sending
+Arijit Patra,bihar,patna,IIT Patna,IIT,CSE,arijit@iitp.ac.in,"NLP, Machine Learning, Text Mining",https://www.iitp.ac.in/~arijit,1,queued,
+Jimson Mathew,bihar,patna,IIT Patna,IIT,CSE,jimson@iitp.ac.in,"Computer Vision, Deep Learning, Medical Imaging",https://www.iitp.ac.in/~jimson,1,queued,
+Rajiv Misra,bihar,patna,IIT Patna,IIT,CSE,rajiv@iitp.ac.in,"Wireless Networks, IoT, Distributed Systems",https://www.iitp.ac.in/~rajiv,1,queued,
+Samar Shailendra,bihar,patna,IIT Patna,IIT,CSE,samar@iitp.ac.in,"VLSI Design, Embedded Systems",https://www.iitp.ac.in/~samar,1,queued,
+Renu Rameshan,chhattisgarh,raipur,IIT Bhilai,IIT,CSE,renu@iitbhilai.ac.in,"Computer Vision, Image Processing",https://www.iitbhilai.ac.in/faculty/renu,1,queued,
+Saurabh Tiwari,chhattisgarh,raipur,IIT Bhilai,IIT,CSE,stiwari@iitbhilai.ac.in,"Machine Learning, Data Mining",https://www.iitbhilai.ac.in/faculty/stiwari,1,queued,
+Shailendra Jain,chhattisgarh,raipur,IIT Bhilai,IIT,CSE,sjain@iitbhilai.ac.in,"Networks, Security",https://www.iitbhilai.ac.in/faculty/sjain,1,queued,
+Abhradeep Guha Thakurta,delhi,new-delhi,IIT Delhi,IIT,CSE,athakurta@google.com,Machine Learning and Data Privacy...,,1,queued,Research Scientist at Google Deep Mind
+Adarsh Barik,delhi,new-delhi,IIT Delhi,IIT,CSE,adarshbarik1@cse.iitd.ac.in,"Optimization, Machine Learning, High-Dimensional Statistics, and ...",,1,queued,Assistant Professor
+Chetan Arora,delhi,new-delhi,IIT Delhi,IIT,CSE,chetan@cse.iitd.ac.in,Computer Vision and Machine Learning...,,1,queued,Professor
+Mausam,delhi,new-delhi,IIT Delhi,IIT,CSE,mausam@cse.iitd.ac.in,"Artificial Intelligence, Natural Language Processing...",,1,queued,Professor
+Parag Singla,delhi,new-delhi,IIT Delhi,IIT,CSE,parags@cse.iitd.ac.in,"Machine Learning, Social Network Analysis, Artificial Intelligence...",,1,queued,Professor
+Priyanka Golia,delhi,new-delhi,IIT Delhi,IIT,CSE,pgolia@cse.iitd.ac.in,Formal Methods and Artificial Intelligence...,,1,queued,Assistant Professor
+Rahul Garg,delhi,new-delhi,IIT Delhi,IIT,CSE,rahulgarg@cse.iitd.ac.in,"Machine Learning, Big Data Analytics, Neuroimaging, High Performance ...",,1,queued,Professor
+Rahul Narain,delhi,new-delhi,IIT Delhi,IIT,CSE,narain@cse.iitd.ac.in,"Computer Graphics, Animation, Numerical Simulation...",,1,queued,Associate Professor
+Rajeev Shorey,delhi,new-delhi,IIT Delhi,IIT,CSE,rajeevshorey@gmail.com,"Communication Networks,Data Analytics, Machine Learning and Artificial ...",,1,queued,
+Rohan Paul,delhi,new-delhi,IIT Delhi,IIT,CSE,rohan@cse.iitd.ac.in,"Human Robot Interaction, Language Grounding, Symbolic Reasoning...",,1,queued,Associate Professor
+Rohit Vaish,delhi,new-delhi,IIT Delhi,IIT,CSE,rvaish@cse.iitd.ac.in,"Algorithms and Economics, Artificial Intelligence, Computational ...",,1,queued,Assistant Professor
+Sayan Ranu,delhi,new-delhi,IIT Delhi,IIT,CSE,sayanranu@cse.iitd.ac.in,"Machine Learning and Data Mining for Graphs, Spatio-temporal Data ...",,1,queued,Professor
+Srikanta Bedathur,delhi,new-delhi,IIT Delhi,IIT,CSE,srikanta@cse.iitd.ac.in,"Data Management, Knowledge Discovery and Data Mining, Natural Language ...",,1,queued,Professor
+Subodh Kumar,delhi,new-delhi,IIT Delhi,IIT,CSE,subodh@cse.iitd.ac.in,"Computer Graphics, Virtual Reality, Geometry Processing, Parallel ...",,1,queued,Professor
+Aaditeshwar Seth,delhi,new-delhi,IIT Delhi,IIT,CSE,aseth@cse.iitd.ac.in,"Earth observation, networks and systems, social networks, ...",,,queued,Professor
+Abhijnan Chakraborty,delhi,new-delhi,IIT Delhi,IIT,CSE,abhijnan@cse.iitkgp.ac.in,,,,queued,
+Abhilash Jindal,delhi,new-delhi,IIT Delhi,IIT,CSE,ajindal@cse.iitd.ac.in,"Data systems, ML systems, Distributed systems, Mobile systems...",,,queued,Assistant Professor
+Amit Kumar,delhi,new-delhi,IIT Delhi,IIT,CSE,amitk@cse.iitd.ac.in,Algorithms...,,,queued,Professor
+Amitabha Bagchi,delhi,new-delhi,IIT Delhi,IIT,CSE,bagchi@cse.iitd.ac.in,"Structural Properties of Networks, Algorithms, Data Structures...",,,queued,Professor
+Anish Arora,delhi,new-delhi,IIT Delhi,IIT,CSE,anish@cse.ohio-state.edu,Dependable Distributed and Networked Systems...,,,queued,Professor
+Ashish Chiplunkar,delhi,new-delhi,IIT Delhi,IIT,CSE,ashishc@cse.iitd.ac.in,"Algorithm Design, Stochastic Problems...",,,queued,Assistant Professor
+Gautam Shroff,delhi,new-delhi,IIT Delhi,IIT,CSE,gautam.shroff@tcs.com,"Computing, Security Data Science, Artiﬁcial Intelligence...",,,queued,Vice President Chief Scientist and Head TCS Research
+Huzur Saran,delhi,new-delhi,IIT Delhi,IIT,CSE,saran@cse.iitd.ac.in,"High Speed Networks, Graph Theory, Algorithms...",,,queued,Emeritus Professor
+K.K. Biswas,delhi,new-delhi,IIT Delhi,IIT,CSE,kkb@cse.iitd.ac.in,,,,queued,
+Karthikeyan Bhargavan,delhi,new-delhi,IIT Delhi,IIT,CSE,karthik.bhargavan@inria.fr,"Security and Privacy, Formal Verification...",,,queued,Researcher @ Prosecco project
+Kaustubh Beedkar,delhi,new-delhi,IIT Delhi,IIT,CSE,kbeedkar@cse.iitd.ac.in,Database and Information Systems...,,,queued,Assistant Professor
+Keerti Choudhary,delhi,new-delhi,IIT Delhi,IIT,CSE,keerti@cse.iitd.ac.in,"Fault-Tolerant Algorithms, Extremal Graph Structures, Dynamic ...",,,queued,Assistant Professor
+Kolin Paul,delhi,new-delhi,IIT Delhi,IIT,CSE,kolin@cse.iitd.ac.in,Embedded Systems...,,,queued,Professor
+Kumar Madhukar,delhi,new-delhi,IIT Delhi,IIT,CSE,madhukar@cse.iitd.ac.in,"Program Verification, Model Checking, Syntax-Guided-Synthesis...",,,queued,Assistant Professor
+Maya Ramanath,delhi,new-delhi,IIT Delhi,IIT,CSE,amanath@cse.iitd.ac.in,Database and Information Retrieval Techniques for Semantic Web Data ...,,,queued,Associate Professor
+Naveen Garg,delhi,new-delhi,IIT Delhi,IIT,CSE,naveen@cse.iitd.ac.in,"Algorithms, Complexity, Optimization",http://www.cse.iitd.ernet.in/~naveen,,queued,Professor
+Nikhil Balaji,delhi,new-delhi,IIT Delhi,IIT,CSE,nbalaji@cse.iitd.ac.in,"Automata Theory, Quantitative Verification, Computational Complexity...",,,queued,Assistant Professor
+Piyush Kumar Sharma,delhi,new-delhi,IIT Delhi,IIT,CSE,piyush@cse.iitd.ac.in,"Network Security, Privacy and Computer Systems...",,,queued,Assistant Professor
+Preeti Ranjan Panda,delhi,new-delhi,IIT Delhi,IIT,CSE,panda@cse.iitd.ac.in,"Embedded Systems, Hardware Accelerators for AI/ML, Computer ...",,,queued,Professor
+Prem Kalra,delhi,new-delhi,IIT Delhi,IIT,CSE,pkalra@cse.iitd.ac.in,,,,queued,
+Ragesh Jaiswal,delhi,new-delhi,IIT Delhi,IIT,CSE,rjaiswal@cse.iitd.ac.in,"Algorithms, Complexity Analysis...",,,queued,Professor
+Rajendra Kumar,delhi,new-delhi,IIT Delhi,IIT,CSE,r_kumar@cse.iitd.ac.in,"Quantum Computing, Fine-grained Complexity and Cryptography...",,,queued,Assistant Professor
+Rijurekha Sen,delhi,new-delhi,IIT Delhi,IIT,CSE,riju@cse.iitd.ac.in,"Mobile and Embedded Systems (Hardware Architecture, OS, Sensing, ...",,,queued,Associate Professor
+S. Arun-Kumar,delhi,new-delhi,IIT Delhi,IIT,CSE,sak@cse.iitd.ac.in,,,,queued,
+S.K. Gupta,delhi,new-delhi,IIT Delhi,IIT,CSE,skg@cse.iitd.ac.in,,,,queued,
+Sandeep Sen,delhi,new-delhi,IIT Delhi,IIT,CSE,sandeep.sen@ashoka.edu.in,,,,queued,
+Sanjiva Prasad,delhi,new-delhi,IIT Delhi,IIT,CSE,sanjiva@cse.iitd.ac.in,"Semantics and Verification, Programming Languages, Concurrent Systems...",,,queued,Professor
+Saroj Kaushik,delhi,new-delhi,IIT Delhi,IIT,CSE,saroj.kaushik@snu.edu.in,,,,queued,
+Smruti Ranjan Sarangi,delhi,new-delhi,IIT Delhi,IIT,CSE,srsarangi@cse.iitd.ac.in,"Intelligent Systems, ML- and LLM-based System Design, AR/VR, ...",,,queued,Professor
+Sorav Bansal,delhi,new-delhi,IIT Delhi,IIT,CSE,sbansal@cse.iitd.ac.in,"Operating Systems, Compilers...",,,queued,Professor
+Subhashis Banerjee,delhi,new-delhi,IIT Delhi,IIT,CSE,suban@ashoka.edu.in,,,,queued,
+Subodh Vishnu Sharma,delhi,new-delhi,IIT Delhi,IIT,CSE,svs@cse.iitd.ac.in,"Formal Methods, Program Analysis, Concurrent Systems...",,,queued,Associate Professor
+Sumit Diware,delhi,new-delhi,IIT Delhi,IIT,CSE,sdiware@cse.iitd.ac.in,"Hardware systems, VLSI design, Computing architectures for AI...",,,queued,Assistant Professor
+Tarun Mangla,delhi,new-delhi,IIT Delhi,IIT,CSE,tmangla@cse.iitd.ac.in,Computer Network...,,,queued,Assistant Professor
+Vaishnavi Sundararajan,delhi,new-delhi,IIT Delhi,IIT,CSE,vaishnavi@cse.iitd.ac.in,"Formal methods, Verification and Security...",,,queued,Assistant Professor
+Venkata Vivek Kumar Koppula,delhi,new-delhi,IIT Delhi,IIT,CSE,kvenkata@cse.iitd.ac.in,"Theoretical Cryptography, Quantum Computing...",,,queued,Assistant Professor
+Vijay Keswani,delhi,new-delhi,IIT Delhi,IIT,CSE,vkeswani@cse.iitd.ac.in,"Algorithms and Society, Responsible AI and ML, Participatory Tech, ...",,,queued,Assistant Professor
+Vireshwar Kumar,delhi,new-delhi,IIT Delhi,IIT,CSE,viresh@cse.iitd.ac.in,"Security and Privacy in Cyber-Physical Systems, Applied Cryptography, ...",,,queued,Assistant Professor
+Yogish Sabharwal,delhi,new-delhi,IIT Delhi,IIT,CSE,ysabharwal@in.ibm.com,High Performance Computing Group IBM India Research ...,,,queued,STSM & Manager-HPC
+Clint P. George,goa,ponda,IIT Goa,IIT,CSE,clint@iitgoa.ac.in,"Machine Learning, Statistical Learning",https://www.iitgoa.ac.in/faculty/clint,1,queued,
+Sameer Kulkarni,goa,ponda,IIT Goa,IIT,CSE,sameer@iitgoa.ac.in,"Computer Networks, SDN, Security",https://www.iitgoa.ac.in/faculty/sameer,1,queued,
+Vineeth Paleri,goa,ponda,IIT Goa,IIT,CSE,vineeth@iitgoa.ac.in,"Compilers, Formal Methods, Program Analysis",https://www.iitgoa.ac.in/faculty/vineeth,1,queued,
+Anirban Dasgupta,gujarat,gandhinagar,IIT Gandhinagar,IIT,CSE,anirbandg@iitgn.ac.in,"Machine Learning, Algorithms, Data Science",https://iitgn.ac.in/faculty/cse/anirbandg,1,queued,
+Bireswar Das,gujarat,gandhinagar,IIT Gandhinagar,IIT,CSE,bireswar@iitgn.ac.in,"Complexity Theory, Algorithms, Graph Theory",https://iitgn.ac.in/faculty/cse/bireswar,1,queued,
+Manish K. Gupta,gujarat,gandhinagar,IIT Gandhinagar,IIT,CSE,manishg@iitgn.ac.in,"Cryptography, Algebra, Information Theory",https://iitgn.ac.in/faculty/cse/manishg,1,queued,
+Nipun Batra,gujarat,gandhinagar,IIT Gandhinagar,IIT,CSE,nipun.batra@iitgn.ac.in,"Machine Learning, Energy, Sustainability AI",https://nipunbatra.github.io,1,queued,
+Shanmuganathan Raman,gujarat,gandhinagar,IIT Gandhinagar,IIT,CSE,shanmuga@iitgn.ac.in,"Computational Photography, Computer Vision, HDR",https://iitgn.ac.in/faculty/cse/shanmuga,1,queued,
+Siva Ram Murthy C,gujarat,gandhinagar,IIT Gandhinagar,IIT,CSE,sivaramm@iitgn.ac.in,"Wireless Networks, IoT, 5G",https://iitgn.ac.in/faculty/cse/sivaramm,1,queued,
+Anil Kumar Sao,himachal-pradesh,mandi,IIT Mandi,IIT,CSE,anilsao@iitmandi.ac.in,"Signal Processing, Machine Learning",https://www.iitmandi.ac.in/faculty/anilsao,1,queued,
+Arnav Bhavsar,himachal-pradesh,mandi,IIT Mandi,IIT,CSE,arnav@iitmandi.ac.in,"Computer Vision, Medical Imaging",https://www.iitmandi.ac.in/faculty/arnav,1,queued,
+Dileep A D,himachal-pradesh,mandi,IIT Mandi,IIT,CSE,dileep@iitmandi.ac.in,"Machine Learning, NLP, Information Retrieval",https://www.iitmandi.ac.in/faculty/dileep,1,queued,
+Laxmidhar Behera,himachal-pradesh,mandi,IIT Mandi,IIT,CSE,laxmidhar@iitmandi.ac.in,"Robotics, AI, Neural Networks, Control Systems",https://www.iitmandi.ac.in/faculty/laxmidhar,1,queued,
+Varun Dutt,himachal-pradesh,mandi,IIT Mandi,IIT,CSE,varun.dutt@iitmandi.ac.in,"Cognitive Science, HCI, Decision Making",https://www.iitmandi.ac.in/faculty/varun,1,queued,
+Anand Gupta,jammu-kashmir,jammu,IIT Jammu,IIT,CSE,anand.gupta@iitjammu.ac.in,"Machine Learning, Data Analytics",https://www.iitjammu.ac.in/faculty/anand,1,queued,
+Deepa Gupta,jammu-kashmir,jammu,IIT Jammu,IIT,CSE,deepa.gupta@iitjammu.ac.in,"Computer Vision, Image Processing",https://www.iitjammu.ac.in/faculty/deepa,1,queued,
+Vivek Bohara,jammu-kashmir,jammu,IIT Jammu,IIT,CSE,vivek.bohara@iitjammu.ac.in,"Wireless Communications, 5G, IoT",https://www.iitjammu.ac.in/faculty/vivek,1,queued,
+Manjunath Kounte,karnataka,dharwad,IIT Dharwad,IIT,CSE,mkounte@iitdh.ac.in,"Machine Learning, Signal Processing, IoT",https://www.iitdh.ac.in/faculty/mkounte,1,queued,
+Priyanka Bagade,karnataka,dharwad,IIT Dharwad,IIT,CSE,pbagade@iitdh.ac.in,"Wearable Computing, Health IoT, Machine Learning",https://www.iitdh.ac.in/faculty/pbagade,1,queued,
+Rahul Vaze,karnataka,dharwad,IIT Dharwad,IIT,CSE,rvaze@iitdh.ac.in,"Wireless Networks, Stochastic Systems",https://www.iitdh.ac.in/faculty/rvaze,1,queued,
+Dhanesh Ramachandram,kerala,palakkad,IIT Palakkad,IIT,CSE,dhanesh@iitpkd.ac.in,"Deep Learning, Computer Vision, Robotics",https://iitpkd.ac.in/people/dhanesh,1,queued,
+Sobhan Babu Cherukuri,kerala,palakkad,IIT Palakkad,IIT,CSE,sobhan@iitpkd.ac.in,"Machine Learning, Optimization",https://iitpkd.ac.in/people/sobhan,1,queued,
+Abir De,maharashtra,mumbai,IIT Bombay,IIT,CSE,abir@cse.iitb.ac.in,Machine learning on graphs and sets.,https://www.cse.iitb.ac.in/~abir,1,queued,
+Aditya Desai,maharashtra,mumbai,IIT Bombay,IIT,CSE,apdesai@cse.iitb.ac.in,"Artificial Intelligence, Inference and Training Efficiency, Systems for ML, Large Scale AI",https://www.cse.iitb.ac.in/~apdesai,1,queued,
+Ajit Rajwade,maharashtra,mumbai,IIT Bombay,IIT,CSE,ajitvr@cse.iitb.ac.in,"Image Processing, Computer Vision and Signal Processing: Reconstruction, Restoration and Compression of Images and Videos; Compressed Sensing and Matrix Recovery; Probability Density Estimation; Group Testing; Graph Signal Processing.",https://www.cse.iitb.ac.in/~ajitvr,1,queued,
+Arpit Agarwal,maharashtra,mumbai,IIT Bombay,IIT,CSE,aarpit@cse.iitb.ac.in,"Machine learning, Human-AI interaction, Responsible AI",https://www.cse.iitb.ac.in/~aarpit,1,queued,
+Avishek Ghosh,maharashtra,mumbai,IIT Bombay,IIT,CSE,avishek@cse.iitb.ac.in,"Optimization, Online Learning and Multi-armed Bandits, Learning Theory",https://www.cse.iitb.ac.in/~avishek,1,queued,
+Ganesh Ramkrishnan,maharashtra,mumbai,IIT Bombay,IIT,CSE,ganesh@cse.iitb.ac.in,"Human assisted AI/ML, AI/ML in resource constrained environments, learning with symbolic encoding of domain knowledge in ML and NLP, Data Efficient Machine Learning, Constrained Decoding and Post-editing for Machine translation, OCR and ASR ..",https://www.cse.iitb.ac.in/~ganesh,1,queued,
+Harshad Khadilkar,maharashtra,mumbai,IIT Bombay,IIT,CSE,harshadk@cse.iitb.ac.in,"Sequential decision-making, reinforcement learning, control theory, optimisation",https://www.cse.iitb.ac.in/~harshadk,1,queued,
+Kavi Arya,maharashtra,mumbai,IIT Bombay,IIT,CSE,kavi@cse.iitb.ac.in,"Functional Programming Applications (Domain Specific Languages), Embedded Systems/ Parallel Programming Languages, Distance Learning",https://www.cse.iitb.ac.in/~kavi,1,queued,
+Kuldeep Singh Meel,maharashtra,mumbai,IIT Bombay,IIT,CSE,kuldeepmeel@cse.iitb.ac.in,"Formal Methods for Verification of Machine Learning Systems, Algorithmic Techniques for Constrained Sampling and Counting, Applications of Constrained Counting and Sampling, SAT solvers: Beyond CNF Solvers and Data-Driven Design Paradigm, Interpretable and Explainable Models",https://www.cse.iitb.ac.in/~kuldeepmeel,1,queued,
+Nived Chebrolu,maharashtra,mumbai,IIT Bombay,IIT,CSE,nived@cse.iitb.ac.in,"Mobile Robotics, Autonomous Navigation, Perception and Learning for Robotics",https://www.cse.iitb.ac.in/~nived,1,queued,
+Parag Kumar Chaudhuri,maharashtra,mumbai,IIT Bombay,IIT,CSE,paragc@cse.iitb.ac.in,"Animation, Computer Graphics, Virtual and Augmented Reality, Geometric Computer Vision",https://www.cse.iitb.ac.in/~paragc,1,queued,
+Preethi Jyothi,maharashtra,mumbai,IIT Bombay,IIT,CSE,pjyothi@cse.iitb.ac.in,Machine learning applied to speech and language,https://www.cse.iitb.ac.in/~pjyothi,1,queued,
+Pushpak P Bhattacharyya,maharashtra,mumbai,IIT Bombay,IIT,CSE,pb@cse.iitb.ac.in,"Natural Language Processing, Machine Learning, Machine Translation, Cross
+Lingual IR and Web Knowledge Processing",https://www.cse.iitb.ac.in/~pb,1,queued,
+Sanjit A. Seshia,maharashtra,mumbai,IIT Bombay,IIT,CSE,sseshia@cse.iitb.ac.in,"Formal Methods, Dependable Computing, Computational Logic, Cyber-Physical Systems, Computer Security, Design Automation, Programming Systems, Artificial Intelligence, Theory..",https://www.cse.iitb.ac.in/~sseshia,1,queued,
+Sharat Chandran,maharashtra,mumbai,IIT Bombay,IIT,CSE,sharat@cse.iitb.ac.in,"Medical Imaging & Health Informatics, Graphics, Computer Vision,  Parallel Algorithms, Visualization",https://www.cse.iitb.ac.in/~sharat,1,queued,
+Shivaram Kalyanakrishnan,maharashtra,mumbai,IIT Bombay,IIT,CSE,shivaram@cse.iitb.ac.in,"Reinforcement Learning, Humanoid Robotics & Robot Soccer, Multi-armed Bandits",https://www.cse.iitb.ac.in/~shivaram,1,queued,
+Sujoy Bhore,maharashtra,mumbai,IIT Bombay,IIT,CSE,sujoy@cse.iitb.ac.in,"Algorithms & Data Structures, Computational Geometry, Combinatorial Optimization, Theoretical Machine Learning.",https://www.cse.iitb.ac.in/~sujoy,1,queued,
+Sunita Sarawagi,maharashtra,mumbai,IIT Bombay,IIT,CSE,sunita@cse.iitb.ac.in,"Machine Learning, Databases, Data mining,  and Graphical Models as applied to domains like web information extraction, data integration,  social networking.",https://www.cse.iitb.ac.in/~sunita,1,queued,
+Suyash P Awate,maharashtra,mumbai,IIT Bombay,IIT,CSE,suyash@cse.iitb.ac.in,"Image Analysis, Medical Image Computing, Machine Learning, Computer Vision",https://www.cse.iitb.ac.in/~suyash,1,queued,
+Swaprava Nath,maharashtra,mumbai,IIT Bombay,IIT,CSE,swaprava@cse.iitb.ac.in,"Game Theory, Algorithmic Mechanism Design,
+Computational Social Choice, Artificial Intelligence",https://www.cse.iitb.ac.in/~swaprava,1,queued,
+Vijay Ganesh,maharashtra,mumbai,IIT Bombay,IIT,CSE,vganesh@cse.iitb.ac.in,"SAT/SMT solvers and their applications in AI, software engineering, security, and mathematics. Neurosymbolic AI: combinations of logic tools and neural networks. Proof complexity of solvers. Foundations of mathematics..",https://www.cse.iitb.ac.in/~vganesh,1,queued,
+Ajit A Diwan,maharashtra,mumbai,IIT Bombay,IIT,CSE,aad@cse.iitb.ac.in,"Algorithms, Theoretical Computer Science",https://www.cse.iitb.ac.in/~aad,,queued,
+Akash Kumar,maharashtra,mumbai,IIT Bombay,IIT,CSE,akash@cse.iitb.ac.in,"Spectral Graph Theory, Planar graph Algorithms, Graph Partitioning, Recovering planted structures in graphs",https://www.cse.iitb.ac.in/~akash,,queued,
+Akshay S,maharashtra,mumbai,IIT Bombay,IIT,CSE,akshayss@cse.iitb.ac.in,Formal methods,https://www.cse.iitb.ac.in/~akshayss,,queued,
+Ashutosh Gupta,maharashtra,mumbai,IIT Bombay,IIT,CSE,akg@cse.iitb.ac.in,"Formal verification: building model checkers for verification of sequential and concurrent software,Modelling: modelling of biological systems,  Constraint solving: constraint logic programming, decision procedures, and automated theorem proving",https://www.cse.iitb.ac.in/~akg,,queued,
+Ashwin Gumaste,maharashtra,mumbai,IIT Bombay,IIT,CSE,ashwin@cse.iitb.ac.in,"SDN, NFV, Network Architecture, Carrier Ethernet",https://www.cse.iitb.ac.in/~ashwin,,queued,
+Bharat G Adsul,maharashtra,mumbai,IIT Bombay,IIT,CSE,adsul@cse.iitb.ac.in,"Formal methods in Concurrency, Logics and Games, Geometric Complexity Theory",https://www.cse.iitb.ac.in/~adsul,,queued,
+Bhaskaran Raman,maharashtra,mumbai,IIT Bombay,IIT,CSE,br@cse.iitb.ac.in,"Computer networks, Wireless systems, Communication system design for developing regions",https://www.cse.iitb.ac.in/~br,,queued,
+Biswabandan Panda,maharashtra,mumbai,IIT Bombay,IIT,CSE,biswa@cse.iitb.ac.in,Computer Architecture for Performance and Security,https://www.cse.iitb.ac.in/~biswa,,queued,
+Chethan Kamath,maharashtra,mumbai,IIT Bombay,IIT,CSE,ckamath@cse.iitb.ac.in,"Cryptography, computational complexity theory, theoretical computer science",https://www.cse.iitb.ac.in/~ckamath,,queued,
+Deepak B. Phatak,maharashtra,mumbai,IIT Bombay,IIT,CSE,dbp@cse.iitb.ac.in,"Data Base Management Systems, Software Engineering, System Performance Evaluation, Distributed Client Server Information Systems.",https://www.cse.iitb.ac.in/~dbp,,queued,
+Devashish Gosain,maharashtra,mumbai,IIT Bombay,IIT,CSE,dgosain@cse.iitb.ac.in,"Network security, privacy, and anonymity",https://www.cse.iitb.ac.in/~dgosain,,queued,
+G Sivakumar,maharashtra,mumbai,IIT Bombay,IIT,CSE,siva@cse.iitb.ac.in,"Automated Reasoning, Logic Programming, Rewrite Systems, Networks, Distributed Systems",https://www.cse.iitb.ac.in/~siva,,queued,
+Kameswari Chebrolu,maharashtra,mumbai,IIT Bombay,IIT,CSE,chebrolu@cse.iitb.ac.in,"Architecture and protocol design in wired, wireless and sensor networks, 
+development of appropriate technology",https://www.cse.iitb.ac.in/~chebrolu,,queued,
+Krishna Shankar Narayanan,maharashtra,mumbai,IIT Bombay,IIT,CSE,krishnas@cse.iitb.ac.in,"Formal Methods, Analysis of Concurrent programs,  logic and games",https://www.cse.iitb.ac.in/~krishnas,,queued,
+Manas Thakur,maharashtra,mumbai,IIT Bombay,IIT,CSE,manas@cse.iitb.ac.in,"Program analysis, compiler optimizations, parallelization",https://www.cse.iitb.ac.in/~manas,,queued,
+Manoj Prabhakaran,maharashtra,mumbai,IIT Bombay,IIT,CSE,mp@cse.iitb.ac.in,"Cryptography, Theoretical Computer Science",https://www.cse.iitb.ac.in/~mp,,queued,
+Milind A Sohoni,maharashtra,mumbai,IIT Bombay,IIT,CSE,sohoni@cse.iitb.ac.in,"Combinatorial Optimization, Mathematical Programming, Algorithms",https://www.cse.iitb.ac.in/~sohoni,,queued,
+Mythili Vutukuru,maharashtra,mumbai,IIT Bombay,IIT,CSE,mythili@cse.iitb.ac.in,Networking and Systems,https://www.cse.iitb.ac.in/~mythili,,queued,
+Navin Kabra,maharashtra,mumbai,IIT Bombay,IIT,CSE,ngkabra@cse.iitb.ac.in,,https://www.cse.iitb.ac.in/~ngkabra,,queued,
+Nutan Limaye,maharashtra,mumbai,IIT Bombay,IIT,CSE,nutan@cse.iitb.ac.in,Algorithms and Complexity Theory,https://www.cse.iitb.ac.in/~nutan,,queued,
+Om Damani,maharashtra,mumbai,IIT Bombay,IIT,CSE,damani@cse.iitb.ac.in,"Program Derivation, Large Scale Systems,  Technology for Social Development",https://www.cse.iitb.ac.in/~damani,,queued,
+Paritosh Pandya,maharashtra,mumbai,IIT Bombay,IIT,CSE,pandya58@cse.iitb.ac.in,"Logics, Automata, Concurrency, Formal Methods, Embedded Systems and Software Engineering.",https://www.cse.iitb.ac.in/~pandya58,,queued,
+Paul Gastin,maharashtra,mumbai,IIT Bombay,IIT,CSE,gastin@cse.iitb.ac.in,Formal Methods for verification of critical systems,https://www.cse.iitb.ac.in/~gastin,,queued,
+Purushottam Kulkarni,maharashtra,mumbai,IIT Bombay,IIT,CSE,puru@cse.iitb.ac.in,"Operating systems, Virtualization, Cloud Computing, Computer Networks, Computing systems for developing regions, Technology and development",https://www.cse.iitb.ac.in/~puru,,queued,
+R. K. Shyamasundar,maharashtra,mumbai,IIT Bombay,IIT,CSE,rkss@cse.iitb.ac.in,"Formal Methods & Software Engineering, Distributed Computing, Network & Information Security & Survivable Systems",https://www.cse.iitb.ac.in/~rkss,,queued,
+Rohit Gurjar,maharashtra,mumbai,IIT Bombay,IIT,CSE,rgurjar@cse.iitb.ac.in,"Computational Complexity, Derandomization and Pseudorandomness, Polyhedral Combinatorics, Parallel Algorithms",https://www.cse.iitb.ac.in/~rgurjar,,queued,
+Rushikesh K Joshi,maharashtra,mumbai,IIT Bombay,IIT,CSE,rkj@cse.iitb.ac.in,"Object Oriented Systems, Distributed Systems, Software Architectures",https://www.cse.iitb.ac.in/~rkj,,queued,
+S Sudarshan,maharashtra,mumbai,IIT Bombay,IIT,CSE,sudarsha@cse.iitb.ac.in,"Query processing and optimization, Keyword querying on structured and semi-structured data, Testing database applications",https://www.cse.iitb.ac.in/~sudarsha,,queued,
+Saisundararaman Vishwanathan,maharashtra,mumbai,IIT Bombay,IIT,CSE,sundar@cse.iitb.ac.in,"Algorithms, Combinatorics, Complexity Theory.",https://www.cse.iitb.ac.in/~sundar,,queued,
+Sayandeep Saha,maharashtra,mumbai,IIT Bombay,IIT,CSE,sayandeepsaha@cse.iitb.ac.in,"Fault and Side-Channel Cryptanalysis, Microarchitectural Attacks, EDA/CAD for Security",https://www.cse.iitb.ac.in/~sayandeepsaha,,queued,
+Soumen Chakrabarti,maharashtra,mumbai,IIT Bombay,IIT,CSE,soumen@cse.iitb.ac.in,"Hypertext databases, Data mining",https://www.cse.iitb.ac.in/~soumen,,queued,
+Sruthi Sekar,maharashtra,mumbai,IIT Bombay,IIT,CSE,sruthi@cse.iitb.ac.in,"Cryptography, Theoretical Computer Science",https://www.cse.iitb.ac.in/~sruthi,,queued,
+Supratik Chakraborty,maharashtra,mumbai,IIT Bombay,IIT,CSE,supratik@cse.iitb.ac.in,"Formal techniques for analysis, verification, validation of digital systems, Asynchronous timing analysis.",https://www.cse.iitb.ac.in/~supratik,,queued,
+Suraj Shetiya,maharashtra,mumbai,IIT Bombay,IIT,CSE,surajs@cse.iitb.ac.in,"fairness in databases, computational geometry",https://www.cse.iitb.ac.in/~surajs,,queued,
+Uday Khedker,maharashtra,mumbai,IIT Bombay,IIT,CSE,uday@cse.iitb.ac.in,"Programming Languages, Compilers, Data Flow Analysis.",https://www.cse.iitb.ac.in/~uday,,queued,
+Umesh Bellur,maharashtra,mumbai,IIT Bombay,IIT,CSE,umesh@cse.iitb.ac.in,"Adaptive Service Orientation, Managing virtualization and server consolidation in Clouds, Adaptive QoS based routing in DEBN",https://www.cse.iitb.ac.in/~umesh,,queued,
+Varsha Apte,maharashtra,mumbai,IIT Bombay,IIT,CSE,varsha@cse.iitb.ac.in,Performance Evaluation of Computer Systems and Networks,https://www.cse.iitb.ac.in/~varsha,,queued,
+Vinay Joseph Ribeiro,maharashtra,mumbai,IIT Bombay,IIT,CSE,vinayr@cse.iitb.ac.in,"Computer and Network Security (blockchain, intrusion detection, IoT security, DDoS), Internet of Things (IoT), Wireless Networks (cognitive radio, TV white space, LTE, Wi-Fi etc.), Indoor positioning and navigation",https://www.cse.iitb.ac.in/~vinayr,,queued,
+Virendra Singh,maharashtra,mumbai,IIT Bombay,IIT,CSE,viren@cse.iitb.ac.in,"Cybersecurity, Computer
+Architecture, Cyber Physical Cognitive Systems, Formal Verification, Blockchain Technology",https://www.cse.iitb.ac.in/~viren,,queued,
+Vishwas Bhargava,maharashtra,mumbai,IIT Bombay,IIT,CSE,vishwas@cse.iitb.ac.in,"Theoretical Computer Science, Computational Complexity
+Theory, Algebraic Complexity, Computational Number Theory, Pseudorandomness and Derandomization Theory",https://www.cse.iitb.ac.in/~vishwas,,queued,
+Arnab Sarkar,meghalaya,shillong,IIT (NE) Shillong,IIT,CSE,arnab@iitg.ac.in,"Machine Learning, Signal Processing",https://www.iitg.ac.in/arnab,1,queued,Operates out of IIT Guwahati temporarily
+Aurobinda Routray,odisha,bhubaneswar,IIT Bhubaneswar,IIT,CSE,aroutray@iitbbs.ac.in,"Signal Processing, Computer Vision, Brain-Computer Interface",https://www.iitbbs.ac.in/profile.php/aroutray,1,queued,
+Bidyut Kumar Patra,odisha,bhubaneswar,IIT Bhubaneswar,IIT,CSE,bidyut@iitbbs.ac.in,"Machine Learning, Recommender Systems",https://www.iitbbs.ac.in/profile.php/bidyut,1,queued,
+Gopal Krishna Nayak,odisha,bhubaneswar,IIT Bhubaneswar,IIT,CSE,gknayak@iitbbs.ac.in,"Distributed Systems, Network Security",https://www.iitbbs.ac.in/profile.php/gknayak,1,queued,
+Shiv Ram Dubey,odisha,bhubaneswar,IIT Bhubaneswar,IIT,CSE,srdubey@iitbbs.ac.in,"Computer Vision, Deep Learning, Medical AI",https://www.iitbbs.ac.in/profile.php/srdubey,1,queued,
+Anupam Baliyan,punjab,ropar,IIT Ropar,IIT,CSE,anupam@iitrpr.ac.in,"Machine Learning, Computer Vision",https://www.iitrpr.ac.in/anupam,1,queued,
+Deepak Gangadharan,punjab,ropar,IIT Ropar,IIT,CSE,deepakg@iitrpr.ac.in,"Real-time Systems, Embedded Systems",https://www.iitrpr.ac.in/deepakg,1,queued,
+Karamjit Singh,punjab,ropar,IIT Ropar,IIT,CSE,karamjit@iitrpr.ac.in,"Distributed Computing, Cloud",https://www.iitrpr.ac.in/karamjit,1,queued,
+Puneet Goyal,punjab,ropar,IIT Ropar,IIT,CSE,puneet@iitrpr.ac.in,"Machine Learning, Medical AI",https://www.iitrpr.ac.in/puneet,1,queued,
+Satwinder Singh,punjab,ropar,IIT Ropar,IIT,CSE,satwinder@iitrpr.ac.in,"VLSI, Computer Architecture",https://www.iitrpr.ac.in/satwinder,1,queued,
+Anand Mishra,rajasthan,jodhpur,IIT Jodhpur,IIT,CSE,anand.mishra@iitj.ac.in,"Computer Vision, NLP, Multi-modal Learning",https://iitj.ac.in/faculty/anand,1,queued,
+Anupam Sharma,rajasthan,jodhpur,IIT Jodhpur,IIT,CSE,anupam@iitj.ac.in,"Machine Learning, Optimization, Federated Learning",https://iitj.ac.in/faculty/anupam,1,queued,
+Brajesh Kumar Kaushik,rajasthan,jodhpur,IIT Jodhpur,IIT,CSE,bkk@iitj.ac.in,"Neuromorphic Computing, VLSI, Spintronics",https://iitj.ac.in/faculty/bkk,1,queued,
+Mayank Vatsa,rajasthan,jodhpur,IIT Jodhpur,IIT,CSE,mayank.vatsa@iitj.ac.in,"Biometrics, Computer Vision, Deep Learning",https://iitj.ac.in/faculty/mayank,1,queued,
+Richa Singh,rajasthan,jodhpur,IIT Jodhpur,IIT,CSE,richa.singh@iitj.ac.in,"Biometrics, Computer Vision, Pattern Recognition",https://iitj.ac.in/faculty/richa,1,queued,
+Suman K Mitra,rajasthan,jodhpur,IIT Jodhpur,IIT,CSE,suman@iitj.ac.in,"Computer Vision, Biometrics, Medical Imaging",https://iitj.ac.in/faculty/suman,1,queued,
+Surendra Prasad,rajasthan,jodhpur,IIT Jodhpur,IIT,CSE,surendra@iitj.ac.in,"Signal Processing, Communication Systems",https://iitj.ac.in/faculty/surendra,1,queued,
+Anurag Mittal,tamil-nadu,chennai,IIT Madras,IIT,CSE,amittal@cse.iitm.ac.in,Artificial Intelligence and Machine Learning,https://cse.iitm.ac.in/~amittal/,1,queued,Professor
+Ayon Chakraborty,tamil-nadu,chennai,IIT Madras,IIT,CSE,ayon@cse.iitm.ac.in,"Systems and Networking, Artificial Intelligence and Machine Learning",https://cse.iitm.ac.in/~ayon/,1,queued,Assistant Professor
+Chandra Sekhar C,tamil-nadu,chennai,IIT Madras,IIT,CSE,chandra@cse.iitm.ac.in,Artificial Intelligence and Machine Learning,,1,queued,Professor
+Chandrashekar Lakshminarayanan,tamil-nadu,chennai,IIT Madras,IIT,CSE,chandrashekar@cse.iitm.ac.in,Artificial Intelligence and Machine Learning,https://sites.google.com/view/chandrashekar-lakshminarayanan,1,queued,Assistant Professor
+Hema A Murthy,tamil-nadu,chennai,IIT Madras,IIT,CSE,hema@cse.iitm.ac.in,Artificial Intelligence and Machine Learning,,1,queued,Professor Emeritus (Honorary)
+Manikandan Narayanan,tamil-nadu,chennai,IIT Madras,IIT,CSE,nmanik@cse.iitm.ac.in,Artificial Intelligence and Machine Learning,http://maninarayanan.com/index.html,1,queued,Associate Professor
+Prashanth L A,tamil-nadu,chennai,IIT Madras,IIT,CSE,prashla@cse.iitm.ac.in,Artificial Intelligence and Machine Learning,https://cse.iitm.ac.in/~prashla/,1,queued,Associate Professor
+Pulkit Verma,tamil-nadu,chennai,IIT Madras,IIT,CSE,pulkitv@cse.iitm.ac.in,Artificial Intelligence and Machine Learning,https://pulkitverma.net/,1,queued,Assistant Professor
+Sukhendu Das,tamil-nadu,chennai,IIT Madras,IIT,CSE,sdas@cse.iitm.ac.in,Artificial Intelligence and Machine Learning,https://cse.iitm.ac.in/~sdas/,1,queued,Professor
+Sutanu Chakraborti,tamil-nadu,chennai,IIT Madras,IIT,CSE,sutanuc@cse.iitm.ac.in,Artificial Intelligence and Machine Learning,https://cse.iitm.ac.in/~sutanuc/,1,queued,Professor
+Aishwarya Thiruvengadam,tamil-nadu,chennai,IIT Madras,IIT,CSE,aishwarya@cse.iitm.ac.in,Theoretical Computer Science,https://sites.google.com/view/aishwaryat,,queued,Assistant Professor
+Akanksha Agrawal,tamil-nadu,chennai,IIT Madras,IIT,CSE,akanksha@cse.iitm.ac.in,Theoretical Computer Science,https://akanksha-agrawal.weebly.com/,,queued,Assistant Professor
+Anantha Padmanabha,tamil-nadu,chennai,IIT Madras,IIT,CSE,ananthap@cse.iitm.ac.in,"Theoretical Computer Science, Systems and Networking",https://padmanabha-anantha.github.io/website/,,queued,Assistant Professor
+Ashrujit Ghoshal,tamil-nadu,chennai,IIT Madras,IIT,CSE,ashrujit@cse.iitm.ac.in,Theoretical Computer Science,https://cse.iitm.ac.in/~ashrujit/,,queued,Assistant Professor
+Chester Rebeiro,tamil-nadu,chennai,IIT Madras,IIT,CSE,chester@cse.iitm.ac.in,Systems and Networking,https://cse.iitm.ac.in/~chester/,,queued,Professor
+Janakiram D,tamil-nadu,chennai,IIT Madras,IIT,CSE,djram@cse.iitm.ac.in,Systems and Networking,,,queued,Professor
+Jayalal Sarma M N,tamil-nadu,chennai,IIT Madras,IIT,CSE,jayalal@cse.iitm.ac.in,Theoretical Computer Science,https://cse.iitm.ac.in/~jayalal/,,queued,Professor
+John Ebenezer Augustine,tamil-nadu,chennai,IIT Madras,IIT,CSE,augustine@cse.iitm.ac.in,"Theoretical Computer Science, Systems and Networking",https://cse.iitm.ac.in/~augustine/,,queued,Professor
+Karthikeyan Sundaresan,tamil-nadu,chennai,IIT Madras,IIT,CSE,karthik@ece.gatech.edu,"Wireless Communications and Networking, Mobile Systems",https://ece.gatech.edu/directory/karthikeyan-sundaresan,,queued,VHAR Visiting Chair Professor
+Kartik Nagar,tamil-nadu,chennai,IIT Madras,IIT,CSE,nagark@cse.iitm.ac.in,Systems and Networking,https://kartiknagar.github.io/,,queued,Assistant Professor
+Krishna Nandivada V,tamil-nadu,chennai,IIT Madras,IIT,CSE,nvk@iitm.ac.in,Systems and Networking,https://cse.iitm.ac.in/~krishna/,,queued,Professor
+Mukulika Maity,tamil-nadu,chennai,IIT Madras,IIT,CSE,mukulika@cse.iitm.ac.in,Systems and Networking,https://cse.iitm.ac.in/~mukulika/,,queued,Assistant Professor
+Narayanaswamy N S,tamil-nadu,chennai,IIT Madras,IIT,CSE,swamy@cse.iitm.ac.in,Theoretical Computer Science,https://home.iitm.ac.in/swamy/,,queued,Professor
+Nishad Kothari,tamil-nadu,chennai,IIT Madras,IIT,CSE,nishad@cse.iitm.ac.in,Theoretical Computer Science,https://sites.google.com/view/nishadkothari,,queued,Assistant Professor
+Raghavendra Rao B V,tamil-nadu,chennai,IIT Madras,IIT,CSE,bvrr@cse.iitm.ac.in,Theoretical Computer Science,https://cse.iitm.ac.in/~bvrr/,,queued,Associate Professor
+Rupesh Nasre,tamil-nadu,chennai,IIT Madras,IIT,CSE,rupesh@cse.iitm.ac.in,Systems and Networking,https://cse.iitm.ac.in/~rupesh/,,queued,Professor
+Shreyas Kiran Pai,tamil-nadu,chennai,IIT Madras,IIT,CSE,shreyas@cse.iitm.ac.in,Theoretical Computer Science,https://shreyaspai.com/,,queued,Assistant Professor
+Shweta Agrawal,tamil-nadu,chennai,IIT Madras,IIT,CSE,shwetaag@cse.iitm.ac.in,Theoretical Computer Science,https://cse.iitm.ac.in/~shwetaag/,,queued,Professor
+Sivaramakrishnan K C,tamil-nadu,chennai,IIT Madras,IIT,CSE,kcsrk@cse.iitm.ac.in,Systems and Networking,https://kcsrk.info/,,queued,Assistant Professor
+Sreenivasa Kumar P,tamil-nadu,chennai,IIT Madras,IIT,CSE,psk@cse.iitm.ac.in,Systems and Networking,https://cse.iitm.ac.in/~psk/,,queued,Professor
+Srinivas Narayana,tamil-nadu,chennai,IIT Madras,IIT,CSE,ngs@cse.iitm.ac.in,Systems and Networking,,,queued,Assistant Professor
+Yadu Vasudev,tamil-nadu,chennai,IIT Madras,IIT,CSE,yadu@cse.iitm.ac.in,Theoretical Computer Science,https://yaduvasudev.github.io/,,queued,Assistant Professor
+C. Krishna Mohan,telangana,hyderabad,IIT Hyderabad,IIT,CSE,ckm@cse.iith.ac.in,"Video Content Analysis, Machine Learning, Sparsity Based Methods, Deep Learning",http://www.iith.ac.in/~ckm/,1,queued,
+J. Saketha Nath,telangana,hyderabad,IIT Hyderabad,IIT,CSE,saketha@cse.iith.ac.in,Machine Learning,http://www.iith.ac.in/~saketha/,1,queued,
+Maunendra Sankar Desarkar,telangana,hyderabad,IIT Hyderabad,IIT,CSE,maunendra@cse.iith.ac.in,"Recommender Systems, Information Retrieval, Machine Learning, Data Mining",http://www.iith.ac.in/~maunendra/,1,queued,
+Rameshwar Pratap,telangana,hyderabad,IIT Hyderabad,IIT,CSE,rameshwar@cse.iith.ac.in,"Algorithms in Machine Learning, Theoretical Computer Science",https://sites.google.com/site/prataprameshwaryadav/,1,queued,
+Sandipan Dandapat,telangana,hyderabad,IIT Hyderabad,IIT,CSE,sdandapat@cse.iith.ac.in,Natural Language Processing and Generative AI,https://people.iith.ac.in/sdandapat/index.html,1,queued,
+Srijith P.K,telangana,hyderabad,IIT Hyderabad,IIT,CSE,srijith@cse.iith.ac.in,"Bayesian Data Analysis, Probabilistic Machine Learning, Bayesian Non-Parametrics, Survival Analysis and Text Analytics",https://sites.google.com/site/pksrijith/home,1,queued,
+Vineeth N. Balasubramanian,telangana,hyderabad,IIT Hyderabad,IIT,CSE,vineethnb@cse.iith.ac.in,"Machine Learning, Computer Vision",http://www.iith.ac.in/~vineethnb/index.html,1,queued,
+Abhijit Das,telangana,hyderabad,IIT Hyderabad,IIT,CSE,abhijit.das@cse.iith.ac.in,"Computer Architecture, Systems for AI/ML, and Quantum Computing Systems",https://people.iith.ac.in/abhijit.das/,,queued,
+Antony Franklin,telangana,hyderabad,IIT Hyderabad,IIT,CSE,antony.franklin@cse.iith.ac.in,"Wireless Networks, Mobile Networks,5G Network and Systems, Low Latency transport protocol",http://www.iith.ac.in/~antony/,,queued,
+Anupam Sanghi,telangana,hyderabad,IIT Hyderabad,IIT,CSE,sanghi@cse.iith.ac.in,"Database Systems, AI for Databases, Database Testing and Benchmarking.",https://anupamsanghi.github.io/,,queued,
+Ashish Mishra,telangana,hyderabad,IIT Hyderabad,IIT,CSE,mishraashish@cse.iith.ac.in,"Program Verification, Program Synthesis, Programming Languages, Neurosymbolic Programming.",https://aegis-iisc.github.io/,,queued,
+Bheemarjuna Reddy Tamma,telangana,hyderabad,IIT Hyderabad,IIT,CSE,tbr@cse.iith.ac.in,"Converged Cloud Radio Access Networks, 5G, SDN/NFV, IoT/M2M and Network Security",http://www.iith.ac.in/~tbr/,,queued,
+Jyothi Vedurada,telangana,hyderabad,IIT Hyderabad,IIT,CSE,jyothiv@cse.iith.ac.in,"Program Analysis, Program Understanding, Automated Concurrency Testing, and High-Performance Computing.",https://jyothivedurada.github.io/,,queued,
+Kotaro Kataoka,telangana,hyderabad,IIT Hyderabad,IIT,CSE,kotaro@cse.iith.ac.in,"Internet, and Blockchain",https://www.iith.ac.in/~kotaro/,,queued,
+M.V. Panduranga Rao,telangana,hyderabad,IIT Hyderabad,IIT,CSE,mvp@cse.iith.ac.in,Theoretical Computer Science,http://www.iith.ac.in/~mvp/,,queued,
+Manaswi Paraashar,telangana,hyderabad,IIT Hyderabad,IIT,CSE,manaswi@cse.iith.ac.in,Quantum Computing and Computational Complexity Theory,https://sites.google.com/view/manaswi-paraashar/home,,queued,
+Manish Singh,telangana,hyderabad,IIT Hyderabad,IIT,CSE,msingh@cse.iith.ac.in,"Databases, Data Mining, HCI, Information Retrieval, Information Visualization",http://www.iith.ac.in/~msingh/,,queued,
+Maria Francis,telangana,hyderabad,IIT Hyderabad,IIT,CSE,mariaf@cse.iith.ac.in,"Computational Algebra, Symbolic Computation, Lattice Cryptography",https://sites.google.com/view/maria-francis/home,,queued,
+N.R. Aravind,telangana,hyderabad,IIT Hyderabad,IIT,CSE,aravind@cse.iith.ac.in,"Graph Theory, Combinatorics and Algorithms",http://www.iith.ac.in/~aravind/,,queued,
+Nitin Saurabh,telangana,hyderabad,IIT Hyderabad,IIT,CSE,nitin@cse.iith.ac.in,"Theoretical Computer Science, Especially in Complexity Theory, Analysis of Boolean Functions, Circuit Complexity and Algorithms",https://nitinsau.github.io/,,queued,
+Praveen Tammana,telangana,hyderabad,IIT Hyderabad,IIT,CSE,praveent@cse.iith.ac.in,"Systems and Networking, Network Security, Software-Defined Networking, ML for Networks",https://praveenabt.github.io/,,queued,
+Rajesh Kedia,telangana,hyderabad,IIT Hyderabad,IIT,CSE,rkedia@cse.iith.ac.in,"Computer Architecture, Embedded Systems, VLSI Design Automation",https://iith.ac.in/~rkedia/,,queued,
+Rakesh Venkat,telangana,hyderabad,IIT Hyderabad,IIT,CSE,rakesh@cse.iith.ac.in,"Approximation Algorithms, Complexity Theory",http://www.iith.ac.in/~rakeshvenkat,,queued,
+Ramakrishna Upadrasta,telangana,hyderabad,IIT Hyderabad,IIT,CSE,ramakrishna@cse.iith.ac.in,"Programming Languages, Compiler Optimizations, Parallelizing Compilers, Program Optimizations, Static Analysis, Verification, Algorithms, Combinatorial Optimization, Theory of Algorithms",http://www.iith.ac.in/~ramakrishna/,,queued,
+Rogers Mathew,telangana,hyderabad,IIT Hyderabad,IIT,CSE,rogers@cse.iith.ac.in,"Combinatorics, Graph Theory, and Graph Algorithms.",https://iith.ac.in/~rogers/,,queued,
+Sathya Peri,telangana,hyderabad,IIT Hyderabad,IIT,CSE,sathya_p@cse.iith.ac.in,"Parallel Programming, Software Transactional Memory, Distributed Systems, Theory of Databases, Algorithm Analysis, Networking Algorithms",http://www.iith.ac.in/~sathya_p/,,queued,
+Saurabh kumar,telangana,hyderabad,IIT Hyderabad,IIT,CSE,saurabhkr@cse.iith.ac.in,"Cyber Security, Mobile Security, Cyber forensics and Malware Analysis.",https://skmtr1.github.io/,,queued,
+Shibam Ghosh,telangana,hyderabad,IIT Hyderabad,IIT,CSE,shibam@cse.iith.ac.in,"Design and cryptanalysis of symmetric-key cryptographic primitives and related areas,security analysis of cryptographic implementations and the practical aspects of cryptanalysis",https://shibamcrs.github.io/,,queued,
+Shirshendu Das,telangana,hyderabad,IIT Hyderabad,IIT,CSE,shirshendu@cse.iith.ac.in,"Computer Architecture, Hardware Security, and Emerging Memory Technologies..",https://sites.google.com/view/shirshendudas/home,,queued,
+Sobhan Babu,telangana,hyderabad,IIT Hyderabad,IIT,CSE,sobhan@cse.iith.ac.in,"Big Data Analytics, Graph Theory and Applied Algorithms",https://www.iith.ac.in/~sobhan/,,queued,
+Subrahmanyam Kalyanasundaram,telangana,hyderabad,IIT Hyderabad,IIT,CSE,subruk@cse.iith.ac.in,"Complexity Theory, Probabilistic Techniques, Algebra, Randomized Algorithms",http://www.iith.ac.in/~subruk/,,queued,
+Adithya Vadapalli,uttar-pradesh,kanpur,IIT Kanpur,IIT,CSE,avadapalli@cse.iitk.ac.in,,https://www.cse.iitk.ac.in/users/avadapalli,,queued,Assistant Professor
+Amartya Sanyal,uttar-pradesh,kanpur,IIT Kanpur,IIT,CSE,asanyal@cse.iitk.ac.in,,https://www.cse.iitk.ac.in/users/asanyal,,queued,Machine Learning
+Amey Karkare,uttar-pradesh,kanpur,IIT Kanpur,IIT,CSE,karkare@cse.iitk.ac.in,,https://www.cse.iitk.ac.in/users/karkare,,queued,Professor
+Amitangshu Pal,uttar-pradesh,kanpur,IIT Kanpur,IIT,CSE,amitangshu@cse.iitk.ac.in,,https://www.cse.iitk.ac.in/users/amitangshu,,queued,Assistant Professor
+Angshuman Karmakar,uttar-pradesh,kanpur,IIT Kanpur,IIT,CSE,angshuman@cse.iitk.ac.in,,https://www.cse.iitk.ac.in/users/angshuman,,queued,Assistant Professor
+Anil Seth,uttar-pradesh,kanpur,IIT Kanpur,IIT,CSE,seth@cse.iitk.ac.in,,https://www.cse.iitk.ac.in/users/seth,,queued,Professor
+Anshu Yadav,uttar-pradesh,kanpur,IIT Kanpur,IIT,CSE,anshuy@cse.iitk.ac.in,,https://www.cse.iitk.ac.in/users/anshuy,,queued,Assistant Professor
+Arnab Bhattacharya,uttar-pradesh,kanpur,IIT Kanpur,IIT,CSE,arnabb@cse.iitk.ac.in,,https://www.cse.iitk.ac.in/users/arnabb,,queued,Professor
+Ashutosh Modi,uttar-pradesh,kanpur,IIT Kanpur,IIT,CSE,ashutoshm@cse.iitk.ac.in,,https://www.cse.iitk.ac.in/users/ashutoshm,,queued,Associate Professor
+Debadatta Mishra,uttar-pradesh,kanpur,IIT Kanpur,IIT,CSE,deba@cse.iitk.ac.in,,https://www.cse.iitk.ac.in/users/deba,,queued,Associate Professor
+Debapriya Basu Roy,uttar-pradesh,kanpur,IIT Kanpur,IIT,CSE,dbroy@cse.iitk.ac.in,,https://www.cse.iitk.ac.in/users/dbroy,,queued,Assistant Professor
+Gunjan Kumar,uttar-pradesh,kanpur,IIT Kanpur,IIT,CSE,gunjan@cse.iitk.ac.in,,https://www.cse.iitk.ac.in/users/gunjan,,queued,Assistant Professor
+Hamim Zafar,uttar-pradesh,kanpur,IIT Kanpur,IIT,CSE,hamim@cse.iitk.ac.in,,https://www.cse.iitk.ac.in/users/hamim,,queued,Associate Professor
+Indranil Saha,uttar-pradesh,kanpur,IIT Kanpur,IIT,CSE,isaha@cse.iitk.ac.in,,https://www.cse.iitk.ac.in/users/isaha,,queued,Professor
+M A K P Singh,uttar-pradesh,kanpur,IIT Kanpur,IIT,CSE,makpsingh@cse.iitk.ac.in,,https://www.cse.iitk.ac.in/users/makpsingh,,queued,Visiting Faculty
+Mainak Chaudhuri,uttar-pradesh,kanpur,IIT Kanpur,IIT,CSE,mainakc@cse.iitk.ac.in,,https://www.cse.iitk.ac.in/users/mainakc,,queued,Professor
+Manindra Agrawal,uttar-pradesh,kanpur,IIT Kanpur,IIT,CSE,manindra@cse.iitk.ac.in,,https://www.cse.iitk.ac.in/users/manindra,,queued,Professor
+Nisheeth K Vishnoi,uttar-pradesh,kanpur,IIT Kanpur,IIT,CSE,nisheethkv@cse.iitk.ac.in,,https://www.cse.iitk.ac.in/users/nisheethkv,,queued,Visiting Faculty
+Nisheeth Srivastava,uttar-pradesh,kanpur,IIT Kanpur,IIT,CSE,nsrivast@cse.iitk.ac.in,,https://www.cse.iitk.ac.in/users/nsrivast,,queued,Professor
+Nitin Saxena,uttar-pradesh,kanpur,IIT Kanpur,IIT,CSE,nitin@cse.iitk.ac.in,,https://www.cse.iitk.ac.in/users/nitin,,queued,Professor
+Piyush Rai,uttar-pradesh,kanpur,IIT Kanpur,IIT,CSE,piyush@cse.iitk.ac.in,,https://www.cse.iitk.ac.in/users/piyush,,queued,Professor
+Pravesh K. Kothari,uttar-pradesh,kanpur,IIT Kanpur,IIT,CSE,kothari@cse.iitk.ac.in,,https://www.cse.iitk.ac.in/users/kothari,,queued,Theoretical Computer Science
+Preeti Malakar,uttar-pradesh,kanpur,IIT Kanpur,IIT,CSE,pmalakar@cse.iitk.ac.in,,https://www.cse.iitk.ac.in/users/pmalakar,,queued,Assistant Professor
+Pritam Choudhury,uttar-pradesh,kanpur,IIT Kanpur,IIT,CSE,pritam@cse.iitk.ac.in,,https://www.cse.iitk.ac.in/users/pritam,,queued,Assistant Professor
+Priyanka Bagade,uttar-pradesh,kanpur,IIT Kanpur,IIT,CSE,pbagade@cse.iitk.ac.in,,https://www.cse.iitk.ac.in/users/pbagade,,queued,Assistant Professor
+Purushottam Kar,uttar-pradesh,kanpur,IIT Kanpur,IIT,CSE,purushot@cse.iitk.ac.in,,https://www.cse.iitk.ac.in/users/purushot,,queued,Associate Professor
+Raghunath Tewari,uttar-pradesh,kanpur,IIT Kanpur,IIT,CSE,rtewari@cse.iitk.ac.in,,https://www.cse.iitk.ac.in/users/rtewari,,queued,Professor
+Rajat Mittal,uttar-pradesh,kanpur,IIT Kanpur,IIT,CSE,rmittal@cse.iitk.ac.in,,https://www.cse.iitk.ac.in/users/rmittal,,queued,Associate Professor
+Rajat Moona,uttar-pradesh,kanpur,IIT Kanpur,IIT,CSE,moona@cse.iitk.ac.in,,https://www.cse.iitk.ac.in/users/moona,,queued,Professor
+Sanjeev Saxena,uttar-pradesh,kanpur,IIT Kanpur,IIT,CSE,ssax@cse.iitk.ac.in,,https://www.cse.iitk.ac.in/users/ssax,,queued,Professor
+Satyadev Nandakumar,uttar-pradesh,kanpur,IIT Kanpur,IIT,CSE,satyadev@cse.iitk.ac.in,,https://www.cse.iitk.ac.in/users/satyadev,,queued,Professor
+Sayak Ray Chowdhury,uttar-pradesh,kanpur,IIT Kanpur,IIT,CSE,sayakrc@cse.iitk.ac.in,,https://www.cse.iitk.ac.in/users/sayakrc,,queued,Assistant Professor
+Soumya Dutta,uttar-pradesh,kanpur,IIT Kanpur,IIT,CSE,soumyad@cse.iitk.ac.in,,https://www.cse.iitk.ac.in/users/soumyad,,queued,Assistant Professor
+Sruti Srinivasa Ragavan,uttar-pradesh,kanpur,IIT Kanpur,IIT,CSE,srutis@cse.iitk.ac.in,,https://www.cse.iitk.ac.in/users/srutis,,queued,Assistant Professor
+Subhajit Roy,uttar-pradesh,kanpur,IIT Kanpur,IIT,CSE,subhajit@cse.iitk.ac.in,,https://www.cse.iitk.ac.in/users/subhajit,,queued,Professor
+Sumit Ganguly,uttar-pradesh,kanpur,IIT Kanpur,IIT,CSE,sganguly@cse.iitk.ac.in,,https://www.cse.iitk.ac.in/users/sganguly,,queued,Professor
+Sunil Simon,uttar-pradesh,kanpur,IIT Kanpur,IIT,CSE,simon@cse.iitk.ac.in,,https://www.cse.iitk.ac.in/users/simon,,queued,Associate Professor
+Surender Baswana,uttar-pradesh,kanpur,IIT Kanpur,IIT,CSE,sbaswana@cse.iitk.ac.in,,https://www.cse.iitk.ac.in/users/sbaswana,,queued,Professor
+Sutanu Gayen,uttar-pradesh,kanpur,IIT Kanpur,IIT,CSE,sutanu@cse.iitk.ac.in,,https://www.cse.iitk.ac.in/users/sutanu,,queued,Assistant Professor
+Swarnendu Biswas,uttar-pradesh,kanpur,IIT Kanpur,IIT,CSE,swarnendu@cse.iitk.ac.in,,https://www.cse.iitk.ac.in/users/swarnendu,,queued,Assistant Professor
+Urbi Chatterjee,uttar-pradesh,kanpur,IIT Kanpur,IIT,CSE,urbic@cse.iitk.ac.in,,https://www.cse.iitk.ac.in/users/urbic,,queued,Assistant Professor
+Awanish Pandey,uttarakhand,roorkee,IIT Roorkee,IIT,CSE,ap@cs.iitr.ac.in,,,,queued,Assistant professor
+Chetan Gupta,uttarakhand,roorkee,IIT Roorkee,IIT,CSE,chetan.gupta@cs.iitr.ac.in,,,,queued,Assistant professor
+Dharmendra Singh,uttarakhand,roorkee,IIT Roorkee,IIT,CSE,dharmfec@ece.iitr.ac.in,,,,queued,Professor
+Durga Toshniwal,uttarakhand,roorkee,IIT Roorkee,IIT,CSE,durga.toshniwal@cs.iitr.ac.in,,,,queued,Professor
+Jagnyashini Debadarshini,uttarakhand,roorkee,IIT Roorkee,IIT,CSE,jagnyashini@cs.iitr.ac.in,,,,queued,Assistant professor
+Manoj Mishra,uttarakhand,roorkee,IIT Roorkee,IIT,CSE,manoj.misra@cs.iitr.ac.in,,,,queued,Professor
+Neetesh Kumar,uttarakhand,roorkee,IIT Roorkee,IIT,CSE,neetesh@cs.iitr.ac.in,,,,queued,Associate professor
+Partha Pratim Roy,uttarakhand,roorkee,IIT Roorkee,IIT,CSE,partha@cs.iitr.ac.in,,,,queued,On Lien
+Peddoju Sateesh Kumar,uttarakhand,roorkee,IIT Roorkee,IIT,CSE,sateesh@cs.iitr.ac.in,,,,queued,Professor
+Pradumn K. Pandey,uttarakhand,roorkee,IIT Roorkee,IIT,CSE,pradumn.pandey@cs.iitr.ac.in,,,,queued,Associate professor
+Pravendra Singh,uttarakhand,roorkee,IIT Roorkee,IIT,CSE,pravendra.singh@cs.iitr.ac.in,,,,queued,Assistant professor
+R. Balasubramanian,uttarakhand,roorkee,IIT Roorkee,IIT,CSE,bala@cs.iitr.ac.in,,,,queued,Head of the Department
+Raghvendra Singh Rohit,uttarakhand,roorkee,IIT Roorkee,IIT,CSE,raghvendra.rohit@cs.iitr.ac.in,,,,queued,Assistant professor
+Rahul Thakur,uttarakhand,roorkee,IIT Roorkee,IIT,CSE,rahul.thakur@cs.iitr.ac.in,,,,queued,Assistant professor
+Rajat Sadhukhan,uttarakhand,roorkee,IIT Roorkee,IIT,CSE,rajat.sadhukhan@cs.iitr.ac.in,,,,queued,Assistant professor
+Rajdeep Niyogi,uttarakhand,roorkee,IIT Roorkee,IIT,CSE,rajdeep.niyogi@cs.iitr.ac.in,,,,queued,Professor
+Raksha Sharma,uttarakhand,roorkee,IIT Roorkee,IIT,CSE,raksha.sharma@cs.iitr.ac.in,,,,queued,Associate professor
+Sandeep Kumar Garg,uttarakhand,roorkee,IIT Roorkee,IIT,CSE,sandeep.garg@cs.iitr.ac.in,,,,queued,Professor
+Shahbaz Khan,uttarakhand,roorkee,IIT Roorkee,IIT,CSE,shahbaz.khan@cs.iitr.ac.in,,,,queued,Assistant professor
+Sudip Roy,uttarakhand,roorkee,IIT Roorkee,IIT,CSE,sudip.roy@cs.iitr.ac.in,,,,queued,Associate professor
+Sugata Gangopadhyay,uttarakhand,roorkee,IIT Roorkee,IIT,CSE,sugata.gangopadhyay@cs.iitr.ac.in,,,,queued,Professor
+Animesh Mukherjee,west-bengal,kharagpur,IIT Kharagpur,IIT,CSE,animeshm@cse.iitkgp.ac.in,"Social Networks, Natural Language Processing, Computational Social Science",https://cse.iitkgp.ac.in/~animeshm,1,queued,
+Debapriyo Majumdar,west-bengal,kharagpur,IIT Kharagpur,IIT,CSE,debapriyomajumdar@cse.iitkgp.ac.in,"Information Retrieval, Machine Learning",https://cse.iitkgp.ac.in/~debapriyomajumdar,1,queued,
+Niloy Ganguly,west-bengal,kharagpur,IIT Kharagpur,IIT,CSE,niloy@cse.iitkgp.ac.in,"Complex Networks, Data Mining, Web Science",https://cse.iitkgp.ac.in/~niloy,1,queued,
+Pabitra Mitra,west-bengal,kharagpur,IIT Kharagpur,IIT,CSE,pabitra@cse.iitkgp.ac.in,"Machine Learning, Remote Sensing, Data Mining",https://cse.iitkgp.ac.in/~pabitra,1,queued,
+Partha Pratim Chakrabarti,west-bengal,kharagpur,IIT Kharagpur,IIT,CSE,ppchakrabarti@cse.iitkgp.ac.in,"AI, Planning, VLSI CAD",https://cse.iitkgp.ac.in/~ppchakrabarti,1,queued,
+Sourangshu Bhattacharya,west-bengal,kharagpur,IIT Kharagpur,IIT,CSE,sourangshu@cse.iitkgp.ac.in,"Machine Learning, Computer Vision, Distributed Systems",https://cse.iitkgp.ac.in/~sourangshu,1,queued,
+Sudeshna Sarkar,west-bengal,kharagpur,IIT Kharagpur,IIT,CSE,sudeshna@cse.iitkgp.ac.in,"Natural Language Processing, Machine Learning",https://cse.iitkgp.ac.in/~sudeshna,1,queued,
+Subrata Nandi,west-bengal,kharagpur,IIT Kharagpur,IIT,CSE,subrata@cse.iitkgp.ac.in,"Computer Networks, Distributed Systems",https://cse.iitkgp.ac.in/~subrata,1,queued,
+Sanjoy Das,west-bengal,kharagpur,IIT Kharagpur,IIT,CSE,sanjoy@cse.iitkgp.ac.in,"Distributed Systems, Algorithms",https://cse.iitkgp.ac.in/~sanjoy,1,queued,
+Arobinda Gupta,west-bengal,kharagpur,IIT Kharagpur,IIT,CSE,agupta@cse.iitkgp.ac.in,"Distributed Systems, Mobile Computing",https://cse.iitkgp.ac.in/~agupta,1,queued,
+Pallab Dasgupta,west-bengal,kharagpur,IIT Kharagpur,IIT,CSE,pallab@cse.iitkgp.ac.in,"Formal Verification, AI, Embedded Systems",https://cse.iitkgp.ac.in/~pallab,1,queued,
+Soumya Kanti Ghosh,west-bengal,kharagpur,IIT Kharagpur,IIT,CSE,skg@cse.iitkgp.ac.in,"Sensor Networks, Geospatial Data",https://cse.iitkgp.ac.in/~skg,1,queued,
+Lalitha Bhavani S,andhra-pradesh,tadepalligudem,NIT Andhra Pradesh,NIT,CSE,lalitha@nitandhra.ac.in,"Machine Learning, NLP, Data Analytics",https://nitandhra.ac.in/main/content/faculty_cse,1,queued,
+Prashant Mukherjee,andhra-pradesh,tadepalligudem,NIT Andhra Pradesh,NIT,CSE,prashant@nitandhra.ac.in,"Distributed Systems, Cloud Computing",https://nitandhra.ac.in/main/content/faculty_cse,1,queued,
+Prabin Bora,arunachal-pradesh,itanagar,NIT Arunachal Pradesh,NIT,CSE,pbora@nitap.ac.in,"Image Processing, Computer Vision",https://nitap.ac.in/page/Faculty-CSE,1,queued,
+Uma Mudenagudi,goa,goa,NIT Goa,NIT,CSE,uma@nitgoa.ac.in,"Computer Vision, Machine Learning",https://nitgoa.ac.in/computer-science-and-engineering,1,queued,
+Veeresh Gupta,goa,goa,NIT Goa,NIT,CSE,veeresh@nitgoa.ac.in,"Distributed Systems, Networks",https://nitgoa.ac.in/computer-science-and-engineering,1,queued,
+Amit Ganatra,gujarat,surat,SVNIT Surat,NIT,CSE,amit_ganatra@cse.svnit.ac.in,"Machine Learning, Data Mining, Bioinformatics",https://www.svnit.ac.in/web/department/cse/,1,queued,
+Dipti Shah,gujarat,surat,SVNIT Surat,NIT,CSE,dipti@cse.svnit.ac.in,"Computer Vision, Image Processing",https://www.svnit.ac.in/web/department/cse/,1,queued,
+Prashant P. Bhatt,gujarat,surat,SVNIT Surat,NIT,CSE,ppbhatt@cse.svnit.ac.in,"Cryptography, Network Security",https://www.svnit.ac.in/web/department/cse/,1,queued,
+Anil Saini,haryana,kurukshetra,NIT Kurukshetra,NIT,CSE,anilsaini@nitkkr.ac.in,"Computer Vision, Image Processing, Deep Learning",https://nitkkr.ac.in/faculty/cse,1,queued,
+Pawan Kumar Dahiya,haryana,kurukshetra,NIT Kurukshetra,NIT,CSE,pkdahiya@nitkkr.ac.in,"Network Security, Cryptography, IoT",https://nitkkr.ac.in/faculty/cse,1,queued,
+Shailendra Singh,haryana,kurukshetra,NIT Kurukshetra,NIT,CSE,ssingh@nitkkr.ac.in,"Machine Learning, Big Data, Algorithms",https://nitkkr.ac.in/faculty/cse,1,queued,
+A.K. Sharma,himachal-pradesh,hamirpur,NIT Hamirpur,NIT,CSE,aksharma@nith.ac.in,"Computer Networks, IoT, Wireless",https://www.nith.ac.in/faculty/cse,1,queued,
+Pradeep Tomar,himachal-pradesh,hamirpur,NIT Hamirpur,NIT,CSE,ptomar@nith.ac.in,"Software Testing, AI, Data Science",https://www.nith.ac.in/faculty/cse,1,queued,
+Anand Mohan,jharkhand,jamshedpur,NIT Jamshedpur,NIT,CSE,anandmohan@nitjsr.ac.in,"Machine Learning, Image Processing",https://nitjsr.ac.in/backend/uploads/Faculty/cs,1,queued,
+Hari Mohan Pandey,jharkhand,jamshedpur,NIT Jamshedpur,NIT,CSE,hmpandey@nitjsr.ac.in,"Evolutionary Algorithms, Optimization, Bio-inspired Computing",https://nitjsr.ac.in/backend/uploads/Faculty/cs,1,queued,
+Alwyn Roshan Pais,karnataka,surathkal,NIT Surathkal,NIT,CSE,,,https://cse.nitk.ac.in/faculty/alwyn-roshan-pais,,queued,email not published on dept site; look up via profile / NITK directory
+Annappa,karnataka,surathkal,NIT Surathkal,NIT,CSE,,,https://cse.nitk.ac.in/faculty/annappa,,queued,email not published on dept site; look up via profile / NITK directory
+Chandrasekaran K,karnataka,surathkal,NIT Surathkal,NIT,CSE,,,https://cse.nitk.ac.in/faculty/chandrasekaran-k,,queued,email not published on dept site; look up via profile / NITK directory
+P. Santhi Thilagam,karnataka,surathkal,NIT Surathkal,NIT,CSE,,,https://cse.nitk.ac.in/faculty/p-santhi-thilagam,,queued,email not published on dept site; look up via profile / NITK directory
+Shashidhar G Koolagudi,karnataka,surathkal,NIT Surathkal,NIT,CSE,,,https://cse.nitk.ac.in/faculty/shashidhar-g-koolagudi,,queued,email not published on dept site; look up via profile / NITK directory
+B. R. Chandavarkar,karnataka,surathkal,NIT Surathkal,NIT,CSE,,,https://cse.nitk.ac.in/faculty/b-r-chandravarkar,,queued,email not published on dept site; look up via profile / NITK directory
+Jeny Rajan,karnataka,surathkal,NIT Surathkal,NIT,CSE,,,https://cse.nitk.ac.in/faculty/jeny-rajan,,queued,email not published on dept site; look up via profile / NITK directory
+Manu Basavaraju,karnataka,surathkal,NIT Surathkal,NIT,CSE,,,https://cse.nitk.ac.in/faculty/manu-basavaraju,,queued,email not published on dept site; look up via profile / NITK directory
+Mohit P. Tahiliani,karnataka,surathkal,NIT Surathkal,NIT,CSE,,,https://cse.nitk.ac.in/faculty/mohit-p-tahiliani,,queued,email not published on dept site; look up via profile / NITK directory
+Vani M,karnataka,surathkal,NIT Surathkal,NIT,CSE,,,https://cse.nitk.ac.in/faculty/vani-m,,queued,email not published on dept site; look up via profile / NITK directory
+Abhilash M H,karnataka,surathkal,NIT Surathkal,NIT,CSE,,,https://cse.nitk.ac.in/faculty/abhilash-m-h,,queued,email not published on dept site; look up via profile / NITK directory
+Biswajit R Bhowmik,karnataka,surathkal,NIT Surathkal,NIT,CSE,,,https://cse.nitk.ac.in/faculty/biswajit-r-bhowmik,,queued,email not published on dept site; look up via profile / NITK directory
+Mahendra Pratap Singh,karnataka,surathkal,NIT Surathkal,NIT,CSE,,,https://cse.nitk.ac.in/faculty/mahendra-pratap-singh,,queued,email not published on dept site; look up via profile / NITK directory
+Manjanna B,karnataka,surathkal,NIT Surathkal,NIT,CSE,,,https://cse.nitk.ac.in/faculty/manjanna-b,,queued,email not published on dept site; look up via profile / NITK directory
+Radhika B S,karnataka,surathkal,NIT Surathkal,NIT,CSE,,,https://cse.nitk.ac.in/faculty/radhika-b-s,,queued,email not published on dept site; look up via profile / NITK directory
+Saumya Hegde,karnataka,surathkal,NIT Surathkal,NIT,CSE,,,https://cse.nitk.ac.in/faculty/saumya-hegde,,queued,email not published on dept site; look up via profile / NITK directory
+Shridhar Sanshi,karnataka,surathkal,NIT Surathkal,NIT,CSE,,,https://cse.nitk.ac.in/faculty/shridhar-sanshi,,queued,email not published on dept site; look up via profile / NITK directory
+Sourav Kanti Addya,karnataka,surathkal,NIT Surathkal,NIT,CSE,,,https://cse.nitk.ac.in/faculty/sourav-kanti-addya,,queued,email not published on dept site; look up via profile / NITK directory
+Deepthi,karnataka,surathkal,NIT Surathkal,NIT,CSE,,,https://cse.nitk.ac.in/faculty/deepthi,,queued,email not published on dept site; look up via profile / NITK directory
+Abdul Nizar K.,kerala,kozhikode,NIT Calicut,NIT,CSE,nizar@nitc.ac.in,"Computer Networks, Wireless Sensor Networks",https://minerva.nitc.ac.in/nizar,1,queued,
+Achuthsankar S. Nair,kerala,kozhikode,NIT Calicut,NIT,CSE,achuth@nitc.ac.in,"Bioinformatics, Computational Biology, NLP",https://minerva.nitc.ac.in/achuth,1,queued,
+Asharaf S,kerala,kozhikode,NIT Calicut,NIT,CSE,asharaf@nitc.ac.in,"Machine Learning, Deep Learning, NLP",https://minerva.nitc.ac.in/asharaf,1,queued,
+Deepak P,kerala,kozhikode,NIT Calicut,NIT,CSE,deepakp@nitc.ac.in,"Machine Learning, Data Mining, Fairness in AI",https://minerva.nitc.ac.in/deepakp,1,queued,
+Manu V.T.,kerala,kozhikode,NIT Calicut,NIT,CSE,manu@nitc.ac.in,"Distributed Systems, Cloud, Security",https://minerva.nitc.ac.in/manu,1,queued,
+P. Vinod,kerala,kozhikode,NIT Calicut,NIT,CSE,vinod@nitc.ac.in,"Malware Analysis, Cyber Security, Software Testing",https://minerva.nitc.ac.in/vinod,1,queued,
+Deepak Singh Tomar,madhya-pradesh,bhopal,MANIT Bhopal,NIT,CSE,dstomar@manit.ac.in,"Machine Learning, Neural Networks, Data Mining",https://www.manit.ac.in/content/deepak-singh-tomar,1,queued,
+Rekha Pandit,madhya-pradesh,bhopal,MANIT Bhopal,NIT,CSE,rekha@manit.ac.in,"Computer Vision, Image Processing",https://www.manit.ac.in/content/rekha-pandit,1,queued,
+Sanjay Silakari,madhya-pradesh,bhopal,MANIT Bhopal,NIT,CSE,ssilakari@manit.ac.in,"Data Mining, Machine Learning, Cloud Computing",https://www.manit.ac.in/content/sanjay-silakari,1,queued,
+Hironmoy Roy,manipur,imphal,NIT Manipur,NIT,CSE,hironmoy@nitmanipur.ac.in,"Network Security, Cryptography",https://www.nitmanipur.ac.in/faculty/cse,1,queued,
+Salam Priyokumar Singh,manipur,imphal,NIT Manipur,NIT,CSE,priyokumar@nitmanipur.ac.in,"Algorithms, Machine Learning",https://www.nitmanipur.ac.in/faculty/cse,1,queued,
+Zoramthanga,mizoram,aizawl,NIT Mizoram,NIT,CSE,zthanga@nitmz.ac.in,"Networks, Machine Learning",https://www.nitmz.ac.in/faculties/cse,1,queued,
+Rosy Sarmah,nagaland,dimapur,NIT Nagaland,NIT,CSE,rosys@nitnagaland.ac.in,"Image Processing, Pattern Recognition",https://www.nitnagaland.ac.in/faculties/cse,1,queued,
+Banshidhar Majhi,odisha,rourkela,NIT Rourkela,NIT,CSE,bmajhi@nitrkl.ac.in,"Biometrics, Pattern Recognition, Machine Learning",https://www.nitrkl.ac.in/FacultyStaff/FacultyProfile/bmajhi,1,queued,
+Dipti Patra,odisha,rourkela,NIT Rourkela,NIT,CSE,diptipatra@nitrkl.ac.in,"Neural Networks, Fuzzy Systems, Control",https://www.nitrkl.ac.in/FacultyStaff/FacultyProfile/diptipatra,1,queued,
+Ganapati Panda,odisha,rourkela,NIT Rourkela,NIT,CSE,gpanda@nitrkl.ac.in,"Signal Processing, Machine Learning, Neural Networks",https://www.nitrkl.ac.in/FacultyStaff/FacultyProfile/gpanda,1,queued,
+Pankajini Jena,odisha,rourkela,NIT Rourkela,NIT,CSE,pjenacs@nitrkl.ac.in,"Computer Vision, Image Processing",https://www.nitrkl.ac.in/FacultyStaff/FacultyProfile/pjenacs,1,queued,
+Sudipta Mahapatra,odisha,rourkela,NIT Rourkela,NIT,CSE,smahapatra@nitrkl.ac.in,"VLSI, Embedded Systems, Reconfigurable Computing",https://www.nitrkl.ac.in/FacultyStaff/FacultyProfile/smahapatra,1,queued,
+Amandeep Kaur,punjab,jalandhar,NIT Jalandhar,NIT,CSE,amandeep@nitj.ac.in,"Machine Learning, Data Mining, Health Informatics",https://csed.nitj.ac.in/index.php/faculty,1,queued,
+Deepali Gupta,punjab,jalandhar,NIT Jalandhar,NIT,CSE,deepali@nitj.ac.in,"Cloud Security, Fog Computing, IoT",https://csed.nitj.ac.in/index.php/faculty,1,queued,
+Karan Singh,punjab,jalandhar,NIT Jalandhar,NIT,CSE,karansingh@nitj.ac.in,"Networks, Cryptography, Security",https://csed.nitj.ac.in/index.php/faculty,1,queued,
+Amit Joshi,rajasthan,jaipur,MNIT Jaipur,NIT,CSE,amit.joshi@mnit.ac.in,"Cloud Computing, Distributed Systems, IoT",https://mnit.ac.in/dept_cse/faculty-profile/amit,1,queued,
+Mahesh Chandra Govil,rajasthan,jaipur,MNIT Jaipur,NIT,CSE,mcgovil@mnit.ac.in,"Networks, Security, Embedded Systems",https://mnit.ac.in/dept_cse/faculty-profile/mcgovil,1,queued,
+Mridula Dwivedi,rajasthan,jaipur,MNIT Jaipur,NIT,CSE,mdwivedi@mnit.ac.in,"Natural Language Processing, Machine Learning",https://mnit.ac.in/dept_cse/faculty-profile/mdwivedi,1,queued,
+Sanjay Kumar Jena,rajasthan,jaipur,MNIT Jaipur,NIT,CSE,skjena@mnit.ac.in,"Database Systems, Data Mining, Big Data",https://mnit.ac.in/dept_cse/faculty-profile/skjena,1,queued,
+Utpal Nandi,sikkim,ravangla,NIT Sikkim,NIT,CSE,utpal@nitsikkim.ac.in,"Machine Learning, Deep Learning",https://www.nitsikkim.ac.in/faculty/cse,1,queued,
+Debarka Sengupta,sikkim,ravangla,NIT Sikkim,NIT,CSE,debarka@nitsikkim.ac.in,"Bioinformatics, Computational Biology",https://www.nitsikkim.ac.in/faculty/cse,1,queued,
+B. Amutha,tamil-nadu,tiruchirappalli,NIT Trichy,NIT,CSE,amutha@nitt.edu,"Computer Networks, Wireless Networks, IoT",https://www.nitt.edu/home/academics/departments/cse/faculty/amutha,1,queued,
+C. Chellappan,tamil-nadu,tiruchirappalli,NIT Trichy,NIT,CSE,chellappan@nitt.edu,"Network Security, Cryptography, Mobile Networks",https://www.nitt.edu/home/academics/departments/cse/faculty/chellappan,1,queued,
+J. Jebamalar Tamilselvi,tamil-nadu,tiruchirappalli,NIT Trichy,NIT,CSE,jebamalar@nitt.edu,"Image Processing, Pattern Recognition",https://www.nitt.edu/home/academics/departments/cse/faculty/jebamalar,1,queued,
+N. Jaisankar,tamil-nadu,tiruchirappalli,NIT Trichy,NIT,CSE,jaisankar@nitt.edu,"Network Security, Intrusion Detection",https://www.nitt.edu/home/academics/departments/cse/faculty/jaisankar,1,queued,
+P. Victer Paul,tamil-nadu,tiruchirappalli,NIT Trichy,NIT,CSE,victerpaul@nitt.edu,"Cloud Computing, Distributed Systems",https://www.nitt.edu/home/academics/departments/cse/faculty/victerpaul,1,queued,
+R. Jebakumar,tamil-nadu,tiruchirappalli,NIT Trichy,NIT,CSE,jebakumar@nitt.edu,"Machine Learning, Data Science",https://www.nitt.edu/home/academics/departments/cse/faculty/jebakumar,1,queued,
+S. Salivahanan,tamil-nadu,tiruchirappalli,NIT Trichy,NIT,CSE,salivahanan@nitt.edu,"Digital Signal Processing, VLSI",https://www.nitt.edu/home/academics/departments/cse/faculty/salivahanan,1,queued,
+T. Devi,tamil-nadu,tiruchirappalli,NIT Trichy,NIT,CSE,devit@nitt.edu,"Databases, Data Mining, Big Data",https://www.nitt.edu/home/academics/departments/cse/faculty/devit,1,queued,
+Atul Negi,telangana,warangal,NIT Warangal,NIT,CSE,atulnegi@nitw.ac.in,"Image Processing, Computer Vision, Pattern Recognition",https://nitw.ac.in/faculty/cse/atulnegi,1,queued,
+C.D. Naidu,telangana,warangal,NIT Warangal,NIT,CSE,cdnaidu@nitw.ac.in,"Machine Learning, Signal Processing",https://nitw.ac.in/faculty/cse/cdnaidu,1,queued,
+J. Murali Krishnan,telangana,warangal,NIT Warangal,NIT,CSE,jmk@nitw.ac.in,"Computer Graphics, Visualization",https://nitw.ac.in/faculty/cse/jmk,1,queued,
+P.V.S. Lakshmi,telangana,warangal,NIT Warangal,NIT,CSE,pvslakshmi@nitw.ac.in,"Distributed Systems, Cloud Computing",https://nitw.ac.in/faculty/cse/pvslakshmi,1,queued,
+Radhika Mamidi,telangana,warangal,NIT Warangal,NIT,CSE,radhika@nitw.ac.in,"Natural Language Processing, Computational Linguistics",https://nitw.ac.in/faculty/cse/radhika,1,queued,
+Ravi Kishore Kodali,telangana,warangal,NIT Warangal,NIT,CSE,ravikishore@nitw.ac.in,"IoT, Embedded Systems, Wireless Sensor Networks",https://nitw.ac.in/faculty/cse/ravikishore,1,queued,
+Anil Kumar Singh,uttar-pradesh,allahabad,MNNIT Allahabad,NIT,CSE,anil@mnnit.ac.in,"NLP, Machine Translation, Deep Learning",https://www.mnnit.ac.in/profile/anilkumar,1,queued,
+Dhirendra Kumar,uttar-pradesh,allahabad,MNNIT Allahabad,NIT,CSE,dkumar@mnnit.ac.in,"Bioinformatics, Machine Learning",https://www.mnnit.ac.in/profile/dhirendra,1,queued,
+G.C. Nandi,uttar-pradesh,allahabad,MNNIT Allahabad,NIT,CSE,gcn@mnnit.ac.in,"Robotics, AI, Cognitive Computing, HRI",https://www.mnnit.ac.in/profile/gcnandi,1,queued,
+Pradeep Kumar,uttar-pradesh,allahabad,MNNIT Allahabad,NIT,CSE,pradeep@mnnit.ac.in,"Algorithms, Data Structures, Complexity",https://www.mnnit.ac.in/profile/pradeepkumar,1,queued,
+Harish Kumar Shakya,uttarakhand,srinagar,NIT Uttarakhand,NIT,CSE,hkshakya@nituk.ac.in,"Software Engineering, Machine Learning",https://www.nituk.ac.in/faculty/cse,1,queued,
+Anirban Mukhopadhyay,west-bengal,durgapur,NIT Durgapur,NIT,CSE,anirban.mukhopadhyay@cse.nitdgp.ac.in,"Bioinformatics, Machine Learning",https://nitdgp.ac.in/department/CS/faculty/anirban,1,queued,
+Chandreyee Chowdhury,west-bengal,durgapur,NIT Durgapur,NIT,CSE,chandreyee@cse.nitdgp.ac.in,"IoT, Smart City, Data Analytics",https://nitdgp.ac.in/department/CS/faculty/chandreyee,1,queued,
+Debdatta Kandar,west-bengal,durgapur,NIT Durgapur,NIT,CSE,debdatta@cse.nitdgp.ac.in,"Image Processing, Computer Vision",https://nitdgp.ac.in/department/CS/faculty/debdatta,1,queued,
+Soumya Sen,west-bengal,durgapur,NIT Durgapur,NIT,CSE,soumya.sen@cse.nitdgp.ac.in,"Networks, Cloud Computing, Cybersecurity",https://nitdgp.ac.in/department/CS/faculty/soumyasen,1,queued,

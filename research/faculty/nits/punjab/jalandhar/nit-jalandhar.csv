@@ -1,0 +1,4 @@
+name,state,city,institute,institute_type,department,email,research_area,personal_site,priority,status,notes
+Amandeep Kaur,punjab,jalandhar,NIT Jalandhar,NIT,CSE,amandeep@nitj.ac.in,"Machine Learning, Data Mining, Health Informatics",https://csed.nitj.ac.in/index.php/faculty,1,queued,
+Deepali Gupta,punjab,jalandhar,NIT Jalandhar,NIT,CSE,deepali@nitj.ac.in,"Cloud Security, Fog Computing, IoT",https://csed.nitj.ac.in/index.php/faculty,1,queued,
+Karan Singh,punjab,jalandhar,NIT Jalandhar,NIT,CSE,karansingh@nitj.ac.in,"Networks, Cryptography, Security",https://csed.nitj.ac.in/index.php/faculty,1,queued,

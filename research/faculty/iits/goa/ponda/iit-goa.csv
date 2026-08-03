@@ -1,0 +1,4 @@
+name,state,city,institute,institute_type,department,email,research_area,personal_site,priority,status,notes
+Clint P. George,goa,ponda,IIT Goa,IIT,CSE,clint@iitgoa.ac.in,"Machine Learning, Statistical Learning",https://www.iitgoa.ac.in/faculty/clint,1,queued,
+Sameer Kulkarni,goa,ponda,IIT Goa,IIT,CSE,sameer@iitgoa.ac.in,"Computer Networks, SDN, Security",https://www.iitgoa.ac.in/faculty/sameer,1,queued,
+Vineeth Paleri,goa,ponda,IIT Goa,IIT,CSE,vineeth@iitgoa.ac.in,"Compilers, Formal Methods, Program Analysis",https://www.iitgoa.ac.in/faculty/vineeth,1,queued,

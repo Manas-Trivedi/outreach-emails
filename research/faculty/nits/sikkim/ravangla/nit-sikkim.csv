@@ -1,0 +1,3 @@
+name,state,city,institute,institute_type,department,email,research_area,personal_site,priority,status,notes
+Utpal Nandi,sikkim,ravangla,NIT Sikkim,NIT,CSE,utpal@nitsikkim.ac.in,"Machine Learning, Deep Learning",https://www.nitsikkim.ac.in/faculty/cse,1,queued,
+Debarka Sengupta,sikkim,ravangla,NIT Sikkim,NIT,CSE,debarka@nitsikkim.ac.in,"Bioinformatics, Computational Biology",https://www.nitsikkim.ac.in/faculty/cse,1,queued,

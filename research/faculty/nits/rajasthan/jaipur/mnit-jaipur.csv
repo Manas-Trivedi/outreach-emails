@@ -1,0 +1,5 @@
+name,state,city,institute,institute_type,department,email,research_area,personal_site,priority,status,notes
+Amit Joshi,rajasthan,jaipur,MNIT Jaipur,NIT,CSE,amit.joshi@mnit.ac.in,"Cloud Computing, Distributed Systems, IoT",https://mnit.ac.in/dept_cse/faculty-profile/amit,1,queued,
+Mahesh Chandra Govil,rajasthan,jaipur,MNIT Jaipur,NIT,CSE,mcgovil@mnit.ac.in,"Networks, Security, Embedded Systems",https://mnit.ac.in/dept_cse/faculty-profile/mcgovil,1,queued,
+Mridula Dwivedi,rajasthan,jaipur,MNIT Jaipur,NIT,CSE,mdwivedi@mnit.ac.in,"Natural Language Processing, Machine Learning",https://mnit.ac.in/dept_cse/faculty-profile/mdwivedi,1,queued,
+Sanjay Kumar Jena,rajasthan,jaipur,MNIT Jaipur,NIT,CSE,skjena@mnit.ac.in,"Database Systems, Data Mining, Big Data",https://mnit.ac.in/dept_cse/faculty-profile/skjena,1,queued,

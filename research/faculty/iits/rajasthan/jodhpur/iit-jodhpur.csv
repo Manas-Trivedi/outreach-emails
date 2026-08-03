@@ -1,0 +1,8 @@
+name,state,city,institute,institute_type,department,email,research_area,personal_site,priority,status,notes
+Anand Mishra,rajasthan,jodhpur,IIT Jodhpur,IIT,CSE,anand.mishra@iitj.ac.in,"Computer Vision, NLP, Multi-modal Learning",https://iitj.ac.in/faculty/anand,1,queued,
+Anupam Sharma,rajasthan,jodhpur,IIT Jodhpur,IIT,CSE,anupam@iitj.ac.in,"Machine Learning, Optimization, Federated Learning",https://iitj.ac.in/faculty/anupam,1,queued,
+Brajesh Kumar Kaushik,rajasthan,jodhpur,IIT Jodhpur,IIT,CSE,bkk@iitj.ac.in,"Neuromorphic Computing, VLSI, Spintronics",https://iitj.ac.in/faculty/bkk,1,queued,
+Mayank Vatsa,rajasthan,jodhpur,IIT Jodhpur,IIT,CSE,mayank.vatsa@iitj.ac.in,"Biometrics, Computer Vision, Deep Learning",https://iitj.ac.in/faculty/mayank,1,queued,
+Richa Singh,rajasthan,jodhpur,IIT Jodhpur,IIT,CSE,richa.singh@iitj.ac.in,"Biometrics, Computer Vision, Pattern Recognition",https://iitj.ac.in/faculty/richa,1,queued,
+Suman K Mitra,rajasthan,jodhpur,IIT Jodhpur,IIT,CSE,suman@iitj.ac.in,"Computer Vision, Biometrics, Medical Imaging",https://iitj.ac.in/faculty/suman,1,queued,
+Surendra Prasad,rajasthan,jodhpur,IIT Jodhpur,IIT,CSE,surendra@iitj.ac.in,"Signal Processing, Communication Systems",https://iitj.ac.in/faculty/surendra,1,queued,

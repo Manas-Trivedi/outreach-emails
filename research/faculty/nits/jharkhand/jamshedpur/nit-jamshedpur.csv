@@ -1,0 +1,3 @@
+name,state,city,institute,institute_type,department,email,research_area,personal_site,priority,status,notes
+Anand Mohan,jharkhand,jamshedpur,NIT Jamshedpur,NIT,CSE,anandmohan@nitjsr.ac.in,"Machine Learning, Image Processing",https://nitjsr.ac.in/backend/uploads/Faculty/cs,1,queued,
+Hari Mohan Pandey,jharkhand,jamshedpur,NIT Jamshedpur,NIT,CSE,hmpandey@nitjsr.ac.in,"Evolutionary Algorithms, Optimization, Bio-inspired Computing",https://nitjsr.ac.in/backend/uploads/Faculty/cs,1,queued,
