@@ -1,0 +1,15 @@
+Subject: Following up - internship application, {company}
+
+Hi {first_name},
+
+Following up on the note I sent a couple of weeks ago about a software
+engineering internship at {company}. Nothing new to add, just a short nudge in
+case it got buried.
+
+Resume attached again for convenience. If it's not a fit, a one-line reply
+saying so is genuinely useful and I'll stop following up.
+
+Thanks,
+
+{your_name}
+{your_contact}

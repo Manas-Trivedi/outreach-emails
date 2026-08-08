@@ -1,0 +1,16 @@
+Subject: Internship application - {company}
+
+Hi {first_name},
+
+I'm {your_name}, {your_headline}, writing to ask whether {company} is taking
+software engineering interns.
+
+<< Two or three concrete lines about what you have built or worked on. >>
+
+Resume attached. I'm available from {availability}. If someone else on your team
+handles interns, I'd appreciate the redirect.
+
+Thanks for your time,
+
+{your_name}
+{your_contact}

@@ -1,0 +1,13 @@
+{
+  "default_template": "default",
+  "from_name": "Your Name",
+  "reply_to": "you@example.com",
+  "attachments": ["resume.pdf"],
+  "delay_seconds": 8,
+  "template_vars": {
+    "your_name": "Your Name",
+    "your_headline": "a final-year CS undergrad",
+    "your_contact": "github.com/yourhandle | linkedin.com/in/yourhandle",
+    "availability": "<<MONTH YEAR>> for <<N>> months"
+  }
+}
