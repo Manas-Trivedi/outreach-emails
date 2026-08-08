@@ -1,0 +1,60 @@
+name: mailer
+
+# Manual only, and dry-run unless you explicitly set dry_run = false.
+# No cron on purpose: recurring automated sends are easy to fire by accident.
+on:
+  workflow_dispatch:
+    inputs:
+      file:
+        description: "Recipients CSV path in the repo (e.g. industry/batches/batch_001.csv)"
+        required: true
+      template:
+        description: "Template name in mailer/templates (blank = default)"
+        required: false
+        default: "default"
+      limit:
+        description: "Max recipients this run (blank = no cap)"
+        required: false
+        default: ""
+      dry_run:
+        description: "Preview only, send nothing"
+        type: boolean
+        default: true
+
+jobs:
+  send:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Restore resume from secret (kept out of git)
+        env:
+          RESUME_B64: ${{ secrets.RESUME_PDF_BASE64 }}
+        run: |
+          if [ -n "$RESUME_B64" ]; then
+            printf '%s' "$RESUME_B64" | base64 -d > mailer/resume.pdf
+            echo "resume restored for attachment"
+          else
+            echo "no RESUME_PDF_BASE64 secret set; sending without an attachment"
+          fi
+
+      - name: Run mailer
+        env:
+          SMTP_USER: ${{ secrets.SMTP_USER }}
+          SMTP_PASS: ${{ secrets.SMTP_PASS }}
+        run: |
+          set -e
+          ARGS="--file ${{ inputs.file }} --template ${{ inputs.template }}"
+          if [ -n "${{ inputs.limit }}" ]; then ARGS="$ARGS --limit ${{ inputs.limit }}"; fi
+          if [ "${{ inputs.dry_run }}" = "false" ]; then
+            ARGS="$ARGS --send"
+            echo "LIVE SEND"
+          else
+            echo "DRY RUN (set dry_run = false to actually send)"
+          fi
+          echo "running: python mailer/send.py $ARGS"
+          python mailer/send.py $ARGS

@@ -194,6 +194,68 @@ python scripts/make_sheet.py         # -> Excel workbook
 
 ---
 
+## Sending email (mailer)
+
+`mailer/` is a small CSV-to-email sender for the outreach itself. It renders a
+template once per recipient and sends over SMTP. **Dry run is the default**, so
+nothing is sent unless you pass `--send`. Full details in [`mailer/GUIDE.md`](mailer/GUIDE.md).
+
+### One-time setup
+
+1. Credentials (for real sends). Copy the env template and fill it in:
+   ```bash
+   cp mailer/.env.example mailer/.env
+   ```
+   For Gmail, `SMTP_PASS` is an **App Password** (16 chars), not your account
+   password. `.env` is gitignored and must never be committed.
+2. Put your resume at `mailer/resume.pdf` (gitignored) so it gets attached, then
+   set `from_name`, `reply_to`, and `template_vars` in `mailer/settings.json`,
+   and edit `mailer/templates/*.txt` to your own words.
+
+### Send
+
+```bash
+# preview what would go out (sends nothing):
+python mailer/send.py --file industry/batches/batch_001.csv
+
+# actually send, capped, resume attached:
+python mailer/send.py --file industry/batches/batch_001.csv --limit 50 --send
+
+# follow-up template:
+python mailer/send.py --file industry/batches/batch_001.csv --template followup --send
+```
+
+Every send is logged to `mailer/sent_log.csv` (gitignored); addresses already in
+it are skipped, so re-running a batch never double-sends.
+
+### Run it from GitHub Actions (optional)
+
+[`.github/workflows/mailer.yml`](.github/workflows/mailer.yml) lets you trigger a
+send from the **Actions** tab (`workflow_dispatch`), so you don't need your
+laptop. It is **manual only and dry-run by default** (no cron, to avoid
+accidental sends).
+
+Add these repository secrets (**Settings -> Secrets and variables -> Actions**):
+
+| Secret | What |
+|---|---|
+| `SMTP_USER` | the sending address |
+| `SMTP_PASS` | the Gmail App Password |
+| `RESUME_PDF_BASE64` | your resume, base64-encoded, so it stays out of git |
+
+Encode the resume once:
+
+```bash
+base64 -w0 resume.pdf        # paste the output into the RESUME_PDF_BASE64 secret
+```
+
+Then **Run workflow** with inputs: `file` (e.g. `industry/batches/batch_001.csv`),
+`template`, `limit`, and `dry_run` (leave `true` to preview, set `false` to
+send). The dedup log is per-run on Actions (it is not committed back, to keep
+recipient addresses out of the repo), so send each batch in a single run.
+
+---
+
 ## Best practices
 
 - Personalize every outreach email for higher response rates.
