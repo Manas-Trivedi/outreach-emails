@@ -57,11 +57,15 @@ jobs:
         run: |
           if [ -s state/career_alerts.md ]; then
             title="🔔 New career-page postings — $(date -u +%Y-%m-%d\ %H:%M\ UTC)"
-            # Assign to the repo owner so GitHub emails them automatically.
-            gh issue create --title "$title" --body-file state/career_alerts.md \
-              --assignee "$OWNER" --label career-alert \
-            || gh issue create --title "$title" --body-file state/career_alerts.md \
-              --assignee "$OWNER"
+            if [ "$(gh api repos/${{ github.repository }} --jq '.has_issues')" != "true" ]; then
+              echo "::warning::Repository issues are disabled — skipping issue creation."
+            else
+              # Assign to the repo owner so GitHub emails them automatically.
+              gh issue create --title "$title" --body-file state/career_alerts.md \
+                --assignee "$OWNER" --label career-alert \
+              || gh issue create --title "$title" --body-file state/career_alerts.md \
+                --assignee "$OWNER"
+            fi
           else
             echo "No new entries — no issue created."
           fi
