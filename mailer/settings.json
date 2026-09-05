@@ -1,13 +1,14 @@
 {
   "default_template": "default",
-  "from_name": "Your Name",
-  "reply_to": "you@example.com",
+  "from_name": "Manas Trivedi",
+  "reply_to": "manas.trivedi.020@gmail.com",
   "attachments": ["resume.pdf"],
   "delay_seconds": 8,
+  "max_daily_sends": 100,
   "template_vars": {
-    "your_name": "Your Name",
-    "your_headline": "a final-year CS undergrad",
-    "your_contact": "github.com/yourhandle | linkedin.com/in/yourhandle",
-    "availability": "<<MONTH YEAR>> for <<N>> months"
+    "your_name": "Manas Trivedi",
+    "your_headline": "a final-year CS student focused on systems and backend engineering",
+    "your_contact": "github.com/Manas-Trivedi | linkedin.com/in/manas-trivedi-55351b27a/",
+    "availability": "immediately"
   }
 }

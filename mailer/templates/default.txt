@@ -2,13 +2,18 @@ Subject: Internship application - {company}
 
 Hi {first_name},
 
-I'm {your_name}, {your_headline}, writing to ask whether {company} is taking
-software engineering interns.
+I'm {your_name}, {your_headline}, writing to ask whether {company} is
+taking software engineering interns.
 
-<< Two or three concrete lines about what you have built or worked on. >>
+I've contributed to libssh, a production SSH library, with my work reviewed
+and merged by core maintainer Jakub Jelen. I've also built systems projects
+in C++ and TypeScript, including a low-latency order matching engine and a
+distributed workflow orchestration engine. I'm also an ICPC Asia-Pacific
+Regional Competitor and ranked AIR 3 among 30,000+ participants in the
+Engineers' Ring of Honour.
 
-Resume attached. I'm available from {availability}. If someone else on your team
-handles interns, I'd appreciate the redirect.
+Resume attached. I'm available {availability}. If someone else on your
+team handles interns, I'd appreciate the redirect.
 
 Thanks for your time,
 

@@ -31,6 +31,7 @@ from email.message import EmailMessage
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent
+REPO_ROOT = ROOT.parent
 
 
 def load_env(path: Path = ROOT / ".env") -> None:
@@ -79,6 +80,50 @@ def already_sent(log_path: Path) -> set:
             if r.get("email")
         }
 
+def load_suppressed_emails(dns_audit_path, hard_bounce_path):
+    suppressed = set()
+
+    if dns_audit_path.exists():
+        with dns_audit_path.open(encoding="utf-8", newline="") as fh:
+            reader = csv.DictReader(fh)
+
+            for row in reader:
+                email = (row.get("email") or "").strip().lower()
+                status = (row.get("status") or "").strip()
+
+                if email and status in {"INVALID_FORMAT", "NO_MX"}:
+                    suppressed.add(email)
+
+    if hard_bounce_path.exists():
+        with hard_bounce_path.open(encoding="utf-8", newline="") as fh:
+            reader = csv.DictReader(fh)
+
+            for row in reader:
+                email = (row.get("email") or "").strip().lower()
+                if email:
+                    suppressed.add(email)
+
+    return suppressed
+
+def sent_today(log_path: Path) -> int:
+    if not log_path.exists():
+        return 0
+
+    today = time.strftime("%Y-%m-%d")
+    count = 0
+
+    with log_path.open(encoding="utf-8") as fh:
+        reader = csv.DictReader(fh)
+        for row in reader:
+            ts = row.get("ts")
+            if not ts:
+                continue
+
+            if time.strftime("%Y-%m-%d", time.localtime(int(ts))) == today:
+                count += 1
+
+    return count
+
 
 def main() -> None:
     ap = argparse.ArgumentParser(description="Send a CSV mail-merge. Dry-run by default.")
@@ -103,15 +148,65 @@ def main() -> None:
     if not csv_path.exists():
         raise SystemExit(f"no CSV at {csv_path}")
     with csv_path.open(encoding="utf-8") as fh:
-        rows = [r for r in csv.DictReader(fh) if (r.get("email") or "").strip()]
+        raw_rows = list(csv.DictReader(fh))
+
+    rows = []
+    for r in raw_rows:
+        # Normalize the repository's batch schema to the mailer's schema.
+        if not r.get("email"):
+            r["email"] = r.get("Email", "")
+
+        if not r.get("first_name"):
+            r["first_name"] = r.get("Person", "")
+
+        if not r.get("company"):
+            r["company"] = r.get("Company", "")
+
+        if r.get("email", "").strip():
+            rows.append(r)
 
     log_path = ROOT / "sent_log.csv"
+    dns_audit_path = REPO_ROOT / "state" / "email_dns_audit.csv"
+    hard_bounce_path = REPO_ROOT / "state" / "hard_bounces.csv"
+    suppressed = load_suppressed_emails(
+        dns_audit_path,
+        hard_bounce_path,
+    )
+
     seen = already_sent(log_path)
-    rows = [r for r in rows if r["email"].strip().lower() not in seen]
+
+    # Suppress known-invalid / hard-bounced addresses first.
+    before_suppression = len(rows)
+    rows = [
+        r for r in rows
+        if r["email"].strip().lower() not in suppressed
+    ]
+    suppressed_count = before_suppression - len(rows)
+    print(f"suppressed by DNS/bounce list: {suppressed_count}")
+
+    # Skip addresses we've already successfully sent to.
+    before_sent_filter = len(rows)
+    rows = [
+        r for r in rows
+        if r["email"].strip().lower() not in seen
+    ]
+    already_sent_count = before_sent_filter - len(rows)
+    print(f"already sent: {already_sent_count}")
+
+    daily_cap = settings.get("max_daily_sends", 100)
+    remaining_today = max(0, daily_cap - sent_today(log_path))
+
+    if remaining_today == 0:
+        print(f"daily send limit reached ({daily_cap}).")
+        return
+
     if args.limit:
         rows = rows[: args.limit]
 
-    print(f"template: {tpl_name} | recipients after dedup/limit: {len(rows)}")
+    rows = rows[:remaining_today]
+
+    print(f"template: {tpl_name} | recipients ready to send: {len(rows)}")
+
     if not rows:
         print("nothing to send.")
         return
